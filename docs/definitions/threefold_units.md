@@ -3,7 +3,8 @@
 
 The ThreeFold Capacity is expressed in units.  These units have the following definitions:
 
-To measure processing power available in the presented Threefold capacity 
+To measure processing power available in the presented Threefold capacity
+
 | CU (Compute Unit) | Type| A| B|C	| |
 | :-----: | -----: | :-----: | :-----: | :-----: | :-----: |		
 | | GB Memory		|	4	| 8	| 2	|	|	|
