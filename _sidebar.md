@@ -1,4 +1,0 @@
-* [Home](/)
-* [definitions](/definitions)
-* legal
-    * ...
