@@ -15,10 +15,10 @@ GIG Tech software provides additional capabilities for a Managed Farming Pool:
  - High Performance Storage (block) for virtual disks for VM's.
  - High Performance Networking support for VM's.
  - Seamless integration with enterprise networking solutions for VM's..
- - Integration with private Identity Management Solutions (e.g. LDAP, Active Directory, ...)[^1]
+ - Integration with private Identity Management Solutions[^1] (e.g. LDAP, Active Directory, ...)
  - Lots of predefined managed application templates (self healing templates for apps)
  - Supports MS Windows (OS) and other Microsoft Applications
 
-[^1]:roadmap
+[^1]: roadmap
 
 A TF Farmer or TF Cooperative needs to have an agreement with GIG Tech in place. GIG Tech will supply the required software to allow the TF Farmer or TF Cooperative to connect this Managed Capacity to the TF Grid.
