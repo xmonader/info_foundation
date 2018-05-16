@@ -1,4 +1,4 @@
-## Threefold Units (TU)
+## Threefold Cloud Units (TCU)
 
 
 The ThreeFold Capacity is expressed in units.  These units have the following definitions:
