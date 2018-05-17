@@ -31,7 +31,7 @@ A good rule of thumb is that for home based (small) nodes 10Mbps and up is a goo
  - Financial transaction blockchain.  This blockchain is dedicated to allow financial transations
  - DataBase blockchain(s).  This blockchain is dedicated to store data.  These blockchains can store many different type of data and there are more of these depemnding on the use cases.
 
-### HOW IS REDUNDANCY ACHIEVED?
+### How is redundancy achieved?
 
 **Question:** How does the distributed data storage achieve redundancy?  
 
@@ -51,7 +51,7 @@ By adjusting the amount of redundant data created and where the data pieces are 
 
 **Answer:** No - This is very different, but is has elements that are similar.  Cutting objects into small pieces of data and storing those on different disk to be disk failure redundant is similar. The generic term for the technology is (erasure coding)[https://en.wikipedia.org/wiki/Erasure_code]
 
-### WHAT IS THE REDUNDANCY FACTOR FOR DATA ON THE THREEFOLD NETWORK?
+### What is the redundancy factor for data on the ThreeFold network?
 
 **Question** If stored data is present in multiple nodes for resistance of the grid to local failures, by what factor is the required grid storage greater than the actual data volume stored?
 
@@ -95,7 +95,7 @@ The believe is that the required internet capacity to fuel the (Internet of Thin
 
 The TF Chain has multiple blockchains that are specific to a task.  The different blockchains running is parallel have a proof of stake consensus mechanism implemented.
 
-### WHERE CAN ONE FIND A SET OF DETAILED TECHNICAL REQUIREMENTS FOR THREEFOLD FARMING HARDWARE?
+### Where can one find a set of detailed technical requirements for ThreeFold farming hardware?
 
 **Question** There is a lot of interest in small-scale farming, but the hardware requirements do not seem to be written down, particularly for single nodes that are financially possible for many people.  It is very important that capacity become widely available in many locations, so we need understand the constraints for the hardware before promoting the ThreeFold system. This information is also needed if we are to approach manufacturers to produce hardware for future farmers.
 
