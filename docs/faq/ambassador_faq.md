@@ -131,37 +131,62 @@ There is baseline pricing for farmers.  For farmers that have no idea or do not 
 
 **Question** How would an application that is intended for a mobile device negotiate prices with the various ThreeFold farmers as it roams around? This situation especially would require some automatic system-wide pricing.  It will be nearly impossible for a provider to negotiate individually with thousands (or eventually millions) of individual farmers.
 
-The TreeFold grid will have a directory (TF Directory) that allows current and future 
-### HOW WILL WE IMPLEMENT THE THREEFOLD GRID IN DEVELOPING COUNTRIES?
+**Answer:** The TreeFold grid will have a directory (TF Directory) that allows current and future user to search capacity based on search criteria.  The search criteria are still have to be defined but will include things like:
+
+ - cloud unit pricing
+ - capapcity geo-location
+ - the service level guaranteed and achieved
+ - some form of feedback on the performance of the farmners capacity used by others
+
+### How will we implement the ThreeFold Grid in developing countries?
 
 **Question** The places where ThreeFold is most needed are under-served regions that typically have minimal access to internet, if they have any access at all.  In these locations it would be necessary to improve the internet infrastructure first (i.e., more and better routers and backbone).  Furthermore, electric power is not reliable in these locations, compounding the problem of establishing a reliable ThreeFold grid there.  Are there ideas on how to surmount these challenges?
 
-### WHERE BEST TO CONCENTRATE OUR INITIAL EFFORTS TO PROMOTE THE THREEFOLD GRID?
+**Answer:** A lot of ideas - not of them have been executed yet.  ThreeFold foundation has been speaking with other startups and companies that are actually rolling out local m,obile and fixed networks.  Companies are actually investing a lot in these areas to bring mobile connectivity and data and we should be speaking to the telecoms operators and see how we can work with them to deploy internet connectivity to these homes and users or to work with the operator to deploy capacity in the telecommunication operators  infrastructure.
 
-**Question** With respect to emerging markets / developing countries, how does it makes sense for ThreeFold to be in the business of lobbying governments or private companies to install the infrastructure needed to make ThreeFold viable? This is an admirable aspiration but in terms of getting traction it seems best to focus initially on locations where the infrastructure works well.
+### Where best to concentrate our initial efforts to promote the ThreeFolf Grid?
 
+**Question:** With respect to emerging markets / developing countries, how does it makes sense for ThreeFold to be in the business of lobbying governments or private companies to install the infrastructure needed to make ThreeFold viable? This is an admirable aspiration but in terms of getting traction it seems best to focus initially on locations where the infrastructure works well.
 
-### HOW DO SMALL-SCALE FARMERS COMPETE WITH FARMERS WITH MORE EXTENSIVE CAPACITY?
+**Answer:**  We need to do both.  Please consider approaching the larger organisations and governments with a story about doing good (bringing the actual capacity to the country or region) and creating a significant earling model for them by doing so.  So it's an option to do good and create an earning model at the same time.
 
-Since software performance is a function of the applications being run, the hardware requirements of a software application (internet speed, compute performance, storage capacity, security) place demands on the capacity of the ThreeFold grid. How do farmers configure their hardware in order to satisfy what a consumer or business might need. Will small-scale farmers be shut out from clients either because they cannot provide sufficient capacity for the most common applications, or because the larger nearby farmers can run a more profitable service because of their scale of operation?
+To approach the individuals and provide them with a money making project requires certain things to be in place.  There is no way around having to have a form of reliable electricity and network.  Having said that there might be some very smart people out there that will come up with inventive way to guarantee power and network.  Car batteries being used as uninterrupted power supplies, HAM radio's and Lora to get to the next internet point of presence (POP)
 
-### HOW ARE AMBASSADORS TO PROMOTE THE DEVELOPMENT OF APPLICATIONS TO RUN ON THE THREEFOLD GRID?
+### How do small-scale farmers complete with farmers with more extensive capacity?
 
-The ThreeFold network/solution is described as “computing at the edge”; a low-cost, energy-efficient computing solution offered close to where consumers and businesses are. It is meant to be an alternative to the likes of Amazon Web Services (AWS) where today you can buy a slice of their stack, including certain applications such as their e-commerce engine, plus the inherent security they offer for $x/month. Users of AWS can add their own specific solutions and integrate them within Amazon’s architecture. So with that said, how do consumers or businesses add their applications/solutions on to the ThreeFold network? What applications, if any, is ThreeFold offering? Is there any thought of encouraging companies like Amazon to migrate some of their services to the ThreeFold grid?
+**Question:** Since software performance is a function of the applications being run, the hardware requirements of a software application (internet speed, compute performance, storage capacity, security) place demands on the capacity of the ThreeFold grid. How do farmers configure their hardware in order to satisfy what a consumer or business might need. Will small-scale farmers be shut out from clients either because they cannot provide sufficient capacity for the most common applications, or because the larger nearby farmers can run a more profitable service because of their scale of operation?
 
-### WILL THREEFOLD BE ABLE TO RESTRICT MALICIOUS CONTENT?
+**Answer:** Initially we will be presenting (unmanaged)[https://github.com/threefoldfoundation/info_foundation/blob/master/docs/definitions/threefold_unmanaged_capacity.md] capacity only.  This unmanaged capacity will presented by farmers from homes, offices, no datacenter locations and datacenter locations.  Everyone will be presenting the same type of capacity at the start in smaller or larger quantities.  So this is not a problem initially.
 
-In the same way FaceBook and other social media platforms are getting hammered for privacy-related issues, will DiditalMe as implemented on the ThreeFold grid ensure user privacy? Also, what is ThreeFold doing to ensure that the platform cannot be used to promote dangerous, hateful, offensive content? Side note: YouTube has a whole group of people who spend their entire days reviewing content to try to ensure its platform is not used to promote hateful, despicable content. ThreeFold‘s motives may be pure, but the bad guys may think it is a great “under the radar” platform to help them evangelize their point-of-view. Is it better to have a completely hands-off neutral system and accept the fact that there may be some bad players out there using it as a cost of the neutrality?
+### How are ambassadors to promote the development of applications to run on the Threefold Grid.
 
+**Question:** The ThreeFold network/solution is described as “computing at the edge”; a low-cost, energy-efficient computing solution offered close to where consumers and businesses are. It is meant to be an alternative to the likes of Amazon Web Services (AWS) where today you can buy a slice of their stack, including certain applications such as their e-commerce engine, plus the inherent security they offer for $x/month. Users of AWS can add their own specific solutions and integrate them within Amazon’s architecture. So with that said, how do consumers or businesses add their applications/solutions on to the ThreeFold network? What applications, if any, is ThreeFold offering? Is there any thought of encouraging companies like Amazon to migrate some of their services to the ThreeFold grid?
 
-### IS THERE A CONFLICT BETWEEN THE DISTRIBUTED GRID AND PRICING OF SERVICE BY INDIVIDUAL FARMERS?
+### Will ThreeFold be able to restrict malicious content?
 
-If individual farmers do set the price of tokens, will pricing of service by farmers be available for all to see? If I find that tokens are cheaper in eastern Europe compared to California where I live, I may choose to buy capacity from the eastern Europe cooperative.
+**Question:** In the same way FaceBook and other social media platforms are getting hammered for privacy-related issues, will DigitalMe as implemented on the ThreeFold grid ensure user
+
+**Answer:** DigitalMe will guarantee user privacy by allowing the user to 100% control what information is shared with whome.
+
+**Question:** What is ThreeFold doing to ensure that the platform cannot be used to promote dangerous, hateful, offensive content? Side note: YouTube has a whole group of people who spend their entire days reviewing content to try to ensure its platform is not used to promote hateful, despicable content. ThreeFold‘s motives may be pure, but the bad guys may think it is a great “under the radar” platform to help them evangelize their point-of-view. Is it better to have a completely hands-off neutral system and accept the fact that there may be some bad players out there using it as a cost of the neutrality?
+
+**Question:** All of the capacity that exists and will grow is owned by Farmers, not ThreeFold.  Therefore ThreeFold is not involved in any of the operational processes of the ThreeFold grid.  It cannot and will not control the content on the grid, it will not control and intervene with the applications on the grid.
+
+### Is there a conflict between the distributed Grid and pricing of service by individual farmers?
+
+**Question:**  If individual farmers do set the price of tokens, will pricing of service by farmers be available for all to see? If I find that tokens are cheaper in eastern Europe compared to California where I live, I may choose to buy capacity from the eastern Europe cooperative.
+
 
   - Doesn’t this defeat the object of the distributed grid?
   - And how can I be assured of performance?
   - And how does this model lead to an increase in the value of tokens over time…especially if consumers decide to buy from whomever is offering the cheapest capacity?
  - ARE ATOMIC SWAP EXCHANGES A PROVEN TECHNOLOGY? Atomic swap exchanges sound like a great idea, do they exist yet and are they proven? This article seems to suggest they are still under development with many challenges to be overcome. https://cointelegraph.com/news/decentralized-exchanges-off-chain-atomic-swaps-and-a-brief-look-into-the-future
+
+**Answer:** As discussed earlier:
+
+The mechanism here is as follows:
+ - Token value is determined by demand and supply on token markets
+ - ThreeFold grid capacity pricing is _set_ by Farmers in **fiat** currency.
 
 ### WHAT MIGHT BE THE IMPACT OF GOVERNMENT REGULATION OF CRYPTOCURRENCIES?
 
