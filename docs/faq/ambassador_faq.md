@@ -176,18 +176,22 @@ To approach the individuals and provide them with a money making project require
 
 **Question:**  If individual farmers do set the price of tokens, will pricing of service by farmers be available for all to see? If I find that tokens are cheaper in eastern Europe compared to California where I live, I may choose to buy capacity from the eastern Europe cooperative.
 
+**Answer:** As discussed earlier:
 
-  - Doesn’t this defeat the object of the distributed grid?
+The mechanism here is as follows:
+ - Token value is determined by demand and supply on token markets by token holders selling their tokens and token buyers.
+ - ThreeFold grid capacity pricing is _set_ by Farmers in **fiat** currency and made public by the TreeFold directory.
+
+ Pricing of tokens will differ between exchanges and people selling token in other ways.  Capacity pricing will differ in fiat as well.  Purchasing tokens in remote exchanges or markets is fine and does not upset the distributed character of the grid at all.  See it similar to buying dollars or Euros therefore following the same rules and processes as fiat currencies having different pricing in different markets.
+
   - And how can I be assured of performance?
   - And how does this model lead to an increase in the value of tokens over time…especially if consumers decide to buy from whomever is offering the cheapest capacity?
  - ARE ATOMIC SWAP EXCHANGES A PROVEN TECHNOLOGY? Atomic swap exchanges sound like a great idea, do they exist yet and are they proven? This article seems to suggest they are still under development with many challenges to be overcome. https://cointelegraph.com/news/decentralized-exchanges-off-chain-atomic-swaps-and-a-brief-look-into-the-future
 
-**Answer:** As discussed earlier:
-
-The mechanism here is as follows:
- - Token value is determined by demand and supply on token markets
- - ThreeFold grid capacity pricing is _set_ by Farmers in **fiat** currency.
-
-### WHAT MIGHT BE THE IMPACT OF GOVERNMENT REGULATION OF CRYPTOCURRENCIES?
+### What can be the impact of Government Regulation of cryptocurrencies?
 
 Governments lag behind technology innovation, but is it fair to assume that they will step in to regulate crypto currencies or potentially even decide to do their own? What if the US Government introduces a digital dollar, what might be the likely impact will be on ThreeFold tokens? If that happened why would anyone need tokens if they can simply trade in a digital version of their own fiat currency? Would national digital dollar be a good candidate for a managed ThreeFold system? Could ThreeFold token exchanges be taxed, for example, to provide funds for public services?
+
+The ThreeFold token is has the following characteristics:
+ - it is backed by the the gold of the digital age:  internet processing and storage Capacity
+ - it is green token - no dirty mining as the TF Chain runs proof of stake blockchain technology
