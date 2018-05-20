@@ -20,13 +20,13 @@ On top of this cloud technology has a specific connauchtation to it as technolog
 
 **Anser** Yes and No.  (-; The connection speeds can in theory be anything and the further we reach out and go to the edge the lower the available connection speed will be.  We have not yet colelcted any real life data and once more Farmers are up and running we will start to collect and present this data.
 
-A good rule of thumb is that for home based (small) nodes 10Mbps and up is a good starting point and for larger installations 100Mbps and up is good.  Obviously these numbers are available and affordable (!) in Europe, USA, and some areas in Asia but not everywhere.  For other parts of the world we might end up with mouch lower connection speeds or even alternative networking technologies for exmaple (lora)[https://en.wikipedia.org/wiki/Long-range_Wi-Fi] or others.
+A good rule of thumb is that for home based (small) nodes 10Mbps and up is a good starting point and for larger installations 100Mbps and up is good.  Obviously these numbers are available and affordable (!) in Europe, USA, and some areas in Asia but not everywhere.  For other parts of the world we might end up with mouch lower connection speeds or even alternative networking technologies for exmaple [LoRa](https://en.wikipedia.org/wiki/Long-range_Wi-Fi) or others.
 
 ### What specifically does the ThreeFold blockchain manage?
 
 **Question:** Does the ThreeFold blockchain record all operations and data transfers?  If so, can this get out-of-hand rapidly in terms of storage capacity, and eventually slow the process of validating each blockchain?  If not, is it used only to manage the exchange of tokens for capacity (plus in the future to manage Digital Me), or does it manage metadata of all transactions?
 
-**Anser:** The ThreeFold Chain has muiltiple dedicated blockchains running in parallel.  ThreeFold believes that the most secure and scalable way to run blockchains is not to operate general purpose blockchain technologies but create specific (hard coded)[https://en.wikipedia.org/wiki/Hard_coding] in the blockchain software.  The TF Chain has a number of blockchains today and more likely than not will have more in the future.  The blockchains part of the TF Chain today are:
+**Anser:** The ThreeFold Chain has muiltiple dedicated blockchains running in parallel.  ThreeFold believes that the most secure and scalable way to run blockchains is not to operate general purpose blockchain technologies but create specific [hard coded](https://en.wikipedia.org/wiki/Hard_coding) in the blockchain software.  The TF Chain has a number of blockchains today and more likely than not will have more in the future.  The blockchains part of the TF Chain today are:
 
  - Financial transaction blockchain.  This blockchain is dedicated to allow financial transations
  - DataBase blockchain(s).  This blockchain is dedicated to store data.  These blockchains can store many different type of data and there are more of these depemnding on the use cases.
@@ -37,9 +37,9 @@ A good rule of thumb is that for home based (small) nodes 10Mbps and up is a goo
 
 **Answer:** The Grid presents raw capacity in the form of primitives.  The actual Zero OS does not know how to store objects in a redundant manner, it provides storage primitives to read and write data. Primitives are best described as building block by which one can create a service.  For example the S3 service uses the storage primitives to build a software defined storage service.
 
-Redundacy is achieved by the storage service by doing the following things:
+Redundancy is achieved by the storage service by doing the following things:
  - cut the original object (document, photo, movie) into small pieces
- - by using a certain algorithm create additional (redundant) pieces of data.  Depending on the algorithm a small or larger number of redundant pieces of data can be created.  Think of this process as completing a (sudoku)[https://en.wikipedia.org/wiki/Sudoku] puzzle.  The unsolved puzzle resembles the original object to store (photo etc.) the algorithms to create additional redundant data is the solving algorithm for the puzzle (numbers 1 - 9 can only appear once in a row, column and 3x3 number square).  The further solved the puzzle is the more data redundancy is created.  
+ - by using a certain algorithm create additional (redundant) pieces of data.  Depending on the algorithm a small or larger number of redundant pieces of data can be created.  Think of this process as completing a [sudoku](https://en.wikipedia.org/wiki/Sudoku] puzzle).  The unsolved puzzle resembles the original object to store (photo etc.) the algorithms to create additional redundant data is the solving algorithm for the puzzle (numbers 1 - 9 can only appear once in a row, column and 3x3 number square).  The further solved the puzzle is the more data redundancy is created.  
    - unsolved puzzle + 4 additional numbers
    - unsolved puzzle + 8 additional numbers
    - etc.
@@ -49,7 +49,7 @@ By adjusting the amount of redundant data created and where the data pieces are 
 
 **Question:** Is this done somewhat like a RAID system?
 
-**Answer:** No - This is very different, but is has elements that are similar.  Cutting objects into small pieces of data and storing those on different disk to be disk failure redundant is similar. The generic term for the technology is (erasure coding)[https://en.wikipedia.org/wiki/Erasure_code]
+**Answer:** No - This is very different, but is has elements that are similar.  Cutting objects into small pieces of data and storing those on different disk to be disk failure redundant is similar. The generic term for the technology is [erasure coding](https://en.wikipedia.org/wiki/Erasure_code)
 
 ### What is the redundancy factor for data on the ThreeFold network?
 
@@ -61,7 +61,7 @@ By adjusting the amount of redundant data created and where the data pieces are 
  - chassis
  - datacenter (location)
 
- The amount of required (Storage Units)[https://github.com/threefoldfoundation/info_foundation/blob/master/docs/definitions/threefold_cloud_units.md] goes up with the higher level of redundancy build in the software defined storage solution.  Resilience to a single disk failure comes in at a lower price than building resilience to datacenter failure.
+ The amount of required [Storage Units](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/definitions/threefold_cloud_units.md) goes up with the higher level of redundancy build in the software defined storage solution.  Resilience to a single disk failure comes in at a lower price than building resilience to datacenter failure.
 
 ### Do larger nodes perform different functions than individual nodes?
 
@@ -156,7 +156,7 @@ To approach the individuals and provide them with a money making project require
 
 **Question:** Since software performance is a function of the applications being run, the hardware requirements of a software application (internet speed, compute performance, storage capacity, security) place demands on the capacity of the ThreeFold grid. How do farmers configure their hardware in order to satisfy what a consumer or business might need. Will small-scale farmers be shut out from clients either because they cannot provide sufficient capacity for the most common applications, or because the larger nearby farmers can run a more profitable service because of their scale of operation?
 
-**Answer:** Initially we will be presenting (unmanaged)[https://github.com/threefoldfoundation/info_foundation/blob/master/docs/definitions/threefold_unmanaged_capacity.md] capacity only.  This unmanaged capacity will presented by farmers from homes, offices, no datacenter locations and datacenter locations.  Everyone will be presenting the same type of capacity at the start in smaller or larger quantities.  So this is not a problem initially.
+**Answer:** Initially we will be presenting [unmanaged](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/definitions/threefold_unmanaged_capacity.md) capacity only.  This unmanaged capacity will presented by farmers from homes, offices, no datacenter locations and datacenter locations.  Everyone will be presenting the same type of capacity at the start in smaller or larger quantities.  So this is not a problem initially.
 
 ### How are ambassadors to promote the development of applications to run on the Threefold Grid.
 
@@ -184,9 +184,18 @@ The mechanism here is as follows:
 
  Pricing of tokens will differ between exchanges and people selling token in other ways.  Capacity pricing will differ in fiat as well.  Purchasing tokens in remote exchanges or markets is fine and does not upset the distributed character of the grid at all.  See it similar to buying dollars or Euros therefore following the same rules and processes as fiat currencies having different pricing in different markets.
 
-  - And how can I be assured of performance?
-  - And how does this model lead to an increase in the value of tokens over time…especially if consumers decide to buy from whomever is offering the cheapest capacity?
- - ARE ATOMIC SWAP EXCHANGES A PROVEN TECHNOLOGY? Atomic swap exchanges sound like a great idea, do they exist yet and are they proven? This article seems to suggest they are still under development with many challenges to be overcome. https://cointelegraph.com/news/decentralized-exchanges-off-chain-atomic-swaps-and-a-brief-look-into-the-future
+**Question:** How can I be assured of performance?
+
+**Answer:** Performance is being measured by the TF Chain and reported.  The TF Chain also allows for a "social ranking" by capacity users which provides actual user experiences.
+
+**Question:** How does this model lead to an increase in the value of tokens over time…especially if consumers decide to buy from whomever is offering the cheapest capacity?
+
+**Answer:** The value of the token will increase by the token being traded in token markets.  The normal demand and supply mechanism will determine the token pricing.  As the supply is only driven by Farmers that put capacity online and the demand is driven by a lot of different groups:
+ - people that need tokens to reserve
+
+**Question:** ARE [ATOMIC SWAP](https://cointelegraph.com/news/decentralized-exchanges-off-chain-atomic-swaps-and-a-brief-look-into-the-future) EXCHANGES A PROVEN TECHNOLOGY? Atomic
+swap exchanges sound like a great idea, do they exist yet and are they proven? This article seems to suggest they are still under development with many challenges to be overcome.
+**Answer:**
 
 ### What can be the impact of Government Regulation of cryptocurrencies?
 
