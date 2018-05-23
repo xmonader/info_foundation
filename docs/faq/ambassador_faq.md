@@ -1,4 +1,7 @@
-## Frequent Asked Questions
+# Frequent Asked Questions
+
+## Table of contents
+1. ### Internet versus Cloud?(### Internet versus Cloud?)
 
 Proposed FAQ Questions for ThreeFold from Richard Walker, Bruce Lites, Jennifer Long
 
