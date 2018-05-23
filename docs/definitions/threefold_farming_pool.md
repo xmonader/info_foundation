@@ -1,4 +1,4 @@
-ThreeFold Farming Pool (TFP)
+## ThreeFold Farming Pool (TFP)
 
 A Pool of storage & compute hardware which allows to provision IT Capacity.
 
