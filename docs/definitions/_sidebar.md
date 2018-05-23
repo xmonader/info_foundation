@@ -19,3 +19,4 @@
 * [Threefold Unmanaged Capacity](threefold_unmanaged_capacity.md)
 * [ThreeFold User](threefold_user.md)
 * [Threefold Wallet](threefold_wallet)
+* end
