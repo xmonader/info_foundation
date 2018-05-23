@@ -1,9 +1,28 @@
 # Frequent Asked Questions
 
-## Table of contents
-1. ### Internet versus Cloud?(#Internet versus Cloud?)
-
 Proposed FAQ Questions for ThreeFold from Richard Walker, Bruce Lites, Jennifer Long
+- [Frequent Asked Questions](#frequent-asked-questions)
+    + [Internet versus Cloud?](#internet-versus-cloud-)
+    + [What is the required connection speed for Farming?](#what-is-the-required-connection-speed-for-farming-)
+    + [What specifically does the ThreeFold blockchain manage?](#what-specifically-does-the-threefold-blockchain-manage-)
+    + [How is redundancy achieved?](#how-is-redundancy-achieved-)
+    + [What is the redundancy factor for data on the ThreeFold network?](#what-is-the-redundancy-factor-for-data-on-the-threefold-network-)
+    + [Do larger nodes perform different functions than individual nodes?](#do-larger-nodes-perform-different-functions-than-individual-nodes-)
+    + [Is there a simpler way to explain the 30% capacity rule for farming income?](#is-there-a-simpler-way-to-explain-the-30--capacity-rule-for-farming-income-)
+    + [Is there a simple way to quantify the 30% capacity treshhold?](#is-there-a-simple-way-to-quantify-the-30--capacity-treshhold-)
+    + [How does the ThreeFold Grid know to host specific applications near it's users?](#how-does-the-threefold-grid-know-to-host-specific-applications-near-it-s-users-)
+    + [How specificallt is "proof-of-stake: implemented in the Threefold Gdid?"](#how-specificallt-is--proof-of-stake--implemented-in-the-threefold-gdid--)
+    + [Where can one find a set of detailed technical requirements for ThreeFold farming hardware?](#where-can-one-find-a-set-of-detailed-technical-requirements-for-threefold-farming-hardware-)
+    + [How are ThreeFold Tokens valued relative to farming Capacity](#how-are-threefold-tokens-valued-relative-to-farming-capacity)
+    + [How will we implement the ThreeFold Grid in developing countries?](#how-will-we-implement-the-threefold-grid-in-developing-countries-)
+    + [Where best to concentrate our initial efforts to promote the ThreeFolf Grid?](#where-best-to-concentrate-our-initial-efforts-to-promote-the-threefolf-grid-)
+    + [How do small-scale farmers complete with farmers with more extensive capacity?](#how-do-small-scale-farmers-complete-with-farmers-with-more-extensive-capacity-)
+    + [How are ambassadors to promote the development of applications to run on the Threefold Grid.](#how-are-ambassadors-to-promote-the-development-of-applications-to-run-on-the-threefold-grid)
+    + [Will ThreeFold be able to restrict malicious content?](#will-threefold-be-able-to-restrict-malicious-content-)
+    + [Is there a conflict between the distributed Grid and pricing of service by individual farmers?](#is-there-a-conflict-between-the-distributed-grid-and-pricing-of-service-by-individual-farmers-)
+    + [What can be the impact of Government Regulation of cryptocurrencies?](#what-can-be-the-impact-of-government-regulation-of-cryptocurrencies-)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ### Internet versus Cloud?
 
