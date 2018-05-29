@@ -7,7 +7,7 @@ IMPORTANT: Please read some [guidelines](https://github.com/threefoldfoundation/
 
 Items with @ are public
 
-## ThreeFold Foundation
+## ThreeFold Foundation (Kristof/Georges)
 
 
 - [ThreeFold Foundation Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=wpz16r964bdnuqxc5p7kn5upmo) : click on this one first before going to channel below
@@ -21,7 +21,7 @@ Items with @ are public
     - [home page](https://docs.google.com/document/d/1ixKZklZj21tRWBFlaxO8j0Sdm9Liyd1kjYTeAB6fZog/edit)
 - [wiki](https://github.com/threefoldfoundation/info_foundation)
 
-## ThreeFold Tokens
+## ThreeFold Tokens (Adnan)
 
 - [ThreeFold Token Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=wyn3qg6pe3gq7niy6w7yd3i6xy) : click on this one first before going to channel below
    - [news @](https://chat.grid.tf/tftokens/channels/town-square)
@@ -32,7 +32,7 @@ Items with @ are public
     - [home page](https://docs.google.com/document/d/1SpZmeAgzeNxDPJTLnShd-NkkOREuJf0ItRHJCuDxE7Q/edit)
 - [wiki]()
 
-## ThreeFold Grid
+## ThreeFold Grid (Andreas)
 
 - [ThreeFold Grid Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=4ugqek6hyprc8qkrm9ifea9moo) : click on this one first before going to channel below
    - [news @](https://chat.grid.tf/tfgrid/channels/town-square)
@@ -44,7 +44,7 @@ Items with @ are public
 - [google drive home](https://drive.google.com/drive/folders/18pxbdERI3OGLgAjgkWhdK1bR5S3A9YtM)
     - [home page]()
     
-## ThreeFold Fund
+## ThreeFold Fund (Chris)
 
 - [ThreeFold Grid Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=hnocjpbwb3fk8joxm6zenimc9o) : click on this one first before going to channel below
    - [news @](https://chat.grid.tf/tffund/channels/town-square)
@@ -55,7 +55,7 @@ Items with @ are public
 - [google drive home](https://drive.google.com/drive/folders/1altPp-fX7FCjlugeMh3PGBXqF67kr9BE)
     - [home internal site](https://sites.google.com/s/1DvtpgqruZcCFWkUvyMKaXwBtn8_GQLQ2/p/129FumuiAc2T2UVn7JL6MzkFjyP8FzGwe/edit)
 
-## ThreeFold Tech
+## ThreeFold Tech (Kristof)
 
 - [ThreeFold Grid Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=h5duotxihb8ujkkjro3oqf798r) : click on this one first before going to channel below
    - [news @](https://chat.grid.tf/tftech/channels/town-square)
@@ -70,7 +70,7 @@ Items with @ are public
     - [home page @](https://docs.google.com/document/d/12-12I5tCAlHYOa326Crk5e_94FCrcZq6dsX_daI-p9k/edit?usp=sharing)
 - [wiki](https://github.com/threefoldfoundation/info_tech)
     
-## BetterToken
+## BetterToken (Dan)
 
 only the items with @ are public
 
@@ -88,19 +88,19 @@ only the items with @ are public
 - [google drive home](https://drive.google.com/drive/folders/1UOmjwXS2c9UOjS-7X4Bxp5xnqIZ3AaTE)
 
 
-## Mazraa
+## Mazraa (Adnan)
 
 - [Trello Team](https://trello.com/mazraa)
    - [actions](https://trello.com/b/UZscQzBW/mazraaactions)
 - [google drive home](https://drive.google.com/drive/folders/1QTYnHGuFKGqvlnP0gz5MlPB6DmvKURQB)
     - [home page](https://docs.google.com/document/d/1au3P6swKLxShuqbfxk3B5RpvsgBIylDQQ3Amaf2_bgM/edit)
 
-## Our Community App
+## Our Community App (Marijke)
 
 - [Trello Team](https://trello.com/ourcommunityapp)
 
 
-## Codescalers
+## Codescalers (Nayer)
 
 - [Trello Team](https://trello.com/codescalers)
 
