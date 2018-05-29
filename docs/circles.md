@@ -52,7 +52,7 @@ Items with @ are public
    - [chat @](https://chat.grid.tf/tffund/channels/chat) : public chat about anything
 - [Trello: https://trello.com/tf_fund](https://trello.com/tf_fund)
     - [website roadmap @](https://trello.com/invite/b/LRPeXGUl/f182413962369ac3cb9add0ebc1bfe3b/tffundwebsiteroadmap)
-    - [actions](https://trello.com/b/tMIqBCvd/actions)
+    - [actions](https://trello.com/b/tMIqBCvd/tffundactions)
 - [google drive home](https://drive.google.com/drive/folders/1altPp-fX7FCjlugeMh3PGBXqF67kr9BE)
     - [home internal site](https://sites.google.com/s/1DvtpgqruZcCFWkUvyMKaXwBtn8_GQLQ2/p/129FumuiAc2T2UVn7JL6MzkFjyP8FzGwe/edit)
 - [wiki](https://github.com/threefoldfoundation/info_fund)
