@@ -2,8 +2,6 @@
 ## ThreeFold Grid
 
 - [Trello: https://trello.com/tf_grid](https://trello.com/tf_grid)
-- Boards
-    - 
     - business development (not public)
     
 
@@ -19,7 +17,7 @@
 
 only the items with @ are public
 
-- [BetterToken Chat](https://chat.grid.tf/signup_user_complete/?id=us6s3sndc3dmirhc8qcpdezbky)
+- [BetterToken Chat@](https://chat.grid.tf/signup_user_complete/?id=us6s3sndc3dmirhc8qcpdezbky)
    - [news @](https://chat.grid.tf/bettertoken/channels/town-square)
    - [hardware selection for nodes @](https://chat.grid.tf/bettertoken/channels/hardware_selection)
    - [chat @](https://chat.grid.tf/bettertoken/channels/chat) : public chat about anything
