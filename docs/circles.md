@@ -30,8 +30,6 @@ IMPORTANT: Please read some [guidelines](https://github.com/threefoldfoundation/
     - [home page](https://docs.google.com/document/d/1SpZmeAgzeNxDPJTLnShd-NkkOREuJf0ItRHJCuDxE7Q/edit)
 - [wiki]()
 
-https://trello.com/threefoldtoken
-
 ## ThreeFold Grid
 
 - [ThreeFold Grid Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=4ugqek6hyprc8qkrm9ifea9moo) : click on this one first before going to channel below
@@ -44,11 +42,16 @@ https://trello.com/threefoldtoken
 - [google drive home](https://drive.google.com/drive/folders/18pxbdERI3OGLgAjgkWhdK1bR5S3A9YtM)
     - [home page]()
     
-
-
-
-
 ## ThreeFold Fund
+
+- [ThreeFold Grid Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=hnocjpbwb3fk8joxm6zenimc9o) : click on this one first before going to channel below
+   - [news @](https://chat.grid.tf/tffund/channels/town-square)
+   - [chat @](https://chat.grid.tf/tffund/channels/chat) : public chat about anything
+- [Trello: https://trello.com/tf_fund](https://trello.com/tf_fund)
+    - [website roadmap @](https://trello.com/invite/b/LRPeXGUl/f182413962369ac3cb9add0ebc1bfe3b/tffundwebsiteroadmap)
+    - [actions](https://trello.com/b/tMIqBCvd/actions)
+- [google drive home](https://drive.google.com/drive/folders/1altPp-fX7FCjlugeMh3PGBXqF67kr9BE)
+    - [home internal site](https://sites.google.com/s/1DvtpgqruZcCFWkUvyMKaXwBtn8_GQLQ2/p/129FumuiAc2T2UVn7JL6MzkFjyP8FzGwe/edit)
 
 ## ThreeFold Tech
 
@@ -65,9 +68,6 @@ https://trello.com/threefoldtoken
     - [home page @](https://docs.google.com/document/d/12-12I5tCAlHYOa326Crk5e_94FCrcZq6dsX_daI-p9k/edit?usp=sharing)
 - [wiki](https://github.com/threefoldfoundation/info_tech)
     
-
-https://trello.com/tf_technology
-
 ## BetterToken
 
 only the items with @ are public
