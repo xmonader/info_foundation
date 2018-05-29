@@ -1,4 +1,9 @@
 
+# ThreeFold Related Circles
+
+We don't want to be a pyramid, we want to organize our work in circles.
+IMPORTANT: Please read some [guidelines](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/tools/circles_principles.md) about how to use our tools.
+
 ## ThreeFold Grid
 
 - [ThreeFold Grid Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=4ugqek6hyprc8qkrm9ifea9moo) : click on this one first before going to channel below
