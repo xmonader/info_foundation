@@ -21,7 +21,7 @@ IMPORTANT: Please read some [guidelines](https://github.com/threefoldfoundation/
 
 ## ThreeFold Tokens
 
-- [ThreeFold Foundation Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=wyn3qg6pe3gq7niy6w7yd3i6xy) : click on this one first before going to channel below
+- [ThreeFold Token Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=wyn3qg6pe3gq7niy6w7yd3i6xy) : click on this one first before going to channel below
    - [news @](https://chat.grid.tf/tftokens/channels/town-square)
    - [chat @](https://chat.grid.tf/tftokens/channels/chat) : public chat about anything
 - [Trello: https://trello.com/threefoldtoken](https://trello.com/threefoldtoken)
