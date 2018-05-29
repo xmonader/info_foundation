@@ -71,6 +71,16 @@ Items with @ are public
 - [google drive home](https://drive.google.com/drive/folders/1AI_6hOe_lLZhqrkqXkYtQEj3mD6RFvQX)
     - [home page @](https://docs.google.com/document/d/12-12I5tCAlHYOa326Crk5e_94FCrcZq6dsX_daI-p9k/edit?usp=sharing)
 - [wiki](https://github.com/threefoldfoundation/info_tech)
+
+## ThreeFold Impact (Olivia)
+
+- [ThreeFold Grid Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=h5duotxihb8ujkkjro3oqf798r) : click on this one first before going to channel below
+   - [impact chat @](https://chat.grid.tf/threefold/channels/impact)
+- [Trello : https://trello.com/tf_impact](https://trello.com/tf_impact)
+   - [todo actions](https://trello.com/invite/b/yEz1Eobm/5c977d68675fccd42a2a00256a8b7cd2/tfimpactactions)
+- [google drive home]()
+    - [home page @]()
+- wiki
     
 ## BetterToken (Dan)
 
