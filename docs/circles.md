@@ -17,7 +17,7 @@
 
 only the items with @ are public
 
-- [BetterToken Chat@](https://chat.grid.tf/signup_user_complete/?id=us6s3sndc3dmirhc8qcpdezbky)
+- [BetterToken Chat @](https://chat.grid.tf/signup_user_complete/?id=us6s3sndc3dmirhc8qcpdezbky) : click on this one first before going to channel below
    - [news @](https://chat.grid.tf/bettertoken/channels/town-square)
    - [hardware selection for nodes @](https://chat.grid.tf/bettertoken/channels/hardware_selection)
    - [chat @](https://chat.grid.tf/bettertoken/channels/chat) : public chat about anything
