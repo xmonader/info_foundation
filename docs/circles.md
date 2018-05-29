@@ -16,9 +16,24 @@
 
 ## ThreeFold Foundation
 
+- [wiki](https://github.com/threefoldfoundation/info_foundation)
+
 ## ThreeFold Fund
 
 ## ThreeFold Tech
+
+- [ThreeFold Grid Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=h5duotxihb8ujkkjro3oqf798r) : click on this one first before going to channel below
+   - [news @](https://chat.grid.tf/tftech/channels/town-square)
+   - [chat @](https://chat.grid.tf/tftech/channels/chat) : public chat about anything
+- [Trello: https://trello.com/tf_grid](https://trello.com/tf_grid)
+    - [wiki roadmap @]()
+    - [actions]()
+- [google drive home](https://drive.google.com/drive/folders/1AI_6hOe_lLZhqrkqXkYtQEj3mD6RFvQX)
+    - [home page @](https://docs.google.com/document/d/12-12I5tCAlHYOa326Crk5e_94FCrcZq6dsX_daI-p9k/edit?usp=sharing)
+- [wiki]()
+    
+
+https://trello.com/tf_technology
 
 ## BetterToken
 
