@@ -5,6 +5,33 @@ We don't want to be a pyramid, we want to organize our work in circles.
 
 IMPORTANT: Please read some [guidelines](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/tools/circles_principles.md) about how to use our tools.
 
+## ThreeFold Foundation
+
+
+- [ThreeFold Foundation Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=wpz16r964bdnuqxc5p7kn5upmo) : click on this one first before going to channel below
+   - [news @](https://chat.grid.tf/threefold/channels/town-square)
+   - [chat @](https://chat.grid.tf/threefold/channels/chat) : public chat about anything
+- [Trello: https://trello.com/tf_foundation](https://trello.com/tf_foundation)
+    - [website high level roadmap @](https://trello.com/invite/b/CfIT7n9B/eb2e9f6ea28a1e46baeba0de5335cfeb/tfwebhighlevelroadmap)
+    - [business development](https://trello.com/b/ppTVxCcO/tffunnel)
+    - [master scrum](https://trello.com/b/GgxRFeHn/tfmasterscrum)
+- [google drive home](https://drive.google.com/drive/folders/1ygSc9mKaJJq-mw30zbfmikUWXO73m0kl)
+    - [home page](https://docs.google.com/document/d/1ixKZklZj21tRWBFlaxO8j0Sdm9Liyd1kjYTeAB6fZog/edit)
+- [wiki](https://github.com/threefoldfoundation/info_foundation)
+
+## ThreeFold Tokens
+
+- [ThreeFold Foundation Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=wyn3qg6pe3gq7niy6w7yd3i6xy) : click on this one first before going to channel below
+   - [news @](https://chat.grid.tf/tftokens/channels/town-square)
+   - [chat @](https://chat.grid.tf/tftokens/channels/chat) : public chat about anything
+- [Trello: https://trello.com/threefoldtoken](https://trello.com/threefoldtoken)
+    - tbd: adnan
+- [google drive home](https://drive.google.com/drive/folders/1_9XS7b_4aVWZ95nDdwIS_nEnkQxjKrnw)
+    - [home page](https://docs.google.com/document/d/1SpZmeAgzeNxDPJTLnShd-NkkOREuJf0ItRHJCuDxE7Q/edit)
+- [wiki]()
+
+https://trello.com/threefoldtoken
+
 ## ThreeFold Grid
 
 - [ThreeFold Grid Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=4ugqek6hyprc8qkrm9ifea9moo) : click on this one first before going to channel below
@@ -18,11 +45,8 @@ IMPORTANT: Please read some [guidelines](https://github.com/threefoldfoundation/
     - [home page]()
     
 
-## ThreeFold Tokens
 
-## ThreeFold Foundation
 
-- [wiki](https://github.com/threefoldfoundation/info_foundation)
 
 ## ThreeFold Fund
 
@@ -63,3 +87,20 @@ only the items with @ are public
 
 
 ## Mazraa
+
+- [Trello Team](https://trello.com/mazraa)
+   - [actions](https://trello.com/b/UZscQzBW/mazraaactions)
+- [google drive home](https://drive.google.com/drive/folders/1QTYnHGuFKGqvlnP0gz5MlPB6DmvKURQB)
+    - [home page](https://docs.google.com/document/d/1au3P6swKLxShuqbfxk3B5RpvsgBIylDQQ3Amaf2_bgM/edit)
+
+## Our Community App
+
+- [Trello Team](https://trello.com/ourcommunityapp)
+
+
+## Codescalers
+
+- [Trello Team](https://trello.com/codescalers)
+
+
+
