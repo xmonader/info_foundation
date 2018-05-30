@@ -3,7 +3,7 @@
 
 We don't want to be a pyramid, we want to organize our work in circles.
 
-IMPORTANT: Please read some [guidelines](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/tools/circles_principles.md) about how to use our tools.
+IMPORTANT: Please read some [guidelines](circles_tools.md) about how to use our tools.
 
 Items with @ are public
 
