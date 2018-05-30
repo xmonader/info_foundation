@@ -45,7 +45,7 @@ Items with @ are public
     - [home page](https://docs.google.com/document/d/1B8Q_elx-J0ERj327e_u2qHoCiF1p2o-5KIQ_ERQZzJ4/edit)
 - [wiki](https://github.com/threefoldfoundation/info_grid)
     
-## ThreeFold Fund (Chris)
+## ThreeFold Fund (Chris-)
 
 - [ThreeFold Grid Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=hnocjpbwb3fk8joxm6zenimc9o) : click on this one first before going to channel below
    - [news @](https://chat.grid.tf/tffund/channels/town-square)
