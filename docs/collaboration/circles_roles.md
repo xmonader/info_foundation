@@ -60,13 +60,11 @@ Main responsibilities:
     * proper defined bugs/fr
     * proper branching
   * Work with Project/Product Managers & other stakeholders to make sure the repo structure is ok.
-  * Organize product meetings \(PM\) \(see [Meetings](meetings.md)
 
 * There can be more than 1 owner per repo, but try to only have 1.
 
 * The home repo is important to organize the full account/organization.
 
-* They use their telegram group: `$company_product_$name`
 
 ### Stakeholder
 
