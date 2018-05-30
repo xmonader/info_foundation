@@ -2,6 +2,12 @@
 
 ![](https://images.unsplash.com/photo-1494074734099-c4ec0c45687a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f18b2bf25abbaeddbe5ea1f9dae1ff85&auto=format&fit=crop&w=1950&q=80)
 
+also read
+
+- [circles_principles](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/tools/circles_principles.md)
+
+**make sure every board is defined in ** [the circles document](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles.md)
+
 ### funnel board
 
 - storyboard name: $teamname_funnel_$region or $teamname_funnel if no region e.g. tfgrid_funnel_africa
@@ -45,7 +51,7 @@ use labels for
    - create checklist call: token_bounty add people on there with token amount & lockup period e.g. 10000_oct_19
 - there needs to be a chat attached to each stories board
 
-## roadmap board
+### roadmap board
 
 roadmaps are about content (feature requests, issues, ...) which need to be executed in a certain version of a delivery of a product or e.g. a website
 
