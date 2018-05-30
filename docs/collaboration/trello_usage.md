@@ -4,9 +4,9 @@
 
 also read
 
-- [circles_principles](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/tools/circles_principles.md)
+- [circles_principles](circles_principles.md)
 
-**make sure every board is defined in** [the circles document](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles.md)
+**make sure every board is defined in** [the circles document](circles.md)
 
 ### funnel board
 
@@ -33,7 +33,7 @@ use labels for
    - do not copy info from funnel or roadmap board
 - storyboard name: $teamname_stories_$name e.g. tftoken_stories_promotion
    - teamname is without _
-- [how to write a story](https://docs.grid.tf/dividi/efika/src/branch/master/Efika_Agile/EfikaProcess/stories.md)
+- [how to write a story](stories.md)
 - board owner
    - calls meetings when required
    - communicate with board members to help them with communication, ...
