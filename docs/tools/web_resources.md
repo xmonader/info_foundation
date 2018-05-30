@@ -16,6 +16,12 @@
 - Explorers
 - Instructions
 
-## 
+## ThreeFold Farmers website - [http://www.tffarmers.com/](http://www.tffarmers.com/)
+- How to become TF Farmer
+- Profitablity
+- Insturctions
+- Cooperatives
+
+
 
 
