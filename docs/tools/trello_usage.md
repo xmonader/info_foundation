@@ -6,7 +6,7 @@ also read
 
 - [circles_principles](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/tools/circles_principles.md)
 
-**make sure every board is defined in ** [the circles document](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles.md)
+**make sure every board is defined in** [the circles document](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles.md)
 
 ### funnel board
 
