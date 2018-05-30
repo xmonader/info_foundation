@@ -21,4 +21,4 @@ GIG Tech software provides additional capabilities for a Managed Farming Pool:
 
 [^1]: roadmap
 
-A TF Farmer or TF Cooperative needs to have an agreement with GIG Tech in place. GIG Tech will supply the required software to allow the TF Farmer or TF Cooperative to connect this Managed Capacity to the TF Grid.
+

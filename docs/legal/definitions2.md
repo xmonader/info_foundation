@@ -16,9 +16,17 @@ A Farming Pool is linked to a Farmer, the Farmer receives tokens for providing t
 
 ## Resource Units (RU)
 
-Units of IT capacity as used in a RP, starting from hardware level. More info see [here](https://github.com/threefoldtoken/info/blob/master/concepts/resource_units.md).
+Units of IT capacity as used in a RP, starting from hardware level. More info see .
 
+| unit type | description | code |
+| --- | --- | --- |
+| core unit     | 1 logical core (hyperthreaded core) | CRU |
+| mem unit      | 1 GB mem	| MRU |
+| hd unit       | 1 TB | HRU |
+| ssd unit      | 1 GB	 | SRU |
+| network unit  | 1 GB of bandwidth transmitted in/out	| NRU |
 
+These are raw capacities as measured by our TF Software.
 
 ## Resource Bundle (always per TF Node) (Bundle)
 
@@ -34,10 +42,4 @@ Units of IT capacity as used in a RP, starting from hardware level. More info se
 - has a starting date / end date
 - has a price linked to it
 - a Resource Pool is made up out of X nr of Resource Bundles.
-
-## TF Robots
-
-- There are 3 types of ThreeFold Robots see []()
-
-
 

@@ -4,8 +4,8 @@ Unmanaged IT Capacity can exist everywhere; in people’s home, in mobile teleph
 
 Unmanaged capacity provides the following 3 basic services
 
- - Storage Capacity = backend storage services which can be used as backend for more high level storage services like S3
- - Compute Capacity = backend compute capacity which can be used as backend for more high level compute services like Kubernetes.
- - Network Gateway Services: integration with ZeroTier network, HTTP(s) reverse proxy, DNS services, TCP Portforwarding.
+- Storage Capacity = backend storage services which can be used as backend for more high level storage services like S3
+- Compute Capacity = backend compute capacity which can be used as backend for more high level compute services like Kubernetes.
+- Network Gateway Services: integration with ZeroTier network, HTTP(s) reverse proxy, DNS services, TCP Portforwarding.
 
 These basic services are ordered through the TF Chain only. SLA's (service level agreements) cannot be be guaranteed on Unmanaged Capacity and as such not registered in the TF Chain.

@@ -1,13 +1,15 @@
-# organization
+# Circles Tools
 
-- make sure all links are on [our info page](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles.md#bettertoken) IMPORTANT !!!
+## Definition Of Circles
 
-# Trello
+- make sure all circles are defined on [our info page](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/collaboration/circles.md) IMPORTANT !!!
 
-- only create boards in root of known trello team, see [this doc for the teams](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles.md)
+## Trello
+
+- only create boards in root of known trello team, see [this doc for the teams](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/collaboration/circles.md)
 - lets stick with free version because we will have thousands of people participating
 
-# Google Docs
+## Google Docs
 
 - All non wiki docs need to go to google drive.
 - do not keep docs private (in own drive)
@@ -19,14 +21,14 @@
    - ask for account on ...
 - use ```_archive/_beta``` folders in each drive to organize docs, ONLY ACTIVE content should be in std folders
    
-# Mail
+## Mail
 
 - Everyone contributing more than couple of hours per month should have a gmail account in our organization on google (is in incubaid.com)
    - ask for account on ...
    - any cooperative or other organization which wants to be part of our domain, please contact us, its easier to organize our commnunity
 - you can get email aliases on any of the organizations e.g. threefoldtoken, ...
 
-# Mattermost: chat
+## Mattermost: chat
 
 - try to organize well in nice topics
 
