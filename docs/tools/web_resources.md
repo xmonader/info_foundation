@@ -22,6 +22,9 @@
 - Insturctions
 - Cooperatives
 
+## ThreeFold Capacity website [https://capacity.threefoldtoken.com](https://capacity.threefoldtoken.com)
+- How to use capactiy 
+- How to register capacity
 
 
 
