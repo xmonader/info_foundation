@@ -19,7 +19,7 @@ Stories that are not visible to the relevant stakeholders can lead to many probl
 
 There is a reason that user stories containing tasks and no the opposites, tasks should not be added to the product backlog in a makeup of user stories; this pitfall is mainly relevant to new teams that are not familiar with the different artifacts of Scrum.
 
-    As a result, the team members add technical tasks as user stories, which may lead to confusion among the stakeholders once they need to prioritize the product backlog or determine which stories will be added to the next iteration.
+As a result, the team members add technical tasks as user stories, which may lead to confusion among the stakeholders once they need to prioritize the product backlog or determine which stories will be added to the next iteration.
 
 ## The community value is not taking into consideration
 
