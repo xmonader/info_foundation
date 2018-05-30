@@ -1,4 +1,4 @@
-# Web resorces
+# Web resources
 
 ## Foundation website - [http://www.threefoldtoken.com](http://www.threefoldtoken.com)
 - Everything related to the ThreeFold Foundation

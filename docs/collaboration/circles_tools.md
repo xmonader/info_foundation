@@ -2,11 +2,11 @@
 
 ## Definition Of Circles
 
-- make sure all circles are defined on [our info page](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/collaboration/circles.md) IMPORTANT !!!
+- make sure all circles are defined on [our circles page](circles.md) IMPORTANT !!!
 
 ## Trello
 
-- only create boards in root of known trello team, see [this doc for the teams](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/collaboration/circles.md)
+- only create boards in root of known trello team, see [our circles page](circles.md)
 - lets stick with free version because we will have thousands of people participating
 
 ## Google Docs
