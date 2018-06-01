@@ -21,7 +21,7 @@ the wikis are dynamic content which is changing quicly to reflect the fast movin
 
 - 1.0 is planned for June 8 2018
 
-main goal is to have a good enough web presence we can give to all our ambassadors to promote the different topisc of the foundation.
+main goal is to have a good enough web presence we can give to all our ambassadors to promote the different topics of the foundation.
 
 the web presence is combination of
 
