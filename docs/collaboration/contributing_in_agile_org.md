@@ -76,6 +76,8 @@ An good agile Coordinator needs to work on self improvement:
 - knows that intuition is real and not only knowledge or experience counts.
 - not afraid to be 100% transparent
 - not afraid to ask others for help
+- is also a good communicator
+- can structure work & document strategy, specs, ... (communication skills)
 
 Following information should feel interesting & valuable
 
