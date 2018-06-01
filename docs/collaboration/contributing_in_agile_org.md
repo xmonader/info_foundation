@@ -9,7 +9,7 @@
 
 A coordinator in an agile organization does not control, has no decision power.
 
-Its the reverse of a power play. A coordinator does not command or take decisions. Decisions happen automatically because an agile process is being followed.
+Its the reverse of a power play. A coordinator does not command or take decisions. Decisions happen automatically because an agile process is being followed. A coordinator is all about making sure others can easily contribute and they can find all information required.
 
 A coordinator
 
