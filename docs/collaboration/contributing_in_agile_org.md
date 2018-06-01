@@ -11,6 +11,7 @@ TODO:*1 is not complete
 
 Practical Requirements
 
+- willing to learn about agile methodologies (circles, stories, ...)
 - willing to use the tools the group agreed to work with (agile tools), willing to get fluent with them
 - reports daily on work done in the stories, helps to keep stories up to date
 - not afraid to be 100% open to everyone about anything
