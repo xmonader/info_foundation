@@ -79,7 +79,7 @@ An good agile contributor needs to be aware or willing to become aware, this mea
 Following information should feel interesting & valuable
 
 - [The Veda 4 Core Values](https://docs.grid.tf/dividi/values/src/branch/master/veda_values.md)
-- [responsive organization)https://docs.grid.tf/dividi/values/src/branch/master/responsive_org_manifesto.md)
+- [responsive organization](https://docs.grid.tf/dividi/values/src/branch/master/responsive_org_manifesto.md)
 - [art of being loyal to our values](https://medium.com/@despiegk/the-art-of-being-loyal-to-your-values-e0e6e3f310f7)
 - [ethical_design_manifesto](https://docs.grid.tf/dividi/values/src/branch/master/ethical_design_manifesto.md)
 - [Yet another Goals & Values Document](https://docs.grid.tf/dividi/values/src/branch/master/goals_values.md)
