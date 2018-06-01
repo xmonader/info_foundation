@@ -7,7 +7,7 @@
 
 ## as an agile contributor
 
-We believe in "self healing organizations" where circles (teams organized around topics) collaborate with each other. It's a little but how our own human body works (cells, organisms, communication, ...).
+We believe in "self healing organizations" where circles (teams organized around topics) collaborate with each other. It's similar to how our own human body works (cells, organisms, communication, ...).
 These organizations give a lot of independence to their contributors. 
 
 These organizations can only succeed if contributors know what is expected of them and are willing to follow a set of mutually agreed principles.
@@ -24,7 +24,8 @@ Practical Requirements
 - knows what good enough means
 - done = done (means quality is good enough)
 - learns: not just technical, but about agile working, about self improvement, ...
-- not afraid to give feedback to others and escallate when required (in a loving way).
+- not afraid to give feedback to others and escallate when required (in a loving way)
+- respects work of others, tries to improve whenever possible, not replace, if needed to replace communication needs to happen.
 
 My personal estimate is that less than 30% of existing professionals have the skill to be a good agile contributor.
 
