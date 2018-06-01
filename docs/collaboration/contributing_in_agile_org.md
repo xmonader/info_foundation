@@ -29,10 +29,8 @@ No-one can ever become a coordinator if they have not proven to be a good contri
 
 My personal estimate is that less than 1% of existing professionals have the skill to be a good coordinator.
 
-An good agile Coordinator needs to be aware, this means
+An good agile Coordinator needs to work on self improvement:
 
-- good communicator
-- can structure work & document strategy, specs, ... (communication skills)
 - don't do things out of ego or old frustrations
 - understand own shortcomings
 - love him/herself and can love others
@@ -42,6 +40,9 @@ An good agile Coordinator needs to be aware, this means
 - is not afraid of being different and keep on pushing for the values the group believes in
 - knows that intuition is real and not only knowledge or experience counts.
 - not afraid to be 100% transparent
+- is also a good communicator
+- can structure work & document strategy, specs, ... (communication skills)
+
 
 Following information should feel interesting & valuable
 
@@ -64,7 +65,7 @@ Practical Requirements
 
 My personal estimate is that less than 30% of existing professionals have the skill to be a good agile contributor.
 
-An good agile contributor needs to be aware or willing to become aware, this means
+An good agile Coordinator needs to work on self improvement:
 
 - understand own shortcomings
 - love him/herself and can love others
