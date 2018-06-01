@@ -7,11 +7,17 @@
 
 ## as an agile contributor
 
-TODO:*1 is not complete
+We believe in "self healing organizations" where circles (teams organized around topics) collaborate with each other. It's a little but how our own human body works (cells, organisms, communication, ...).
+These organizations give a lot of independence to their contributors. 
+
+THese organizations can only succeed if contributors know what is expected of them and are willing to follow a set of mutually agreed principles.
 
 Practical Requirements
 
 - willing to learn about agile methodologies (circles, stories, ...)
+    - [circles roles](circles_roles.md)
+    - [stories](stories.md)
+    - [trello usage](trello_usage.md) & [circle tools](circles_tools.md)
 - willing to use the tools the group agreed to work with (agile tools), willing to get fluent with them
 - reports daily on work done in the stories, helps to keep stories up to date
 - not afraid to be 100% open to everyone about anything
