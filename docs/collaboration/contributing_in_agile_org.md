@@ -5,7 +5,7 @@
 
 We believe in "self healing organizations" where circles (teams organized around topics) collaborate with each other. It's similar to how our own human body works. For instance: lungs provide oxygen to the body but they need red-blood cells to move the oxygen to the rest of the body; the brain can tell us where to drive, but it needs hands and feet to operate the car.
 
-Organizations like this give a lot of independence to their contributors. However, the organizations can only succeed if contributors know what is expected of them and are willing to follow a set of mutually agreed principles to ensure harmonious and effective working together. Ofcourse not every contributor is the same.
+Organizations like this give a lot of independence to their contributors. However, the organizations can only succeed if contributors know what is expected of them and are willing to follow a set of mutually agreed principles to ensure harmonious and effective working together. Of course not every contributor is the same.
 
 Information flow and discipline is very important in such an organization.
 
