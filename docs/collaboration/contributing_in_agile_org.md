@@ -19,19 +19,16 @@ We are all contributors one way or the other but to make it easy we would like t
 
 ## ThreeFold Sponsor
 
-Anyone who believes in what we do and would like to help.
-Please work together with any of our Ambassadors who will be very happy to assist you in anything you would like to help us with.
+Anyone who believes in what we do and would like to assist.
+Please work together with any of our Ambassadors who will be very happy to assist you in anything you would like to help us with. We grately appreciate any contribution offered.
 
-We grately appreciate any contribution done.
+Some examples of what we are looking for:
 
-Some examples of what we are looking for
+- LEADS: names of people who might be interested in farming capacity or buying tokens or investing in the TF Fund.
+- EVENT CO-ORDINATION: help us organize an event for Token or Grid promotion.
+- FEEDBACK: technical feedback on the technology we have created or on any of the things we do.
 
-- leads of people who might be interested in farming capacity or buying tokens or investing in the TF Fund.
-- help us organize an event for Token or Grid promotion.
-- technical feedback on the technology we have created
-- other feedback on any of the things we do.
-
-Do not hesitate to contact us through our foundation website, we will try to help you and find an Ambassador or Founder who you can work with. This Ambassador knows where to find information, knows who is doing what, knows how to get things done basically in the ThreeFold ecosystem.
+Do not hesitate to contact us through our foundation website, we will try to help you and find an Ambassador or Founder who you can work with. The Ambassadors know where to find information, know who is doing what and know how to get things done basically in the ThreeFold ecosystem.
 
 ## ThreeFold Ambassador
 
