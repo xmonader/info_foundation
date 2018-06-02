@@ -1,15 +1,85 @@
 
-**UNFINISHED FIRST OPINIONATED DRAFT**
-
 # How to contribute in an agile organization
 
 ![](https://images.unsplash.com/photo-1470472304068-4398a9daab00?ixlib=rb-0.3.5&s=55b8e313e798f6a8e12fbc9d9fc0078d&auto=format&fit=crop&w=2100&q=80)
 
-## As an agile contributor
-
 We believe in "self healing organizations" where circles (teams organized around topics) collaborate with each other. It's similar to how our own human body works. For instance: lungs provide oxygen to the body but they need red-blood cells to move the oxygen to the rest of the body; the brain can tell us where to drive, but it needs hands and feet to operate the car.
 
-Organizations like this give a lot of independence to their contributors. However, the organizations can only succeed if contributors know what is expected of them, they have gathered what resources are needed to complete a job, and are willing to follow a set of mutually agreed principles to ensure harmonious and effective working together.
+Organizations like this give a lot of independence to their contributors. However, the organizations can only succeed if contributors know what is expected of them and are willing to follow a set of mutually agreed principles to ensure harmonious and effective working together. Ofcourse not every contributor is the same.
+
+Information flow and discipline is very important in such an organization.
+
+We are all contributors one way or the other but to make it easy we would like to make distinction between 4 different types of contributors:
+
+- threefold sponsor = anyone who likes to help threefold in adhoc manner 
+- threefold ambassador = anyone who wants to contribute at least a couple of hours per month for our joint cause and is not afraid to adopt our tools and way of working
+- threefold founder = works as part of threefold team at least 50% of time and is 100% in on our way of working and values.
+- threefold coordinator = coordination role (owner of one or more circles). 
+
+## Threefold Sponsor
+
+Anyone who believes in what we do and would like to help.
+Please work together with any of our Ambassadors who will be very happy to assist you in anything you would like to help us with.
+
+We grately appreciate any contribution done.
+
+Some examples of what we are looking for
+
+- leads of people who might be interested in farming capacity or buying tokens or investing in the TF Fund.
+- help us organize an event for Token or Grid promotion.
+- technical feedback on the technology we have created
+- other feedback on any of the things we do.
+
+Do not hesitate to contact us through our foundation website, we will try to help you and find an Ambassador or Founder who you can work with. This Ambassador knows where to find information, knows who is doing what, knows how to get things done basically in the ThreeFold ecosystem.
+
+## ThreeFold Ambassador
+
+ThreeFold has hundreds of Ambassadors today, we are super grateful that so many people want to help our movement.
+
+Because of our decentralized nature it's super important that Ambassadors are willing to learn the basics of our tools which will make it easier to collaborate.
+
+The main tool are our circles, please look at our [circles](circles.md) and see where you would like to contribute. Each circle has an owner, please contact the owner (coordinator) and ask how you can help and what you need to be effective.
+
+### Practical Requirements
+
+We realize we ask a lot from our Ambassadors but we believe it is a must to be effective.
+
+In case this is too much please work with any of our Ambassadors who will glady help you and be at service of you to make you successful as a ThreeFold Sponsor.
+
+you are willing to:
+
+- learn our adopted agile methodology (circles, stories...), it's a lot easier than you think, we will be creating some video's about this soon.
+    - [trello usage](trello_usage.md) & [circle tools](circles_tools.md)
+    - [stories](stories.md)
+    - [circles roles](circles_roles.md)
+- use our agile tools and get fluent with them
+- report on the work done in the stories and always help to keep the stories up to date
+- not be afraid to be 100% open to everyone about anything
+- make time to learn
+    - know what good enough means
+    - done = done (means quality is good enough)
+- to give feedback to others and escalate when required (in a loving way)
+- respect the contribution of others, improve where possible, if the contribution is not good enough please go back to the author, discuss and try to help.
+
+- not just technical learning, but about agile working, about self improvement ...
+
+My personal estimate is that less than 30% of existing professionals have the skill to be a good agile contributor.
+
+A good agile contributor is willing to work on self improvement and:
+
+- to understand their own shortcomings
+- to love and have respect for themselves and can love and respect others
+- to be able to show appreciation and respect for others effort, for people and for our community
+- is not afraid to trust people, wants other to be successful and is willing to take action to help them succeed
+- is not afraid of being different and will keep on pushing for the values the group believes in
+- knows that intuition is real and that it is not just knowledge or experience that counts
+- is not afraid to be 100% transparent
+- is not afraid to ask others for help
+- is a good communicator
+- can structure and document work, strategies, specifications, workflows and processes - has great communication skills
+
+Following information should feel interesting & valuable
+
 
 ## Practical Requirements
 
@@ -86,11 +156,13 @@ The following information should feel interesting & valuable:
 - [Culture manifest](https://docs.grid.tf/dividi/efika/src/branch/master/efika_culture_manifest.md)
 - [Head of mission](head_of_mission_profile.md)
 
-## As an individual star.
+## ThreeFold Sponsor
+
+Many of our friends like to help but they don't have enough time or the will to become an ambassador. Ofcourse we are very grateful for anyone who wants to help.
 
 There are many people who do not want to be an agile contributor as described above (maybe they don't believe in this way of working? Maybe it is too hard to change habits which have made them very successful across their career?)
 
 This is, of course, more than fine! 
 "Individual stars" can be amazing contributors, maybe not agile as described above but still very powerful & impactful.
 
-We believe it's best to work with these people in a more loose collaborative way. For instance, where they are rewarded based on commissions, or token bounties, or other reward mechanisms where their contributions are directly matched to their fiscal or transactional output.
+We believe it's best to work with these people in a more loose collaborative way. For instance, where they are rewarded based on commissions, or token bounties, or other reward mechanisms still to be defined.
