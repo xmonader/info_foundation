@@ -84,7 +84,7 @@ The following information should feel interesting & valuable:
 
 - [Responsible Efika Owner](https://docs.grid.tf/dividi/efika/src/branch/master/efika_owner.md)
 - [Culture manifest](https://docs.grid.tf/dividi/efika/src/branch/master/efika_culture_manifest.md)
-- [Head of mission](https://docs.grid.tf/dividi/efika/src/branch/master/HR/head_of_mission_profile.md)
+- [Head of mission](head_of_mission_profile.md)
 
 ## As an individual star.
 
