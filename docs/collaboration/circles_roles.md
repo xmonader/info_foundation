@@ -2,9 +2,10 @@
 
 ![](https://images.unsplash.com/photo-1464226066583-1bc72dd433a3?ixlib=rb-0.3.5&s=0e530a817608a163047730f955c592fc&auto=format&fit=crop&w=1650&q=80)
 
-### Circle Owner
+### Circle Coordinator
 
 * Coordinates (helps) a team of people working on one or more stories
+* make sure [circle_template](circle_template.md) is properly done and put in https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/
 * A Circle is a team on trello e.g. https://trello.com/tf_foundation/members
 * Circle Owner needs to make sure
   * People understand our Agile principles of working together
@@ -13,6 +14,7 @@
   * Eliminate all blockers which people might experience
 * Circle Owners are often also story owners \(of X nr of stories\)
 * A Circle Owner is not a controller ! its a person at service of his team. A Scrum Master = a coach/coordinator.
+
 
 ### Board Owner
 
