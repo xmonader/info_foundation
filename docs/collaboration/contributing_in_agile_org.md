@@ -1,5 +1,5 @@
 
-# How to contribute in the ThreeFold ecosystem.
+# How to contribute in the ThreeFold Ecosystem.
 
 ![](https://images.unsplash.com/photo-1470472304068-4398a9daab00?ixlib=rb-0.3.5&s=55b8e313e798f6a8e12fbc9d9fc0078d&auto=format&fit=crop&w=2100&q=80)
 
@@ -9,14 +9,15 @@ Organizations like this give a lot of independence to their contributors. Howeve
 
 Information flow and discipline is very important in such an organization.
 
-We are all contributors one way or the other but to make it easy we would like to make distinction between 4 different types of contributors:
+We are all contributors one way or the other but to make it easy we would like to make distinction between 5 different types of contributors:
 
-- threefold sponsor = anyone who likes to help threefold in adhoc manner 
-- threefold ambassador = anyone who wants to contribute at least a couple of hours per month for our joint cause and is not afraid to adopt our tools and way of working
-- threefold founder = works as part of threefold team at least 50% of time and is 100% in on our way of working and values.
-- threefold coordinator = coordination role (owner of one or more circles). 
+- ThreeFold sponsor = anyone who likes to help ThreeFold in adhoc manner 
+- ThreeFold guardian = they guard the values of our movement (technical or governance)
+- ThreeFold ambassador = anyone who wants to contribute at least a couple of hours per month for our joint cause and is not afraid to adopt our tools and way of working
+- ThreeFold founder = works as part of ThreeFold team at least 50% of time and is 100% in on our way of working and values.
+- ThreeFold coordinator = coordination role (owner of one or more circles). 
 
-## Threefold Sponsor
+## ThreeFold Sponsor
 
 Anyone who believes in what we do and would like to help.
 Please work together with any of our Ambassadors who will be very happy to assist you in anything you would like to help us with.
@@ -98,7 +99,11 @@ A ThreeFold Founder understands and endorses:
 
 
 
-## ThreeFold Coordinator = owner
+## ThreeFold Coordinator 
+
+A coordinator is owner of one or more circles.
+
+A coordindator is a TF Founder who also has coordination and communication skills and likes to be at service of others in helping them to collaborate and to grow.
 
 - Coordinators manage circles.
 - Circles can have subcircles which can have other subcircles...
@@ -130,3 +135,66 @@ The following information should feel interesting & valuable:
 
 - [Responsible Efika Owner](https://docs.grid.tf/dividi/efika/src/branch/master/efika_owner.md)
 - [Head of mission](head_of_mission_profile.md)
+
+## ThreeFold Guardian
+
+
+### TF Governance Guardian
+
+There are only 60 TF Governance Guardians.
+
+requirements
+
+- average +- 1 hour per month (zoom call & following required ThreeFold progress)
+
+responsibilities
+
+- follow changes in our Foundation Rules & Regulations
+- vote on difficulty level (ofcourse study impact)
+- vote on Foundation budgets.
+- vote on people becoming a Guardian or leaving.
+- vote when changes in management structure of the Foundation are required
+- vote on future to be defined items 
+
+we don't expect these Guardians to do anything more than this. Its a super important role but does not require much time.
+
+remarks
+
+- Governance Guardians, do receive TF Tokens for their work.
+
+### TF Technical Guardian
+
+There are only 30 TF Technical Guardians.
+
+requirements
+
+- minimum 20 hours per month 
+- many of our tech guardians will work full time
+- skills
+    - be extremely strong on values to do with neutrality and opensource
+    - not willing to sacrifice anything
+    - be technically strong in the chosen domain (read the code, be an expert)
+
+3 types
+
+- jumpscale / zero-robot = self healing tech
+- zero-os = our operating system
+- tf chain = our blockchain
+
+we have 10 Guardians per type.
+
+responsibilities
+
+- investigate all changes made to code before a release
+- when a release do all the builds (compilation) and publish the builds
+- sign the builds so everyone in the field knows that the guardian has verified the quality of the code and has compiled to code (avoid backdoors)
+
+why
+
+Anyone in the community can download builds (binaries) from any of the tech guardians and as such have more security that the code was properly created and compiled.
+
+remarks
+
+- Tech guardians, will receive TF Tokens for their work.
+
+
