@@ -64,9 +64,11 @@ you are willing to:
 - to give feedback to others and escalate when required (in a loving way)
 - respect the contribution of others, improve where possible, if the contribution is not good enough please go back to the author, discuss and try to help.
 
+### Remarks
+
+- each Ambassador has their own ThreeFold related email addresses and is part of our internal tool ecosystem (google docs, github, mattermost, ...)
 
 ## ThreeFold Founder
-
 
 
 We really believe that the world is changing. Many people choose to no longer follow the brainwashed way of living where fear dominates all. Please read our article about the [art of being loyal to our values](https://medium.com/@despiegk/the-art-of-being-loyal-to-your-values-e0e6e3f310f7)
