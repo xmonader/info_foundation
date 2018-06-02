@@ -1,5 +1,5 @@
 
-# How to contribute in an agile organization
+# How to contribute in the ThreeFold ecosystem.
 
 ![](https://images.unsplash.com/photo-1470472304068-4398a9daab00?ixlib=rb-0.3.5&s=55b8e313e798f6a8e12fbc9d9fc0078d&auto=format&fit=crop&w=2100&q=80)
 
