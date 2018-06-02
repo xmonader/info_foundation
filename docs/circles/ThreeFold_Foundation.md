@@ -8,10 +8,12 @@
 
 ## purpose/mission
 
-## CIRCLE GOALS
-
 Help other circles to be effective.
 Coordinate work between the circles.
+
+## CIRCLE GOALS
+
+Get everything organized before summer starts.
 
 ## CIRCLE STRATEGY
 
