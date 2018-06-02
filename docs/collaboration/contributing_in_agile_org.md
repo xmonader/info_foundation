@@ -99,7 +99,11 @@ A ThreeFold Founder understands and endorses:
 - [Difference between IQ, EQ and SQ](https://docs.grid.tf/dividi/values/src/branch/master/XQ.md)
 - [Culture manifest](https://docs.grid.tf/dividi/efika/src/branch/master/efika_culture_manifest.md)
 
+How to become a TF Founder.
 
+- Make sure you have enough time available to be a TF Founder and you are not afraid to do things differently.
+- You need to be a loyal and skilled TF Ambassador.
+- Existing TF Founders need to endorse you.
 
 ## ThreeFold Coordinator 
 
@@ -129,8 +133,6 @@ A coordinator:
   - they help people to become a better contributor
   - are able to explain why agile principles work so well within an organization like ours
 
-The Foundation only allows TF Founders to become TF Coordinators, ofcourse everyone can become a ThreeFold Founder if they are willing to live the values as defined above.
-
 My personal estimate is that less than 1% of existing professionals have the skill to be a good TF Coordinator, its not an easy job.
 
 The following information should feel interesting & valuable:
@@ -138,8 +140,13 @@ The following information should feel interesting & valuable:
 - [Responsible Efika Owner](https://docs.grid.tf/dividi/efika/src/branch/master/efika_owner.md)
 - [Head of mission](head_of_mission_profile.md)
 
-## ThreeFold Guardian
+How to become a TF Coordinator.
 
+- Make sure you like to help other to contribute better to the ThreeFold Foundation causes.
+- You need to be a skilled TF Founder.
+- Existing TF Founders & TF Coordinators need to endorse you.
+
+## ThreeFold Guardian
 
 ### TF Governance Guardian
 
