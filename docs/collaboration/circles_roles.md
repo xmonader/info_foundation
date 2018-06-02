@@ -6,7 +6,7 @@
 
 * Coordinates (helps) a team of people working on one or more stories
 * make sure [circle_template](circle_template.md) is properly filled in and put in https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/
-* make sure all members have their page on [contributor pages location](/docs/contributors/tf_contributor_template.md}
+* make sure all members have their page on [contributor pages location](/docs/contributors/tf_contributor_template.md)
 * A Circle is a team on trello e.g. https://trello.com/tf_foundation/members
 * Circle Coordinator needs to make sure
   * People understand our Agile principles of working together
