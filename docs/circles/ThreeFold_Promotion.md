@@ -10,9 +10,10 @@ To promote the ThreeFold Token in order to gain a global adoption as a defacto s
 
 ## goals
 
-- To promote the sale of ThreeFold Tokens (June - August 350K / month - September-Dec 500K/ month)
+- To promote the sale of 3$ million of ThreeFold Tokens by end 2018.
 - To complete update of Token Website 1.0 to intergrate with the all of the Foundation site.
 - To host serveral global events (Dubai (Done), London, Vienna, Lugano, Turkey, Los Angeles, Ibiza)
+- To have 5 companies adopt the ThreeFold Token before the end of 2018 CityApp - (https://ourcityapps.com/)
 
 ## strategy
 
@@ -22,10 +23,10 @@ To promote the ThreeFold Token in order to gain a global adoption as a defacto s
 
 CHANGE: TODO:*1 
 - June-Dec 2018
-   - have all the basics implemented of circles and contributors
-   - link all contributors to right circles
-   - make sure contributors understand what their role is
- - tbd
+   - Sale of ThreeFold Tokens (June - August 350K / month - September-Dec 500K/ month)
+   - Token Website 1.0 by end June 2018
+   - Events - London June, Vienna June, Lugano June, Turkey June, Los Angeles July, Ibiza Aug)
+   - 5 companies adopt the ThreeFold Tokens before end of 2018. (1/5)
 
 
 ## contributors
