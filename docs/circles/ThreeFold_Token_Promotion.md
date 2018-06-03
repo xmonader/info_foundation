@@ -35,8 +35,9 @@ To promote the ThreeFold Token in order to gain a global adoption as a defacto s
 ## contributors
 
 - [contributors](https://github.com/threefoldfoundation/info_foundation/tree/master/docs/contributors)
-- Adnan coordinator of Token Sales (Sales) & overall Token Promotion coordinator. 
-- Elena coordinator of Token Road Map Web (Marketing, Communication & News)
+- Adnan coordinator of Token Sales (Sales & BizDev) & Overview Token Scrum Coordinator.  
+- Elena coordinator of Token Promotion (Marketing, Communication & Community) 
+- Roel coordinator of Token Road Map Web (Token Websie)
 - Stela/Nickolay coordinator of Token Use (Adoption)
 - Georges coordinator of Digital Market Development (Liquidity & Exchanges)
 - Stela coordinator of Events (Expos)
