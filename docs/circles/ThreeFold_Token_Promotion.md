@@ -17,7 +17,7 @@ To promote the ThreeFold Token in order to gain a global adoption as a defacto s
 
 ## strategy
 
-- To involve our ambassadors to reachout to thier personal network inorder to promote our goals with a priority to assist in the sale of 5$ million of ThreeFold tokens.
+- To involve our sponsors and ambassadors to reachout to thier personal network in order to promote our goals with a priority to assist in the sale of 5$ million of ThreeFold tokens.
 - To have two exchanges online before end of July 2018 in order to provide a buy/sell market place.
 - To have an easy step by step guide and easy to use website (tftokens.com) to onboard new token sales.
 - To have a dedciated tool set of token related videos, presentations and wallets to facilitate onboarding.
