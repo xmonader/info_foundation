@@ -28,7 +28,8 @@ Use the foundation wiki to make sure everyone can understand how we will work to
 
 ## contributors
 
-- every ambassador+ needs to have such a contributor page in relevant wiki
+- every ambassador+ needs to have such a contributor page in relevant wiki:
+   - [contributors](https://github.com/threefoldfoundation/info_foundation/tree/master/docs/contributors)
 - need to add this list . : TODO:*1 
 
 ## links
