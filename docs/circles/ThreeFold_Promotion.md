@@ -50,9 +50,9 @@ TODO:*1  change content these are just examples
 
 ### google drive
 
-- [google drive home](https://drive.google.com/drive/folders/1ygSc9mKaJJq-mw30zbfmikUWXO73m0kl)
-    - [home page](https://docs.google.com/document/d/1ixKZklZj21tRWBFlaxO8j0Sdm9Liyd1kjYTeAB6fZog/edit)
+- [google drive home](https://drive.google.com/drive/u/1/folders/1Enej6SCg4fo7f65EVYT4LT_-Cmga-Who)
+    - [home page](https://drive.google.com/drive/u/1/folders/1_9XS7b_4aVWZ95nDdwIS_nEnkQxjKrnw)
 
 ### websites/wiki
 
-- [wiki](https://github.com/threefoldfoundation/info_foundation)
+- [wiki](https://threefoldfoundation.github.io/info_tokens/#/)
