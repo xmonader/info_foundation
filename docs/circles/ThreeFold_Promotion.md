@@ -6,11 +6,13 @@
 
 ## purpose/mission
 
-....
+To promote the ThreeFold Token in order to gain a global adoption as a defacto standard for transferring value for goods and services; a medium that is value-backed, secure and good for the planet
 
 ## goals
 
-...
+- To promote the sale of ThreeFold Tokens (June - August 350K / month - September-Dec 500K/ month)
+- To complete update of Token Website 1.0 to intergrate with the all of the Foundation site.
+- To host serveral global events (Dubai (Done), London, Vienna, Lugano, Turkey, Los Angeles, Ibiza)
 
 ## strategy
 
@@ -19,7 +21,7 @@
 ## timing
 
 CHANGE: TODO:*1 
-- June first 2 weeks
+- June-Dec 2018
    - have all the basics implemented of circles and contributors
    - link all contributors to right circles
    - make sure contributors understand what their role is
@@ -28,8 +30,12 @@ CHANGE: TODO:*1
 
 ## contributors
 
-- every ambassador+ needs to have such a contributor page in relevant wiki
-- need to add this list . : TODO:*1 
+- Adnan coordinator of Token Sales (Sales) & overall Token Promotion coordinator. 
+- Elena coordinator of Token Road Map Web (Marketing, Communication & News)
+- Stela/Nickolay coordinator of Token Use (Adoption)
+- Georges coordinator of Digital Market Development (Liquidity & Exchanges)
+- Stela coordinator of Events (Expos)
+
 
 ## links
 
@@ -43,15 +49,15 @@ TODO:*1  change content these are just examples
    
 ### trello
 
-- [Trello: https://trello.com/tf_foundation](https://trello.com/tf_foundation)
-    - [website high level roadmap @](https://trello.com/invite/b/CfIT7n9B/eb2e9f6ea28a1e46baeba0de5335cfeb/tfwebhighlevelroadmap)
-    - [business development](https://trello.com/b/ppTVxCcO/tffunnel)
-    - [master scrum](https://trello.com/b/GgxRFeHn/tfmasterscrum)
+- [Trello_tftokens_overview](https://trello.com/threefoldtoken)
+    - [website high level roadmap @](https://trello.com/b/6EvzB47K/tftokenroadmapweb)
+    - [business development](https://trello.com/b/PQXC3FHZ/tftokenfunnelsales)
+    - [master scrum](https://trello.com/b/IqHW5DeD/tftokenstoriespromotion)
 
 ### google drive
 
 - [google drive home](https://drive.google.com/drive/u/1/folders/1Enej6SCg4fo7f65EVYT4LT_-Cmga-Who)
-    - [home page](https://drive.google.com/drive/u/1/folders/1_9XS7b_4aVWZ95nDdwIS_nEnkQxjKrnw)
+    - [home page](https://docs.google.com/document/d/1SpZmeAgzeNxDPJTLnShd-NkkOREuJf0ItRHJCuDxE7Q/edit)
 
 ### websites/wiki
 
