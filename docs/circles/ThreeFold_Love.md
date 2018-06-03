@@ -1,7 +1,7 @@
 
 # ThreeFold Love
 
-![](https://images.unsplash.com/photo-1474015833661-686ed67f9485?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d920fca11fea941a1634388dc765d0ca&auto=format&fit=crop&w=750&q=80)
+![](https://images.unsplash.com/photo-1470073755300-6ec0f9cfa01c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=644f6ac0c5c1568cf26610d934e14635&auto=format&fit=crop&w=755&q=80)
 
 ## Coordinator: Olivia
 
