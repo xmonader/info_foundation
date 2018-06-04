@@ -72,7 +72,7 @@ Items with @ are public
     - [home page @](https://docs.google.com/document/d/12-12I5tCAlHYOa326Crk5e_94FCrcZq6dsX_daI-p9k/edit?usp=sharing)
 - [wiki](https://github.com/threefoldfoundation/info_tech)
 
-## ThreeFold Impact (Olivia)
+## ThreeFold Impact/Love (Olivia)
 
 - [ThreeFold Grid Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=h5duotxihb8ujkkjro3oqf798r) : click on this one first before going to channel below
    - [impact chat @](https://chat.grid.tf/threefold/channels/impact)
