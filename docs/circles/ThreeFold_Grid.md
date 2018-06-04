@@ -36,6 +36,12 @@ CHANGE: TODO:*1
 
 - every ambassador+ needs to have such a contributor page in relevant wiki
 - need to add this list . : TODO:*1 
+- Andreas (Owner, Biz Dev Coops, Scrum-master)
+- Weynand (Farmer Product Management, Biz Dev)
+- Georges (Legal)
+- Elena (Marketing)
+- Sabrina (Community)
+- Jan (Technical Community)
 
 ## links
 
@@ -49,7 +55,7 @@ CHANGE: TODO:*1
 
 - [Trello: https://trello.com/tf_foundation](https://trello.com/tf_grid)
     - [website high level roadmap @](https://trello.com/invite/b/qEqnHMKb/20936c8aedf20d0aafdf3015bdcadbc6/tfgridroadmapweb)
-    - [business development]
+    - business development:
     - [africa](https://trello.com/b/xbQlLuLh/tfgridfunnelafrica)
     - [europe](https://trello.com/b/RnqC5MIN/tfgridfunneleurope)
     - [middle east](https://trello.com/b/HgqE6fi1/tfgridfunnelmiddleeast)
