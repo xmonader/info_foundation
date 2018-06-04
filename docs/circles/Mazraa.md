@@ -13,7 +13,8 @@
 
 ## goals
 
-- To promote the sales of 5 million USD. 
+- To promote the sales of 5 million USD in 2018.
+- To support the ThreeFold Grid network by assisting new TF Farmers to aquire "unmanaged certified" hardware.
 - To become a genesis farmer for the ThreeFold Grid. (Accomplished)
 
 ## strategy
@@ -22,14 +23,11 @@
 
 ## timing
 
-CHANGE: TODO:*1 
-- June first 2 weeks
-   - have all the basics implemented of circles and contributors
-   - link all contributors to right circles
-   - make sure contributors understand what their role is
- - tbd
-
-
+- June 2018
+   - Sale of 500 K US~D
+- July 2018
+   - Sale of 500 K US~D
+  
 ## contributors
 
 - every ambassador+ needs to have such a contributor page in relevant wiki
@@ -59,7 +57,7 @@ CHANGE: TODO:*1
 
 ### websites/wiki
 
-- [wiki](https://github.com/threefoldfoundation/info_foundation)
+- [wiki](https://github.com/threefoldfoundation/info_mazraa)
 
 
 
