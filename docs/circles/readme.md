@@ -1,6 +1,6 @@
 # overview of ThreeFold's main circles
 
-  - [ThreeFold Foundation](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/ThreeFold_Foundation.md)
+  - *[ThreeFold Foundation](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/ThreeFold_Foundation.md)
   
   - [ThreeFold Grid](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/ThreeFold_Grid.md)
     - Promote the ThreeFold Grid as a new, global, neutral and sustainable network of IT infrastructure.
