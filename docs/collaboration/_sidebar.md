@@ -1,4 +1,13 @@
 * [Home](/)
 * [How to contribute in ThreeFold](/collaboration/contributing_in_agile_org)
-
-
+* [Circles](/collaboration/circles)
+* [Circles](circles)
+* [Circle Roles](circles_roles)
+* [Circle Tools](circles_tools)
+* [Contributing to ThreeFold](contributing_in_agile_org)
+* [Head Of Mission](head_of_mission_profile)	
+* [Stories(stories)
+* [Story Pitfalls](story_pitfalls)
+* [Trello Guide](trello_usage)
+* [Web Planning](planning_web)
+* [Web Resources](web_resources)
