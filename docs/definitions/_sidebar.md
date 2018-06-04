@@ -1,5 +1,6 @@
 ## Toble of Contents
 
+* [Home](/)
 * [Gig_tech](definitions/gig_tech.md)
 * [IT_capacity](definitions/it_capacity.md)
 * [Mazraa](definitions/mazraa.md)
@@ -19,4 +20,4 @@
 * [ThreeFold Unmanaged Capacity](definitions/threefold_unmanaged_capacity.md)
 * [ThreeFold User](definitions/threefold_user.md)
 * [ThreeFold Wallet](definitions/threefold_wallet)
-* end
+
