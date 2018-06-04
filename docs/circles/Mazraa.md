@@ -6,21 +6,19 @@
    - [Adnan Fatayerji](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Adnan_Fatayerji.md)
    - [Weynard Kuihpers](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Weynand_Kuijpers.md)
    - [Georges Georgiou](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Georges_Georgiou.md)
-   - 
-......
-
 
 ## purpose/mission
 
-....
+- To promote the ThreeFold Tokens as the defacto medium of exchnage of value; one that is decentralized, value-backed, and secure.
 
 ## goals
 
-...
+- To promote the sales of 5 million USD. 
+- To become a genesis farmer for the ThreeFold Grid. (Accomplished)
 
 ## strategy
 
-...
+- Participation in Middle East based digital currency events in order to develop the adoption of TFT's through out the globe. 
 
 ## timing
 
@@ -39,7 +37,7 @@ CHANGE: TODO:*1
 
 ## links
 
-TODO:*1  change content these are just examples
+- website www.mazraa.io
 
 ### chat
 
