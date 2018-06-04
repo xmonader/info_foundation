@@ -1,5 +1,5 @@
 * [Definitions](/definitions/)
 * [Collaboration](/collaboration/home.md)
 * [Circles](/circles/home.md)
-* [FAQ](faq/)
-* [Legal](legal/)
+* [FAQ](faq/home.md)
+* [Legal](legal/home.md)
