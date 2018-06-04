@@ -36,7 +36,7 @@ CHANGE: TODO:*1
 
 ### chat
 
-- [ThreeFold Foundation Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=wpz16r964bdnuqxc5p7kn5upmo) : click on this one first before going to channel below
+- [ThreeFold Grid Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=wpz16r964bdnuqxc5p7kn5upmo) : click on this one first before going to channel below
    - [news @](https://chat.grid.tf/tfgrid/channels/town-square)
    - [chat @](https://chat.grid.tf/tfgrid/channels/chat) : public chat about anything
    
