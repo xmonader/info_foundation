@@ -103,7 +103,7 @@ only the items with @ are public
 ## Mazraa (Adnan)
 
 - [Trello Team](https://trello.com/mazraa)
-   - [actions](https://trello.com/b/UZscQzBW/mazraaactions)
+   - [actions](https://trello.com/b/UZscQzBW/mazraastories)
 - [google drive home](https://drive.google.com/drive/folders/1QTYnHGuFKGqvlnP0gz5MlPB6DmvKURQB)
     - [home page](https://docs.google.com/document/d/1au3P6swKLxShuqbfxk3B5RpvsgBIylDQQ3Amaf2_bgM/edit)
 
