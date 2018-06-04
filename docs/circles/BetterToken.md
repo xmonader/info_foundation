@@ -1,8 +1,10 @@
 # ThreeFold Foundation
 
-![](link to picture)
+![](https://images.unsplash.com/photo-1519082572439-7ed19908e47e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=68ebc63e9746d6e4e8fdf60b046a5160&auto=format&fit=crop&w=1275&q=80)
 
-- Coordinators: ...
+- Coordinators:
+
+Dan
 
 ## purpose/mission
 
