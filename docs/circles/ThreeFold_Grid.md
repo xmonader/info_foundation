@@ -36,13 +36,13 @@ CHANGE: TODO:*1
 
 ### chat
 
-- [ThreeFold Grid Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=wpz16r964bdnuqxc5p7kn5upmo) : click on this one first before going to channel below
+- [ThreeFold Foundation Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=wpz16r964bdnuqxc5p7kn5upmo) : click on this one first before going to channel below
    - [news @](https://chat.grid.tf/tfgrid/channels/town-square)
    - [chat @](https://chat.grid.tf/tfgrid/channels/chat) : public chat about anything
    
 ### trello
 
-- [Trello: https://trello.com/tf_foundation](https://trello.com/tf_foundation)
+- [Trello: https://trello.com/tf_foundation](https://trello.com/tf_grid)
     - [website high level roadmap @](https://trello.com/invite/b/CfIT7n9B/eb2e9f6ea28a1e46baeba0de5335cfeb/tfwebhighlevelroadmap)
     - [business development](https://trello.com/b/ppTVxCcO/tffunnel)
     - [master scrum](https://trello.com/b/GgxRFeHn/tfmasterscrum)
