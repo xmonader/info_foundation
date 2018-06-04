@@ -21,7 +21,7 @@ Items with @ are public
     - [home page](https://docs.google.com/document/d/1ixKZklZj21tRWBFlaxO8j0Sdm9Liyd1kjYTeAB6fZog/edit)
 - [wiki](https://github.com/threefoldfoundation/info_foundation)
 
-## ThreeFold Tokens (Adnan)
+## ThreeFold Token Promotion (Adnan)
 
 - [ThreeFold Token Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=wyn3qg6pe3gq7niy6w7yd3i6xy) : click on this one first before going to channel below
    - [news @](https://chat.grid.tf/tftokens/channels/town-square)
