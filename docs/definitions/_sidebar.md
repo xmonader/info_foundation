@@ -20,4 +20,3 @@
 * [ThreeFold Unmanaged Capacity](definitions/threefold_unmanaged_capacity.md)
 * [ThreeFold User](definitions/threefold_user.md)
 * [ThreeFold Wallet](definitions/threefold_wallet)
-* end
