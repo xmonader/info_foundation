@@ -26,11 +26,11 @@ Items with @ are public
 - [ThreeFold Token Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=wyn3qg6pe3gq7niy6w7yd3i6xy) : click on this one first before going to channel below
    - [news @](https://chat.grid.tf/tftokens/channels/town-square)
    - [chat @](https://chat.grid.tf/tftokens/channels/chat) : public chat about anything
-- [Trello: https://trello.com/threefoldtoken](https://trello.com/threefoldtoken)
+- [Trello: https://trello.com/b/IqHW5DeD](https://trello.com/b/IqHW5DeD)
     - tbd: adnan
 - [google drive home](https://drive.google.com/drive/folders/1_9XS7b_4aVWZ95nDdwIS_nEnkQxjKrnw)
     - [home page](https://docs.google.com/document/d/1SpZmeAgzeNxDPJTLnShd-NkkOREuJf0ItRHJCuDxE7Q/edit)
-- [wiki](https://github.com/threefoldfoundation/info_tokens)
+- [wiki](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/ThreeFold_Token_Promotion.md)
 
 ## ThreeFold Grid (Andreas)
 
