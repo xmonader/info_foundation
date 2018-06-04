@@ -1,7 +1,7 @@
 # Collaboration = Circles
 
 
-- [**circles: the most important starting point**](circles.md)
+- [**circles: the most important starting point**](docs/circles/readme.md)
 - [our websites](web_resources.md)
 - [circles tools](circles_tools.md)
     - [stories](stories.md) the unit of work we reason with
