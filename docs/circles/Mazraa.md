@@ -42,11 +42,6 @@
    - [Adnan Fatayerji](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Adnan_Fatayerji.md)
    - [Weynard Kuihpers](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Weynand_Kuijpers.md)
    - [Georges Georgiou](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Georges_Georgiou.md)
-   - [Gloria Cabron]
-(https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Georges_Georgiou.md)
-   - [Jenevie Demesa](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Georges_Georgiou.md)
-   - [Olivia Jurado]
-(https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Georges_Georgiou.md)
 
 ## links
 
