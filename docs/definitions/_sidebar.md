@@ -3,6 +3,7 @@
 * [Home](/)
 * [Gig_tech](definitions/gig_tech.md)
 * [IT_capacity](definitions/it_capacity.md)
+* [BetterToken](definitions/bettertoken.md)
 * [Mazraa](definitions/mazraa.md)
 * [ThreeFold](definitions/threefold.md)
 * [ThreeFold Chain](definitions/threefold_chain.md)
