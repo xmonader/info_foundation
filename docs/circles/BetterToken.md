@@ -4,10 +4,11 @@
 
 - Coordinators:
 
-Sabrina Sadik
-Dan Leighton
-Roel
-Frank
+- Sabrina Sadik
+- Dan Leighton
+- Roel
+- Frank
+......
 
 
 ## purpose/mission
