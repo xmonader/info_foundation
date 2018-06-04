@@ -4,20 +4,20 @@
 
 - Coordinators:
 
-   - Sabrina Sadik
    - Dan Leighton
-   - Roel
+   - Sabrina Sadik
+   - Roel van Sabben
    - Frank
 ......
 
 
 ## purpose/mission
 
-....
+Expand the ThreeFold Grid as quickly and as big as possible.
 
 ## goals
 
-...
+Put 1000 nodes into the Grid by the end of 2018
 
 ## strategy
 
