@@ -6,32 +6,28 @@
    - [Adnan Fatayerji](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Adnan_Fatayerji.md)
    - [Weynard Kuihpers](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Weynand_Kuijpers.md)
    - [Georges Georgiou](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Georges_Georgiou.md)
-   - 
-......
-
 
 ## purpose/mission
 
-....
+- To promote the ThreeFold Tokens as the defacto medium of exchnage of value; one that is decentralized, value-backed, and secure.
 
 ## goals
 
-...
+- To promote the sales of 5 million USD in 2018.
+- To support the ThreeFold Grid network by assisting new TF Farmers to aquire "unmanaged certified" hardware.
+- To become a genesis farmer for the ThreeFold Grid. (Accomplished)
 
 ## strategy
 
-...
+- Participation in Middle East based digital currency events in order to develop the adoption of TFT's through out the globe. 
 
 ## timing
 
-CHANGE: TODO:*1 
-- June first 2 weeks
-   - have all the basics implemented of circles and contributors
-   - link all contributors to right circles
-   - make sure contributors understand what their role is
- - tbd
-
-
+- June 2018
+   - Sale of 500 K US~D
+- July 2018
+   - Sale of 500 K US~D
+  
 ## contributors
 
 - every ambassador+ needs to have such a contributor page in relevant wiki
@@ -39,7 +35,7 @@ CHANGE: TODO:*1
 
 ## links
 
-TODO:*1  change content these are just examples
+- website www.mazraa.io
 
 ### chat
 
@@ -61,7 +57,7 @@ TODO:*1  change content these are just examples
 
 ### websites/wiki
 
-- [wiki](https://github.com/threefoldfoundation/info_foundation)
+- [wiki](https://github.com/threefoldfoundation/info_mazraa)
 
 
 
