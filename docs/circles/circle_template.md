@@ -1,46 +1,61 @@
+# ThreeFold Foundation
 
-# {{CIRCLE_NAME}}
+![](link to picture)
 
-- Coordinator: ...
+- Coordinators: ...
 
-## PURPOSE/MISSION
+## purpose/mission
 
-{{CIRCLE PURPOSE/MISSION}}
+....
 
-## CIRCLE GOALS
+## goals
 
-{{CIRCLE GOALS}}
+...
 
-... what do we want to achieve by when ... 
+## strategy
 
-## CIRCLE STRATEGY
+...
 
-{{CIRCLE STRATEGY}}
+## timing
 
-... what is our strategy to achieve the circle goals ...
+CHANGE: TODO:*1 
+- June first 2 weeks
+   - have all the basics implemented of circles and contributors
+   - link all contributors to right circles
+   - make sure contributors understand what their role is
+ - tbd
 
-## CIRCLE TIMING
 
-{{CIRCLE TIMING}}
+## contributors
 
-... what timing & different steps do we foresee to implement our strategy ...
-... e.g. if roadmaps put timing per version here ...
+- every ambassador+ needs to have such a contributor page in relevant wiki
+- need to add this list . : TODO:*1 
 
-## CIRCLE MEMBERS
+## links
 
-list all members
+TODO:*1  change content these are just examples
 
-- link to TF Contributor page (which is wiki page which is hosted in the wiki of the relevant circle), explain what contributor is good at.
+### chat
 
-every ambassador+ needs to have such a contributor page in relevant wiki
+- [ThreeFold Foundation Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=wpz16r964bdnuqxc5p7kn5upmo) : click on this one first before going to channel below
+   - [news @](https://chat.grid.tf/threefold/channels/town-square)
+   - [chat @](https://chat.grid.tf/threefold/channels/chat) : public chat about anything
+   
+### trello
 
-## CIRCLE LINKS
+- [Trello: https://trello.com/tf_foundation](https://trello.com/tf_foundation)
+    - [website high level roadmap @](https://trello.com/invite/b/CfIT7n9B/eb2e9f6ea28a1e46baeba0de5335cfeb/tfwebhighlevelroadmap)
+    - [business development](https://trello.com/b/ppTVxCcO/tffunnel)
+    - [master scrum](https://trello.com/b/GgxRFeHn/tfmasterscrum)
 
-- link to trello team
-- links to trello boards
-- links to mattermost chats
-- links to main google drive folder (only 1)
-- links to one or more github or gitea repositories (optional)
-- other links to relevant info e.g. gdocs, ...
+### google drive
+
+- [google drive home](https://drive.google.com/drive/folders/1ygSc9mKaJJq-mw30zbfmikUWXO73m0kl)
+    - [home page](https://docs.google.com/document/d/1ixKZklZj21tRWBFlaxO8j0Sdm9Liyd1kjYTeAB6fZog/edit)
+
+### websites/wiki
+
+- [wiki](https://github.com/threefoldfoundation/info_foundation)
+
 
 

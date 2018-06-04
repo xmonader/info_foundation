@@ -1,24 +1,25 @@
-# ThreeFold Foundation
+# ThreeFold Grid
 
-![](https://images.unsplash.com/photo-1461770354136-8f58567b617a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bfbf7a2299bb40a5b2fee8c05e47bcb7&auto=format&fit=crop&w=2100&q=80)
+![](https://images.unsplash.com/photo-1514864151880-d1bef4892f29?ixlib=rb-0.3.5&s=f71bc3863a76c9537e030ec380d46dda&auto=format&fit=crop&w=3367&q=80)
 
-- Coordinators: Kristof/Georges
+- Coordinators:
+[Andreas Hartl](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Andreas_Hartl.md)
 
 ## purpose/mission
-
-Help other circles to be effective.
-Coordinate work between the circles.
+To promote the ThreeFold Grid as a new, global, neutral and sustainable network of IT infrastructure created by ThreeFold Farmers.
+....
 
 ## goals
 
-Get everything organized before summer starts.
+...
 
 ## strategy
 
-Use the foundation wiki to make sure everyone can understand how we will work together.
+...
 
 ## timing
 
+CHANGE: TODO:*1 
 - June first 2 weeks
    - have all the basics implemented of circles and contributors
    - link all contributors to right circles
@@ -28,8 +29,7 @@ Use the foundation wiki to make sure everyone can understand how we will work to
 
 ## contributors
 
-- every ambassador+ needs to have such a contributor page in relevant wiki:
-   - [contributors](https://github.com/threefoldfoundation/info_foundation/tree/master/docs/contributors)
+- every ambassador+ needs to have such a contributor page in relevant wiki
 - need to add this list . : TODO:*1 
 
 ## links
@@ -37,12 +37,12 @@ Use the foundation wiki to make sure everyone can understand how we will work to
 ### chat
 
 - [ThreeFold Foundation Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=wpz16r964bdnuqxc5p7kn5upmo) : click on this one first before going to channel below
-   - [news @](https://chat.grid.tf/threefold/channels/town-square)
-   - [chat @](https://chat.grid.tf/threefold/channels/chat) : public chat about anything
+   - [news @](https://chat.grid.tf/tfgrid/channels/town-square)
+   - [chat @](https://chat.grid.tf/tfgrid/channels/chat) : public chat about anything
    
 ### trello
 
-- [Trello: https://trello.com/tf_foundation](https://trello.com/tf_foundation)
+- [Trello: https://trello.com/tf_foundation](https://trello.com/tf_grid)
     - [website high level roadmap @](https://trello.com/invite/b/CfIT7n9B/eb2e9f6ea28a1e46baeba0de5335cfeb/tfwebhighlevelroadmap)
     - [business development](https://trello.com/b/ppTVxCcO/tffunnel)
     - [master scrum](https://trello.com/b/GgxRFeHn/tfmasterscrum)

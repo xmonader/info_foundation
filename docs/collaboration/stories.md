@@ -7,7 +7,7 @@ Stories help us to organize our work. They need to comply to certain requirement
 
 A story normally represents the view of a person, e.g. "I as product owner for product X would like to see Y features to be implemented because... customer Z needs this... our strategy is..."
 
-Writing user stories may seem to be simple but there are many ways you can mess it up (Incomplete, inconsistent or missing valuable parts such ass acceptance criteria/DOD), to avoid this common mistakes, We have created this list of the most common pitfalls you must avoid while creating your stories.  [see the story pitfalls](story_pitfalls.md)
+Writing user stories may seem to be simple but there are many ways you can mess it up (incomplete, inconsistent or missing valuable parts such ass acceptance criteria/DOD), to avoid this common mistakes, We have created this list of the most common pitfalls you must avoid while creating your stories.  [see the story pitfalls](story_pitfalls.md)
 
 Stories are pieces of work (not simple tasks) which are aggregated in a story = its like a card you would stick on a whiteboard.
 
@@ -17,7 +17,7 @@ Stories are the cards as used in story_boards in trello: see [trello_usage](trel
 
 - Well chosen name
 - Clear description of what we want to achieve
-- Some Minimal description of deliverables and requirements (don't write specs here, they are markdown docs see below)
+- Some minimal description of deliverables and requirements (don't write specs here, they are markdown docs see below)
 - Story Card owner:
     - best to only have 1, is linked to the story
 - Estimation of the effort in days or hours (optional)
@@ -34,7 +34,7 @@ Stories are the cards as used in story_boards in trello: see [trello_usage](trel
 
 - Milestone: 
     - the swimlane in the story board (is the vertical column) 
-        - e.g. this_week, future this_month
+        - e.g. this_week, future, this_month
 
 - tasks from a story are a checklist in the story
 
@@ -61,7 +61,7 @@ Stories are the cards as used in story_boards in trello: see [trello_usage](trel
     - this is only set by the story card owner !!!
     - this needs to be set on max 2 daily basis !!!
     - time is working time (sum over all people)
-    - this is an estimate this is not the sum of the times used inside the story or specs underneith
+    - this is an estimate - this is not the sum of the times used inside the story or specs underneath
 
 #### Body
 

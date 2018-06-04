@@ -1,24 +1,31 @@
-# ThreeFold Foundation
+# BetterToken
 
-![](https://images.unsplash.com/photo-1461770354136-8f58567b617a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bfbf7a2299bb40a5b2fee8c05e47bcb7&auto=format&fit=crop&w=2100&q=80)
+![](https://images.unsplash.com/photo-1519082572439-7ed19908e47e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=68ebc63e9746d6e4e8fdf60b046a5160&auto=format&fit=crop&w=1275&q=80)
 
-- Coordinators: Kristof/Georges
+- Coordinators:
+
+   - Sabrina Sadik
+   - Dan Leighton
+   - Roel
+   - Frank
+......
+
 
 ## purpose/mission
 
-Help other circles to be effective.
-Coordinate work between the circles.
+....
 
 ## goals
 
-Get everything organized before summer starts.
+...
 
 ## strategy
 
-Use the foundation wiki to make sure everyone can understand how we will work together.
+...
 
 ## timing
 
+CHANGE: TODO:*1 
 - June first 2 weeks
    - have all the basics implemented of circles and contributors
    - link all contributors to right circles
@@ -28,11 +35,12 @@ Use the foundation wiki to make sure everyone can understand how we will work to
 
 ## contributors
 
-- every ambassador+ needs to have such a contributor page in relevant wiki:
-   - [contributors](https://github.com/threefoldfoundation/info_foundation/tree/master/docs/contributors)
+- every ambassador+ needs to have such a contributor page in relevant wiki
 - need to add this list . : TODO:*1 
 
 ## links
+
+TODO:*1  change content these are just examples
 
 ### chat
 

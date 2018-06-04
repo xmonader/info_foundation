@@ -15,7 +15,7 @@
 - Settng up initial farmer & co-op templates.
 - Team support.
 
-## My Priorities (Jan-March 18)
+## My Priorities
 
 - Raise (5 M USD)
 - Activate UAE Farmer Co-op
@@ -41,12 +41,6 @@
 - Activate UAE Farmer 
 
 
-### Next Weeks
-
-- Transfer to new Bank Account 
-
-
-### Next Months
 
 
 
