@@ -34,8 +34,6 @@ CHANGE: TODO:*1
 
 ## links
 
-TODO:*1  change content these are just examples
-
 ### chat
 
 - [ThreeFold Foundation Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=wpz16r964bdnuqxc5p7kn5upmo) : click on this one first before going to channel below
