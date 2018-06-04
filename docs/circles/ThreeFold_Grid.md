@@ -11,7 +11,12 @@ To promote the ThreeFold Grid as a new, global, neutral and sustainable network 
 
 ## goals
 
-...
+This circle supports cooperatives and individual farmers by providing information and support. The goal until end of the year 2018 is 100% focused around coverage, meaning as many locations as possible in as many as possible countries.
+Specific goals:
+- Bettertoken: 1000 small boxes until end of 2018
+- Mazraa: 300 small boxes until the end of 2018
+- Hujambo: Goal is investment volume of TF Fund 1
+- TFF: find cooperatives in North & South America, Russia/CIS and Japan
 
 ## strategy
 
@@ -43,18 +48,22 @@ CHANGE: TODO:*1
 ### trello
 
 - [Trello: https://trello.com/tf_foundation](https://trello.com/tf_grid)
-    - [website high level roadmap @](https://trello.com/invite/b/CfIT7n9B/eb2e9f6ea28a1e46baeba0de5335cfeb/tfwebhighlevelroadmap)
-    - [business development](https://trello.com/b/ppTVxCcO/tffunnel)
-    - [master scrum](https://trello.com/b/GgxRFeHn/tfmasterscrum)
+    - [website high level roadmap @](https://trello.com/invite/b/qEqnHMKb/20936c8aedf20d0aafdf3015bdcadbc6/tfgridroadmapweb)
+    - [business development]
+    - [africa] (https://trello.com/b/xbQlLuLh/tfgridfunnelafrica)
+    - [europe] (https://trello.com/b/RnqC5MIN/tfgridfunneleurope)
+    - [middle east] (https://trello.com/b/HgqE6fi1/tfgridfunnelmiddleeast)
+    - [us-canada] (https://trello.com/b/VRabD60x/tfgridfunneluscanada)
+    - [master scrum](https://trello.com/b/FOZrIDOL/tfgridstories)
 
 ### google drive
 
-- [google drive home](https://drive.google.com/drive/folders/1ygSc9mKaJJq-mw30zbfmikUWXO73m0kl)
-    - [home page](https://docs.google.com/document/d/1ixKZklZj21tRWBFlaxO8j0Sdm9Liyd1kjYTeAB6fZog/edit)
+- [google drive home](https://drive.google.com/drive/folders/18pxbdERI3OGLgAjgkWhdK1bR5S3A9YtM)
+    - [home page](https://docs.google.com/document/d/1B8Q_elx-J0ERj327e_u2qHoCiF1p2o-5KIQ_ERQZzJ4/edit)
 
 ### websites/wiki
 
-- [wiki](https://github.com/threefoldfoundation/info_foundation)
+- [wiki](https://threefoldfoundation.github.io/info_grid/#/)
 
 
 
