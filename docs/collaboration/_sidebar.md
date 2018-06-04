@@ -6,7 +6,7 @@
 * [Circle Tools](circles_tools)
 * [Contributing to ThreeFold](contributing_in_agile_org)
 * [Head Of Mission](head_of_mission_profile)	
-* [Stories(stories)
+* [Stories](stories)
 * [Story Pitfalls](story_pitfalls)
 * [Trello Guide](trello_usage)
 * [Web Planning](planning_web)
