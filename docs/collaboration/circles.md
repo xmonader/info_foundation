@@ -37,7 +37,7 @@ Items with @ are public
 - [ThreeFold Grid Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=4ugqek6hyprc8qkrm9ifea9moo) : click on this one first before going to channel below
    - [news @](https://chat.grid.tf/tfgrid/channels/town-square)
    - [chat @](https://chat.grid.tf/tfgrid/channels/chat) : public chat about anything
-- [Trello: https://trello.com/tf_grid](https://trello.com/tf_grid)
+- [Trello: https://trello.com/tf_grid](https://trello.com/b/FOZrIDOL)
     - [website roadmap @](https://trello.com/invite/b/qEqnHMKb/ab0e04a4c5ff7535d9a989f9d723a391/tfwebsiteroadmap)
     - [business development](https://docs.google.com/document/d/1B8Q_elx-J0ERj327e_u2qHoCiF1p2o-5KIQ_ERQZzJ4/edit)
     - [actions](https://trello.com/b/ZHo6yKPn/tfgridaction)
