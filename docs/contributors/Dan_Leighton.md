@@ -1,4 +1,4 @@
-# {{Dan Leighton}}
+# Dan Leighton
 
 {{picture}}
 
