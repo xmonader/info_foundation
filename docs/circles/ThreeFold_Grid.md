@@ -1,6 +1,6 @@
 # ThreeFold Foundation
 
-![](link to picture)
+![](https://unsplash.com/photos/J-ygvQbilXU)
 
 - Coordinators: ...
 
