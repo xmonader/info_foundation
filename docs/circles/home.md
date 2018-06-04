@@ -20,4 +20,4 @@
   
   - [**BetterToken**](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/BetterToken.md)
   
-  - **Mazraa**
+  - [**Mazraa**](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/Mazraa.md)
