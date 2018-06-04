@@ -9,36 +9,20 @@
 
 
 - Advisory Role
-- UAE Operations (Banking, Teams, Logistics, Admin, Payrole)
-- Investor & Support Sourcing (Ambassadors, Gaurdians and Evangelists) 
-- Evangelization & Spreading Positivity :-)
-- Settng up initial farmer & co-op templates.
-- Team support.
+- Coorindator of Token Promotion Team. 
+- Coordinator of UAE Operations (Banking, Teams, Logistics, Admin, Payrole)
+- Spain Operations & Business Development
+- Co-ordinator of Mazraa Co-op in United Arab Emirates (Genisis Pool)
 
 ## My Priorities
 
-- Raise (5 M USD)
-- Activate UAE Farmer Co-op
-- Setup UAE Managed Capacity Farmer
-- Coordinate UAE Operations (Teams, Logistics, Admin, Payrole)
-- Evangelization & Spreading the Love :-)(General)
-
-### GIG related 
-
-- see [my gig home page](https://docs.greenitglobe.com/gig/data_team/src/master/team/threefold/varia/Adnan%20Fatayerji)
-- Middle East Operations (Teams, Logistics, Admin, Payrole)
-- Business Development & Local Operations (When Required)
-- Finalize Safe City Termsheet Partnership (Meeting 10th October) Done 
+- Raise (5 M USD)with the help of TF Foundation team and network in 2018
+- Promote the spread of the ThreeFold Grid by finding new Farmers to add new capacity.
 
 
-### ASAP
 
-- New Bank accoutn Emirates under process.
-- Onboard new bank account for Bitoasis (RAK Bank / ADIB). 
-- Fundraising 5 Million USD
-- Attend Blockchain Events & Tech Events: 
-    - Unlock 2017
-- Activate UAE Farmer 
+
+
 
 
 
