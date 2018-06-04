@@ -1,5 +1,6 @@
 # Adnan Fatayerji
-![](https://docs.greenitglobe.com/gig/data_team/raw/master/team/threefold/varia/Adnan%20Fatayerji/processed.jpg)
+
+![](https://threefoldtoken.com/avatars/adnan_fatayerji_processed.jpg)
 
 - [calendar](https://calendar.google.com/calendar/embed?src=afatayer%40threefoldtoken.com&ctz=Asia/Dubai?src=greenitglobe.com_tsjmu4ib6q6fq908187nuvc6v8%40group.calendar.google.com&ctz=Europe/Amsterdam)
 
