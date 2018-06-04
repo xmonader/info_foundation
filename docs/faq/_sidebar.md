@@ -1,3 +1,3 @@
 
 * [Home](/)
-* [Ambasssador FAQ](ambassador_faq.md)
+* [Ambasssador FAQ](/faq/ambassador_faq.md)
