@@ -61,7 +61,7 @@ To promote the ThreeFold Token in order to gain a global adoption as a defacto s
    
 ### Trello
 
-- [Trello_tftokens_overview](https://trello.com/threefoldtoken)
+- [Trello_tftokens_board overview](https://trello.com/threefoldtoken)
     - [website high level roadmap @](https://trello.com/b/6EvzB47K/tftokenroadmapweb)
     - [business development](https://trello.com/b/PQXC3FHZ/tftokenfunnelsales)
     - [master_token_promotion_board](https://trello.com/b/IqHW5DeD/tftokenstoriespromotion)
