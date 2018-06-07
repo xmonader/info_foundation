@@ -1,4 +1,4 @@
-# ThreeFold Token Promotion
+# ThreeFold Token 
 
 ![](https://images.unsplash.com/photo-1505649118510-a5d934d3af17?ixlib=rb-0.3.5&s=3e49b355077bf4d3727db8e954e9c812&auto=format&fit=crop&w=1100&q=80)
 
