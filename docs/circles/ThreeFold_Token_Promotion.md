@@ -38,7 +38,7 @@ To promote the ThreeFold Token in order to gain a global adoption as a defacto s
    - Sale of ThreeFold Tokens (June - Dec $750K)
    - Token Website 1.0 by end June 2018, 1.1 end of August)
    - Events London June, Vienna June, Lugano June, Turkey June, Los Angeles July, Ibiza Aug)
-   - 10 companies to adopt the ThreeFold Tokens before end of 2018. (1/10)
+   - To have 10 companies to adopt the ThreeFold Tokens and platform before end of 2018. (1/10)
 
 
 ## Contributors
