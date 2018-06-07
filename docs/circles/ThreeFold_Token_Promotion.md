@@ -48,7 +48,7 @@ To promote the ThreeFold Token in order to gain a global adoption as a defacto s
 - Roel coordinator of Token Road Map Web (Token Websie)
 - Nickolay coordinator of Token Use (Adoption)
 - Georges coordinator of Digital Market Development (Liquidity & Exchanges)
-- Stela coordinator of Events (Expo's)
+- Stela coordinator of Events (Expo's & TF Events)
 - Sabrina coordinator of Mattermost ThreeFold Token News (Chat & News)
 - Full Team Detail @ [contributors](https://github.com/threefoldfoundation/info_foundation/tree/master/docs/contributors)
 
