@@ -1,14 +1,3 @@
-+++
-
-#Don't remove name!
-title = "Four New Websites"
-image = "../img/four-new-sites.png"
-author = "Roel van Sabben"
-subtitle = "Our ever moving Foundation"
-weight = 1
-
-+++
-
 # Four New Websites
 
 ![Logo](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/blog/img/four-new-sites.png?raw=true "Logo")
