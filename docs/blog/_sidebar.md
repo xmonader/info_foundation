@@ -3,7 +3,7 @@
 * [10x times power savings, is this possible?](/blog/10x-times-power.md)
 * [AirBnB for Internet Capacity](/blog/airbnb-for-internet-capacity.md)
 * [What can I do with the New Edge Cloud](/blog/do-with-new-edge-cloud.md)
-* [Ethical Design Manifesto](/blog/Ethical design manifesto)
+* [Ethical Design Manifesto](/blog/ethical-design-manifesto.md)
 * [Four New Websites](/blog/four-new-websites.md)
 * [Internet is growing wild](/blog/airbnb-for-internet-capacity.mdinternet-growing-wild.md)
 * [AirBnB for Internet Capacity](/blog/airbnb-for-internet-capacity.md)
