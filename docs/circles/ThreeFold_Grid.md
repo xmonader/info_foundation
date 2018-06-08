@@ -2,6 +2,39 @@
 
 ![](https://images.unsplash.com/photo-1514864151880-d1bef4892f29?ixlib=rb-0.3.5&s=f71bc3863a76c9537e030ec380d46dda&auto=format&fit=crop&w=3367&q=80)
 
+## Purpose/Mission
+To promote the ThreeFold Grid as a new, global, neutral and sustainable network of IT infrastructure created by ThreeFold Farmers.
+
+## Links
+
+### Chat
+
+- [ThreeFold Foundation Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=wpz16r964bdnuqxc5p7kn5upmo) : click on this one first before going to channel below
+   - [news @](https://chat.grid.tf/tfgrid/channels/town-square)
+   - [chat @](https://chat.grid.tf/tfgrid/channels/chat) : public chat about anything
+   
+### Trello
+
+- [Trello: https://trello.com/tf_foundation](https://trello.com/tf_grid)
+    - [website high level roadmap @](https://trello.com/invite/b/qEqnHMKb/20936c8aedf20d0aafdf3015bdcadbc6/tfgridroadmapweb)
+    - business development:
+    - [africa](https://trello.com/b/xbQlLuLh/tfgridfunnelafrica)
+    - [europe](https://trello.com/b/RnqC5MIN/tfgridfunneleurope)
+    - [middle east](https://trello.com/b/HgqE6fi1/tfgridfunnelmiddleeast)
+    - [us-canada](https://trello.com/b/VRabD60x/tfgridfunneluscanada)
+    - [master scrum](https://trello.com/b/FOZrIDOL/tfgridstories)
+
+### Google Drive
+
+- [google drive home](https://drive.google.com/drive/folders/18pxbdERI3OGLgAjgkWhdK1bR5S3A9YtM)
+    - [home page](https://docs.google.com/document/d/1B8Q_elx-J0ERj327e_u2qHoCiF1p2o-5KIQ_ERQZzJ4/edit)
+
+### Websites/Wiki
+
+- [wiki](https://threefoldfoundation.github.io/info_grid/#/)
+- [grid directory](https://capacity.threefoldtoken.com/)
+
+
 ## Coordinators
 - Andreas coordinator of TFGrid BizDev & Overview Grid Team Scrum Coordinator
 - Weynand coordinator of Grid related Farmer and Technical Content (TF Grid WIKI)
@@ -10,10 +43,6 @@
 - Georges coordinator of Legal Affairs (T&Cs, Contracts)
 - Stela coordinator of Events (Local Community Events)
 - Sabrina coordinator of Mattermost ThreeFold Grid News (Chat & News)
-
-## Purpose/Mission
-To promote the ThreeFold Grid as a new, global, neutral and sustainable network of IT infrastructure created by ThreeFold Farmers.
-
 
 ## Goals
 
@@ -58,33 +87,6 @@ Specific goals:
 - Sabrina coordinator of Mattermost ThreeFold Grid News (Chat & News)
 - Full Team Detail @ [contributors](https://github.com/threefoldfoundation/info_foundation/tree/master/docs/contributors)
 
-## Links
-
-### Chat
-
-- [ThreeFold Foundation Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=wpz16r964bdnuqxc5p7kn5upmo) : click on this one first before going to channel below
-   - [news @](https://chat.grid.tf/tfgrid/channels/town-square)
-   - [chat @](https://chat.grid.tf/tfgrid/channels/chat) : public chat about anything
-   
-### Trello
-
-- [Trello: https://trello.com/tf_foundation](https://trello.com/tf_grid)
-    - [website high level roadmap @](https://trello.com/invite/b/qEqnHMKb/20936c8aedf20d0aafdf3015bdcadbc6/tfgridroadmapweb)
-    - business development:
-    - [africa](https://trello.com/b/xbQlLuLh/tfgridfunnelafrica)
-    - [europe](https://trello.com/b/RnqC5MIN/tfgridfunneleurope)
-    - [middle east](https://trello.com/b/HgqE6fi1/tfgridfunnelmiddleeast)
-    - [us-canada](https://trello.com/b/VRabD60x/tfgridfunneluscanada)
-    - [master scrum](https://trello.com/b/FOZrIDOL/tfgridstories)
-
-### Google Drive
-
-- [google drive home](https://drive.google.com/drive/folders/18pxbdERI3OGLgAjgkWhdK1bR5S3A9YtM)
-    - [home page](https://docs.google.com/document/d/1B8Q_elx-J0ERj327e_u2qHoCiF1p2o-5KIQ_ERQZzJ4/edit)
-
-### Websites/Wiki
-
-- [wiki](https://threefoldfoundation.github.io/info_grid/#/)
 
 
 
