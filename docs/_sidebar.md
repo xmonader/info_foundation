@@ -2,4 +2,5 @@
 * [Collaboration](/collaboration/home.md)
 * [Circles](/circles/home.md)
 * [FAQ](faq/home.md)
+* [BLOGS](blog/home.md)
 * [Legal](legal/home.md)
