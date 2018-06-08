@@ -24,7 +24,7 @@ CHANGE: TODO:*1
 
 ## contributors
 
-- Luciene
+- Lucien
 
 ## links
 
