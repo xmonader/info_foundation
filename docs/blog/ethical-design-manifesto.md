@@ -1,4 +1,4 @@
-# Ethical design manifesto
+# Ethical Design Manifesto
 
 ![Logo](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/blog/img/10x-times-power.jpg?raw=true "Logo")
 
