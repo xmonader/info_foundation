@@ -1,6 +1,6 @@
 # Internet is growing wild
  
-![Logo](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/blog/img/internet-is-growing.jpg.jpg?raw=true "Logo")
+![Logo](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/blog/img/internet-is-growing.jpg?raw=true "Logo")
 
 ## Internet is growing in a way which is not sustainable, there needs to be an alternative
 
