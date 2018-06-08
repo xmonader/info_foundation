@@ -1,8 +1,8 @@
-# AirBnB for Internet Capacity
-
-## Everyone should be able to deliver capacity to the new neutral internet. 
+# AirBnB for Internet Capacity 
 
 ![Logo](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/blog/img/airbnb-for-internet-capacity.jpg?raw=true "Logo")
+
+## Everyone should be able to deliver capacity to the new neutral internet.
 
 **In this article we discuss the general concept of ‘decentralized grid’ and more practical questions of becoming part of it.**
 
