@@ -68,7 +68,8 @@ you are willing to:
 ## ThreeFold Founder
 
 
-We really believe that the world is changing. Many people choose to no longer follow the brainwashed way of living where fear dominates all. Please read our article about the [art of being loyal to our values](https://medium.com/@despiegk/the-art-of-being-loyal-to-your-values-e0e6e3f310f7)
+We really believe that the world is changing. Many people choose to no longer follow the brainwashed way of living where fear dominates all. Please read our article about the [art of being loyal to our values](https://medium.com/@despiegk/the-art-of-being-loyal-to-your-values-e0e6e3f310f7) and [build a better world together manifesto](https://docs.grid.tf/dividi/values/src/branch/master/kristof_build_a_better_world_manifesto.md
+). Being a TF Founder means these documents resonate with you, this is important because other TF Founders really do.
 
 If we want ThreeFold to have an impact on the world then I believe that our Founders need to set an example. Being a ThreeFold Founder is difficult, few have the courrage and the will to work on their self improvement to be such an example.
 
@@ -89,18 +90,29 @@ A ThreeFold Founder is willing to work on self improvement:
 
 A ThreeFold Founder understands and endorses:
 
-- [The Veda 4 Core Values](https://docs.grid.tf/dividi/values/src/branch/master/veda_values.md)
-- [How to be part of a responsive organization](https://docs.grid.tf/dividi/values/src/branch/master/responsive_org_manifesto.md)
-- [Ethical_design_manifesto](https://docs.grid.tf/dividi/values/src/branch/master/ethical_design_manifesto.md)
-- [Goals & Values](https://docs.grid.tf/dividi/values/src/branch/master/goals_values.md)
+- [build a better world together manifesto](https://docs.grid.tf/dividi/values/src/branch/master/kristof_build_a_better_world_manifesto.md
+)
+- [art of being loyal to our values](https://medium.com/@despiegk/the-art-of-being-loyal-to-your-values-e0e6e3f310f7)
+- values
+    - [The Veda 4 Core Values](https://docs.grid.tf/dividi/values/src/branch/master/veda_values.md)
+    - [Culture manifest](https://docs.grid.tf/dividi/efika/src/branch/master/efika_culture_manifest.md)
+    - [Goals & Values](https://docs.grid.tf/dividi/values/src/branch/master/goals_values.md)
+- efficiency & responsibility
+    - [How to be part of a responsive organization](https://docs.grid.tf/dividi/values/src/branch/master/responsive_org_manifesto.md)
+    - [Ethical_design_manifesto](https://docs.grid.tf/dividi/values/src/branch/master/ethical_design_manifesto.md)
 - [Difference between IQ, EQ and SQ](https://docs.grid.tf/dividi/values/src/branch/master/XQ.md)
-- [Culture manifest](https://docs.grid.tf/dividi/efika/src/branch/master/efika_culture_manifest.md)
 
 How to become a TF Founder.
 
 - Make sure you have enough time available to be a TF Founder and you are not afraid to do things differently.
+- You need to be willing to go the extra mile and always put the ThreeFold mission & values first.
+- Make sure you have really taken the time to read above and it resonates with you.
 - You need to be a loyal and skilled TF Ambassador.
 - Existing TF Founders need to endorse you.
+
+Note:
+
+Most of our ambassadors like these values and are really good examples but don't have the time to be a TF Founder. We would like to thank you so much for helping us and be that example for others.
 
 ## ThreeFold Coordinator 
 
