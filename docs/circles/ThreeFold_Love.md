@@ -15,36 +15,28 @@ Olivia
 ## timing
 
 Soft Launch Summer 2018
+
 Full Launch Spring 2019
 
 ## contributors: 
 
-- Nisha Grimes
-- Michael Gaffney
+- Nisha 
+- Michael 
 
-## links
-Coming Soon...
 
 ## chat
-### ThreeFold Love Chatgroup @ : click on this one first before going to channel below 
-### news @
-### chat @ : public chat about anything tf love related
+### ThreeFold Love Chatgroup @ 
 
-### trello
+
+## trello
 Trello Boards Overview: https://trello.com/tf_love
 
 [tflove_stories](https://trello.com/b/yEz1Eobm/tflovestories)
 
-### website high level roadmap @
-
-Coming Soon...
 
 ### google drive
 [google drive home](https://drive.google.com/drive/u/4/folders/1be12Wk_T7FHlQV2mCBQBe9e0W8nE-j3Y)
 
-### home page
-
-Coming Soon...
 
 ### websites/wiki
 [wiki](https://github.com/threefoldfoundation/info_love)
