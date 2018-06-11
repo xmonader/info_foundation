@@ -15,7 +15,7 @@ To promote the ThreeFold Grid as a new, global, neutral and sustainable network 
    
 ### Trello
 
-- [Trello: https://trello.com/tf_foundation](https://trello.com/tf_grid)
+- [Trello: https://trello.com/tf_grid](https://trello.com/tf_grid)
     - [website high level roadmap @](https://trello.com/invite/b/qEqnHMKb/20936c8aedf20d0aafdf3015bdcadbc6/tfgridroadmapweb)
     - business development:
     - [africa](https://trello.com/b/xbQlLuLh/tfgridfunnelafrica)
