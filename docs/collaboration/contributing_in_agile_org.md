@@ -168,7 +168,7 @@ requirements
 responsibilities
 
 - follow changes in our Foundation Rules & Regulations
-- vote on difficulty level (ofcourse study impact)
+- vote on difficulty level (of course study impact)
 - vote on Foundation budgets.
 - vote on people becoming a Guardian or leaving.
 - vote when changes in management structure of the Foundation are required
