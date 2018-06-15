@@ -4,14 +4,15 @@
 
 ## Threefold Websites
 
-under threefold.me and threefold.io
-
+all web & wiki sites under ```*.threefold.me``` and ```*.threefold.io```
 
 - https://www.threefold.me : main foundation website
 - https://grid.threefold.me &  https://www.grid.threefold.me
 - https://token.threefold.me &  https://www.token.threefold.me
 - https://tech.threefold.me & https://www.tech.threefold.me & https://wiki.tech.threefold.me: is wiki site for technology
 - ...
+
+TODO:*1 
 
 ## ThreeFold Presentations
 
@@ -24,7 +25,7 @@ TODO:*1 need to also put on .io
 
 ## Tech domain names
 
-all under ````*.grid.tf```
+all under ```*.grid.tf```
 
 TODO:*1 need to specify
 
