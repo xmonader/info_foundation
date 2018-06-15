@@ -29,3 +29,7 @@ all under ```*.grid.tf```
 
 TODO:*1 need to specify
 
+## legacy names
+
+- redirect to new names as shown above, DO NOT HOST DIRECTLY on these names, just put redirects on DNS server level
+
