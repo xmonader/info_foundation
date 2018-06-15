@@ -4,7 +4,7 @@ define the dns names we are going to use
 
 # web sites
 
-under threefold.me and threefold.com
+under threefold.me and threefold.io
 
 
 - https://www.threefold.me : main foundation website
