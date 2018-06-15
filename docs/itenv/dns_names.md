@@ -11,8 +11,7 @@ under threefold.me and threefold.io
 - https://grid.threefold.me &  https://www.grid.threefold.me
 - https://token.threefold.me &  https://www.token.threefold.me
 - https://tech.threefold.me & https://www.tech.threefold.me & https://wiki.tech.threefold.me: is wiki site for technology
-
-- https://love_fear_slides.threefold.me
+- ...
 
 # main presentations
 
