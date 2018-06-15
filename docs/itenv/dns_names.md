@@ -1,8 +1,8 @@
 
 
-define the dns names we are going to use
+# Overview DNS Names & Naming Conventions
 
-# web sites
+## Threefold Websites
 
 under threefold.me and threefold.io
 
@@ -13,7 +13,7 @@ under threefold.me and threefold.io
 - https://tech.threefold.me & https://www.tech.threefold.me & https://wiki.tech.threefold.me: is wiki site for technology
 - ...
 
-# main presentations
+## ThreeFold Presentations
 
 - http://intro_slides.threefold.me
 - http://tech_slides.threefold.me
@@ -21,3 +21,10 @@ under threefold.me and threefold.io
 - http://love_fear_slides.threefold.me
 
 TODO:*1 need to also put on .io
+
+## Tech domain names
+
+all under ````*.grid.tf```
+
+TODO:*1 need to specify
+
