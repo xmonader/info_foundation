@@ -1,5 +1,5 @@
 
-# ThreeFold Related Circles (NEEDS UPDATE, MANY LINKS BROKEN, PLEASE EVERYONE FIX)
+# ThreeFold Related Circles (OLD ONE DO NOT USE)
 
 We don't want to be a pyramid, we want to organize our work in circles.
 
