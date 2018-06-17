@@ -14,6 +14,10 @@ all web & wiki sites under ```*.threefold.me``` and ```*.threefold.io```
 
 TODO:*1 
 
+## ThreeFold Whitepapers
+
+- http://whitepaper.threefold.me
+
 ## ThreeFold Presentations
 
 - http://intro_slides.threefold.me
