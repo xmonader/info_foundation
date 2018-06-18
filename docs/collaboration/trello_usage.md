@@ -40,6 +40,7 @@ use labels for
   - question_blocking
   - next_week
   - this_month
+  - this_quarter
   - verification (needs to stay in here till at least board owner approves)
   - future
 - when story done or no longer valid just archive
