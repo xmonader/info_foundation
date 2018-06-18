@@ -1,23 +1,28 @@
 # overview of ThreeFold's main circles
 
-  - [**ThreeFold Foundation**](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/ThreeFold_Foundation.md)
+![](https://images.unsplash.com/photo-1526979272661-f2849f9fc0b7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=7ce9fe7e389f6f0ae09d65905f062a52&auto=format&fit=crop&w=1651&q=80)
+
+
+  - [**ThreeFold Foundation**](ThreeFold_Foundation.md)
   
-  - [**ThreeFold Grid**](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/ThreeFold_Grid.md)
+  - [**ThreeFold Grid**](ThreeFold_Grid.md)
     - Promotes the ThreeFold Grid as a new, global, neutral and sustainable network of IT infrastructure.
   
-  - **ThreeFold Incubator**
+  - **ThreeFold Incubator = Innovate**
   
-  - [**ThreeFold Love**](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/ThreeFold_Love.md)
+  - [**ThreeFold Love**](ThreeFold_Love.md)
   
-  - [**ThreeFold Token Promotion**](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/ThreeFold_Token_Promotion.md)
+  - [**ThreeFold Token Promotion**](ThreeFold_Token_Promotion.md)
     - Promotes the ThreeFold Token to gain global adoption.
     
   - **ThreeFold Fund**
   
   - **ThreeFold Tech**
   
-  - [**ThreeFold Incubator**](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/ThreeFold_Incubator.md)
+  - [**ThreeFold Incubator**](ThreeFold_Incubator.md)
   
-  - [**BetterToken**](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/BetterToken.md)
+  - [**BetterToken**](BetterToken.md)
   
-  - [**Mazraa**](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/Mazraa.md)
+  - [**Mazraa**](Mazraa.md)
+
+

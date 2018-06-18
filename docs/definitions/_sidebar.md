@@ -1,6 +1,9 @@
 ## Toble of Contents
 
 * [Home](/)
+
+----
+
 * [Gig_tech](definitions/gig_tech.md)
 * [IT_capacity](definitions/it_capacity.md)
 * [BetterToken](definitions/bettertoken.md)

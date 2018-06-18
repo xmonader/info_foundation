@@ -8,7 +8,7 @@ Welcome to our ThreeFold wiki,
 
 [](itenv/web_sites_toc.md ':include')
 
-[](itenv/wiki_sites_other_toc ':include')
+[](itenv/wiki_sites_other_toc.md ':include')
 
 ## Contribute
 
