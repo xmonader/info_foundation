@@ -34,19 +34,20 @@ Use the foundation wiki to make sure everyone can understand how we will work to
 
 ## links
 
+### trello
+
+- [Trello: https://trello.com/tf_foundation](https://trello.com/tf_foundation)
+    - [master scrum](https://trello.com/b/GgxRFeHn/tfmasterscrum)
+    - [stories](https://trello.com/b/XrntkDvy/tfstories)
+    - [website high level roadmap @](https://trello.com/invite/b/CfIT7n9B/eb2e9f6ea28a1e46baeba0de5335cfeb/tfwebhighlevelroadmap)
+    - [business development](https://trello.com/b/ppTVxCcO/tffunnel)
+
 ### chat
 
 - [ThreeFold Foundation Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=wpz16r964bdnuqxc5p7kn5upmo) : click on this one first before going to channel below
    - [news @](https://chat.grid.tf/threefold/channels/town-square)
    - [chat @](https://chat.grid.tf/threefold/channels/chat) : public chat about anything
    
-### trello
-
-- [Trello: https://trello.com/tf_foundation](https://trello.com/tf_foundation)
-    - [website high level roadmap @](https://trello.com/invite/b/CfIT7n9B/eb2e9f6ea28a1e46baeba0de5335cfeb/tfwebhighlevelroadmap)
-    - [business development](https://trello.com/b/ppTVxCcO/tffunnel)
-    - [master scrum](https://trello.com/b/GgxRFeHn/tfmasterscrum)
-
 ### google drive
 
 - [google drive home](https://drive.google.com/drive/folders/1ygSc9mKaJJq-mw30zbfmikUWXO73m0kl)
