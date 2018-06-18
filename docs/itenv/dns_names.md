@@ -4,13 +4,16 @@
 
 ## Threefold Websites
 
-all web & wiki sites under ```*.threefold.me``` and ```*.threefold.io```
+| DNS                     | .io                 | .me                 |                   |   
+|-------------------------|---------------------|---------------------|-------------------|
+| Main Foundation Website | threefold.io        | threefold.me        |                   |
+| Grid                    | grid.threefold.io   | grid.threefold.me   |                   |  
+| Token                   | token.threefold.io  | token.threefold.me  |                   |   
+| Impact                  | impact.threefold.io | impact.threefold.me |                   |   
+| Tech                    | tech.threefold.io   | tech.threefold.me   | tech.threefold.me |   
+| Radar                   | radar.threefold.io  | radar.threefold.me  |                   |   
 
-- https://www.threefold.me : main foundation website
-- https://grid.threefold.me &  https://www.grid.threefold.me
-- https://token.threefold.me &  https://www.token.threefold.me
-- https://tech.threefold.me & https://www.tech.threefold.me & https://wiki.tech.threefold.me: is wiki site for technology
-- ...
+** All websites should be reachable with and without WWW. in front of it.
 
 TODO:*1 
 
@@ -20,10 +23,14 @@ TODO:*1
 
 ## ThreeFold Presentations
 
-- http://intro_slides.threefold.me
-- http://tech_slides.threefold.me
-- http://farming_slides.threefold.me
-- http://love_fear_slides.threefold.me
+| DNS              | .io                           | .me                           |     
+|------------------|-------------------------------|-------------------------------|
+| Intro Slides     | intro_slides.threefold.io     | intro_slides.threefold.me     |
+| Tech Slides      | tech_slides.threefold.io      | tech_slides.threefold.me      |
+| Farming Slides   | farming_slides.threefold.io   | farming_slides.threefold.me   |
+| Love Fear Slides | love_fear_slides.threefold.io | love_fear_slides.threefold.me |
+
+** All slidedecks should be reachable with and without WWW. in front of it.
 
 TODO:*1 need to also put on .io
 
