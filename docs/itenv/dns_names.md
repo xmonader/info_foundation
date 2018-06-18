@@ -4,13 +4,13 @@
 
 ## Threefold Websites
 
-| DNS                     | .io                 | .me                 |                   |   
+| DNS                     | .io                 | .me                 |.wiki              |   
 |-------------------------|---------------------|---------------------|-------------------|
 | Main Foundation Website | threefold.io        | threefold.me        |                   |
 | Grid                    | grid.threefold.io   | grid.threefold.me   |                   |  
 | Token                   | token.threefold.io  | token.threefold.me  |                   |   
 | Impact                  | impact.threefold.io | impact.threefold.me |                   |   
-| Tech                    | tech.threefold.io   | tech.threefold.me   | tech.threefold.me |   
+| Tech                    | tech.threefold.io   | tech.threefold.me   | tech.threefold.wiki |   
 | Radar                   | radar.threefold.io  | radar.threefold.me  |                   |   
 
 ** All websites should be reachable with and without WWW. in front of it.
