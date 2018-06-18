@@ -1,4 +1,5 @@
 * [Definitions](/definitions/)
+* [Presentations](/presentations/home.md)
 * [Collaboration](/collaboration/home.md)
 * [Circles](/circles/home.md)
 * [FAQ](faq/home.md)
