@@ -8,7 +8,13 @@ Welcome to our ThreeFold wiki,
 
 [](itenv/web_sites_toc.md ':include')
 
+[](itenv/wiki_sites_other_toc ':include')
 
-do you wan't to contribute please go to the github repositories and make pull requests.
+## Contribute
+
+do you wan't to contribute please go to the github repositories and make pull requests. See the table's above where the source of the information is coming from.
+
+
+
 
 
