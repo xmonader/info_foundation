@@ -12,7 +12,7 @@ Coordinate work between the circles.
 ## subcircles
 
 - [grid](/circles/foundation/grid/grid.md)  : Andreas
-- [tokens](/circles/foundation/grid/grid.md)  : Andreas
+- [tokens](/circles/foundation/tokens/tokens.md)  : Andreas
 - [foundation/ambassadors](/circles/foundation/foundation_ambassadors.md)    :    owen
 - [foundation/love](/circles/foundation/foundation_love.md)  :   olivia
 - [innovate](/circles/foundation/innovate/innovate.md)  : kristof

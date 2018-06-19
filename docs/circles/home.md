@@ -15,4 +15,6 @@
   - [**BetterToken**: promote the grid](/circles/betterToken.md)
   - [**Mazraa**: prmote usage of tokens](circles/mazraa.md)
 
+## How to work together
 
+- [see this wiki](/collaboration)

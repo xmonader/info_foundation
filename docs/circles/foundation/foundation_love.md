@@ -26,19 +26,19 @@ Full Launch Spring 2019
 
 #TODO: need pages per ambassador on [contributors](https://github.com/threefoldfoundation/info_foundation/tree/master/docs/contributors)
 
-## chat
-### ThreeFold Love Chatgroup @ 
-
 
 ## trello
+
 Trello Boards Overview: https://trello.com/tf_love
 
 [tflove_stories](https://trello.com/b/yEz1Eobm/tflovestories)
 
 
 ## google drive
+
 [google drive home](https://drive.google.com/drive/u/4/folders/1be12Wk_T7FHlQV2mCBQBe9e0W8nE-j3Y)
 
 
 ## websites/wiki
+
 [wiki](https://github.com/threefoldfoundation/info_love)
