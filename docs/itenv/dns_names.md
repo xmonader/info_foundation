@@ -13,8 +13,8 @@
 | Tech                    | tech.threefold.io   | tech.threefold.me   | tech.threefold.wiki |   
 | Radar                   | radar.threefold.io  | radar.threefold.me  |                   |   
 
-**All websites should be reachable with and without WWW. in front of it.**
-**All staging websites will be a staging. e.g. staging.threefold.io / staging.grid.threefold.io**
+- **All websites should be reachable with and without WWW. in front of it.**
+- **All staging websites will be a staging. e.g. staging.threefold.io / staging.grid.threefold.io**
 
 
 TODO:*1 
