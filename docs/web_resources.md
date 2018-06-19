@@ -37,6 +37,6 @@
 - show information about the tokens & the capacity as a sort of dashboard
 
 
-to contribute:
+# to contribute:
 
 [https://github.com/threefoldfoundation/home](https://raw.githubusercontent.com/threefoldfoundation/home/master/README.md ':include')
