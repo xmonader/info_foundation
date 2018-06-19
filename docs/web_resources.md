@@ -32,6 +32,11 @@
 
 - which capacity is available
 
-## Radar website - [radar.threefold.me]
+## Radar website - [radar.threefold.me](http://radar.threefold.me)
 
 - show information about the tokens & the capacity as a sort of dashboard
+
+
+to contribute:
+
+[https://github.com/threefoldfoundation/home](https://raw.githubusercontent.com/threefoldfoundation/home/master/README.md ':include')

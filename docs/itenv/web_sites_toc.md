@@ -11,7 +11,3 @@ Grid/Farmers website | http://grid.threefold.me | https://github.com/threefoldfo
 
 see also [websites](/web_resources.md)
 
-to contribute:
-
-
-[https://github.com/threefoldfoundation/home](https://raw.githubusercontent.com/threefoldfoundation/home/master/README.md ':include')
