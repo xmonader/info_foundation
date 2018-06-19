@@ -1,3 +1,4 @@
 
 * [Home](/)
 
+* [Definitions](definitions.md)
