@@ -5,7 +5,7 @@
 
 ## Coordinator(s): 
 
-Olivia
+[Olivia](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Olivia_Jurado.md#olivia-jurado)
 
 ## purpose/mission
 
@@ -14,17 +14,19 @@ Olivia
 
 ## strategy
 
+...
+
 ## timing
 
-Soft Launch Summer 2018
-Full Launch Spring 2019
+-Soft Launch Summer 2018
+
+-Full Launch Spring 2019
 
 ## contributors: 
 
-- Nisha 
-- Michael 
-
-#TODO: need pages per ambassador on [contributors](https://github.com/threefoldfoundation/info_foundation/tree/master/docs/contributors)
+- [Nisha](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Nisha_Grimes.md#nisha-grimes)
+- [Michael](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Michael_Gaffney.md#michael-gaffney)
+- [Kyle](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Kyle_Weber.md#kyle-weber)
 
 
 ## trello
