@@ -1,8 +1,20 @@
-## different types of trello boards
+# Trello Usage
 
 ![](https://images.unsplash.com/photo-1494074734099-c4ec0c45687a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f18b2bf25abbaeddbe5ea1f9dae1ff85&auto=format&fit=crop&w=1950&q=80)
 
 **make sure every board is defined in** [the circles document](circles.md)
+
+## The Info Card
+
+example https://trello.com/c/o8VWFzcH/23-info
+
+is one special card which should be there on each trello board, it has the links to the info related to this board.
+
+e.g. links to circle page, link to gdrive, link to other trello boards relevant, ...
+e.g. info about timing (needed for e.g. trello roadmap board)
+
+## different types of trello boards
+
 
 ### funnel board
 
