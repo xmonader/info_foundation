@@ -1,6 +1,8 @@
 # Olivia Jurado
 
  
+## [my calendar](https://calendar.google.com/calendar/b/4/r?tab=mc)
+
 
 ## why do I like to contribute to TF
 
@@ -14,6 +16,7 @@
 
 ## other info about myself
 
+- [mazraa](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/Mazraa.md) founding team 
 - ask me about plants, essential oils, growing your own food, all things regenerative
 - plant based, slow foodie (food should always be chemical free, eat local, eat seasonally, support local farmers)
 - making steps towards zero waste (say no to single use plastic!)
