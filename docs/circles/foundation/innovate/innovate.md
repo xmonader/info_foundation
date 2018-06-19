@@ -30,16 +30,12 @@ CHANGE: TODO:*1
 - Wolfgang
 
 ## links
-
-### chat
-
-- [ThreeFold Incubator Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=wjjmdnqx3pfrx898txxfc9pmde) : click on this one first before going to channel below
-   - [news @](https://chat.grid.tf/incubator/channels/town-square)
-   - [chat private](https://chat.grid.tf/incubator/channels/chat)
    
 ### trello
 
 - [Trello: https://trello.com/tf_innovate](https://trello.com/tf_innovate)
+    - [fund stories](https://trello.com/b/6iGfd5Cc/tfinnovatestories) 
+    - [fund funnel](https://trello.com/b/OTDDFdnX/tfinnovatefunnelfund)
     - 
 ### google drive
 

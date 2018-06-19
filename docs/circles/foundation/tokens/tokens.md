@@ -4,13 +4,13 @@
 
 ## Coordinators:
 
-- [Adnan](info_foundation/docs/contributors/Adnan_Fatayerji.md) coordinator of Token Sales & Overview Token Team Scrum Coordinator 
-- [Elena](info_foundation/docs/contributors/Elena_Anfimova.md) coordinator of Token Promotion (Marketing, Communication & Community) 
-- [Roel](info_foundation/docs/contributors/Roel_van_Sabben.md) coordinator of Token Road Map Web (Token Websie)
-- [Nickolay](info_foundation/docs/contributors/Roel_van_Sabben.md) coordinator of Token Users (Token & Platform Adoption). 
-- [Georges](info_foundation/docs/contributors/Georges_Georgiou.md) coordinator of Digital Market Development (Liquidity & Exchanges).
-- [Stela](info_foundation/docs/contributors/Stela_Suils_Cuesta.md) coordinator of Events (Expos).
-- [Sabrina](info_foundation/docs/contributors/sabrina_sadik.md) coordinator of Mattermost ThreeFold Token News (Chat & News).
+- [Adnan](/contributors/Adnan_Fatayerji.md) coordinator of Token Sales & Overview Token Team Scrum Coordinator 
+- [Elena](/contributors/Elena_Anfimova.md) coordinator of Token Promotion (Marketing, Communication & Community) 
+- [Roel](/contributors/Roel_van_Sabben.md) coordinator of Token Road Map Web (Token Websie)
+- [Nickolay](/contributors/Roel_van_Sabben.md) coordinator of Token Users (Token & Platform Adoption). 
+- [Georges](/contributors/Georges_Georgiou.md) coordinator of Digital Market Development (Liquidity & Exchanges).
+- [Stela](/contributors/Stela_Suils_Cuesta.md) coordinator of Events (Expos).
+- [Sabrina](/contributors/sabrina_sadik.md) coordinator of Mattermost ThreeFold Token News (Chat & News).
 
 ## Purpose/Mission
 

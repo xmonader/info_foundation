@@ -36,6 +36,7 @@ To promote the ThreeFold Grid as a new, global, neutral and sustainable network 
 
 
 ## Coordinators
+
 - Andreas coordinator of TFGrid BizDev & Overview Grid Team Scrum Coordinator
 - Weynand coordinator of Grid related Farmer and Technical Content (TF Grid WIKI)
 - Elena coordinator of Token Road Map Web (TF Grid Website)
@@ -54,6 +55,7 @@ Specific goals:
 - TFF: find cooperatives in North & South America, Russia/CIS and Japan
 
 ## Strategy
+
 - Support cooperatives and individual farmers by providing information and support through web, wiki and chat/forum.
 - Create scalabilty through cooperatives
 - Establish new cooperatives in North & South America, Russia/CIS and Japan (as a first Asian hub)
@@ -63,7 +65,7 @@ Specific goals:
 
 ## Timing
 
-- June first 2 weeks
+- June
    - have all the basics implemented of circles and contributors
    - link all contributors to right circles
    - make sure contributors understand what their role is
