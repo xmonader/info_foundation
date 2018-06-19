@@ -10,3 +10,8 @@ Grid/Farmers website | http://grid.threefold.me | https://github.com/threefoldfo
  Africa Fund For Farming | TODO | https://github.com/threefoldfoundation/www_impact
 
 see also [websites](/web_resources.md)
+
+to contribute:
+
+
+[](https://raw.githubusercontent.com/threefoldfoundation/home/master/README.md ':include')

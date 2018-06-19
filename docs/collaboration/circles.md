@@ -1,5 +1,5 @@
 
-[](home.md ':/circles/readme.md')
+[](readme.md ':/circles/readme.md')
 
 circles are defined in https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/
 

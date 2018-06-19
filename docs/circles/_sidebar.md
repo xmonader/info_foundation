@@ -2,7 +2,7 @@
 
 -----
 
-* [Overview](/circles/home.md)
+* [Overview](/circles/readme.md)
 * [Foundation](/circles/foundation/)
     * [Ambassadors](/circles/foundation/foundation_ambassadors.md) 
     * [Finance/Legal](/circles/foundation/foundation_finance_legal.md)
