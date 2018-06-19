@@ -5,8 +5,8 @@
 ### Circle Coordinator
 
 * Coordinates (helps) a team of people working on one or more stories
-* make sure [circle_template](circle_template.md) is properly filled in and put in https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/
-* make sure all members have their page on [contributor pages location](/docs/contributors/tf_contributor_template.md)
+* make sure the circle home page is properly filled in and put in https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/
+* make sure all members have their page on [contributor pages location](/docs/contributors/) can be editted in https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/
 * A Circle is a team on trello e.g. https://trello.com/tf_foundation/members
 * Circle Coordinator needs to make sure
   * People understand our Agile principles of working together
@@ -14,7 +14,7 @@
   * People are happy to contribute and are motivated/passionate
   * Eliminate all blockers which people might experience
 * Circle Coordinator are often also story owners \(of X nr of stories\)
-* A Circle Coordinatsor is not a controller ! its a person at service of his team. A Scrum Master = a coach/coordinator.
+* A Circle Coordinator is not a controller ! its a person at service of his team. A Scrum Master = a coach/coordinator.
 
 
 ### Board Owner

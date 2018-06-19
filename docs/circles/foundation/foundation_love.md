@@ -9,13 +9,14 @@ Olivia
 
 ## purpose/mission
 
+...
+
 
 ## strategy
 
 ## timing
 
 Soft Launch Summer 2018
-
 Full Launch Spring 2019
 
 ## contributors: 
@@ -23,6 +24,7 @@ Full Launch Spring 2019
 - Nisha 
 - Michael 
 
+#TODO: need pages per ambassador on [contributors](https://github.com/threefoldfoundation/info_foundation/tree/master/docs/contributors)
 
 ## chat
 ### ThreeFold Love Chatgroup @ 

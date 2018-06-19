@@ -1,6 +1,7 @@
 # Circles Tools
 
 ## Aims of our tools
+
 - Clarity, Tracability, Transparency and Active Teamwork.
   - Clarity: try to ensure that your communications are clear, understandable, well written and purposeful.
   - Tracability: we are a complex organisation attempting something amazing, it is important we can work out who contributed what and when so we can come back to them for clarification if needed!
@@ -9,12 +10,12 @@
 
 ## Definition Of Circles
 
-- Ensure all circles are defined on [our circles page](circles.md) IMPORTANT !!!
+- Ensure all circles are defined on [our circles page](/circles/) IMPORTANT !!!
 
 ## Trello
 
 - Each circle has an associated Trello team.
-- The Trello team for each circle is linked from the [circles page](circles.md).
+- The Trello team for each circle is linked from [our circles page](/circles/).
 - To ensure we all have visibility of all projects, you should only create new boards within the Trello team.
 - We should stick with the free version of Trello because we will have thousands of people participating in the future and we don't want to lock people out of functions because they don't have a subscription.
 

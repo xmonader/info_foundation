@@ -38,7 +38,6 @@ use labels for
 - swimlanes
   - this_week
   - question_blocking
-  - next_week
   - this_month
   - this_quarter
   - verification (needs to stay in here till at least board owner approves)
@@ -66,3 +65,19 @@ roadmaps are about content (feature requests, issues, ...) which need to be exec
  - the story owner = makes sure that the feature will be done in the right version
  - there needs to be a chat attached to each roadmap
  
+### support board
+
+A team of people delivering support, can be e.g. presales, IT support, ...
+ 
+- The Items on the board are the tickets (people asking for support)
+- storyboard name: $teamname_support_$name e.g. tf_support_it
+- swimlanes
+  - new       : new tickets coming in, they need to be sorted
+  - urgent    : deal with < 1 day
+  - normal    : deal with < 1 week or faster if possible
+  - backlog   : no immediate need but want to remember for future
+  - question  : ticket is blocking, or needs answer by someone e.g. by customer itself
+  - verify    : can be closed but good to have a verification step
+
+
+  
