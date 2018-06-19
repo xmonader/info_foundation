@@ -13,7 +13,7 @@
 | Tech                    | tech.threefold.io   | tech.threefold.me   | tech.threefold.wiki |   
 | Radar                   | radar.threefold.io  | radar.threefold.me  |                   |   
 
-- **All websites should be reachable with and without WWW. in front of it.**
+- **All websites should be reachable with and without www. in front of it.**
 - **All staging websites will be a staging. e.g. staging.threefold.io / staging.grid.threefold.io**
 
 
@@ -32,7 +32,7 @@ TODO:*1
 | Farming Slides   | farming_slides.threefold.io   | farming_slides.threefold.me   |
 | Love Fear Slides | love_fear_slides.threefold.io | love_fear_slides.threefold.me |
 
-**All slidedecks should be reachable with and without WWW. in front of it.**
+**All slidedecks should be reachable with and without www. in front of it.**
 
 TODO:*1 need to also put on .io
 
