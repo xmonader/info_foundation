@@ -3,4 +3,4 @@
 
 ----
 
-* [Definitions](definitions.md)
+* [Definitions](/legal/definitions.md)
