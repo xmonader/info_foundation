@@ -6,13 +6,13 @@
 
 All collaboration at ThreeFold is organized in circles, therefor make sure you get acquainted with the [ThreeFold Circles](/circles/readme.md)
 
-- [How to contribute](contributing_in_agile_org.md)
-- [Circles Roles](circles_roles.md)
-- [Circles Tools](circles_tools.md)
-- [Stories](stories.md) the unit of work we reason with
-- [Trello Usage](trello_usage.md)
+- [How to contribute](/collaboration/contributing_in_agile_org.md)
+- [Circles Roles](/collaboration/circles_roles.md)
+- [Circles Tools](/collaboration/circles_tools.md)
+- [Stories](/collaboration/stories.md) the unit of work we reason with
+- [Trello Usage](/collaboration/trello_usage.md)
 
 Also see:
-- [Story Pitfalls](story_pitfalls.md)
-- [Head Of Mission Profile](head_of_mission_profile.md)
+- [Story Pitfalls](/collaboration/story_pitfalls.md)
+- [Head Of Mission Profile](/collaboration/head_of_mission_profile.md)
 - [All other ThreeFold Web resources](/web_resources.md)
