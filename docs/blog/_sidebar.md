@@ -1,5 +1,7 @@
-
 * [Home](/)
+
+----
+
 * [10x times power savings, is this possible?](/blog/10x-times-power.md)
 * [AirBnB for Internet Capacity](/blog/airbnb-for-internet-capacity.md)
 * [What can I do with the New Edge Cloud](/blog/do-with-new-edge-cloud.md)

@@ -3,5 +3,5 @@
 * [Collaboration](/collaboration/readme.md)
 * [Circles](/circles/readme.md)
 * [FAQ](faq/readme.md)
-* [BLOGS](blog/readme.md)
+* [Blogs](blog/readme.md)
 * [Legal](legal/readme.md)
