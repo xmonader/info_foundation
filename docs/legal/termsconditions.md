@@ -1,6 +1,6 @@
 
 
-# Supplemental Terms And Conditions
+# Supplemental Terms & Conditions
 
 ## Information
 

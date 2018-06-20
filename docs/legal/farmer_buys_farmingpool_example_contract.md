@@ -1,5 +1,5 @@
 
-#  Example of farmer contracts
+#  Farmer Contract Example
 
 
         - Name of the Purchase        [First and Last name or Full Company name]
