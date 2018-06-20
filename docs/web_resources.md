@@ -77,10 +77,7 @@ Our directory which shows how much capacity there is available and where.
 
 # How to contribute?
 
-[https://github.com/threefoldfoundation/home](https://raw.githubusercontent.com/threefoldfoundation/home/master/README.md ':include')
-
-- click on github links below.
-- click on issues on each of the github links & can leave comments/bugs/requests
+see [https://github.com/threefoldfoundation/home](https://raw.githubusercontent.com/threefoldfoundation/home/master/README.md)
 
 ## List of websites/wiki's
 
