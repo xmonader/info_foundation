@@ -5,13 +5,10 @@
 
 **Welcome to our ThreeFold Wiki!**
 
-- [our websites](web_resources.md)
+**[our websites](web_resources.md)**
 
-## Contribute
+We invite everybody to contribute to our websites & wikis, checkout the link above which has instructions how to do this.
 
-We invite everybody to contribute.
-
-In order to contribute go to the above listed GitHub repositories and create pull requests.
 
 
 
