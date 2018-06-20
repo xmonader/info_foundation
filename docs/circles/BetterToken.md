@@ -1,4 +1,4 @@
-# BetterToken
+# BetterToken Circle
 
 ![](images/farmer.png)
 

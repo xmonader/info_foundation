@@ -9,23 +9,23 @@
    - [Georges Georgiou](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Georges_Georgiou.md)
 
 
-## purpose/mission
+## Purpose/mission
 
 - To promote the ThreeFold Tokens as the defacto medium of exchnage of value; one that is decentralized, value-backed, and secure.
 - To promote the ThreeFold's Grid to create and spread the aoption of a new neutral, sustainable and decentralized internet capacity designed to empower humanity.
 
-## goals
+## Goals
 
 - To promote the sales of 5 million USD worth of TFT's in 2018.
 - To support the ThreeFold Grid network by assisting new TF Farmers to aquire "unmanaged certified" hardware.
 - To become a genesis farmer for the ThreeFold Grid. (Accomplished)
 
-## strategy
+## Strategy
 
 - 
 - Participation in Middle East based digital currency events in order to develop the adoption of TFT's through out the globe. 
 
-## timing
+## Timing
 
 - Sales Target (3 Months)
    - June 2018 500 K USD
@@ -37,17 +37,17 @@
    - Bangladesh Capacity
    - US Capacity 
   
-## contributors
+## Contributors
 
    - [Adnan Fatayerji](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Adnan_Fatayerji.md)
    - [Weynard Kuihpers](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Weynand_Kuijpers.md)
    - [Georges Georgiou](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Georges_Georgiou.md)
 
-## links
+## Links
 
 - website www.mazraa.io
 
-### websites/wiki
+### Websites and wiki pages
 
 - [wiki](https://github.com/threefoldfoundation/info_mazraa)
 
