@@ -12,8 +12,8 @@
 ## Circles of ThreeFold Cooperatives
   
   - [**BetterToken**](/circles/BetterToken.md)
-  - [**Mazraa****](/circles/Mazraa.md)
+  - [**Mazraa**](/circles/Mazraa.md)
 
 ## How to work together
 
-- [see this wiki](/collaboration/readme.md)
+- [Collaboration at ThreeFold](/collaboration/readme.md)

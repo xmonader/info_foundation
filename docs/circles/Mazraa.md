@@ -11,19 +11,18 @@
 
 ## Purpose/mission
 
-- To promote the ThreeFold Tokens as the defacto medium of exchnage of value; one that is decentralized, value-backed, and secure.
-- To promote the ThreeFold's Grid to create and spread the aoption of a new neutral, sustainable and decentralized internet capacity designed to empower humanity.
+- Promote the ThreeFold Tokens as the defacto medium of exchnage of value; one that is decentralized, value-backed, and secure.
+- Promote the ThreeFold's Grid to create and spread the aoption of a new neutral, sustainable and decentralized internet capacity designed to empower humanity.
 
 ## Goals
 
-- To promote the sales of 5 million USD worth of TFT's in 2018.
-- To support the ThreeFold Grid network by assisting new TF Farmers to aquire "unmanaged certified" hardware.
-- To become a genesis farmer for the ThreeFold Grid. (Accomplished)
+- Promote the sales of 5 million USD worth of TFTs in 2018.
+- Support the ThreeFold Grid network by assisting new TF Farmers to aquire "unmanaged certified" hardware.
+- Become a genesis farmer for the ThreeFold Grid. (Accomplished)
 
 ## Strategy
 
-- 
-- Participation in Middle East based digital currency events in order to develop the adoption of TFT's through out the globe. 
+- Participation in Middle East based digital currency events in order to develop the adoption of TFTs through out the globe. 
 
 ## Timing
 
