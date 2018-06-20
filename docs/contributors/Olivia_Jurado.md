@@ -9,7 +9,7 @@
 -It makes me happy to be able to help empower others to collaborate and contribute to this global movement.
 
 
-## What are my roles in TF
+## what are my roles in TF
 
 - Role: Ambassador
 - Circles I contribute in: [foundation_ambassadors](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/foundation/foundation_ambassadors.md#threefold-foundationambassador-circle), [tokens](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/foundation/tokens/tokens.md#threefold-tokens), [foundation_love](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/foundation/foundation_love.md#threefold-love)
@@ -25,7 +25,7 @@
 - we are not alone
 
 
-## My Priorities 
+## my priorities 
 
 - Support fundraising efforts
 - [TF Love](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/foundation/foundation_love.md#threefold-love) Launch 
