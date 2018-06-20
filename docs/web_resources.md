@@ -56,3 +56,13 @@ Our directory which shows how much capacity there is available and where.
 ## How to contribute?
 
 [https://github.com/threefoldfoundation/home](https://raw.githubusercontent.com/threefoldfoundation/home/master/README.md ':include')
+
+click on github links below.
+
+## List of websites/wiki's
+
+[](itenv/wiki_pages_toc.md ':include')
+
+[](itenv/web_sites_toc.md ':include')
+
+[](itenv/wiki_pages_other_toc.md ':include')
