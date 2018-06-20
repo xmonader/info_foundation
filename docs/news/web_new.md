@@ -1,6 +1,6 @@
 # new web presence
 
-!()[https://images.unsplash.com/photo-1510386662802-0213f10cd59f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=83aa5f299283e8c65a8776e244dcd5c7&auto=format&fit=crop&w=1267&q=80]
+![](https://images.unsplash.com/photo-1510386662802-0213f10cd59f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=83aa5f299283e8c65a8776e244dcd5c7&auto=format&fit=crop&w=1267&q=80)
 
 - new website & wiki for [threefold foundation](www2.threefold.me)
 - new website & wiki for [threefold grid](grid.threefold.me)
