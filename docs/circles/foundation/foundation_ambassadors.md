@@ -36,9 +36,11 @@ Coordinators: Owen
 
 ### chat
 
-- ...  still based on telegram
+- ambassadors are invited to telegram chat group by coordinator 
    
 ### websites/wiki
+
+@ [ambassador community site](https://sites.google.com/incubaid.com/tf-ambassador-community/home)
 
 [](../../itenv/wiki_sites_toc.md ':include')
 
