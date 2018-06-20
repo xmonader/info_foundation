@@ -30,9 +30,9 @@ Use the foundation wiki to make sure everyone understands how we will work toget
 ## Timing
 
 - June first 2 weeks
-   - have all the basics implemented of circles and contributors
-   - link all contributors to right circles
-   - make sure contributors understand what their role is
+   - Have all the basics implemented of circles and contributors
+   - Link all contributors to right circles
+   - Make sure contributors understand what their role is
  - TBD
 
 ## Contributors
@@ -45,7 +45,7 @@ Use the foundation wiki to make sure everyone understands how we will work toget
 
 @ means is open to public
 
-### Trello (co-working boards)
+### Trello
 
 - [Trello: https://trello.com/tf_foundation](https://trello.com/tf_foundation)
     - [master scrum - high level view of priorities](https://trello.com/b/GgxRFeHn/tfmasterscrum)

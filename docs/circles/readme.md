@@ -4,7 +4,7 @@
 
 
 - [**ThreeFold Foundation**](foundation/foundation.md)  
-  - 
+  - Help other circles to be effective, and coordinate work between the circles.
 - [**ThreeFold Grid**](grid/grid.md)
   - Promotes the ThreeFold Grid as a new, global, neutral and sustainable network of IT infrastructure.  
 - [**ThreeFold Tokens**](tokens/tokens.md)
