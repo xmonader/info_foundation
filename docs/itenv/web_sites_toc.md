@@ -1,4 +1,3 @@
-## Websites
 
 Name | Link | GitHub Repository (source)
 ---------|----------|---------
