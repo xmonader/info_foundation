@@ -12,8 +12,8 @@
   
 ## ThreeFold Cooperatives
   
-  - [**BetterToken**: promote the grid](BetterToken.md)
-  - [**Mazraa**: promote usage of tokens](Mazraa.md)
+  - [**BetterToken**: promote the grid](/circles/BetterToken.md)
+  - [**Mazraa**: promote usage of tokens](/circles/Mazraa.md)
 
 ## How to work together
 

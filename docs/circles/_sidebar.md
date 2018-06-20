@@ -3,7 +3,7 @@
 -----
 
 * [Overview](/circles/readme.md)
-* [Foundation](/circles/foundation/)
+* [Foundation](/circles/foundation/foundation.md)
     * [Grid](/circles/foundation/grid/grid.md)
     * [Tokens](/circles/foundation/tokens/tokens.md)
     * [Ambassadors](/circles/foundation/ambassadors/ambassadors.md) 
@@ -11,3 +11,5 @@
     * [Innovate](/circles/foundation/innovate/innovate.md)
     * [Impact](/circles/foundation/impact/impact.md)
     * [Love](/circles/foundation/love/love.md)
+* [BetterToken](/circles/BetterToken.md)
+* [Mazraa](/circles/Mazraa.md)
