@@ -67,9 +67,6 @@ Use the foundation wiki to make sure everyone understands how we will work toget
 
 ### Wiki
 
-[](itenv/wiki_sites_toc.md ':include')
+[](../../itenv/wiki_pages_toc.md ':include')
 
-[](itenv/web_sites_toc.md ':include')
-
-
-
+[](../../itenv/web_sites_toc.md ':include')
