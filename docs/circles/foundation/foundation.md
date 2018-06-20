@@ -65,7 +65,7 @@ Use the foundation wiki to make sure everyone understands how we will work toget
 - [google drive home](https://drive.google.com/drive/folders/1ygSc9mKaJJq-mw30zbfmikUWXO73m0kl)
     - [home page](https://docs.google.com/document/d/1ixKZklZj21tRWBFlaxO8j0Sdm9Liyd1kjYTeAB6fZog/edit)
 
-### Wiki
+### Websites and wiki pages
 
 [](../../itenv/wiki_pages_toc.md ':include')
 
