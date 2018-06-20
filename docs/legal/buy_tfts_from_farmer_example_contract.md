@@ -1,5 +1,5 @@
 
-# TFT-purchase agreement
+# ThreeFold Token (TFT) Purchase Agreement
 
 
             * Name of the Purchaser           [FIRST, LAST NAME]
