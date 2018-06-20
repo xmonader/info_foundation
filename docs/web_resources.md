@@ -4,10 +4,8 @@
 
 ## Foundation website
 
-- [current one: www.threefold.me](http://www.threefold.me)
-- [we need feedback on our new one (unfinished): www2.threefold.me](http://www2.threefold.me)
-
-
+- Currently: [www.threefold.me](http://www.threefold.me)
+- We need feedback on our new one (unfinished): [www2.threefold.me](http://www2.threefold.me)
 - Everything related to the ThreeFold Foundation
 - Team, ambassadors and community
 - General information on the project
@@ -15,7 +13,7 @@
 - Links to resources
 - Mission and values
 - Links to the other websites & wiki sites
-- wiki site: all dynamic content about foundation on [wiki.threefold.me](http://wiki.threefold.me)
+- Wiki site: all dynamic content about foundation on [wiki.threefold.me](http://wiki.threefold.me)
 
 [feedback, leave issues on github](https://github.com/threefoldfoundation/www_threefold/issues)
 
@@ -71,10 +69,10 @@ Our directory which shows how much capacity there is available and where.
 
 # How to contribute?
 
-see [https://github.com/threefoldfoundation/home](https://raw.githubusercontent.com/threefoldfoundation/home/master/README.md)
+See [https://github.com/threefoldfoundation/home](https://raw.githubusercontent.com/threefoldfoundation/home/master/README.md)
 
 ## List of websites/wiki's
 
-[](itenv/web_sites_toc.md ':include')
+[](/itenv/web_sites_toc.md ':include')
 
-[](itenv/wiki_pages_toc.md ':include')
+[](/itenv/wiki_pages_toc.md ':include')

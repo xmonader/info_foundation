@@ -1,7 +1,8 @@
+# Circles
 
 [](readme.md ':/circles/readme.md')
 
-circles are defined in https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/
+Circles are defined in https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/
 
 
 # ThreeFold Related Circles (OLD ONE DO NOT USE)

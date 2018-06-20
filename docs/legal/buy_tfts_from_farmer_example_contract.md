@@ -1,4 +1,3 @@
-
 # ThreeFold Token (TFT) Purchase Agreement
 
 

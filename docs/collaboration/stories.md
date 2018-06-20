@@ -1,7 +1,6 @@
-## Stories are the Start of All
+# Stories
 
 ![](https://images.unsplash.com/photo-1456324504439-367cee3b3c32?ixlib=rb-0.3.5&s=45160e59ac36a57dce0ec249a7b75161&auto=format&fit=crop&w=1350&q=80)
-
 
 Stories help us to organize our work. They need to comply to certain requirements to be effective though.
 
@@ -13,7 +12,7 @@ Stories are pieces of work (not simple tasks) which are aggregated in a story = 
 
 Stories are the cards as used in story_boards in trello: see [trello_usage](trello_usage.md)
 
-### Properties
+## Properties
 
 - Well chosen name
 - Clear description of what we want to achieve
@@ -53,7 +52,7 @@ Stories are the cards as used in story_boards in trello: see [trello_usage](trel
     - Specifications (requirements, code examples, ...) (in code github repo as markdown document)
     - Features or bugs which are related to the story (in code github repo as markdown document)
 
-### Format
+## Format
 
 #### Title: ```$storyDescription``` ```[$time]```
 
@@ -63,7 +62,7 @@ Stories are the cards as used in story_boards in trello: see [trello_usage](trel
     - time is working time (sum over all people)
     - this is an estimate - this is not the sum of the times used inside the story or specs underneath
 
-#### Body
+## Body
 
 requirements & remarks are optional.
 
