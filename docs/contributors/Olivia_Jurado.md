@@ -6,13 +6,13 @@
 
 ## why do I like to contribute to TF
 
--It makes me happy to be able to help empower others to collaborate and contribute to this global movement.
+-it makes me happy to be able to help empower others to collaborate and contribute to this global movement.
 
 
 ## what are my roles in TF
 
-- Role: Ambassador
-- Circles I contribute in: [foundation_ambassadors](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/foundation/foundation_ambassadors.md#threefold-foundationambassador-circle), [tokens](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/foundation/tokens/tokens.md#threefold-tokens), [foundation_love](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/foundation/foundation_love.md#threefold-love)
+- role: ambassador
+- circles I contribute in: [foundation_ambassadors](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/foundation/foundation_ambassadors.md#threefold-foundationambassador-circle), [tokens](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/foundation/tokens/tokens.md#threefold-tokens), [foundation_love](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/foundation/foundation_love.md#threefold-love)
 
 ## other info about myself
 
@@ -27,8 +27,8 @@
 
 ## my priorities 
 
-- Support fundraising efforts
-- [TF Love](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/foundation/foundation_love.md#threefold-love) Launch 
-- Collaboration, Co-Creation and Curation of [TF Ambassador Community Site](https://sites.google.com/incubaid.com/tf-ambassador-community/home?authuser=0)
-- Contribution to Ambassador Working Groups: Emerging Markets, Community Building, Youth Engagement, Women's Empowerment
+- support/contribute in fundraising and promotion efforts
+- [tf_love](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/foundation/foundation_love.md#threefold-love) launch 
+- collaboration, co-creation and curation of [tf ambassador community site](https://sites.google.com/incubaid.com/tf-ambassador-community/home?authuser=0)
+- contribution to ambassador working groups: emerging markets, community building, youth engagement, women's empowerment
 
