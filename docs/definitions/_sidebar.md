@@ -1,4 +1,4 @@
-## Toble of Contents
+## Table of Contents
 
 * [Home](/)
 
@@ -23,5 +23,5 @@
 * [ThreeFold Token](definitions/threefold_token.md)
 * [ThreeFold Unmanaged Capacity](definitions/threefold_unmanaged_capacity.md)
 * [ThreeFold User](definitions/threefold_user.md)
-* [ThreeFold Wallet](definitions/threefold_wallet)
+* [ThreeFold Wallet](definitions/threefold_wallet.md)
 
