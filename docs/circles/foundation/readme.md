@@ -1,3 +1,1 @@
-
-
 [](foundation.md ':include')

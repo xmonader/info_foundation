@@ -1,6 +1,6 @@
-# to be completed
+# ThreeFold Finance & Legal Circle
 
-## Coordinator: georges
+## Coordinator: Georges
 
 ## Trello
 
