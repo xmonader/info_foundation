@@ -6,7 +6,7 @@
 
 ## why do I like to contribute to TF
 
--it makes me happy to be able to help empower others to collaborate and contribute to this global movement.
+- it makes me happy to be able to help empower others to collaborate and contribute to this global movement.
 
 
 ## what are my roles in TF
