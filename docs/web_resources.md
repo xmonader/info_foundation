@@ -84,8 +84,10 @@ Our directory which shows how much capacity there is available and where.
 
 ## List of websites/wiki's
 
-[](itenv/wiki_pages_toc.md ':include')
+### websites
 
 [](itenv/web_sites_toc.md ':include')
 
-[](itenv/wiki_pages_other_toc.md ':include')
+### wiki sites (collaboration between many people, dynamic content)
+
+[](itenv/wiki_pages_toc.md ':include')
