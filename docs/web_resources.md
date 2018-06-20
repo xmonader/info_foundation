@@ -1,9 +1,9 @@
-# Web resources
+# Web Resources
 
 ## Foundation website - [www.threefold.me](http://www.threefold.me)
 
 - Everything related to the ThreeFold Foundation
-- Team, ambassadords and community
+- Team, ambassadors and community
 - General information on the project
 - Articles
 - Links to resources
@@ -21,8 +21,8 @@
 ## ThreeFold Farmers website - [grid.threefold.me](https://www.tffarmers.com/)
 
 - How to become TF Farmer
-    - Profitablity
-    - how to become a farmer
+    - Profitability
+    - How to become a farmer
 - Usage of the Grid
     - Instructions how to use the grid
     - How to bring workloads life
@@ -37,6 +37,6 @@
 - show information about the tokens & the capacity as a sort of dashboard
 
 
-# to contribute:
+## How to contribute?
 
 [https://github.com/threefoldfoundation/home](https://raw.githubusercontent.com/threefoldfoundation/home/master/README.md ':include')
