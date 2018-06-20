@@ -24,7 +24,7 @@ Coordinator: Owen
 
 - Every ambassador needs to have a contributor page in relevant wiki:
    - [Contributors](https://github.com/threefoldfoundation/info_foundation/tree/master/docs/contributors)
-- need to add this list on this page. : TODO:*1 
+- Need to add this list on this page. : TODO:*1 
 
 ## Links
 
@@ -32,7 +32,7 @@ Coordinator: Owen
 
 ### Trello
 
-- [stories ambassadors](https://trello.com/b/90oSlzPu/tfstoriesambassadors)
+- [Ambassadors Stories](https://trello.com/b/90oSlzPu/tfstoriesambassadors)
 
 ### Chat
 
@@ -40,11 +40,4 @@ Ambassadors are invited to Telegram chat group by coordinator.
    
 ### Websites/Wikis
 
-@ [Ambassador Community Site](https://sites.google.com/incubaid.com/tf-ambassador-community/home)
-
-[](../../itenv/wiki_pages_toc.md ':include')
-
-[](../../itenv/web_sites_toc.md ':include')
-
-
-
+- [Ambassador Community Site](https://sites.google.com/incubaid.com/tf-ambassador-community/home)
