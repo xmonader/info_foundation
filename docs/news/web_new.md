@@ -4,9 +4,9 @@
 
 Dear all ...
 
-- new website & wiki for [threefold foundation](www2.threefold.me)
-- new website & wiki for [threefold grid](grid.threefold.me)
-- new website & wiki for [threefold tokens](tokens.threefold.me)
+- new website & wiki for [threefold foundation](http://www2.threefold.me)
+- new website & wiki for [threefold grid](http://grid.threefold.me)
+- new website & wiki for [threefold tokens](http://tokens.threefold.me)
 - new [chat system](https://chat.grid.tf/signup_user_complete/?id=wpz16r964bdnuqxc5p7kn5upmo)
 - new dns names
 - lots of updated content on wiki
