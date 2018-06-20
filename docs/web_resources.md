@@ -2,14 +2,11 @@
 
 ![](https://images.unsplash.com/photo-1506452819137-0422416856b8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=35c3a22e647b11004efd8135de82164c&auto=format&fit=crop&w=1266&q=80)
 
-## Foundation website (NEW & Unfinished) 
+## Foundation website
 
 - [current one: www.threefold.me](http://www.threefold.me)
 - [we need feedback on our new one (unfinished): www2.threefold.me](http://www2.threefold.me)
 
-**NEED FEEDBACK**: go to [chat.threefold.me](https://chat.grid.tf/signup_user_complete/?id=wpz16r964bdnuqxc5p7kn5upmo) & look for chat [webfeedback](https://chat.grid.tf/threefold/channels/webfeedback)
-
-[leave issues on github](https://github.com/threefoldfoundation/www_threefold/issues)
 
 - Everything related to the ThreeFold Foundation
 - Team, ambassadors and community
@@ -20,6 +17,8 @@
 - Links to the other websites & wiki sites
 - wiki site: all dynamic content about foundation on [wiki.threefold.me](http://wiki.threefold.me)
 
+[feedback, leave issues on github](https://github.com/threefoldfoundation/www_threefold/issues)
+
 
 ## ThreeFold Token website 
 
@@ -28,16 +27,13 @@
 Website for promotion of our tokens. How to buy, use, ...
 Why this token is better than other coins/tokens?
 
-**NEED FEEDBACK**: go to [chat.threefold.me](https://chat.grid.tf/signup_user_complete/?id=wpz16r964bdnuqxc5p7kn5upmo) & look for chat [webfeedback](https://chat.grid.tf/threefold/channels/webfeedback)
-
-[leave issues on github](https://github.com/threefoldfoundation/www_tokens/issues)
-
-
 info:
 
 - Wallets /  Exchanges / Explorers
 - Howtos / Instructions
 - Token wiki site: all dynamic content about tokens on [tokens_wiki.threefold.me](http://tokens_wiki.threefold.me)
+
+[feedback, leave issues on github](https://github.com/threefoldfoundation/www_tokens/issues)
 
 
 ## ThreeFold Farmers website 
@@ -57,8 +53,6 @@ Info:
     - Where is the grid.
     - Development information if I want to develop apps on top of the grid (TODO)
 - Cooperatives, who can help me to become a farmer.
-
-**NEED FEEDBACK**: go to [chat.threefold.me](https://chat.grid.tf/signup_user_complete/?id=wpz16r964bdnuqxc5p7kn5upmo) & look for chat [webfeedback](https://chat.grid.tf/threefold/channels/webfeedback)
 
 [leave issues on github](https://github.com/threefoldfoundation/www_grid/issues)
 
@@ -81,10 +75,6 @@ see [https://github.com/threefoldfoundation/home](https://raw.githubusercontent.
 
 ## List of websites/wiki's
 
-### websites
-
 [](itenv/web_sites_toc.md ':include')
-
-### wiki sites (collaboration between many people, dynamic content)
 
 [](itenv/wiki_pages_toc.md ':include')
