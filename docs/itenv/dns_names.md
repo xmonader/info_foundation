@@ -1,8 +1,6 @@
-
-
 # Overview DNS Names & Naming Conventions
 
-## Threefold Websites
+## ThreeFold Websites
 
 | DNS                     | .io                 | .me                 |.wiki              |   
 |-------------------------|---------------------|---------------------|-------------------|
@@ -32,7 +30,7 @@ TODO: Change all current DNS'es.
 | Farming Slides   | farming_slides.threefold.io   | farming_slides.threefold.me   |
 | Love Fear Slides | love_fear_slides.threefold.io | love_fear_slides.threefold.me |
 
-**All slidedecks should be reachable with and without www. in front of it.**
+**All slide decks should be reachable with and without www. in front of it.**
 
 TODO:*1 need to also put on .io
 
@@ -42,7 +40,7 @@ all under ```*.grid.tf```
 
 TODO:*1 need to specify
 
-## legacy names
+## Legacy names
 
 - redirect to new names as shown above, DO NOT HOST DIRECTLY on these names, just put redirects on DNS server level
 

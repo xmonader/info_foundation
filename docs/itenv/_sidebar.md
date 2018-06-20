@@ -2,5 +2,5 @@
 
 ----
 
-* [dns names](/itenv/dns_names.md)
-* [web infrastructure](/itenv/web_infrastructure.md)
+* [DNS names](/itenv/dns_names.md)
+* [Web infrastructure](/itenv/web_infrastructure.md)

@@ -5,11 +5,11 @@
 
 **Welcome to our ThreeFold Wiki!**
 
-[](itenv/wiki_sites_toc.md ':include')
+[](itenv/wiki_pages_toc.md ':include')
 
 [](itenv/web_sites_toc.md ':include')
 
-[](itenv/wiki_sites_other_toc.md ':include')
+[](itenv/wiki_pages_other_toc.md ':include')
 
 ## Contribute
 
