@@ -4,8 +4,8 @@
 
 ----
 
-* [Gig_tech](definitions/gig_tech.md)
-* [IT_capacity](definitions/it_capacity.md)
+* [GIG Technology](definitions/gig_tech.md)
+* [IT capacity](definitions/it_capacity.md)
 * [BetterToken](definitions/bettertoken.md)
 * [Mazraa](definitions/mazraa.md)
 * [ThreeFold](definitions/threefold.md)
