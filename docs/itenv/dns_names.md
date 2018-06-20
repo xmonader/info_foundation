@@ -14,7 +14,7 @@
 | Radar                   | radar.threefold.io  | radar.threefold.me  |                   |   
 
 - **All websites should be reachable with and without www. in front of it.**
-- **All staging websites will be a www2. e.g. www2.threefold.me or www2.threefold.io
+- **All staging websites will be a www2. e.g. www2.threefold.me or www2.threefold.io**
 
 
 TODO: Change all current DNS'es.
