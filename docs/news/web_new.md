@@ -20,4 +20,11 @@ This will also validate our chat system.
 Please give us any remarks about questions below and other remarks.
 You can also leave issues on github, see [this overview](https://threefoldfoundation.github.io/info_foundation/#/web_resources) for the links.
 
+## Some questions we are looking for feedback
+
+- is the new website http://www2.threefold.me better than http://www.threefold.me
+- do you like https://www2.threefoldtoken.com/team/ better than https://www.threefoldtoken.com/community/ (the moving icons with popups), or do you prefer the previous system.
+- will you consider using the new chat system, which is less noisy or do you prefer the telegram chat system
+
+
 
