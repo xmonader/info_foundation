@@ -3,7 +3,7 @@
 
 ----
 
-* [ThreeFold Presentations](/presentations/readme.md)
+* [Presentations](/presentations/readme.md)
     * [ThreeFold Foundation Intro](/presentations/intro.md)
     * [Solving the Blockchain Dilemma](/presentations/tech.md)
     * [ThreeFold Farming](/presentations/farming.md)
