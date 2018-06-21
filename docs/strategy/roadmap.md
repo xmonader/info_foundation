@@ -1,4 +1,4 @@
-# Roadmap
+# ThreeFold Roadmap
 
 ![](https://images.unsplash.com/photo-1495292040232-745a10cd202c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=311b389f7632627e26e3f287581d0c0e&auto=format&fit=crop&w=1189&q=80)
 
@@ -61,7 +61,8 @@ gantt
     TF Token Usage Promotion In Ibiza (merchants app) :b4, 2018-06-01, 90d
 
 ``` -->
-[SEE here for more details](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/roadmap.png)
+
+See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/roadmap.png) for more details.
 
 
 (*): special conditions available contact ThreeFold
