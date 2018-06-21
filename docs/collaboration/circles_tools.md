@@ -1,4 +1,4 @@
-# Circles Tools
+# Circle Tools
 
 ## Aims of our tools
 

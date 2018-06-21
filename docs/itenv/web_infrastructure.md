@@ -1,4 +1,4 @@
-# web & wiki infrastructure
+# Web & Wiki Infrastructure
 
 explain how the website infrastructure works
 

@@ -1,8 +1,8 @@
-## ThreeFold Operating System (ZERO-OS)
+## ThreeFold Operating System (Zero-OS)
 
-The ThreeFold Operating system is the software which makes it possible to convert any pool of hardware to become an ultra efficient pool of resource for the ThreeFold Grid.
+The ThreeFold operating system is the software which makes it possible to convert any pool of hardware to become an ultra efficient pool of resources for the ThreeFold Grid.
 
 Based on
 
- - Zero-OS = Ultra Efficient Stateless Operating System
- - Jumpscale = Automation Framework (self healing, ...)
+ - Zero-OS = ultra efficient stateless operating system
+ - Jumpscale = automation framework (self healing, ...)

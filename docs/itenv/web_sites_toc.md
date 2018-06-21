@@ -1,13 +1,13 @@
-### Websites
 
-Descr | Link | Source Of Info
+Name | Link | GitHub Repository (source)
 ---------|----------|---------
- main threefold website | http://www.threefold.me | https://github.com/threefoldfoundation/www_threefold
- main threefold website new version | TODO | TODO
- Tokens Website | http://tokens.threefold.me | https://github.com/threefoldfoundation/www_tokens
-Grid/Farmers website | http://grid.threefold.me | https://github.com/threefoldfoundation/www_grid
- TF Radar | http://radar.threefold.me | https://github.com/threefoldfoundation/www_radar
- Africa Fund For Farming | TODO | https://github.com/threefoldfoundation/www_impact
+ThreeFold Current | http://www.threefold.me | https://github.com/threefoldfoundation/www_threefold_old
+ThreeFold NEW | http://www2.threefold.me | https://github.com/threefoldfoundation/www_threefold
+ThreeFold Tokens | http://tokens.threefold.me | https://github.com/threefoldfoundation/www_tokens
+ThreeFold Grid | http://grid.threefold.me | https://github.com/threefoldfoundation/www_grid
+ | | 
+ThreeFold Radar | http://radar.threefold.me | https://github.com/threefoldfoundation/www_radar
+Africa Fund for Farming | TODO | https://github.com/threefoldfoundation/www_impact
 
-see also [websites](/web_resources.md)
+Also see [Web Resources](/web_resources.md)
 

@@ -1,5 +1,4 @@
-
-# How to contribute in the ThreeFold Ecosystem.
+# How to contribute to ThreeFold
 
 ![](https://images.unsplash.com/photo-1470472304068-4398a9daab00?ixlib=rb-0.3.5&s=55b8e313e798f6a8e12fbc9d9fc0078d&auto=format&fit=crop&w=2100&q=80)
 
@@ -44,29 +43,28 @@ We realize we ask a lot from our Ambassadors but we believe it is a must to be e
 
 In case this is too much please work with any of our Ambassadors who will glady help you and be at service of you to make you successful as a ThreeFold Sponsor.
 
-you are willing to:
+You are willing to:
 
-- learn our adopted agile methodology (circles, stories...), it's a lot easier than you think, we will be creating some video's about this soon.
+- Learn our adapted agile methodology (circles, stories...), it's a lot easier than you think, we will be creating some video's about this soon.
     - [trello usage](trello_usage.md) & [circle tools](circles_tools.md)
     - [story cards](stories.md)
     - [circles roles](circles_roles.md)
-- use our agile tools and get fluent with them
-- learn how to create/use [story cards]((stories.md) (its an art by itself)
+- Use our agile tools and get fluent with them
+- Learn how to create/use [story cards]((stories.md) (its an art by itself)
     - report on the work done in the stories and always help to keep the stories up to date
-- not be afraid to be 100% open to everyone about anything
-- not try to be perfect, 20% effort gets any goal to 80% of requirements. It does not pay off to try to be perfect.
-- keep all your work open, when you start working on something make sure everyone else can follow the process, don't first create and then contribute, it's much better to have your work accessible while you improve (e.g. a google document, or multiple iterations of markdown documents).
-- deliver work which is good enough
+- Not be afraid to be 100% open to everyone about anything
+- Not try to be perfect, 20% effort gets any goal to 80% of requirements. It does not pay off to try to be perfect.
+- Keep all your work open, when you start working on something make sure everyone else can follow the process, don't first create and then contribute, it's much better to have your work accessible while you improve (e.g. a google document, or multiple iterations of markdown documents).
+- Deliver work which is good enough
     - not perfect (see above) but good enough to achieve the requirements as mentioned in story card.
-- to give feedback to others and escalate when required (in a loving way)
-- respect the contribution of others, improve where possible, if the contribution is not good enough please go back to the author, discuss and try to help.
+- Give feedback to others and escalate when required (in a loving way)
+- Respect the contribution of others, improve where possible, if the contribution is not good enough please go back to the author, discuss and try to help.
 
 ### Remarks
 
-- each Ambassador has their own ThreeFold related email addresses and is part of our internal tool ecosystem (google docs, github, mattermost, ...)
+- Each Ambassador has their own ThreeFold related email addresses and is part of our internal tool ecosystem (google docs, github, mattermost, ...)
 
 ## ThreeFold Founder
-
 
 We really believe that the world is changing. Many people choose to no longer follow the brainwashed way of living where fear dominates all. Please read our article about the [art of being loyal to our values](https://medium.com/@despiegk/the-art-of-being-loyal-to-your-values-e0e6e3f310f7) and [build a better world together manifesto](https://docs.grid.tf/dividi/values/src/branch/master/kristof_build_a_better_world_manifesto.md
 ). Being a TF Founder means these documents resonate with you, this is important because other TF Founders really do.
@@ -90,19 +88,19 @@ A ThreeFold Founder is willing to work on self improvement:
 
 A ThreeFold Founder understands and endorses:
 
-- [build a better world together manifesto](https://docs.grid.tf/dividi/values/src/branch/master/kristof_build_a_better_world_manifesto.md
+- [Build a better world together manifesto](https://docs.grid.tf/dividi/values/src/branch/master/kristof_build_a_better_world_manifesto.md
 )
-- [art of being loyal to our values](https://medium.com/@despiegk/the-art-of-being-loyal-to-your-values-e0e6e3f310f7)
-- values
+- [Art of being loyal to our values](https://medium.com/@despiegk/the-art-of-being-loyal-to-your-values-e0e6e3f310f7)
+- Values
     - [The Veda 4 Core Values](https://docs.grid.tf/dividi/values/src/branch/master/veda_values.md)
     - [Culture manifest](https://docs.grid.tf/dividi/efika/src/branch/master/efika_culture_manifest.md)
     - [Goals & Values](https://docs.grid.tf/dividi/values/src/branch/master/goals_values.md)
-- efficiency & responsibility
+- Efficiency & responsibility
     - [How to be part of a responsive organization](https://docs.grid.tf/dividi/values/src/branch/master/responsive_org_manifesto.md)
     - [Ethical_design_manifesto](https://docs.grid.tf/dividi/values/src/branch/master/ethical_design_manifesto.md)
 - [Difference between IQ, EQ and SQ](https://docs.grid.tf/dividi/values/src/branch/master/XQ.md)
 
-How to become a TF Founder.
+How to become a TF Founder?
 
 - Make sure you have enough time available to be a TF Founder and you are not afraid to do things differently.
 - You need to be willing to go the extra mile and always put the ThreeFold mission & values first.

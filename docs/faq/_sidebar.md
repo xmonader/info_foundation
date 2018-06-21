@@ -1,3 +1,5 @@
-
 * [Home](/)
-* [Ambasssador FAQ](/faq/ambassador_faq.md)
+
+----
+
+* [Ambassador FAQ](/faq/ambassador_faq.md)

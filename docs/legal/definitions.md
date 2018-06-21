@@ -1,48 +1,45 @@
-# Concepts
+# ThreeFold Definitions
 
-[filename](../definitions/threefold_foundation.md ':include')
+- [General](#general)
+- [Farming](#farming)
+- [Legal](#legal)
+- [Varia](#varia)
 
-[filename](../definitions/threefold_grid.md ':include')
+<a id='general'></a>
 
-[filename](../definitions/it_capacity.md ':include')
-
-[filename](../definitions/threefold_token.md ':include')
-
-[filename](../definitions/threefold_chain.md ':include')
-
-[filename](../definitions/threefold_operating_system.md ':include')
-
-[filename](../definitions/threefold_node.md ':include')
-
-[filename](../definitions/threefold_user.md ':include')
-
-[filename](../definitions/threefold_cloud_units.md ':include')
-
-[filename](../definitions/threefold_wallet.md ':include')
-
-# ThreeFold Farming
-
-[filename](../definitions/threefold_farning_pool.md ':include')
-
-[filename](../definitions/threefold_farmer.md ':include')
-
-[filename](../definitions/threefold_cooperative.md ':include')
-
-[filename](../definitions/threefold_unmanaged_capacity.md ':include')
-
-[filename](../definitions/threefold_managed_capacity.md ':include')
+# General
+[ThreeFold Foundation](../definitions/threefold_foundation.md ':include')
+[ThreeFold Grid](../definitions/threefold_grid.md ':include')
+[IT Capacity](../definitions/it_capacity.md ':include')
+[ThreeFold Token](../definitions/threefold_token.md ':include')
+[ThreeFold Chain](../definitions/threefold_chain.md ':include')
+[ThreeFold Operating System](../definitions/threefold_operating_system.md ':include')
+[ThreeFold Node](../definitions/threefold_node.md ':include')
+[ThreeFold User](../definitions/threefold_user.md ':include')
+[ThreeFold Cloud Units](../definitions/threefold_cloud_units.md ':include')
+[ThreeFold Wallet](../definitions/threefold_wallet.md ':include')
 
 
-# Legal
+<a id='farming'></a>
 
-[filename](sub/the_company.md ':include')
+# Farming
+[Farming Pool](../definitions/threefold_farming_pool.md ':include')
+[Farmer](../definitions/threefold_farmer.md ':include')
+[Cooperative](../definitions/threefold_cooperative.md ':include')
+[Unmanaged Capacity](../definitions/threefold_unmanaged_capacity.md ':include')
+[Managed Capacity](../definitions/threefold_managed_capacity.md ':include')
 
-[filename](sub/the_product.md ':include')
 
-[filename](sub/the_purchaser.md ':include')
+<a id='legal'></a>
 
+## Legal
+[The Company](sub/the_company.md ':include')
+[The Product](sub/the_product.md ':include')
+[The Purchaser](sub/the_purchaser.md ':include')
+
+
+<a id='varia'></a>
 
 # Varia
 
-[filename](../definitions/threefold_tech.md ':include')
-
+[GIG.tech](../definitions/threefold_tech.md ':include')

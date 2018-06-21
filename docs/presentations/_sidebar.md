@@ -3,7 +3,7 @@
 
 ----
 
-* [Intro Presentation](/presentations/intro.md)
-* [Tech Presentation](/presentations/tech.md)
-* [Farming Presentation](/presentations/farming.md)
-* [Love vs Fear Presentation](/presentations/love_fear.md)
+* [ThreeFold Foundation Intro](/presentations/intro.md)
+* [Solving the Blockchain Dilemma](/presentations/tech.md)
+* [ThreeFold Farming](/presentations/farming.md)
+* [Love vs Fear](/presentations/love_fear.md)

@@ -17,8 +17,8 @@
 
 ## My Priorities
 
-- Raise (5 M USD)with the help of TF Foundation team and network in 2018
-- Promote the spread of the ThreeFold Grid by finding new Farmers to add new capacity.
+- Raise (5 M USD) with the help of TF Foundation team and network in 2018
+- Promote the spread of the ThreeFold Grid by finding new Farmers to add new capacity
 
 
 
