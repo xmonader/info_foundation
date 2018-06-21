@@ -1,4 +1,4 @@
-# Blogs
+# ThreeFold Blogs
 
 ![Blogs](img/person-woman-apple-hotel.jpg?raw=true)
 
