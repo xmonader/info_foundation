@@ -4,7 +4,9 @@
 
 ## History Technology Creation
 
-```mermaid
+![](images/past.png)
+
+<!-- ```mermaid
 gantt
     title 3 generation of technology over +13 years
     dateFormat  YYYY-MM-DD
@@ -16,11 +18,13 @@ gantt
     Technology Gen 3 Creation           :a6, 2017-01-01, 2019-06-01        
     Technology Gen 3 Deployment           :a7, 2018-04-01, 2019-06-01            
 
-```
+``` -->
 
 ## Planning
 
-```mermaid
+![](images/roadmap.png)
+
+<!-- ```mermaid
 gantt
     title ThreeFold Roadmap
     dateFormat  YYYY-MM-DD
@@ -54,6 +58,6 @@ gantt
     TF Token Integration In Our Community App :b4, 2018-06-01, 90d
     TF Token Usage Promotion In Ibiza (merchants app) :b4, 2018-06-01, 90d
 
-```
+``` -->
 
 (*): special conditions available contact ThreeFold
