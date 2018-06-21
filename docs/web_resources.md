@@ -39,4 +39,4 @@
 
 # to contribute:
 
-[https://github.com/threefoldfoundation/home](https://raw.githubusercontent.com/threefoldfoundation/home/master/README.md ':include')
+- [https://github.com/threefoldfoundation/home](https://raw.githubusercontent.com/threefoldfoundation/home/master/README.md ':include')
