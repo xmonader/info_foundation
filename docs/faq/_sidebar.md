@@ -2,4 +2,4 @@
 
 ----
 
-* [Frequent Asked Questions](/faq/readme.md)
+* [Frequently Asked Questions](/faq/readme.md)

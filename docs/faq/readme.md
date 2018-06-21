@@ -1,4 +1,4 @@
-# Frequent Asked Questions
+# Frequently Asked Questions
 
 ![FAQ](img/faq.jpeg)
 
