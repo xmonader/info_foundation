@@ -3,7 +3,7 @@
 
 ----
 
-* [Lega](/legal/readme.md)
+* [Legal](/legal/readme.md)
     * [Definitions](/legal/definitions.md)
     * [Farmer Contract Example](/legal/farmer_buys_farmingpool_example_contract.md)
     * [Supplemental Terms & Conditions](/legal/termsconditions.md)
