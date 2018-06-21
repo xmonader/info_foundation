@@ -17,8 +17,8 @@ graph TB;
 
     Community --- TFAmbassadors((Ambassadors<br>Owen))
     Europe --- CommunityIbiza((Community<br>Ibiza<br>Lucien<br>Jenne<br>...))
-    Europe --- CommunityGreen((Community<br>Green<br>Rob))
-    Global --- CommunityVeda((Community<br>Veda<br>Isabelle))
+    Europe --- CommunityGreen((Community<br>???<br>???))
+    Global --- CommunityVeda((Community<br>Students<br>Celebrities<br>Isabelle<br>Adnan))
     Global --- Veda((Awareness<br>Veda<br>Isabelle))
     Global --- Crypto((Crypto<br>Digital<br>TBD))
 
