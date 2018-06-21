@@ -34,7 +34,7 @@ gantt
     section Grid
     Grid launch internal developers           :a1, 2018-01-01, 181d
     Grid launch app/solution developers          :a2, 2018-06-01, 2019-06-01
-    Grid launch it users          :a3, 2018-10-01, 2019-06-01
+    Grid launch IT users          :a3, 2018-10-01, 2019-06-01
     Grid marketing (push capacity usage)      :a4, 2019-01-01, 2019-06-01
 
     section Token
