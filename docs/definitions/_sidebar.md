@@ -4,7 +4,7 @@
 
 ----
 
-* [ThreeFold Definitions](/definitions/readme.md)
+* [Definitions](/definitions/readme.md)
     * [GIG Technology](definitions/gig_tech.md)
     * [IT Capacity](definitions/it_capacity.md)
     * [BetterToken](definitions/bettertoken.md)

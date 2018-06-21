@@ -6,6 +6,6 @@
 * [Presentations](/presentations/readme.md)
 * [Collaboration](/collaboration/readme.md)
 * [Circles](/circles/readme.md)
-* [FAQ](/faq/readme.md)
+* [Frequent Asked Questions](/faq/readme.md)
 * [Blogs](/blog/readme.md)
 * [Legal](/legal/readme.md)

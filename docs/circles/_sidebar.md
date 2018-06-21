@@ -2,7 +2,7 @@
 
 -----
 
-* [ThreeFold Circles](/circles/readme.md)
+* [Circles](/circles/readme.md)
     * [Foundation](/circles/foundation/foundation.md)
         * [Grid](/circles/foundation/grid/grid.md)
         * [Tokens](/circles/foundation/tokens/tokens.md)
