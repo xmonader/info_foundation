@@ -20,6 +20,8 @@ gantt
 
 ``` -->
 
+[SEE here for more detail](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/past.png)
+
 ## Planning
 
 ![](images/roadmap.png)
@@ -59,5 +61,7 @@ gantt
     TF Token Usage Promotion In Ibiza (merchants app) :b4, 2018-06-01, 90d
 
 ``` -->
+[SEE here for more details](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/roadmap.png)
+
 
 (*): special conditions available contact ThreeFold
