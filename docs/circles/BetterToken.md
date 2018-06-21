@@ -1,6 +1,6 @@
 # BetterToken Circle
 
-![](images/farmer.png)
+![](img/farmer.png)
 
 - Coordinators:
 

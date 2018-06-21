@@ -2,4 +2,4 @@
 
 ----
 
-* [Ambassador FAQ](/faq/ambassador_faq.md)
+* [Frequent Asked Questions](/faq/readme.md)
