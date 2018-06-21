@@ -9,43 +9,43 @@
 
 ## Become a founder of ThreeFold Foundation
 
-- see https://threefoldfoundation.github.io/info_foundation/#/collaboration/contributing_in_agile_org
+- See https://threefoldfoundation.github.io/info_foundation/#/collaboration/contributing_in_agile_org
 
-### looking for
+### Looking for
 
-- need to be ambituous but not out of ego
-- believe that together we can change the world
-- not afraid to travel in the world
-- work on anything required to get us there (promotion, prod mgmt, help people to buy tokens, evangelizastion, events, ...)
+- Need to be ambituous but not out of ego
+- Believe that together we can change the world
+- Not afraid to travel in the world
+- Work on anything required to get us there (promotion, product management, help people to buy tokens, evangelizastion, events, ...)
 
-## Expand Our Engineering Team
+## Expand our engineering team
 
 TODO create 1 md page per profile (see https://github.com/threefoldfoundation/info_tech/tree/master/docs/HR/profiles)
 
-- engineering team lead web & UI
-- engineering team lead systems development (platforms, linux, ...)
-- engineering coordinator 
-    - more experience
-    - travel a lot
-    - work with all team leads
-    - make sure quality of generic products good enough
-- 5 UI/web experts
-    - make the nicest User Interfaces on top of our ThreeFold grid apps
-    - work on products replacing Facebook, ... (needs to be ergonomic)
-- 4 Automation  / IT System Developers / backend developers / trainers
-    - help us to expand our ThreeFold Grid
-    - build nice products on top of the TF Grid (start from existing opensource solutions)
-    - don't be afraid to train people & show the way
+- Engineering team lead web and UI
+- Engineering team lead systems development (platforms, linux, ...)
+- Engineering coordinator 
+    - More experience
+    - Travel a lot
+    - Work with all team leads
+    - Make sure quality of generic products good enough
+- 5 UI/Web experts
+    - Make the nicest User Interfaces on top of our ThreeFold grid apps
+    - Work on products replacing Facebook, ... (needs to be ergonomic)
+- 4 Automation / IT System Developers / Backend developers / Trainers
+    - Help us to expand our ThreeFold Grid
+    - Build nice products on top of the TF Grid (start from existing opensource solutions)
+    - Don't be afraid to train people & show the way
 
 ### Types of products we work on
 
-- DEFINE ...
+- Soon
 
 
 ## Ibiza Location
 
 [Ibiza Idea](https://raw.githubusercontent.com/threefoldfoundation/info_tech/master/docs/HR/IbizaIdea.md ':include :type=markdown')
 
-## lets change the world mission
+## Lets change the world mission
 
-- link to our HR sections e.g. collaboration, ...
+- Link to our HR sections e.g. collaboration, ...
