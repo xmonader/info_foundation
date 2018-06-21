@@ -20,7 +20,7 @@ gantt
 
 ``` -->
 
-[SEE here for more detail](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/past.png)
+See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/past.png) for more detail.
 
 ## Planning
 
@@ -62,7 +62,7 @@ gantt
 
 ``` -->
 
-See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/roadmap.png) for more details.
+See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/roadmap.png) for more detail.
 
 
 (*): special conditions available contact ThreeFold
