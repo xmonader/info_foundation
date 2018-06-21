@@ -75,4 +75,8 @@ See [https://github.com/threefoldfoundation/home](https://raw.githubusercontent.
 
 [](/itenv/web_sites_toc.md ':include')
 
+<<<<<<< HEAD
+- [https://github.com/threefoldfoundation/home](https://raw.githubusercontent.com/threefoldfoundation/home/master/README.md ':include')
+=======
 [](/itenv/wiki_pages_toc.md ':include')
+>>>>>>> c01078e54f98e8cc5612a30175f201a639ef53e9

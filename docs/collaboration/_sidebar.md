@@ -8,3 +8,4 @@
 * [Circle Tools](/collaboration/circles_tools)
 * [Stories](/collaboration/stories.md)
 * [Trello Usage](/collaboration/trello_usage.md)
+* [Tools](/collaboration/tools.md)
