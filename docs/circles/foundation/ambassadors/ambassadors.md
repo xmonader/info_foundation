@@ -66,7 +66,7 @@ Coordinator: Owen
 | Carlos Mario Sanchez Avila| Americas | Joris|Europe    |Nicola Moresi| Europe      |  Wieger Atsma     |    |
 | Chris Hurd    | Europe       |Judi Bechard | Americas  |Nino D'Auria | Europe      |  Phil Horn  |    |
 | Christian Seidl| Europe       |Dr. Kanwal Sibal|       |Nisha Grimes | Americas      |         |    |
-| Claudia Rodriguez Ortiz| Europe|Kevin Obeegadoo|       |Olivia Jurado | Middle East |         |    |
+| Claudia Rodriguez Ortiz| Europe|Kevin Obeegadoo|       |Olivia Jurado |Americas |         |    |
 | Dauren Toleukhanov|           |Krish Krishnan|         |Olivia K. Kemp | Europe      |          |    |
 | David De Vriesere|            |  Kyle Weber  | Americas|Osama Fitoria  | Middle East|          |    |
 | Eng.Ibrahim Ramel| Middle East| Leonora Blekaityte| Europe|Osman Asghar Khan |       |          |    |
