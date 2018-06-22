@@ -1,4 +1,4 @@
-# Legal
+# ThreeFold Legal
 
 ![](img/legal.jpeg)
 

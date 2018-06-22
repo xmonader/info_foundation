@@ -1,16 +1,17 @@
-## cool partner
+# Varia
+
+## Cool partner
 
 https://gcorelabs.com/hosting/ (fantastic service)
 
-## money
+## Money
 
 https://en.wikipedia.org/wiki/Hawala
 
-## values
+## Values
 
 http://www.cruxcatalyst.com/2013/09/26/spiral-dynamics-a-way-of-understanding-human-nature/
 
-## marketing internet
+## Marketing internet
 
 https://medium.com/@matteozago/why-the-web-3-0-matters-and-you-should-know-about-it-a5851d63c949
-
