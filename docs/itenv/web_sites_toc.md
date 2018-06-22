@@ -1,4 +1,3 @@
-
 Name | Link | GitHub Repository (source)
 ---------|----------|---------
 ThreeFold Current | http://www.threefold.me | https://github.com/threefoldfoundation/www_threefold_old
@@ -8,6 +7,3 @@ ThreeFold Grid | http://grid.threefold.me | https://github.com/threefoldfoundati
  | | 
 ThreeFold Radar | http://radar.threefold.me | https://github.com/threefoldfoundation/www_radar
 Africa Fund for Farming | TODO | https://github.com/threefoldfoundation/www_impact
-
-Also see [Web Resources](/web_resources.md)
-

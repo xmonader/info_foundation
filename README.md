@@ -1,5 +1,7 @@
-# Generic Information For ThreeFold Foundation
+# ThreeFold Foundation Wiki
 
+This repository contains the source files of the ThreeFold Foundation wiki, accessible on:
+- https://threefoldfoundation.github.io/info_foundation/#/
+- http://wiki.threefold.me/
 
-see https://threefoldfoundation.github.io/info_foundation/#/
-
+All changes here will immediately be reflected in the Wiki pages.

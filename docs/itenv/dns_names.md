@@ -1,4 +1,4 @@
-# Overview DNS Names & Naming Conventions
+# DNS Names & Naming Conventions
 
 ## ThreeFold Websites
 
