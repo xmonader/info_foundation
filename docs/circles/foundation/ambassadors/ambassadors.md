@@ -4,19 +4,45 @@
 
 Coordinator: Owen
 
-## Purpose/mission
+## Purpose/Mission
+
+- To bring incremental global knowledge and support to the TF movement from outside.  
+- To bring the TF story to a broader international community. 
+- Create global market pull for TF tokens, TF farming and TF grid utilisation by multiplying TF’s resources 
+- Community building by engaging community members to be a part of the TF movement
+- Help spread the word, open up networks, have an advisory role, organize and host events, support token sales &     farming
 
 ...
 
-## Goals
+## Goals 
+
+- Create an ambassador program that attracts significant personalities with diverse knowledge, experience, network.  
+- Execute ambassador-led TF events in all relevant markets by end 2018.
+- Have 20+ active working groups composed of ambassadors and TF staff addressing relevant challenges and opportunities of TF.
+- Scale to 1000 ambassadors by end 2019.
 
 ...
 
 ## Strategy
 
+- Develop a program which enables scalable knowledge sharing between ambassadors and TF.  
+
+- Search for, recruit, engage and retain ambassadors to the joint benefit of both ambassadors and TF. 
+
+- Launch new ambassador category of “Guardians” and define exact roles and responsibilities and remuneration. Recruit guardians out of  existing pool of ambassadors and if needed from outside - being referred by TF members and ambassadors.
+
+- Extend ambassador community work to include friends and family and other investors - assuming they want a more active role in designing the future of and the success of TF
+
+- Create a special category of ambassadors that includes market-making influencers and big names of the industry that like our idea and would endorse and support in various areas, speak at events for us and give us advice.
+
 ...
 
 ## Timing
+
+- End of August we have 100 Ambassadors
+- End of October 200
+- End of December 300
+(See https://threefoldfoundation.github.io/info_foundation/#/strategy/roadmap)
 
 ...
 
@@ -24,7 +50,31 @@ Coordinator: Owen
 
 - Every ambassador needs to have a contributor page in relevant wiki:
    - [Contributors](https://github.com/threefoldfoundation/info_foundation/tree/master/docs/contributors)
-- Need to add this list on this page. : TODO:*1 
+
+
+| Ambassador    | Region        | Ambassador | Region     | Ambassador    | Region        | Ambassador | Region     |
+| ------------- |:-------------: | :-----:     |:----:       |:----:          |:----:          |:----:       |:----:       |
+| Ahmed Odeh    | Middle East   | Federico Fumagalli|  Europe|Mahshid Amir-Mokri|         | Rob Tol    |Europe      |
+| Alain Andries |Europe         |Franco Sorgi|   Europe   |Maria Marchenko|               | Roel Castelein|Europe   |     
+| Ali Olabi     | Middle East   |Garry Veale |            |Marina Achillea|               | Tony Henderson|         |   
+| Ali Omari     | Middle East   |Georg Gesek |             |Michael Erenburg|             | Ugur Uker   |           |
+| Andy Brauer   |      |Gert De Spiegeleer| Europe|Michael Gaffney | Americas    | Wolfgang Wittmer|Europe |
+| Bart Weijermars| Europe       |Kristian Järnefelt| Europe|Michael Wellesley-Wesley| Europe|Xander Van Der Heijden|  Europe          |
+| Binoy Meghraj |               |James Short |Europe     |Michel Coucke| Europe   |    Simin Gerards   |    |
+| Brian Bogaerts| Europe        |Jenne Magno |Europe|Mihos Vasilopoulos  | Europe  |   Erik Reitsma  |    |
+| Bruce Lites   | Americas      |Jennifer Long|Americas  |Milind Sathe |       |  Can Oruc     |    |
+| Carlos Mario Sanchez Avila| Americas | Joris|Europe    |Nicola Moresi| Europe      |  Wieger Atsma     |    |
+| Chris Hurd    | Europe       |Judi Bechard | Americas  |Nino D'Auria | Europe      |  Phil Horn  |    |
+| Christian Seidl| Europe       |Dr. Kanwal Sibal|       |Nisha Grimes | Americas      |         |    |
+| Claudia Rodriguez Ortiz| Europe|Kevin Obeegadoo|       |Olivia Jurado | Middle East |         |    |
+| Dauren Toleukhanov|           |Krish Krishnan|         |Olivia K. Kemp | Europe      |          |    |
+| David De Vriesere|            |  Kyle Weber  | Americas|Osama Fitoria  | Middle East|          |    |
+| Eng.Ibrahim Ramel| Middle East| Leonora Blekaityte| Europe|Osman Asghar Khan |       |          |    |
+| Erik De Rijk  | Europe        | Lieve Vereycken| Europe   |Paolo Piccardo  |       |          |    |
+| Erik Van Der Meulen |Europe   | Lucia Groenfelt|  Europe  |Philippe Guillemot  | Europe     |         |    |
+| Erwin Raets  | Europe         | Maha Baligh   |    |Richard Sutton  | Europe      |          |    |
+
+ 
 
 ## Links
 
