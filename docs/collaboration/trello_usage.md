@@ -26,6 +26,7 @@ e.g. info about timing (needed for e.g. trello roadmap board)
    - confirmed    : email or oral confirmation that they want to do the deal
    - negotiation  : working on the details, contract stage sits in here
    - won          : all docs done, waiting for e.g. payment, delivery, ...
+   - idea         : should we contact & continue with the prospect
 - when story won & paid, just archive, when story lost just archive
 
 use labels for
