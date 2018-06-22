@@ -2,11 +2,11 @@
 
 ----
 
-* [Definitions](/definitions/README.md)
-* [Presentations](/presentations/readme.md)
-* [Collaboration](/collaboration/readme.md)
+* [Definitions](/definitions/)
+* [Presentations](/presentations/)
+* [Collaboration](/collaboration/)
 * [Circles](/circles/readme.md)
-* [Strategy](/strategy/readme.md)
-* [Frequently Asked Questions](/faq/readme.md)
-* [Blogs](/blog/readme.md)
-* [Legal](/legal/readme.md)
+* [Strategy](/strategy/)
+* [Frequently Asked Questions](/faq/)
+* [Blogs](/blog/)
+* [Legal](/legal/)
