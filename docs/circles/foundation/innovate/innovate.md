@@ -16,7 +16,7 @@ establish an incubator under ThreeFold umbrella that attracts start-ups in and a
 4) attracting programming resources to our various businesses 
 5) creating a broad network of potential ambassadors and TF staff coming out of the incubator
 
-Strategy: 
+## Strategy: 
 
 
 “Expo”: Showcase technologies and competencies of TF (and GIG) in a demo area (including a local farm). show also adjacent and additional businesses like Veda, Africa Fund and it’s “good projects” also partners like BetterToken can exhibit…overall common theme will be “doing good” (body/mind/environment/inclusion/emerging markets..) and token-driven businesses.
