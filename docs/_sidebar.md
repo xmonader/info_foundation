@@ -2,7 +2,7 @@
 
 ----
 
-* [Definitions](/definitions/readme.md)
+* [Definitions](/definitions/README.md)
 * [Presentations](/presentations/readme.md)
 * [Collaboration](/collaboration/readme.md)
 * [Circles](/circles/readme.md)
