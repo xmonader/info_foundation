@@ -1,5 +1,3 @@
-## Wiki Pages
-
 Name | Link | GitHub Repository (source)
 ---------|----------|---------
  ThreeFold Foundation| [http://wiki.threefold.me](http://wiki.threefold.me) | https://github.com/threefoldfoundation/info_foundation

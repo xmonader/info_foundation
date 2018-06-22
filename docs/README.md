@@ -11,4 +11,4 @@ For an overview of all websites and Wiki pages go to [Web Resources](web_resourc
 
 You are invited to contribute to this and all other Wiki pages and websites.
 
-See the [How to contribute](https://threefoldfoundation.github.io/info_foundation/#/web_resources?id=how-to-contribute) section for instructions.
+See the [How to contribute](https://threefoldfoundation.github.io/info_foundation/#/web_resources?id=contribute) section for instructions.
