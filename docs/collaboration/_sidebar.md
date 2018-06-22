@@ -2,7 +2,7 @@
 
 ------
 
-* [Collaboration](/collaboration/readme.md)
+* [Collaboration](/collaboration/README.md)
     * [Contribute](/collaboration/contributing_in_agile_org)
     * [Circles](/collaboration/circles)
     * [Circle Roles](/collaboration/circles_roles)

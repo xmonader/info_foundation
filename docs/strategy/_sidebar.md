@@ -3,5 +3,5 @@
 
 ----
 
-* [Strategy](/strategy/readme.md)
+* [Strategy](/strategy/README.md)
     * [Roadmap](/strategy/roadmap.md)
