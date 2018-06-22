@@ -3,20 +3,23 @@
 ![](https://images.unsplash.com/photo-1506452819137-0422416856b8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=35c3a22e647b11004efd8135de82164c&auto=format&fit=crop&w=1266&q=80)
 
 
-ThreeFold Wiki pages:
+## ThreeFold Wiki pages:
 - [TheeFold Foundation](http://wiki.threefold.me/) (your are here)
 - [ThreeFold Tokens](http://tokens_wiki.threefold.me/)
 - [ThreeFold Grid](http://grid_wiki.threefold.me/)
 - [ThreeFold Technology](http://tech_wiki.threefold.me/)
 
-For instructions on how to contribute see below in [How to contribute](#contribute)
+For instructions on how to contribute see below in [How to contribute](#contribute) section.
 
-ThreeFold websites, discussed below:
+## ThreeFold websites, discussed below:
 - [ThreeFold Foundation](#foundation)
 - [ThreeFold Tokens](#tokens)
 - [ThreeFold Farmers](#farmers)
 - [ThreeFold Capacity](#capacity)
 - [ThreeFold Radar](#radar)
+
+
+For instructions on how to contribute see below in [How to contribute](#contribute) section.
 
 
 <a id='foundation'></a>
@@ -103,7 +106,7 @@ Content:
 
 ## How to contribute?
 
-Go to the respective GitHub repositories to edit the Markdown (*.md) files and/or create issues, requesting changes. 
+Go to the respective (source) GitHub repositories to edit the Markdown files (*.md) and/or create issues for requesting changes or giving feedback. 
 
 For the Wiki pages:
 
