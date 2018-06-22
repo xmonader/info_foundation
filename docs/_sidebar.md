@@ -3,6 +3,7 @@
 ----
 
 * [Definitions](/definitions/README.md)
+* [Web Resources](web_resources.md)
 * [Presentations](/presentations/README.md)
 * [Collaboration](/collaboration/README.md)
 * [Circles](/circles/README.md)

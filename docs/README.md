@@ -5,12 +5,8 @@
 
 **Welcome to our ThreeFold Wiki!**
 
-**[our websites](web_resources.md)**
+Use the left navigation menu to visit the various sections.
 
-We invite everybody to contribute to our websites & wikis, checkout the link above which has instructions how to do this.
+For an overview of all websites and Wiki page go to [Web Resources](web_resources.md).
 
-
-
-
-
-
+We invite everybody to contribute to this and all other Wiki pages and websites, see the [How to contribute](https://threefoldfoundation.github.io/info_foundation/#/web_resources?id=how-to-contribute) section for instructions.
