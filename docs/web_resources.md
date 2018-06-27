@@ -108,11 +108,11 @@ Content:
 
 Go to the respective (source) GitHub repositories to edit the Markdown files (*.md) and/or create issues for requesting changes or giving feedback. 
 
-For the Wiki pages:
+For the webpages:
 
 [](/itenv/web_sites_toc.md ':include')
 
 
-For the webpages:
+For the Wiki pages:
 
 [](/itenv/wiki_pages_toc.md ':include')
