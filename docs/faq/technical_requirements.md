@@ -1,4 +1,4 @@
-# Where can one find a set of detailed technical requirements for ThreeFold farming hardware?
+# Where can one find the technical requirements for ThreeFold farming hardware?
 
 ## Question
 

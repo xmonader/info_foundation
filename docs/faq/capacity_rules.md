@@ -1,5 +1,4 @@
-# Is there a simpler way to explain the 30% capacity rule for farming income?
-# Is there a simple way to quantify the 30% capacity threshold?
+# Is there a simple way to explain the 30% capacity rule for farming income?
 
 @NEED REVIEW
 

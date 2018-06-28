@@ -1,4 +1,4 @@
-# How are ThreeFold tokens valued relative to farming capacity
+# How are ThreeFold tokens valued relative to farming capacity?
 
 There are several aspects to this question:
 

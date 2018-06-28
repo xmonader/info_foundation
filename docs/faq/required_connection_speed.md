@@ -1,4 +1,4 @@
-# What is the required connection speed for Farming?
+# What is the required connection speed for farming?
 
 ## Question
 

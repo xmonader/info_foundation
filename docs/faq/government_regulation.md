@@ -1,4 +1,4 @@
-# What can be the impact of government regulation of cryptocurrencies?
+# What can be the impact of government regulation on cryptocurrencies?
 
 ## Answer
 

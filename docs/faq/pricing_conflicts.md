@@ -1,4 +1,4 @@
-# Is there a conflict between the distributed Grid and pricing of service by individual farmers?
+# Is there a conflict between the ThreeFold Grid pricing and pricing set by individual farmers?
 
 ## Question
 
