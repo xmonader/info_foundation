@@ -1,8 +1,8 @@
-## Unmanaged Capacity
+## ThreeFold Capacity
 
-Unmanaged IT Capacity can exist everywhere; in people’s home, in mobile telephone masts, in utility cabinets, next to railways or motorways, anywhere where internet lines meet electrical outlets, any IT Hosting or Datacenter Facility. This capacity is deployed to the TF Grid and has no people involved to manage its operations (apart from the physical and network aspects). Farmers have no access to the TF Nodes purchased. They can only use the capacity produced in the exact same way as any other user, i.e. through the TF Chain, in a secure private and neutral way, equally applicable to all.
+ThreeFold IT Capacity can exist everywhere; in people’s home, in mobile telephone masts, in utility cabinets, next to railways or motorways, anywhere where internet lines meet electrical outlets, any IT Hosting or Datacenter Facility. This capacity is deployed to the TF Grid and has no people involved to manage its operations (apart from the physical and network aspects). Farmers have no access to the TF Nodes purchased. They can only use the capacity produced in the exact same way as any other user, i.e. through the TF Chain, in a secure private and neutral way, equally applicable to all.
 
-Unmanaged capacity provides the following 3 basic services
+ThreeFold capacity provides the following 3 basic services
 
 - Storage Capacity = backend storage services which can be used as backend for more high level storage services like S3
 - Compute Capacity = backend compute capacity which can be used as backend for more high level compute services like Kubernetes.
