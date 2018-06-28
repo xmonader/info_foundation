@@ -1,3 +1,3 @@
-# How is proof-of-stake implemented in the Threefold Grid
+# How is proof-of-stake implemented in the Threefold Grid?
 
 @TODO

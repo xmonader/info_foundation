@@ -9,7 +9,7 @@
 - [By what factor is the required grid storage greater than the actual data volume stored?](/faq/storage_overhead.md)
 - [Do larger nodes perform different functions than individual nodes?](/faq/node_workloads.md)
 - [Is there a simple way to explain the 30% capacity rule for farming income?](/faq/capacity_rules.md)
-- [How is proof-of-stake implemented in the Threefold Grid](/faq/proof_of_stake.md)
+- [How is proof-of-stake implemented in the Threefold Grid?](/faq/proof_of_stake.md)
 - [Where can one find the technical requirements for ThreeFold farming hardware?](/faq/technical_requirements.md)
 - [How are ThreeFold tokens valued relative to farming capacity?](/faq/tft_value.md)
 - [How will the ThreeFold Grid be implemented in emerging markets?](/faq/emerging_markets.md)
