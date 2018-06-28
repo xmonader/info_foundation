@@ -17,7 +17,7 @@
     * [Concentrate Efforts](/faq/concentrate_efforts.md)
     * [How to Compete](/faq/compete.md)
     * [Promote Application Development](/faq/promote_appdev.md)
-    * [Malicious Content](/faq/malicious content.md)
+    * [Malicious Content](/faq/malicious_content.md)
     * [Pricing Conflicts](/faq/pricing_conflicts.md)
     * [Performance Assurance](/faq/performance.md)
     * [Government Regulation](/faq/government_regulation.md)

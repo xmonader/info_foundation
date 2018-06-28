@@ -16,7 +16,7 @@
 - [Where best to concentrate initial efforts to promote the ThreeFold Grid?](/faq/concentrate_efforts.md)
 - [How do small-scale farmers complete with farmers with more extensive capacity?](/faq/compete.md)
 - [How are ambassadors to promote the development of applications to run on the ThreeFold Grid?](/faq/promote_appdev.md)
-- [Will ThreeFold be able to restrict malicious content?](/faq/malicious content.md)
+- [Will ThreeFold be able to restrict malicious content?](/faq/malicious_content.md)
 - [Is there a conflict between the ThreeFold Grid pricing and pricing set by individual farmers?](/faq/pricing_conflicts.md)
 - [How can I be assured of performance?](/faq/performance.md)
 - [What can be the impact of government regulation on cryptocurrencies?](/faq/government_regulation.md)
