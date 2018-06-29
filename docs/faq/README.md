@@ -2,7 +2,7 @@
 
 ![FAQ](img/faq.jpeg)
 
-- [Internet versus Cloud](/faq/internet_vs_speed.md)
+- [Internet versus Cloud](/faq/internet_vs_cloud.md)
 - [What is the required connection speed for ThreeFold farming?](/faq/required_connection_speed.md)
 - [How is redundancy achieved?](/faq/redundancy.md)
 - [Do you use RAID?](/faq/raid.md)
@@ -11,7 +11,7 @@
 - [Is there a simple way to explain the 30% capacity rule for farming income?](/faq/capacity_rules.md)
 - [How is proof-of-stake implemented in the Threefold Grid?](/faq/proof_of_stake.md)
 - [Where can one find the technical requirements for ThreeFold farming hardware?](/faq/technical_requirements.md)
-- [How are ThreeFold tokens valued relative to farming capacity?](/faq/tft_value.md)
+- [How are ThreeFold tokens valued relative to farming capacity?](/faq/capacity_dependency.md)
 - [How will the ThreeFold Grid be implemented in emerging markets?](/faq/emerging_markets.md)
 - [Where best to concentrate initial efforts to promote the ThreeFold Grid?](/faq/concentrate_efforts.md)
 - [How do small-scale farmers complete with farmers with more extensive capacity?](/faq/compete.md)
