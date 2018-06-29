@@ -1,1 +1,0 @@
-[Capacity Dependency](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/faq/capacity_dependency.md ':include :type=markdown')
