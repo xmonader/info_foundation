@@ -4,21 +4,21 @@ There are several aspects to this question:
 
 ## Question
 
-If the token value relative to fiat currency “floats” on the open speculative market, then its value can change rapidly by large amounts. The value of capacity in terms of fiat currency will fluctuate correspondingly unless the cost of internet capacity in tokens is also allowed to float.  If not, then if the speculative market for tokens drives the price up, the ThreeFold internet capacity could rapidly become more expensive than that of the current cloud providers. Will internet capacity in tokens be allowed to float?
+If the token value relative to fiat currency “floats” on the open speculative market, then its value can change rapidly by large amounts. The value of capacity in terms of fiat currency will fluctuate correspondingly unless the cost of internet capacity in tokens is also allowed to float. If not, then if the speculative market for tokens drives the price up, the ThreeFold internet capacity could rapidly become more expensive than that of the current cloud providers. Will internet capacity in tokens be allowed to float?
 
 ## Answer
 
 The mechanism here is as follows:
  - Token value is determined by demand and supply on token markets
- - ThreeFold grid capacity pricing is _set_ by Farmers in **fiat** currency.
+ - ThreeFold Grid capacity pricing is set by farmers in **fiat** currency.
 
- Therefore the farmer can set his capacity pricing against the global market / competitors.  This is done in the (local) fiat currency.  When reserving Grid capacity on the grid the total pricing for reserved capacity will be calculated (week, month, quarter of annual) and translated against the current token value.  The amount of tokens required to reserve the same capacity might vary based on the token value.   A higher token value provides you more ThreeFold capacity purchase power.  A lower price result in lesser.
+ Therefore the farmer can set his capacity pricing against the global market / competitors. This is done in the (local) fiat currency. When reserving Grid capacity the total pricing for reserved capacity will be calculated (week, month, quarter of annual) and translated against the current token value. The amount of tokens required to reserve the same capacity might vary based on the token value.  A higher token value provides you more ThreeFold capacity purchase power.  A lower price result in lesser.
 
 ## Question
 
 The information we have seems to indicate that individual farmers set the price of their own capacity.  Do they set a price in terms of tokens, or in terms of fiat currency?  Either way, how do fluctuations impact the business of the farmers?
 
-Farmer set their own pricing in **fiat** currency.  Capacity reservations are paid for in token so a higher value of the token will provide them with less tokens than when there is a lower token value.  Farmers have the freedom to change tokens to fiat when they believe they need to get fiat for business reasons or might sit on tokens to let them appreciate.
+Farmer set their own pricing in **fiat** currency. Capacity reservations are paid for in token so a higher value of the token will provide them with less tokens than when there is a lower token value. Farmers have the freedom to change tokens to fiat when they believe they need to get fiat for business reasons or might sit on tokens to let them appreciate.
 
 ## Question
 
