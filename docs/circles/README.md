@@ -12,7 +12,7 @@ Circles are teams of people working on shared tasks, products, services. They ar
 graph TB; 
     Foundation((Foundation<BR>Kristof)) --- TFLove((TFLove))
     Foundation --- TFGRID((TFGRID<br>Andreas))
-    Foundation --- TFTOKENS((TFTOKENS<br>Adnan<))
+    Foundation --- TFTOKENS((TFTOKENS<br>Adnan))
     Foundation --- Community{Community}
     Foundation --- Org{Org<br>See Below}
     Community --- Europe{Europe}
@@ -46,13 +46,13 @@ graph TB;
 
     Tech  --- Evangelization((Evangelization<br>Yves))
     Tech  --- TFPlatform((TF-Platform<br>Reem/Christophe))
-    Tech  --- TFCHain((TF-Chain<br>Rob/Glen))
+    Tech  --- TFCHain((TF-Chain<br>Rob))
 
     classDef circle text-align:center,stroke:#33,stroke-width:3px;  
 
     class Web,Support,IT,Tech,Evangelization circle;
 
-    click TFGRID "/circles/foundation/grid/grid.md"
+    click TFGRID "https://threefoldfoundation.github.io/info_foundation/#/circles/foundation/grid/grid"
 
 ```
 
