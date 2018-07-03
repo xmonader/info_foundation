@@ -1,6 +1,6 @@
 # Andreas Hartl
 
-![](https://docs.greenitglobe.com/gig/data_team/raw/master/team/threefold/sales_marketing/andreas_hartl/processed.jpg)
+![](https://github.com/threefoldfoundation/www_foundation/blob/master/avatars/andreas_hartl_processed.jpg)
 
 calendar
 
