@@ -21,7 +21,7 @@ graph TB;
     Foundation --- TFImpact((TFImpact<br>Chris<br>Africa Fund))
 
     Community --- TFAmbassadors((Ambassadors<br>Owen))
-    Europe --- CommunityIbiza((Community<br>Ibiza<br>Lucien<br>Jenne<br>...))
+    Europe --- CommunityIbiza((Community<br>Ibiza<br>Lucien<br>Jenne<br>Owen<br>))
     Europe --- CommunityGreen((Community<br>???<br>???))
     Global --- CommunityVeda((Community<br>Students<br>Celebrities<br>Isabelle<br>Adnan))
     Global --- Veda((Awareness<br>Veda<br>Isabelle))
@@ -45,6 +45,8 @@ graph TB;
     Foundation --- Tech((Technology<br>Kristof))
 
     Tech  --- Evangelization((Evangelization<br>Yves))
+    Tech  --- TFPlatform((TF-Platform<br>Reem/Christophe))
+    Tech  --- TFCHain((TF-Chain<br>Rob/Glen))
 
     classDef circle text-align:center,stroke:#33,stroke-width:3px;  
 
