@@ -31,7 +31,7 @@ graph TB;
 
     class Foundation,TFLove,TFGRID,TFTOKENS,TFAmbassadors,TFInnovate,TFImpact,CommunityIbiza,CommunityVeda,CommunityGreen,Veda,Crypto,Org circle;
 
-    click TFGRID "/circles/foundation/grid/grid.md"
+    click TFGRID "https://threefoldfoundation.github.io/info_foundation/#/circles/foundation/grid/grid"
 
 ```
 
@@ -52,7 +52,6 @@ graph TB;
 
     class Web,Support,IT,Tech,Evangelization circle;
 
-    click TFGRID "https://threefoldfoundation.github.io/info_foundation/#/circles/foundation/grid/grid"
 
 ```
 
