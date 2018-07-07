@@ -4,7 +4,7 @@
 
 ## Planning ThreeFold Foundation (high level)
 
-```mermaid
+<!-- ```mermaid
 gantt
     title ThreeFold Foundation Roadmap
     dateFormat  YY-MM
@@ -19,15 +19,18 @@ gantt
     ThreeFold Expert Fund (Fund for Incubator) :19-04, 19-12
     ThreeFold Impact Fund For Africa: 19-09, 19-12
 
-    
+``` -->
 
-```
+![](images/highlevel.png)
+
+See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/highlevel.png) for more detail.
+
 
 ## History Technology Creation
 
 ![](images/past.png)
 
-```mermaid
+<!-- ```mermaid
 gantt
     title 3 generation of technology over +13 years
     dateFormat  YYYY-MM-DD
@@ -39,13 +42,13 @@ gantt
     Technology Gen 3 Creation           :a6, 2017-01-01, 2019-06-01        
     Technology Gen 3 Deployment           :a7, 2018-04-01, 2019-06-01            
 
-```
+``` -->
 
 See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/past.png) for more detail.
 
 ## Planning ThreeFold Tokens
 
-```mermaid
+<!-- ```mermaid
 gantt
     title ThreeFold Token Roadmap
     dateFormat  YY-MM
@@ -58,11 +61,15 @@ gantt
     Tokens Used In Our City App (8000 merchants) :18-09, 19-03
     Token Promotion (let world know)  : 18-10,19-03
     Tokens Required To Use Capacity On Grid       :19-01, 19-03
-```
+``` -->
+
+![](images/tokens.png)
+
+See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/tokens.png) for more detail.
 
 ## Planning ThreeFold Grid
 
-```mermaid
+<!-- ```mermaid
 gantt
     title ThreeFold Grid Roadmap
     dateFormat  YY-MM
@@ -79,68 +86,32 @@ gantt
     Tokens Required To Use Capacity On Grid       :19-01, 19-03
     Global Promotion Of Usage Of Grid Capacity  :19-02, 19-03
 
-```
+``` -->
 
-
+![](images/grid.png)
+See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/grid.png) for more detail.
 
 ## Planning ThreeFold Exchange
 
-```mermaid
-gantt
-    title ThreeFold Token Roadmap
-    dateFormat  YY-MM
-
-    BlockChain Active          :18-04, 19-03
-    Tokens On Public Exchange BTC-Alpha         :18-05, 19-03
-    Atomic Swaps Possible BTC/TFT= decentralized exchange action (experts only)        :18-06, 19-03
-    Tokens On Public Exchange bitmeex.pro          :18-08, 19-03    
-    Decentralized Exchange Everyone          :18-09, 19-03
-    Tokens Used In Our City App (8000 merchants) :18-09, 19-03
-    Token Promotion (let world know)  : 18-10,19-03
-    Tokens Required To Use Capacity On Grid       :19-01, 19-03
-```
-
-## Planning Detail
-
-![](images/roadmap.png)
-
 <!-- ```mermaid
 gantt
-    title ThreeFold Roadmap
-    dateFormat  YYYY-MM-DD
+    title ThreeFold Exchange Roadmap
+    dateFormat  YY-MM
 
-    section Grid
-    Grid launch internal developers           :a1, 2018-01-01, 181d
-    Grid launch app/solution developers          :a2, 2018-06-01, 2019-06-01
-    Grid launch IT users          :a3, 2018-10-01, 2019-06-01
-    Grid marketing (push capacity usage)      :a4, 2019-01-01, 2019-06-01
-
-    section Token
-    TF Blockchain Active           :b1, 2018-04-01, 2019-06-01
-    Pub Exchange BT-Alpha          :b2, 2018-05-01, 2019-06-01
-    Pub Exchange Bitmeex           :b3, 2018-07-01, 2019-06-01    
-    TF Token community building    :b7, 2018-07-01, 2019-06-01    
-    TF Free Decentralized Exchange :b5, 2018-07-30, 2019-06-01
-    TF Token Usage Promotion       :b6, 2018-07-30, 2019-06-01
-
-    TF Token crypto community marketing  :b7, 2018-09-01, 2019-06-01
-    TF Token large scale marketing :a2, 2019-01-01, 90d
-
-    section Foundation
-    100+ active ambassadors :c1, 2018-06-01, 60d
-    200+ active ambassadors :c1, 2018-08-01, 60d    
-    300+ active ambassadors :c1, 2018-10-01, 60d        
-    1.5m EUR sell of BetterToken TFT's    (*)       :c2, 2018-07-01, 60d
-    3.5m USD sell of Mazraa TFT's         (*)       :c3, 2018-07-01, 60d
-
-    section Token Usage
-
-    TF Token Integration In Our Community App :b4, 2018-06-01, 90d
-    TF Token Usage Promotion In Ibiza (merchants app) :b4, 2018-06-01, 90d
+    Atomic Swaps BTC/TFT (experts only)        :18-06, 19-03
+    Script Based Decentralized Exchange (python)        :18-07, 19-03
+    PUBLIC Launch       :18-09, 18-12    
+    Decentralized Exchange Step 1 (BTC/ETH/TFT)          :18-09, 18-12
+    Human Energy Token * :18-10, 19-12
+    Decentralized Exchange Step 2 (+20 digital currencies)          :18-12, 19-12
+    
+    Fiat <-> Digital Currency Integration :19-03, 19-12
+    Debit Card <-> Digital Currency Integration :19-03, 19-12
+    Gold Token Launch         :19-03, 19-12
+    Coffee Token Launch          :19-06, 19-12
+    Other Commodity Token Launches          :19-09, 19-12
 
 ``` -->
 
-See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/roadmap.png) for more detail.
-
-
-(*): special conditions available contact ThreeFold
+![](images/exchange.png)
+See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/exchange.png) for more detail.
