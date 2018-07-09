@@ -15,11 +15,12 @@ Write Automation tests for all the TF components, validate and follow up open is
 - Bishoy Mikhaiel Cloud system engineer (OPS)
 - Dina AbdelRahman Cloud system engineer (OPS)
 - Samir Hosny DevOps Engineer (OPS)
+- Ahmed Siddique Telecom-IT, Networking (OPS)
+- Abdul Rehman Telecom-IT, Networking (OPS)
 
 - Islam Taha Senior Software Testing Engineer (QA)
 - John Kheir Automation Software Testing Engineer (QA)
 - Dina Magdy Automation Software Testing Engineer (QA)
-- Ahmed Elsayed Automation Software Testing Engineer (QA)
 
 ## Goals
 - OPS engineers take care of all the internal operations tasks includig support, installations and all online websites.
