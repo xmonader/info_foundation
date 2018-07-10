@@ -69,7 +69,7 @@ Coordinator: Owen
 | Claudia Rodriguez Ortiz| Europe|Kevin Obeegadoo|       |Olivia Jurado |Americas |         |    |
 | Dauren Toleukhanov|           |Krish Krishnan|         |Olivia K. Kemp | Europe      |          |    |
 | David De Vriesere|            |  Kyle Weber  | Americas|Osama Fitoria  | Middle East|          |    |
-| Eng.Ibrahim Ramel| Middle East| Leonora Blekaityte| Europe|Osman Asghar Khan |       |          |    |
+| Ibrahim Ramel| Middle East| Leonora Blekaityte| Europe|Osman Asghar Khan |       |          |    |
 | Erik De Rijk  | Europe        | Lieve Vereycken| Europe   |Paolo Piccardo  |       |          |    |
 | Erik Van Der Meulen |Europe   | Lucia Groenfelt|  Europe  |Philippe Guillemot  | Europe     |         |    |
 | Erwin Raets  | Europe         | Maha Baligh   |    |Richard Sutton  | Europe      |          |    |
@@ -90,4 +90,4 @@ Ambassadors are invited to Telegram chat group by coordinator.
    
 ### Websites/Wikis
 
-- [Ambassador Community Site](https://sites.google.com/incubaid.com/tf-ambassador-community/home)
+- Ambassador Community Site (Exclusive Access for TF Ambassadors)
