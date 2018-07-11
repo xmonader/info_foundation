@@ -2,6 +2,30 @@
 
 ![](https://images.unsplash.com/photo-1495292040232-745a10cd202c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=311b389f7632627e26e3f287581d0c0e&auto=format&fit=crop&w=1189&q=80)
 
+## Planning ThreeFold Foundation (high level)
+
+<!-- ```mermaid
+gantt
+    title ThreeFold Foundation Roadmap
+    dateFormat  YY-MM
+    Grid Active                :17-06, 19-12
+    Tokens Active              :18-04, 19-12
+    ThreeFold Tech Fundraise   :18-07, 18-12
+    ThreeFold Exchange         :18-09, 19-12    
+    ThreeFold Our Community App            :18-09, 19-12
+    ThreeFold Circles (Digital Me)         :18-12, 19-12    
+    Grid Public & Active Promotion     :19-01, 19-12
+    ThreeFold Incubator (Innovate) :19-01, 19-12
+    ThreeFold Expert Fund (Fund for Incubator) :19-04, 19-12
+    ThreeFold Impact Fund For Africa: 19-09, 19-12
+
+``` -->
+
+![](images/highlevel.png)
+
+See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/highlevel.png) for more detail.
+
+
 ## History Technology Creation
 
 ![](images/past.png)
@@ -22,47 +46,72 @@ gantt
 
 See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/past.png) for more detail.
 
-## Planning
-
-![](images/roadmap.png)
+## Planning ThreeFold Tokens
 
 <!-- ```mermaid
 gantt
-    title ThreeFold Roadmap
-    dateFormat  YYYY-MM-DD
+    title ThreeFold Token Roadmap
+    dateFormat  YY-MM
 
-    section Grid
-    Grid launch internal developers           :a1, 2018-01-01, 181d
-    Grid launch app/solution developers          :a2, 2018-06-01, 2019-06-01
-    Grid launch IT users          :a3, 2018-10-01, 2019-06-01
-    Grid marketing (push capacity usage)      :a4, 2019-01-01, 2019-06-01
+    BlockChain Active          :18-04, 19-03
+    Tokens On Public Exchange BTC-Alpha         :18-05, 19-03
+    Atomic Swaps Possible BTC/TFT= decentralized exchange action (experts only)        :18-06, 19-03
+    Tokens On Public Exchange bitmeex.pro          :18-08, 19-03    
+    Decentralized Exchange Everyone          :18-09, 19-03
+    Tokens Used In Our City App (8000 merchants) :18-09, 19-03
+    Token Promotion (let world know)  : 18-10,19-03
+    Tokens Required To Use Capacity On Grid       :19-01, 19-03
+``` -->
 
-    section Token
-    TF Blockchain Active           :b1, 2018-04-01, 2019-06-01
-    Pub Exchange BT-Alpha          :b2, 2018-05-01, 2019-06-01
-    Pub Exchange Bitmeex           :b3, 2018-07-01, 2019-06-01    
-    TF Token community building    :b7, 2018-07-01, 2019-06-01    
-    TF Free Decentralized Exchange :b5, 2018-07-30, 2019-06-01
-    TF Token Usage Promotion       :b6, 2018-07-30, 2019-06-01
+![](images/tokens.png)
 
-    TF Token crypto community marketing  :b7, 2018-09-01, 2019-06-01
-    TF Token large scale marketing :a2, 2019-01-01, 90d
+See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/tokens.png) for more detail.
 
-    section Foundation
-    100+ active ambassadors :c1, 2018-06-01, 60d
-    200+ active ambassadors :c1, 2018-08-01, 60d    
-    300+ active ambassadors :c1, 2018-10-01, 60d        
-    1.5m EUR sell of BetterToken TFT's    (*)       :c2, 2018-07-01, 60d
-    3.5m USD sell of Mazraa TFT's         (*)       :c3, 2018-07-01, 60d
+## Planning ThreeFold Grid
 
-    section Token Usage
+<!-- ```mermaid
+gantt
+    title ThreeFold Grid Roadmap
+    dateFormat  YY-MM
 
-    TF Token Integration In Our Community App :b4, 2018-06-01, 90d
-    TF Token Usage Promotion In Ibiza (merchants app) :b4, 2018-06-01, 90d
+    Technology Available & Deployed (gen2)  :16-06, 19-03
+    Grid Active, Internal Only              :17-06, 19-03
+    Promotion to grow Grid (focus on new farmers)       :18-03, 19-03
+    100 BlockChain Nodes Active          :18-04, 19-03
+    +60m USD commercial capacity online      :18-06, 19-03    
+    Grid Open For Early Adopters & Developers (non production)      :18-07, 19-03
+    Launch of one of biggest public digital archives in Europe (50 PB) on TF Grid (production)         :18-09, 19-03
+    Grid Generic Production Workloads Possible      :18-10, 19-03
+    Goal +150m USD commercial capacity online      :19-01, 19-03        
+    Tokens Required To Use Capacity On Grid       :19-01, 19-03
+    Global Promotion Of Usage Of Grid Capacity  :19-02, 19-03
 
 ``` -->
 
-See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/roadmap.png) for more detail.
+![](images/grid.png)
+See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/grid.png) for more detail.
 
+## Planning ThreeFold Exchange
 
-(*): special conditions available contact ThreeFold
+<!-- ```mermaid
+gantt
+    title ThreeFold Exchange Roadmap
+    dateFormat  YY-MM
+
+    Atomic Swaps BTC/TFT (experts only)        :18-06, 19-03
+    Script Based Decentralized Exchange (python)        :18-07, 19-03
+    PUBLIC Launch       :18-09, 18-12    
+    Decentralized Exchange Step 1 (BTC/ETH/TFT)          :18-09, 18-12
+    Human Energy Token * :18-10, 19-12
+    Decentralized Exchange Step 2 (+20 digital currencies)          :18-12, 19-12
+    
+    Fiat <-> Digital Currency Integration :19-03, 19-12
+    Debit Card <-> Digital Currency Integration :19-03, 19-12
+    Gold Token Launch         :19-03, 19-12
+    Coffee Token Launch          :19-06, 19-12
+    Other Commodity Token Launches          :19-09, 19-12
+
+``` -->
+
+![](images/exchange.png)
+See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/exchange.png) for more detail.

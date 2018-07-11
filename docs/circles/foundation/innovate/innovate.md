@@ -21,6 +21,7 @@ establish an incubator under ThreeFold umbrella that attracts start-ups in and a
 4) attracting programming resources to our various businesses 
 5) creating a broad network of potential ambassadors and TF staff coming out of the incubator
 
+
 ## Strategy:
  
 “Expo”:  Showcase technologies and competencies of TF (and GIG) in a demo area (including a local farm).
@@ -42,27 +43,6 @@ partnership with hotels and fincas across the island so that the facility canbe 
 work with Ibiza governor to position Ibiza and our incubator as a hi-tech/crypto location and get government support
 
 
-
-
-“Expo”: Showcase technologies and competencies of TF (and GIG) in a demo area (including a local farm). show also adjacent and additional businesses like Veda, Africa Fund and it’s “good projects” also partners like BetterToken can exhibit…overall common theme will be “doing good” (body/mind/environment/inclusion/emerging markets..) and token-driven businesses.
-
-“Power Up”: invite early stage start-ups with coaching/mentoring by TF staff (me for instance) and pledging shares to TF – could be technologies close to us (blockchain businesses, crypto businesses) but also other Ibiza based (technology) start-ups and other European start-ups that want to benefit from the location and from proximity to us. we can collect a fee from them for office usage, infrastructure incl. legal, finance, management skills, even funding if we create a start-up incubation fund (TF2 Fund)
-
-Bus Dev: “ThreeFold Labs”: TF assists companies in “tokenizing” their business –TF delivers innovation assessment, business planning, POCs and MVPs as a paid-for service and with a revenue sharing agreement plus condition to use TFT or white-labelled TFT. concretely we sell 1 week workshops following an assessment engagement at the customer site
-
-Infrastructure: Office space for TF staff (and visiting TF staff) – mobile workspaces and hot-desking only which can also be used for other companies (resident and non-resident)
-
-Attract Programming Talent: establish a Young Programmers competition and award (e.g. "The ThreeFold Foundation Sustainable Computing Award") with substantial amount of TF tokens for the winning team plus 1year free residency in our incubator. Search for sponsors to support the programme including the Island's governemnt 
-
-Launch a "Female Digital Business Empowerment programme and laboratory" to encourage women from emerging markets to embark in to the digital micro-economy.
-
-Fund raising for a Tokonomy Incubator Fund and a Female Empowerment Fund to fuel above programmes
-
-Offer meeting rooms and seminar rooms (one of which for 100+ people) so that external companies can also rent and use. and to do ambassador meetings, investor meetings etc
-
-partnership with hotels and fincas across the island so that the facility canbe utilised in the incentive/corporate/retreat travel to the island
-
-work with Ibiza governor to position Ibiza and our incubator as a hi-tech/crypto location and get government support
 
 ## Timing
 

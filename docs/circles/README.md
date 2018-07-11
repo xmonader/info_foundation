@@ -12,7 +12,7 @@ Circles are teams of people working on shared tasks, products, services. They ar
 graph TB; 
     Foundation((Foundation<BR>Kristof)) --- TFLove((TFLove))
     Foundation --- TFGRID((TFGRID<br>Andreas))
-    Foundation --- TFTOKENS((TFTOKENS<br>Adnan<))
+    Foundation --- TFTOKENS((TFTOKENS<br>Adnan))
     Foundation --- Community{Community}
     Foundation --- Org{Org<br>See Below}
     Community --- Europe{Europe}
@@ -21,7 +21,7 @@ graph TB;
     Foundation --- TFImpact((TFImpact<br>Chris<br>Africa Fund))
 
     Community --- TFAmbassadors((Ambassadors<br>Owen))
-    Europe --- CommunityIbiza((Community<br>Ibiza<br>Lucien<br>Jenne<br>...))
+    Europe --- CommunityIbiza((Community<br>Ibiza<br>Lucien<br>Jenne<br>Owen<br>))
     Europe --- CommunityGreen((Community<br>???<br>???))
     Global --- CommunityVeda((Community<br>Students<br>Celebrities<br>Isabelle<br>Adnan))
     Global --- Veda((Awareness<br>Veda<br>Isabelle))
@@ -31,7 +31,7 @@ graph TB;
 
     class Foundation,TFLove,TFGRID,TFTOKENS,TFAmbassadors,TFInnovate,TFImpact,CommunityIbiza,CommunityVeda,CommunityGreen,Veda,Crypto,Org circle;
 
-    click TFGRID "/circles/foundation/grid/grid.md"
+    click TFGRID "https://threefoldfoundation.github.io/info_foundation/#/circles/foundation/grid/grid"
 
 ```
 
@@ -45,12 +45,13 @@ graph TB;
     Foundation --- Tech((Technology<br>Kristof))
 
     Tech  --- Evangelization((Evangelization<br>Yves))
+    Tech  --- TFPlatform((TF-Platform<br>Reem/Christophe))
+    Tech  --- TFCHain((TF-Chain<br>Rob))
 
     classDef circle text-align:center,stroke:#33,stroke-width:3px;  
 
     class Web,Support,IT,Tech,Evangelization circle;
 
-    click TFGRID "/circles/foundation/grid/grid.md"
 
 ```
 
