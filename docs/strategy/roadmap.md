@@ -6,11 +6,14 @@
 ## Planning ThreeFold Foundation (high level)
 
 <!-- [](roadmap.html ':include text') -->
-[roadmap](roadmap.html ':include width=1000px height=400px')
 
-[test](test.html ':include width=1000px height=600px')
 
-[jsjoint](jsjoint.html ':include width=1000px height=100px')
+<!--- [roadmap](roadmap.html ':include width=1000px height=400px')
+
+// [test](test.html ':include width=1000px height=600px')
+
+// [jsjoint](jsjoint.html ':include width=1000px height=100px')
+--->
 
 <!-- ```mermaid
 gantt
@@ -112,7 +115,7 @@ gantt
     Decentralized Exchange Step 1 (BTC/ETH/TFT)          :18-09, 18-12
     Human Energy Token * :18-10, 19-12
     Decentralized Exchange Step 2 (+20 digital currencies)          :18-12, 19-12
-    
+
     Fiat <-> Digital Currency Integration :19-03, 19-12
     Debit Card <-> Digital Currency Integration :19-03, 19-12
     Gold Token Launch         :19-03, 19-12
