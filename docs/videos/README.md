@@ -1,6 +1,6 @@
 # ThreeFold Videos
 
-![](images/videos.jpg)
+![](images/videos-900.jpg)
 
 * [ThreeFold Token - How It Works](/videos/tft_howitworks.md)
 * [Building a Newer Digital World for Humanity](/videos/humanity.md)
