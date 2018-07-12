@@ -8,3 +8,5 @@
     * [Solving Blockchain's Dilemma](/videos/dilemma.md)
     * [ThreeFold Meets Istanbul](/videos/istanbul.md)
     * [ThreeFold Meets Vienna](/videos/vienna.md)
+    * [ThreeFold Farming Demystified](/videos/farming.md)
+    * [ThreeFold Token, the token for the new internet](/videos/tft_intro.md)
