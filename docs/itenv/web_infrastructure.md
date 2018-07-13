@@ -4,4 +4,4 @@ In this easy to digest presentation we explain why we use versioning, git, and h
 
 Besides that the proces from briefing to website launch is cut up into pieces.
 
-[The ThreeFold Way Of Web Building](https://docs.google.com/presentation/d/1dF2uVaDz61UdlQc4gN4tDyAyrEa6K-ZI04VaprVkSLA/edit?usp=sharing)
+[The ThreeFold Websites Guide](https://docs.google.com/presentation/d/1dF2uVaDz61UdlQc4gN4tDyAyrEa6K-ZI04VaprVkSLA/edit?usp=sharing)
