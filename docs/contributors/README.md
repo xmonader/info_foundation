@@ -12,3 +12,7 @@
     - []()
 
 TODO:*1 
+
+## everyone contributing to TF
+
+- please make sure your profile is filled in underneith the right company directory
