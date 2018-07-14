@@ -29,6 +29,6 @@
 
 - support/contribute in fundraising and promotion efforts
 - [tf_love](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/foundation/foundation_love.md#threefold-love) launch 
-- collaboration, co-creation and curation of [tf ambassador community site](https://sites.google.com/incubaid.com/tf-ambassador-community/home?authuser=0)
+- collaboration, co-creation and curation of tf ambassador community site (exclusively accessible by tf ambassadors)
 - contribution to ambassador working groups: emerging markets, community building, youth engagement, women's empowerment
 

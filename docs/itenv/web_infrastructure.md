@@ -1,7 +1,7 @@
-# Web Infrastructure
+# The ThreeFold Web Site Proces and Infrastructure
 
-Explain how the website infrastructure works
+In this easy to digest presentation we explain why we use versioning, git, and how caddy handles incoming requests.
 
-Link to presentation (can embed here)
+Besides that the proces from briefing to website launch is cut up into pieces.
 
-TODO:*1
+[The ThreeFold Websites Guide](https://docs.google.com/presentation/d/1dF2uVaDz61UdlQc4gN4tDyAyrEa6K-ZI04VaprVkSLA/edit?usp=sharing)
