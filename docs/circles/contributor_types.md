@@ -35,3 +35,11 @@ It's something with version nr’s, it needs to be managed, controlled, improved
 Some of us are responsible for creating/delivering these products.
 
 Each product is 100% managed on github, not trello !!! (exception community facing roadmap with community understandable messaging) 
+
+## Foundation Coordination
+
+- help coordinate how the foundation works
+- check that each $ spend provides value creation for the ThreeFold Foundation community
+- make sure that people involved are able to be effective and provide support where required
+- official functions (company related)
+
