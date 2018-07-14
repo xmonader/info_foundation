@@ -21,19 +21,11 @@ Coordinate work between the circles.
 
 ## Goals
 
-Get everything organized before summer starts.
+Improve way how we work together.
 
 ## Strategy
 
 Use the foundation wiki to make sure everyone understands how we will work together.
-
-## Timing
-
-- June first 2 weeks
-   - Have all the basics implemented of circles and contributors
-   - Link all contributors to right circles
-   - Make sure contributors understand what their role is
- - TBD
 
 ## Contributors
 
