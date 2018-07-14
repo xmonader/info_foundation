@@ -1,35 +1,39 @@
 ### Lucien Lecarme
 
 
-Mail: Llecarme@threefoldtoken.com
+Mail: lecarmel@threefoldtoken.com
 Telegram:&lucienlecarme
 Website: www.ibizapowerspot.com
 Phone : +31650415098
 
 ### Why do I exist in ThreeFold
--	To safeguard values and evangelize them in words, songs and energy
--	Blogging to sketch the changes in the macro crypto climate and help raise awareness and value for utility tokens in general and ThreeFold token specific.   
--	Guard consistency in communications 
--	Fundraising 
--	Community building
+-	To safeguard values and evangelize them in words and energy, express them in inspiration & anything related to TF
+- tolen sales
+Co-organization of events, inspire people to join our movement, token sale via wallet, motivate others to tell our story more confident.
+- community building
+co-owner ship of Ambassador programs, member of Ambassador core group, stewart for Ambassador Community Building working group
+- Solidaridad cooperation (owner)
+Solidaridad is a partner that has strong potential to propel and scale TF objectives, farming, tokenization of (farming) communities & commodities
+- strategy & marketing
+Blogging, strategy co-making, website development, communications,  storyteller for the new story of humanity in which fits the ThreeFold story
 
-### My Priorities (jan - march)
+
+### My Priorities (july - aug)
 
 ### ASAP
--	Finish video production
--	Attend Blockchain Events 
--	Set up Realtime fundraising emerging countries, first project Kenia. Goal is to deploy 1.000 nodes through fundraising and private farming incentives. THIS IS TO EMBODY OUR VALUES, to start a community in Africa and manifest an example doing good project for press & marketing purposes.
--	Fine tune Manifest and using it, communicate it (Can be in parts published on website)
+-	finish ThreeFold for dummies
+-   token sales friend 2 friend via wallet
+- set up and prepare Solidaridad - TF pressure cooker 19-22 august
+- 
 
 ### Next weeks
-
-- marketing plan proposal, SWOT analyses
+- Organize token sales events in my house on Ibiza
 - blogging
 - set up www.utility-token.com  website
-- Visit Kenia for fundraising
-- Community growing work
-- Fundraising general
+- further Strategy making
 
 
 ### Next Months
+- events Ibiza organization
+- 
 
