@@ -12,7 +12,7 @@ Eventually each community developer need to have a positive contribution to TF. 
 
 Some projects can be long term projects where impact is not there immediate but still then it needs to be made visible to our team and even community so that people understand where money goes to and why. Each longer term project should be on our wiki & defined.
 
-## Community Development Support
+## Community Support
 
 Basically helping members of our community to be effective.
 E.g. doing events, giving speeches, helping people to farm, help them to find info, help them to buy tokens, help them with delivery/logistics ...
