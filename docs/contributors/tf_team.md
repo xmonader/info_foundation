@@ -5,9 +5,9 @@
 
 We have different types of contributors, see [this link](contributor_types.md)
 
-## Foundation
+## [Foundation](tf_companies.md)
 
-### [Kristof De Spiegeleer](kristof_de_spiegeleer.md)
+### [Kristof De Spiegeleer](tftech/kristof_de_spiegeleer.md)
 
 - CEO Foundation
 - Functions
@@ -17,17 +17,31 @@ We have different types of contributors, see [this link](contributor_types.md)
     
 ## Token promotion
 
-Mazraa (Dubai) funds this effort, funding comes from first farming capacity deployed in Dubai.
+[Mazraa](mazraa/mazraa.md) (Dubai) funds this effort, funding comes from first farming capacity deployed in Dubai.
 
-### Adnan ...
+### Adnan 
+
+...
 
 ## Grid promotion
 
-BetterToken funds this effort, funding comes from first farming capacity deployed in Europe.
+[TFTech=BetterToken](tftech/tftech.md) funds this effort, funding comes from first farming capacity deployed in Europe.
 
-### Adnan ...
+### Andreas
+
+...
+
+
 
 ## TF-Tech
 
-Hosted inside BetterToken (Belgium)
+Hosted inside [BetterToken]((tftech/tftech.md) (Belgium)
 
+### [Kristof De Spiegeleer](tftech/kristof_de_spiegeleer.md)
+
+- CEO of TF-Tech = technology creation of the ThreeFold Grid.
+
+
+### Dan
+
+...
