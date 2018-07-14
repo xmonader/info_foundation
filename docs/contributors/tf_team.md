@@ -3,8 +3,8 @@
 
 ![](https://images.unsplash.com/6/mountain.JPG?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9e02e6b76ac6188e232612e755c4a76d&auto=format&fit=crop&w=1350&q=80)
 
-- [ThreeeFold Companies](tf_companies.md)
-- [collaboration info](../collaboration/README.md)
+- [ThreeFold Companies](tf_companies.md)
+- [Collaboration Info](../collaboration/README.md)
 - We have different types of contributors, see [this link](tf_contributor_types.md)
 
 ## [Foundation](tf_companies.md)
