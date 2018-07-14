@@ -31,7 +31,6 @@ Use the foundation wiki to make sure everyone understands how we will work toget
 
 - Every ambassador needs to have such a contributor page in relevant wiki:
    - [contributors](https://github.com/threefoldfoundation/info_foundation/tree/master/docs/contributors)
-- Need to add this list . : TODO:*1 
 
 ## Links
 
@@ -43,7 +42,6 @@ Use the foundation wiki to make sure everyone understands how we will work toget
     - [master scrum - high level view of priorities](https://trello.com/b/GgxRFeHn/tfmasterscrum)
     - [stories](https://trello.com/b/XrntkDvy/tfstories)
     - [stories hq ibiza, our new co-working space](https://trello.com/b/7sSeLOOu/tfstorieshqibiza)
-    - [website high level roadmap @](https://trello.com/invite/b/CfIT7n9B/eb2e9f6ea28a1e46baeba0de5335cfeb/tfwebhighlevelroadmap)
     - [business development](https://trello.com/b/ppTVxCcO/tffunnel)
     - [it support (is from grid circle)](https://trello.com/b/BckFlTJ0/tfsupportit)
 
