@@ -15,7 +15,16 @@
 
 HELP ! : this is way too much
 
+## Trello Boards
 
+- coordination
+    - [Foundation Stories, any story not having place in other boards like tokens/grid/fund.](https://trello.com/b/XrntkDvy/tfstories)
+    - [Foundation Master Stories, stories for other circle owners](https://trello.com/b/hSmoJvN0/tfstoriesmasters)
+    - [Foundation Funnel = business development opportunities](https://trello.com/b/ppTVxCcO/tffunnel)
+    - [TF Tech Stories](https://trello.com/b/gPzYrjTJ/tftechstories)
+- contribution
+    - 
+    
 ## My Priorities (July 18)
 
 ### ASAP
