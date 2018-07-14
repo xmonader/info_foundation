@@ -15,6 +15,10 @@
 
 HELP ! : this is way too much
 
+## My Circles
+
+- [TF Foundation Main Circle](../circles/foundation/foundation.md)
+
 ## Trello Boards
 
 - coordination
@@ -22,8 +26,16 @@ HELP ! : this is way too much
     - [Foundation Master Stories, stories for other circle owners](https://trello.com/b/hSmoJvN0/tfstoriesmasters)
     - [Foundation Funnel = business development opportunities](https://trello.com/b/ppTVxCcO/tffunnel)
     - [TF Tech Stories](https://trello.com/b/gPzYrjTJ/tftechstories)
+    - [TF Tech Master Stories For Our Development Managers](https://trello.com/b/zwgGSC5F/tftechcoordinationengineering)
+    - [TF Innovate Fund Stories (low prio)](https://trello.com/b/6iGfd5Cc/tfinnovatestories)
 - contribution
-    - 
+    - [TF Grid Stories](https://trello.com/b/FOZrIDOL/tfgridstories)
+    - [TF Token Stories](https://trello.com/b/IqHW5DeD/tftokenstories)
+    - [TF Tech Funnel](https://trello.com/b/8KWOUXAM/tftechfunnelfunding)
+    - [TF Token Funnel](https://trello.com/b/PQXC3FHZ/tftokenfunnelsales)
+    - TF Grid Funnels: [Africa](https://trello.com/b/xbQlLuLh/tfgridfunnelafrica), [Europe](https://trello.com/b/RnqC5MIN/tfgridfunneleurope), [ME](https://trello.com/b/HgqE6fi1/tfgridfunnelmiddleeast) [US](https://trello.com/b/VRabD60x/tfgridfunneluscanada)
+    - [TF Innovate Fund Funnel](https://trello.com/b/OTDDFdnX/tfinnovatefunnelfund)
+    - [TF HQ Ibiza Stories](https://trello.com/b/7sSeLOOu/tfstorieshqibiza)
     
 ## My Priorities (July 18)
 
