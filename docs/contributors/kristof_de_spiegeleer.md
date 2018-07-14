@@ -1,5 +1,6 @@
 # Kristof De Spiegeleer
-![](https://docs.grid.tf/threefold/data_team/raw/branch/master/team/varia/Kristof%20De%20Spiegeleer/kristof_despiegeleer.JPG)
+
+![](images/kristof_de_spiegeleer.png)
 
 - [calendar](https://calendar.google.com/calendar/embed?src=greenitglobe.com_tsjmu4ib6q6fq908187nuvc6v8%40group.calendar.google.com&ctz=Europe/Amsterdam)
 - [my personal data on gogs](https://docs.grid.tf/threefold/data_team/raw/branch/master/team/varia/Kristof%20De%20Spiegeleer/kristof_despiegeleer.JPG)
