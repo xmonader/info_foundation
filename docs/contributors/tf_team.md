@@ -47,3 +47,11 @@ Hosted inside [BetterToken]((tftech/tftech.md) (Belgium)
 ### Dan
 
 ...
+
+
+### [Lucien](tftech/Lucien_Lecarme.md)
+- storyteller & believer
+- partner development
+- token promotion
+- community building
+- event organizer
