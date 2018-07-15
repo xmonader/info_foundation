@@ -1,6 +1,5 @@
 ### Lucien Lecarme
 
-
 Mail: lecarmel@threefoldtoken.com
 Telegram:&lucienlecarme
 Website: www.ibizapowerspot.com
@@ -11,7 +10,7 @@ Phone : +31650415098
 - tolen sales
 Co-organization of events, inspire people to join our movement, token sale via wallet, motivate others to tell our story more confident.
 - community building
-co-owner ship of Ambassador programs, member of Ambassador core group, stewart for Ambassador Community Building working group
+co-owner ship of Ambassador programs, member of Ambassador core group, stewart for Ambassador Community Building working group, youth engagement
 - Solidaridad cooperation (owner)
 Solidaridad is a partner that has strong potential to propel and scale TF objectives, farming, tokenization of (farming) communities & commodities
 - strategy & marketing
@@ -21,19 +20,25 @@ Blogging, strategy co-making, website development, communications,  storyteller 
 ### My Priorities (july - aug)
 
 ### ASAP
--	finish ThreeFold for dummies
+-	finish ThreeFold for dummies, put it where it belongs
 -   token sales friend 2 friend via wallet
-- set up and prepare Solidaridad - TF pressure cooker 19-22 august
-- 
+-   set up and prepare Solidaridad - TF pressure cooker 19-22 august
+-   colab on community circle within Foundation Circle.. define stories & cards
+-   fix open issues Github, learn more about github
+
 
 ### Next weeks
+- SOl - TF meeting 21 aug further organization and preps
 - Organize token sales events in my house on Ibiza
 - blogging
-- set up www.utility-token.com  website
-- further Strategy making
+- define trello cards on HE, OCA marketing initiatives
+- make stories for events ( Berlin, F&F Ibiza), get stakeholders
+- AMB core group, define story cards
+- youth engagement: story cards, youth ZOOM call, token give away prgram
+- AMB community group : let people use trello and define stories on tasks with beginning and end
 
 
 ### Next Months
-- events Ibiza organization
+- stay happy
 - 
 
