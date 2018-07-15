@@ -1,8 +1,8 @@
 # Dan Leighton
 
-{{picture}}
+$picture
 
-{{github home page}}  : everyone should have a github home page
+ : everyone should have a github home page
 
 ## why do I like to contribute to TF
 
