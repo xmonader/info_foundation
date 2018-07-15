@@ -51,4 +51,4 @@ Hosted inside [BetterToken]((tftech/tftech.md) (Belgium)
 
 ### Lucien
 
-https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/tftech/Lucien_Lecarme.md
+[website] (tftech/Lucien_Lecarme.md)
