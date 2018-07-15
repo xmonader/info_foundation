@@ -1,7 +1,3 @@
-* [Home](/)
-
-----
-
 * [Blogs](/blog/README.md)
     * [10x times power savings, is this possible?](/blog/10x-times-power.md)
     * [AirBnB for Internet Capacity](/blog/airbnb-for-internet-capacity.md)
