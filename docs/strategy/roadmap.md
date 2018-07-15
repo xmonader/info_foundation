@@ -1,8 +1,19 @@
-# ThreeFold Roadmap
+# ThreeFold Roadmaps & Planning
 
 ![](https://images.unsplash.com/photo-1495292040232-745a10cd202c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=311b389f7632627e26e3f287581d0c0e&auto=format&fit=crop&w=1189&q=80)
 
+
 ## Planning ThreeFold Foundation (high level)
+
+<!-- [](roadmap.html ':include text') -->
+
+
+<!--- [roadmap](roadmap.html ':include width=1000px height=400px')
+
+// [test](test.html ':include width=1000px height=600px')
+
+// [jsjoint](jsjoint.html ':include width=1000px height=100px')
+--->
 
 <!-- ```mermaid
 gantt
@@ -28,8 +39,6 @@ See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation
 
 ## History Technology Creation
 
-![](images/past.png)
-
 <!-- ```mermaid
 gantt
     title 3 generation of technology over +13 years
@@ -43,6 +52,8 @@ gantt
     Technology Gen 3 Deployment           :a7, 2018-04-01, 2019-06-01            
 
 ``` -->
+
+![](images/past.png)
 
 See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/past.png) for more detail.
 
@@ -104,7 +115,7 @@ gantt
     Decentralized Exchange Step 1 (BTC/ETH/TFT)          :18-09, 18-12
     Human Energy Token * :18-10, 19-12
     Decentralized Exchange Step 2 (+20 digital currencies)          :18-12, 19-12
-    
+
     Fiat <-> Digital Currency Integration :19-03, 19-12
     Debit Card <-> Digital Currency Integration :19-03, 19-12
     Gold Token Launch         :19-03, 19-12
