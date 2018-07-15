@@ -47,3 +47,8 @@ Hosted inside [BetterToken]((tftech/tftech.md) (Belgium)
 ### Dan
 
 ...
+
+
+### Lucien
+
+https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/tftech/Lucien_Lecarme.md
