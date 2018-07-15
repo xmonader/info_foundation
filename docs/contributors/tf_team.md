@@ -49,6 +49,4 @@ Hosted inside [BetterToken]((tftech/tftech.md) (Belgium)
 ...
 
 
-### Lucien
-
-[website] (tftech/Lucien_Lecarme.md)
+### [Lucien] (tftech/Lucien_Lecarme.md)
