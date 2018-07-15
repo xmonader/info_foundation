@@ -16,6 +16,15 @@ Solidaridad is a partner that has strong potential to propel and scale TF object
 - strategy & marketing
 Blogging, strategy co-making, website development, communications,  storyteller for the new story of humanity in which fits the ThreeFold story
 
+### My circles
+c0-coordination : Ambassador community circle ( AMB core group, to be housed yet)
+
+contributions
+- https://trello.com/b/7sSeLOOu/tfstorieshqibiza
+- https://trello.com/b/IqHW5DeD/tftokenstories
+- https://trello.com/b/PQXC3FHZ/tftokenfunnelsales
+- https://trello.com/b/gPzYrjTJ/tftechstories
+
 
 ### My Priorities (july - aug)
 
@@ -39,6 +48,6 @@ Blogging, strategy co-making, website development, communications,  storyteller 
 
 
 ### Next Months
-- stay happy
+- stay happy & in the flow
 - 
 
