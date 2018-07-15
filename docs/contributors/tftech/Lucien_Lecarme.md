@@ -24,6 +24,7 @@ contributions
 - https://trello.com/b/IqHW5DeD/tftokenstories
 - https://trello.com/b/PQXC3FHZ/tftokenfunnelsales
 - https://trello.com/b/gPzYrjTJ/tftechstories
+- https://trello.com/b/tMIqBCvd/tfimpactstories
 
 
 ### My Priorities (july - aug)
