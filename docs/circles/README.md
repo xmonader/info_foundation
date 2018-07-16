@@ -5,7 +5,7 @@
 
 ## Circles?
 
-Circles are teams of people working on shared tasks, products, services. They are organized around stories, that have the agreement of shareholders. Circles have owners that are not in charge, but support everybody in the circle to reach their goals. The circle owner is also responsable for the set targets, goal or objective. Circles become obselete when the goals have been reached. Objective is to create small circles with clear stories, responable capable owners and motivated circle members.
+Circles are teams of people working on shared tasks, products, services. They are organized around stories, that have the agreement of shareholders. Circles have owners that are not in charge, but support everybody in the circle to reach their goals. The circle owner is also responsible for the set targets, goal or objective. Circles become obselete when the goals have been reached. Objective is to create small circles with clear stories, responsible capable owners and motivated circle members.
 
 ```mermaid
 
