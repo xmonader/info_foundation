@@ -11,4 +11,5 @@
 * [Videos](/videos/README.md)
 * [Blogs](/blog/README.md)
 * [Legal](/legal/README.md)
+* [video](/video/README.md)
 * [FAQ](/faq/README.md)
