@@ -24,11 +24,11 @@ My current priorities that I feel as most critical for the foundation where I ca
 3. Find a way to grow our organic trading volume on exchanges to 100k USD daily.
 
 ### Trellos I'm contributing
-https://trello.com/b/PQXC3FHZ/tftokenfunnelsales
-https://trello.com/b/Hox3HTVQ/tfsmmcalendar
-https://trello.com/b/IqHW5DeD/tftokenstories
-https://trello.com/b/le1v2LCp/tftokenstoriesmarketmaking
-https://trello.com/b/kAYniIlY/radarthreefoldme
+- https://trello.com/b/PQXC3FHZ/tftokenfunnelsales
+- https://trello.com/b/Hox3HTVQ/tfsmmcalendar
+- https://trello.com/b/IqHW5DeD/tftokenstories
+- https://trello.com/b/le1v2LCp/tftokenstoriesmarketmaking
+- https://trello.com/b/kAYniIlY/radarthreefoldme
 
 ### Time Tracking
 
