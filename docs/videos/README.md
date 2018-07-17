@@ -6,6 +6,7 @@
 
 * [ThreeFold Farming Demystified](/videos/farming.md)
 * [ThreeFold Token, Token for the New Internet](/videos/tft_intro.md)
+* [ThreeFold Technology Overview](/videos/tf_tech.md)
 
 ## And more
 
