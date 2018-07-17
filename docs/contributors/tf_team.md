@@ -50,7 +50,7 @@ Below an overview of the teams listed by:
 
 [Mazraa](mazraa/mazraa.md) (Dubai) funds this effort, funding comes from first farming capacity deployed in Dubai.
 
-### [Adnan Fatayerji](mazra/Adnan_Fatayerji.md)
+### [Adnan Fatayerji](mazraa/Adnan_Fatayerji.md)
 
 ...
 
