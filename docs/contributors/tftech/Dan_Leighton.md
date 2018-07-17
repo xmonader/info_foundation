@@ -1,6 +1,6 @@
 # Dan Leighton
 
-(https://avatars2.githubusercontent.com/u/7113864?s=400&u=2ffdb29b75ec6fba9c7114ea998833e7bfce2b5d&v=4)
+![](https://avatars2.githubusercontent.com/u/7113864?s=400&u=2ffdb29b75ec6fba9c7114ea998833e7bfce2b5d&v=4)
 
 https://github.com/danleighton
 
