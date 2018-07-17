@@ -2,12 +2,12 @@
 
 ![](images/yves_kerwyn.jpg)
 
-Mail: yves@threefoldtoken.com
-LinkedIn: https://www.linkedin.com/in/yveskerwyn/
-Twitter: yvesk
-Telegram: yveskerwyn
-Skype: yveskerwyn
-Mobile: +32475704518
+- Mail: yves@threefoldtoken.com
+- LinkedIn: https://www.linkedin.com/in/yveskerwyn/
+- Twitter: yvesk
+- Telegram: yveskerwyn
+- Skype: yveskerwyn
+- Mobile: +32475704518
 
 ## What I do for ThreeFold
 
