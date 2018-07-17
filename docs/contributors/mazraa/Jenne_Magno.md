@@ -1,25 +1,23 @@
 # Jenne Magno
 
-...
 
-## why do I like to contribute to TF
-
-...
-
-## What are my roles in TF
-
-- list of circles and in which role you contribute to a circle
-- guardian or ambassador or ...
+## why do I exist in TF 
 
 
-## other info about myself
-
-- what do I like
-- where do I live 
-
-...
+## My Circles
 
 
-## My Priorities 
 
-- optional list of prio's, so other people can follow what I am working on
+## Trello Boards
+
+
+    
+## My Priorities (July 18)
+
+### ASAP
+
+-
+
+### Next Weeks
+
+-
