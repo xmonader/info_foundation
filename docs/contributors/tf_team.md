@@ -62,3 +62,9 @@ Hosted inside [BetterToken]((tftech/tftech.md) (Belgium)
 - token promotion
 - community building
 - event organizer
+
+
+### [Jenne](mazraa/Jenne_Magno.md)
+...
+
+
