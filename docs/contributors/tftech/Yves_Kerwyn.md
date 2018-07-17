@@ -2,6 +2,13 @@
 
 ![](https://docs.grid.tf/threefold/data_team/raw/branch/master/team/engineering/yves_kerwyn/yves.jpg)
 
+Mail: yves@threefoldtoken.com
+LinkedIn: https://www.linkedin.com/in/yveskerwyn/
+Twitter: yvesk
+Telegram: yveskerwyn
+Skype: yveskerwyn
+Mobile: +32475704518
+
 ## What I do for ThreeFold
 
 - Technical knowledge sharing

@@ -1,5 +1,5 @@
 
-# Team
+# Teams
 
 ![](https://images.unsplash.com/6/mountain.JPG?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9e02e6b76ac6188e232612e755c4a76d&auto=format&fit=crop&w=1350&q=80)
 
@@ -7,7 +7,15 @@
 - [Collaboration Info](../collaboration/README.md)
 - We have different types of contributors, see [this link](tf_contributor_types.md)
 
-## [Foundation](tf_companies.md)
+Below an overview of the teams listed by:
+- [ThreeFold Foundation](#foundation)
+- [Token Promotion](#token_promotion)
+- [Grid Promotion](#grid_promotion)
+- [ThreeFold Tech](#tf_tech)
+
+<a id='foundation'></a>
+
+## [ThreeFold Foundation](tf_companies.md)
 
 ### [Kristof De Spiegeleer](tftech/kristof_de_spiegeleer.md)
 
@@ -17,54 +25,63 @@
     - Community Development &  Community Support: everywhere where I can help
     - Product Development: i still like to code, not much time, but like to test & improve jumpscale & tfchain
     
-### Owen
+### [Owen Kemp](tftech/owen_kemp.md)
 - Functions
-    - ambassador circle: supporting, recruiting, on-boarding ambassadors; facilitating collaboration in working groups; communicating with  and enabling ambassadors to work with TF in a way that promotes our movement globally
-    - business development: working with potential partners (SI's, start-ups; data centers; CDN's etc) that can sit on our grid and contribute to it's development and global proliferation
-    - investor relations: work with a network of PE's, VC's, family offices, incubators and thought leaders, market makers and VIPs that can invest in and endorse and promote our movement.
-    - develop our Ibiza based incubator by attracting start-ups with adjacent technologies that can work with and be supported by TF thereby further developing utilisation of our grid and liquidity of our tokens
+    - Ambassador circle: supporting, recruiting, on-boarding ambassadors; facilitating collaboration in working groups; communicating with  and enabling ambassadors to work with TF in a way that promotes our movement globally
+    - Business development: working with potential partners (SI's, start-ups; data centers; CDN's etc) that can sit on our grid and contribute to it's development and global proliferation
+    - Investor relations: work with a network of PE's, VC's, family offices, incubators and thought leaders, market makers and VIPs that can invest in and endorse and promote our movement.
+    - Develop our Ibiza based incubator by attracting start-ups with adjacent technologies that can work with and be supported by TF thereby further developing utilisation of our grid and liquidity of our tokens
     
-## Token promotion
+### [Lucien Lecarme](tftech/Lucien_Lecarme.md)
+
+- Storyteller & believer
+- Partner development
+- Token promotion
+- Community building
+- Event organizer
+
+
+### [Jenne](mazraa/Jenne_Magno.md)
+- Marketing orchestration
+
+<a id='token_promotion'></a>
+
+## Token Promotion
 
 [Mazraa](mazraa/mazraa.md) (Dubai) funds this effort, funding comes from first farming capacity deployed in Dubai.
 
-### Adnan 
+### [Adnan Fatayerji](mazra/Adnan_Fatayerji.md)
 
 ...
 
-## Grid promotion
+<a id='grid_promotion'></a>
+
+## Grid Promotion
 
 [TFTech=BetterToken](tftech/tftech.md) funds this effort, funding comes from first farming capacity deployed in Europe.
 
-### Andreas
+### [Andreas Hartl](tftech/Andreas_Hartl.md)
 
 ...
 
+<a id='tf_tech'></a>
 
-
-## TF-Tech
+## ThreeFold Tech
 
 Hosted inside [BetterToken]((tftech/tftech.md) (Belgium)
 
 ### [Kristof De Spiegeleer](tftech/kristof_de_spiegeleer.md)
 
-- CEO of TF-Tech = technology creation of the ThreeFold Grid.
+- CEO of ThreeFold Tech = technology creation of the ThreeFold Grid.
+
+### [Yves Kerwyn](tftech/Yves_Kerwyn.md)
+
+- Chief Evangelist at BetterToken
+
+### [Dan Leighton](tftech/Dan_Leighton.md)
+
+- Chief of Mission at BetterToken
 
 
-### Dan
-
-...
-
-
-### [Lucien](tftech/Lucien_Lecarme.md)
-- storyteller & believer
-- partner development
-- token promotion
-- community building
-- event organizer
-
-
-### [Jenne](mazraa/Jenne_Magno.md)
-...
 
 
