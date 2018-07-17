@@ -1,3 +1,5 @@
+
+![alt text](https://media.licdn.com/dms/image/C4D03AQHS6-Z7Xp2wGA/profile-displayphoto-shrink_200_200/0?e=1537401600&v=beta&t=HqCza43nNaLP8yH7j4ejqXBXQ5d5Mudpbx8u8mR6-Ro)
 # Olivia Jurado
 
  
