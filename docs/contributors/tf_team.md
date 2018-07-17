@@ -80,7 +80,7 @@ Hosted inside [BetterToken]((tftech/tftech.md) (Belgium)
 
 ### [Dan Leighton](tftech/Dan_Leighton.md)
 
-- Chief of Mission at BetterToken
+- Head of Mission at BetterToken
 
 
 
