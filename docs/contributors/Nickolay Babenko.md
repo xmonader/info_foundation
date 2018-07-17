@@ -17,12 +17,18 @@ I am always available in telegram [@nbabenko](https://t.me/nbabenko)
 
 My current priorities that I feel as most critical for the foundation where I can contribute.
 
-**Updated Jan 16, 2018, actual for the following two weeks**
+**Updated Jul 16, 2018, actual for the following two weeks**
 
-1. Implement Token Smart Contract and participate in technical implementation of blockchain part of the grid.
-2. Kick-start cloud-mining company for new investors, and help people to invest in mining operations or to buy tokens. 
-3. Contribute to updated documents and whitepapers
-4. Assist to all other foundation memembers whatever help is required
+1. Setup consistent community management (SMM, Marketing)
+2. Find the ways to grow our community to 40k users.
+3. Find a way to grow our organic trading volume on exchanges to 100k USD daily.
+
+### Trellos I'm contributing
+https://trello.com/b/PQXC3FHZ/tftokenfunnelsales
+https://trello.com/b/Hox3HTVQ/tfsmmcalendar
+https://trello.com/b/IqHW5DeD/tftokenstories
+https://trello.com/b/le1v2LCp/tftokenstoriesmarketmaking
+https://trello.com/b/kAYniIlY/radarthreefoldme
 
 ### Time Tracking
 
