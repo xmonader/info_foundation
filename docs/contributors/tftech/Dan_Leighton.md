@@ -2,7 +2,7 @@
 
 $picture
 
-[https://github.com/danleighton]
+https://github.com/danleighton
 
 ## Why I contribute to ThreeFold
 
