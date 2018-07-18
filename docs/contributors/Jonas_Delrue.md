@@ -1,7 +1,7 @@
 # Jonas Delrue
 
-Telegram: @jdelrue
-Github: https://github.com/JimberSoftware
+* Telegram: @jdelrue
+* Github: https://github.com/JimberSoftware
 
 ## What I do for ThreeFold
 Helping in development of projects from my own company Jimber (subcontract). Developing security broker for a more secure grid.
