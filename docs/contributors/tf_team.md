@@ -61,7 +61,7 @@ Below an overview of the teams listed by:
 [TFTech=BetterToken](tftech/tftech.md) funds this effort, funding comes from first farming capacity deployed in Europe.
 
 ### [Andreas Hartl](tftech/Andreas_Hartl.md)
-### [Chris Hutton}
+### [Chris Hutton](tftech/Chris_Hutton.md)
 
 <a id='tf_tech'></a>
 
