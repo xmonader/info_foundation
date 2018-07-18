@@ -23,3 +23,5 @@
 
 ## Contact me at:
 
+- Email: chis@threefoldtoken.com
+- Linkdin: www.linkedin.com/in/chris-hutton-a3034777
