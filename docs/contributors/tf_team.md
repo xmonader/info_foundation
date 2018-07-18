@@ -61,8 +61,9 @@ Below an overview of the teams listed by:
 [TFTech=BetterToken](tftech/tftech.md) funds this effort, funding comes from first farming capacity deployed in Europe.
 
 ### [Andreas Hartl](tftech/Andreas_Hartl.md)
-
-...
+- Global Grid Promotion Coordinator
+### [Chris Hutton](tftech/Chris_Hutton.md)
+- Grid promotion Africa Coordinator
 
 <a id='tf_tech'></a>
 
