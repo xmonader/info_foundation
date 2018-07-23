@@ -2,27 +2,27 @@
 
 {{picture}}
 
-{{github home page}}  : everyone should have a github home page
+{{github home page}}  : gaffneym
 
 ## why do I like to contribute to TF
 
+I fully believe in the Threefold mission to deliver a decentralized internet and open up capacity for all.  I have over 13 years of experience as librarian/ Knowledge management officer which has provided me with great experience with system administration, project management and information management.
 ...
 
 ## What are my roles in TF
 
-- list of circles and in which role you contribute to a circle
-- guardian or ambassador or ...
+- TF love member /contributor
+- Ambassador for Threefold in general
 
 
 ## other info about myself
 
-- what do I like
-- where do I live 
+I am a fitness fanatatic and someday would like to try my hand and leading classes -I truly believe that resetting the physiology of yourself through strenuous exercises can lead to great breakthroughs and creative thoughts.
 
+Riyadh, Saudi Arabia
 ...
 
 
 ## My Priorities 
-
-- optional list of prio's, so other people can follow what I am working on
+- Threefold Love and the Ambassadors group
 
