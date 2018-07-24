@@ -1,27 +1,23 @@
-# ThreeFold Foundation Circle
+# Community App Circle
 
-![](https://images.unsplash.com/photo-1461770354136-8f58567b617a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bfbf7a2299bb40a5b2fee8c05e47bcb7&auto=format&fit=crop&w=2100&q=80)
-
-Coordinators: Kristof/Georges
+Coordinators: Marijke
 
 ## Purpose/mission
 
-Help other circles to be effective.
-Coordinate work between the circles.
+...
 
 ## Subcircles
 
-- [Grid](grid/grid.md): Andreas
-- [Tokens](tokens/tokens.md): Adnan
-- [Ambassadors](ambassadors/ambassadors.md): Owen
-- [Finance & Legal](finance_legal/finance_legal.md): Georges
-- [Innovate](innovate/innovate.md): Kristof
-- [Impact](impact/impact.md): Chris
-- [Love](love/love.md): Olivia
+- [Wallet](wallet/wallet.md): name
+- E-Commerce: name
+- Circular Economy: name
+- Communities: name
+- ...
+- ...
 
 ## Goals
 
-Improve how we work together.
+...
 
 ## Strategy
 
@@ -29,12 +25,11 @@ Use the foundation wiki to make sure everyone understands how we will work toget
 
 ## Contributors
 
-- Every ambassador needs to have such a contributor page in relevant wiki:
-   - [contributors](https://github.com/threefoldfoundation/info_foundation/tree/master/docs/contributors)
+...
 
 ## Links
 
-@ means is open to public
+- @ means is open to public
 
 ### Trello
 

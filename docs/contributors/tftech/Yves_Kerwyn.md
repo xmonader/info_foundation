@@ -1,6 +1,13 @@
 # Yves Kerwyn
 
-![](https://docs.grid.tf/threefold/data_team/raw/branch/master/team/engineering/yves_kerwyn/yves.jpg)
+![](images/yves_kerwyn.jpg)
+
+- Mail: yves@threefoldtoken.com
+- LinkedIn: https://www.linkedin.com/in/yveskerwyn/
+- Twitter: yvesk
+- Telegram: yveskerwyn
+- Skype: yveskerwyn
+- Mobile: +32475704518
 
 ## What I do for ThreeFold
 
@@ -10,6 +17,7 @@
 
 ## My Priorities
 
+- Keeping the Wiki pages consistent and up to date
 - Get us fully self-hosted on the ThreeFold Grid
 - Prepare and deliver weekly technical sessions
 
