@@ -8,13 +8,12 @@
 * [ThreeFold Token, Token for the New Internet](/videos/tft_intro.md)
 * [ThreeFold Technology Overview](/videos/tech.md)
 
-## And more
+## More Sessions
 
 * [ThreeFold Token - How It Works](/videos/tft_howitworks.md)
 * [Building a Newer Digital World for Humanity](/videos/humanity.md)
 * [Solving Blockchain's Dilemma](/videos/dilemma.md)
 * [Agile Collaboration Teal Principles](/videos/teal.md)
 * [Dos and Don'ts for your ThreeFold Wallet](/video/wallet.md)
-
 
 Also see the recorded [ThreeFold Community Meetings](/meetings/README.md)
