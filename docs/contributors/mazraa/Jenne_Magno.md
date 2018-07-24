@@ -2,26 +2,31 @@
 
 
 ## why do I exist in TF 
-To help bring the message- values, vision, products and rationale to both targeted and general audiences.
+Because the world needs what TF is bringing.
+To help share the message- values, products and rationale to both targeted and general audiences.
 
 ## My Circles
-Marketing
-Impact
-Ambassadors
+Marketing- Threefold.io
+Threefold Freedom
+Threefold Impact
+Ambassador Engagement
     
 ## My Priorities (July 18)
+Help regroup and coordinate marketing efforts 
+Relaunch Threefold.io (Grid, Token, Exchange) Sept, 2018
 
 ### ASAP
-Orient in the current marketing strategies being employed
 Confer with team members active in marketing
-Initiate Marketing Circle- tools, team
+Marketing Circle- tools, team, protocols, timelines
+Co-create marketing strategy with team, based on current TFF priorities
+Review and updating of Threefold.io website
+Strategy to engage ambassadors in content generation, review and dissemination
 
 ### Next Weeks
-Co-create marketing strategy with team, based on current TFF priorities
-Help establish protocols and timelines
-Assist with collating feedback, review and updating of current website
-Initiate values-based website for community based messaging and initiatives
-Determine strategy to engage ambassadors in content generation, review and dissemination
+
+Threefold Tech- support 
+Solidaridad partnership
+Threefold Freedom
 
 
 
