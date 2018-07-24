@@ -1,7 +1,7 @@
 # ThreeFold Online Community Meetings
 
 
-## Online Update Meetings
+## 2018 Online Update Meetings
 
 - [July 17, 2018](/meetings/2018_july_17.md)
 - [May 24, 2018](/meetings/2018_may_24.md)
@@ -9,7 +9,7 @@
 - [March 23, 2018](/meetings/2018_march_23.md)
 - [March 6, 2018](/meetings/2018_march_6.md)
 
-## ThreeFold Roadshows
+## 2018 ThreeFold Roadshows
 
-* [ThreeFold Meets Istanbul](/meetings/istanbul.md)
-* [ThreeFold Meets Vienna](/meetings/vienna.md)
+* [June 27, ThreeFold Meets Vienna](/meetings/vienna.md)
+* [June 25, ThreeFold Meets Istanbul](/meetings/istanbul.md)
