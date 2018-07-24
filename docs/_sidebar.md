@@ -8,6 +8,7 @@
 * [Collaboration](/collaboration/README.md)
 * [Circles](/circles/README.md)
 * [Strategy](/strategy/README.md)
+* [Meetings](/meetings/README.md)
 * [Videos](/videos/README.md)
 * [Blogs](/blog/README.md)
 * [Legal](/legal/README.md)
