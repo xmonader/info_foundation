@@ -11,5 +11,7 @@
         * [Innovate](/circles/foundation/innovate/innovate.md)
         * [Impact](/circles/foundation/impact/impact.md)
         * [Love](/circles/foundation/love/love.md)
+    * [Community App](/circles/community_app/README.md)
+        * [Wallet](/circles/community_app/wallet/README.md)
     * [BetterToken](/circles/BetterToken.md)
     * [Mazraa](/circles/Mazraa.md)
