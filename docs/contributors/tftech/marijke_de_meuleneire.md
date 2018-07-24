@@ -19,6 +19,10 @@
 -
 -
 
+## My Circles
+
+- [Community App Circle](../circles/community_app/community_app.md)
+
 ## My Stories
 
 [Out Community App Stories](https://trello.com/b/dFH4XyqR/ocastories)
