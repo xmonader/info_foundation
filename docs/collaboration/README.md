@@ -4,7 +4,7 @@
 
 ## Collaboration = Circles
 
-All collaboration at ThreeFold is organized in circles, therefor make sure you get acquainted with the [ThreeFold Circles](/circles/readme.md)
+All collaboration at ThreeFold is organized in circles, therefor make sure you get acquainted with the [ThreeFold Circles](/circles/README.md)
 
 - [How to contribute](/collaboration/contributing_in_agile_org.md)
 - [Circles Roles](/collaboration/circles_roles.md)

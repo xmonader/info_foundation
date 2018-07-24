@@ -1,4 +1,4 @@
-# Community App Wallet Circle
+# Communities Circle
 
 Parent circle: [Community App Circle](/circles/community_app/community_app.md)
 

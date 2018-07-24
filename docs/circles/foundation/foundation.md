@@ -11,7 +11,7 @@ Coordinate work between the circles.
 
 ## Subcircles
 
-- [Grid](grid/grid.md): Andreas
+- [Grid](/docs/circles/foundation/grid/grid.md): Andreas
 - [Tokens](tokens/tokens.md): Adnan
 - [Ambassadors](ambassadors/ambassadors.md): Owen
 - [Finance & Legal](finance_legal/finance_legal.md): Georges

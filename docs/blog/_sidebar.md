@@ -14,5 +14,3 @@
     * [Open Source Technology](blog/open-source-technology.md)
     * [Technology for a New Internet](tech-new-internet.md)
     * [The need for a new, green utility digital currency](blog/the-need-for-a-new-digital-currency.md)
-
-

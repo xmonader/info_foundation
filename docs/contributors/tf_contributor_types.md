@@ -1,4 +1,4 @@
-# categories of ThreeFold Contributors
+# Categories of ThreeFold Contributors
 
 ![](https://images.unsplash.com/photo-1467746474745-41dd2c7524ce?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2debfc635766259a37b571e9e26b115b&auto=format&fit=crop&w=1350&q=80)
 
