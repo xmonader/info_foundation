@@ -61,6 +61,8 @@ graph TB;
   - Promotes the ThreeFold Grid as a new, global, neutral and sustainable network of IT infrastructure.  
 - [**ThreeFold Tokens**](/circles/foundation/tokens/tokens.md)
   - Promotes the ThreeFold Token to gain global adoption.
+
+- [**Community App**](/circles/community_app/README.md)
   
 ## Circles of ThreeFold Cooperatives
   
