@@ -52,4 +52,5 @@ Trello Boards Overview: https://trello.com/tf_love
 
 ## Websites/wiki
 
-[wiki](https://github.com/threefoldfoundation/info_love)
+[wiki]:(https://threefoldfoundation.github.io/info_foundation/#/circles/foundation/love/love)
+[website]: launching soon <3
