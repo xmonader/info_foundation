@@ -5,7 +5,7 @@
 
 ## Circles?
 
-Circles are teams of people working on shared tasks, products, services. They are organized around stories, that have the agreement of shareholders. Circles have owners that are not in charge, but support everybody in the circle to reach their goals. The circle owner is also responsible for the set targets, goal or objective. Circles become obselete when the goals have been reached. Objective is to create small circles with clear stories, responsible capable owners and motivated circle members.
+Circles are teams of people working on shared tasks, products, services. They are organized around stories, that have the agreement of shareholders. Circles have owners that are not in charge, but support everybody in the circle to reach their goals. The circle owner is also responsible for the set targets, goal or objective. Circles become obsolete when the goals have been reached. Objective is to create small circles with clear stories, responsible capable owners and motivated circle members.
 
 ```mermaid
 
@@ -61,6 +61,8 @@ graph TB;
   - Promotes the ThreeFold Grid as a new, global, neutral and sustainable network of IT infrastructure.  
 - [**ThreeFold Tokens**](/circles/foundation/tokens/tokens.md)
   - Promotes the ThreeFold Token to gain global adoption.
+
+## Community App Team
 
 - [**Community App**](/circles/community_app/README.md)
   

@@ -8,10 +8,10 @@ Coordinators: Marijke
 
 ## Subcircles
 
-- [E-Commerce](): name
-- [Wallet](): name
-- [Circular Economy](): name
-- [Communities](): name
+- [Wallet](wallet/README.md): name
+- E-Commerce: name
+- Circular Economy: name
+- Communities: name
 - ...
 - ...
 
