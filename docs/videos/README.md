@@ -14,6 +14,6 @@
 * [Building a Newer Digital World for Humanity](/videos/humanity.md)
 * [Solving Blockchain's Dilemma](/videos/dilemma.md)
 * [Agile Collaboration Teal Principles](/videos/teal.md)
-* [Dos and Don'ts for your ThreeFold Wallet](/video/wallet.md)
+* [ThreeFold Wallet Dos and Don'ts](/video/wallet.md)
 
 Also see the recorded [ThreeFold Community Meetings](/meetings/README.md)
