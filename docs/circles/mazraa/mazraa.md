@@ -9,7 +9,7 @@
    - [Georges Georgiou](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Georges_Georgiou.md)
 
 
-## Purpose/mission
+## Mission
 
 - Promote the ThreeFold Tokens as the defacto medium of exchnage of value; one that is decentralized, value-backed, and secure.
 - Promote the ThreeFold's Grid to create and spread the aoption of a new neutral, sustainable and decentralized internet capacity designed to empower humanity.

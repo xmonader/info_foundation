@@ -1,4 +1,4 @@
-# Community App Wallet Circle
+# Circular Economy Circle
 
 Parent circle: [Community App Circle](/circles/community_app/community_app.md)
 
