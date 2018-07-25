@@ -4,20 +4,20 @@
 
 ## Coordinators:
 
-   - [Adnan Fatayerji](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Adnan_Fatayerji.md)
-   - [Weynard Kuihpers](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Weynand_Kuijpers.md)
-   - [Georges Georgiou](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Georges_Georgiou.md)
+   - [Adnan Fatayerji](/contributors/Adnan_Fatayerji.md)
+   - [Weynard Kuijpers](/contributors/Weynand_Kuijpers.md)
+   - [Georges Georgiou](/contributors/Georges_Georgiou.md)
 
 
 ## Mission
 
-- Promote the ThreeFold Tokens as the defacto medium of exchnage of value; one that is decentralized, value-backed, and secure.
-- Promote the ThreeFold's Grid to create and spread the aoption of a new neutral, sustainable and decentralized internet capacity designed to empower humanity.
+- Promote the ThreeFold Tokens as the defacto medium of exchange of value; one that is decentralized, value-backed, and secure.
+- Promote the ThreeFold's Grid to create and spread the adoption of a new neutral, sustainable and decentralized internet capacity designed to empower humanity.
 
 ## Goals
 
 - Promote the sales of 5 million USD worth of TFTs in 2018.
-- Support the ThreeFold Grid network by assisting new TF Farmers to aquire "unmanaged certified" hardware.
+- Support the ThreeFold Grid network by assisting new TF Farmers to acquire "unmanaged certified" hardware.
 - Become a genesis farmer for the ThreeFold Grid. (Accomplished)
 
 ## Strategy
@@ -38,17 +38,14 @@
   
 ## Contributors
 
-   - [Adnan Fatayerji](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Adnan_Fatayerji.md)
-   - [Weynard Kuihpers](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Weynand_Kuijpers.md)
-   - [Georges Georgiou](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Georges_Georgiou.md)
+   - [Adnan Fatayerji](/contributors/Adnan_Fatayerji.md)
+   - [Weynard Kuijpers](/contributors/Weynand_Kuijpers.md)
+   - [Georges Georgiou](/contributors/Georges_Georgiou.md)
 
-## Links
+## Websites
 
-- website www.mazraa.io
+- www.mazraa.io
 
-### Websites and wiki pages
+## Wiki pages
 
-- [wiki](https://github.com/threefoldfoundation/info_mazraa)
-
-
-
+- [Mazraa Wiki](https://threefoldfoundation.github.io/info_mazraa/#/)

@@ -68,7 +68,7 @@ Each of the following ThreeFold circles have subcircles:
 ## Circles of ThreeFold Cooperatives
   
   - [**BetterToken Circle**](/circles/bettertoken/bettertoken.md)
-  - [**MazraaCircle **](/circles/mazraa/mazraa.md)
+  - [**Mazraa Circle **](/circles/mazraa/mazraa.md)
 
 ## How to work together
 
