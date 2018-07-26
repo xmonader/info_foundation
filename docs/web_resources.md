@@ -12,11 +12,11 @@
 For instructions on how to contribute see below in [How to contribute](#contribute) section.
 
 ## ThreeFold websites, discussed below:
-- [ThreeFold Foundation](#threefold-foundation)
-- [ThreeFold Tokens](#threefold-tokens)
-- [ThreeFold Farmers](#threefold-farmers)
-- [ThreeFold Capacity](#threefold-capacity)
-- [ThreeFold Radar](#threefold-radar)
+- [ThreeFold Foundation](https://threefold.me/)
+- [ThreeFold Tokens](https://threefold.me/tokens/)
+- [ThreeFold Farmers](https://threefold.me/grid/)
+- [ThreeFold Capacity](https://capacity.threefoldtoken.com/)
+- [ThreeFold Radar](https://radar.threefold.me/)
 
 
 For instructions on how to contribute see below in [How to contribute](#contribute) section.
@@ -42,7 +42,7 @@ https://github.com/threefoldfoundation/www_threefold/issues
 
 ## ThreeFold Tokens 
 
-Visit: [tokens.threefold.me](https://tokens.threefold.me)
+Visit: [tokens.threefold.me](https://threefold.me/tokens/)
 
 Content:
 - Promotion of our tokens
@@ -57,7 +57,7 @@ https://github.com/threefoldfoundation/www_tokens/issues
 
 ## ThreeFold Farmers 
 
-Visit: [grid.threefold.me](https://www.tffarmers.com/)
+Visit: [grid.threefold.me](https://threefold.me/grid/)
 
 Content:
 - Promotion of the ThreeFold grid
@@ -85,7 +85,7 @@ This directory shows how much capacity there is available and where.
 
 ## ThreeFold Radar 
 
-Visit: [radar.threefold.me](http://radar.threefold.me)
+Visit: [radar.threefold.me](https://radar.threefold.me/)
 
 Content:
 - Info about the tokens & the capacity as a sort of dashboard
