@@ -1,4 +1,4 @@
 # ThreeFold Tech 
 
-Legally today still called bettertoken.
+Legally today still called BetterToken.
 

@@ -2,7 +2,17 @@
 
 ![](https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixlib=rb-0.3.5&s=0b4422ab6b8072c30fdef9ed6041220f&auto=format&fit=crop&w=1350&q=80)
 
-Coordinator: Owen
+## Coordinator: 
+   Owen Kemp
+   
+ ## Contributors
+
+  ### Ambassador Coordination Team : 
+  - Jenne Magno
+  - Lucien Lecarme
+  - Nisha Grimes
+  - Olivia Jurado
+   
 
 ## Purpose/Mission
 
@@ -46,35 +56,43 @@ Coordinator: Owen
 
 ...
 
-## Contributors
-
-- Every ambassador needs to have a contributor page in relevant wiki:
-   - [Contributors](https://github.com/threefoldfoundation/info_foundation/tree/master/docs/contributors)
-
+## Ambassadors
 
 | Ambassador    | Region        | Ambassador | Region     | Ambassador    | Region        | Ambassador | Region     |
 | ------------- |:-------------: | :-----:     |:----:       |:----:          |:----:          |:----:       |:----:       |
 | Ahmed Odeh    | Middle East   | Federico Fumagalli|  Europe|Mahshid Amir-Mokri|         | Rob Tol    |Europe      |
-| Alain Andries |Europe         |Franco Sorgi|   Europe   |Maria Marchenko|               | Roel Castelein|Europe   |     
-| Ali Olabi     | Middle East   |Garry Veale |            |Marina Achillea|               | Tony Henderson|         |   
-| Ali Omari     | Middle East   |Georg Gesek |             |Michael Erenburg|             | Ugur Uker   |           |
-| Andy Brauer   |      |Gert De Spiegeleer| Europe|Michael Gaffney | Americas    | Wolfgang Wittmer|Europe |
-| Bart Weijermars| Europe       |Kristian Järnefelt| Europe|Michael Wellesley-Wesley| Europe|Xander Van Der Heijden|  Europe          |
-| Binoy Meghraj |               |James Short |Europe     |Michel Coucke| Europe   |    Simin Gerards   |    |
-| Brian Bogaerts| Europe        |Jenne Magno |Europe|Mihos Vasilopoulos  | Europe  |   Erik Reitsma  |    |
-| Bruce Lites   | Americas      |Jennifer Long|Americas  |Milind Sathe |       |  Can Oruc     |    |
-| Carlos Mario Sanchez Avila| Americas | Joris|Europe    |Nicola Moresi| Europe      |  Wieger Atsma     |    |
-| Chris Hurd    | Europe       |Judi Bechard | Americas  |Nino D'Auria | Europe      |  Phil Horn  |    |
+| Alain Andries |Europe         |Franco Sorgi|   Europe   |Maria Marchenko|    Eurasia    | Roel Castelein|Europe   |     
+| Ali Olabi     | Middle East   |Garry Veale |     Europe       |Marina Achillea|   Europe   | Tony Henderson|  Europe     |   
+| Ali Omari     | Middle East   |Georg Gesek |   Europe          |Michael Erenburg|  Eurasia| Ugur Uker   | Eurasia       |
+| Andy Brauer   |   Africa  |Gert De Spiegeleer| Europe|Michael Gaffney | Americas    | Wolfgang Wittmer|Europe |
+| Bart Weijermars| Europe       |Kristian Järnefelt| Europe|Michael Wellesley-Wesley| Europe|Xander Van Der Heijden|  Europe |
+| Binoy Meghraj |               |James Short |Europe     |Michel Coucke| Europe   |    Simin Gerards   |   Eurasia |
+| Brian Bogaerts| Europe        |Jenne Magno |Europe|Mihos Vasilopoulos  | Europe  |   Erik Reitsma  |  Europe  |
+| Bruce Lites   | Americas      |Jennifer Long|Americas  |Milind Sathe |   Europe    |  Can Oruc     |  Eurasia  |
+| Carlos Mario Sanchez Avila| Americas | Joris|Europe    |Nicola Moresi| Europe      |  Wieger Atsma |Europe    |
+| Chris Hurd    | Europe       |Judi Bechard | Americas  |Nino D'Auria | Europe      |  Phil Horn  | Europe   |
 | Christian Seidl| Europe       |Dr. Kanwal Sibal|       |Nisha Grimes | Americas      |         |    |
-| Claudia Rodriguez Ortiz| Europe|Kevin Obeegadoo|       |Olivia Jurado |Americas |         |    |
-| Dauren Toleukhanov|           |Krish Krishnan|         |Olivia K. Kemp | Europe      |          |    |
-| David De Vriesere|            |  Kyle Weber  | Americas|Osama Fitoria  | Middle East|          |    |
-| Ibrahim Ramel| Middle East| Leonora Blekaityte| Europe|Osman Asghar Khan |       |          |    |
-| Erik De Rijk  | Europe        | Lieve Vereycken| Europe   |Paolo Piccardo  |       |          |    |
+| Claudia Rodriguez Ortiz| Europe|Kevin Obeegadoo|  Africa     |Olivia Jurado |Americas |         |    |
+| Dauren Toleukhanov| Eurasia     |Krish Krishnan|   Asia      |Olivia K. Kemp | Europe      |          |    |
+| David De Vriesere|  Europe          |  Kyle Weber  | Americas|Osama Fitoria  | Middle East|          |    |
+| Ibrahim Ramel| Middle East| Leonora Blekaityte| Europe|Osman Asghar Khan |  Asia     |          |    |
+| Erik De Rijk  | Europe        | Lieve Vereycken| Europe   |Paolo Piccardo  |  Europe     |          |    |
 | Erik Van Der Meulen |Europe   | Lucia Groenfelt|  Europe  |Philippe Guillemot  | Europe     |         |    |
-| Erwin Raets  | Europe         | Maha Baligh   |    |Richard Sutton  | Europe      |          |    |
+| Erwin Raets  | Europe         | Maha Baligh   | Middle East   |Richard Sutton  | Europe      |          |    |
 
- 
+ ## Working Groups
+
+  -  Community
+  
+  -  Emerging Markets
+  
+  -  Governance
+  
+  -  Technology 
+  
+  - Women's Empowerment
+  
+  -  Youth
 
 ## Links
 

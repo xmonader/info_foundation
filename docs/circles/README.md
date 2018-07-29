@@ -2,10 +2,11 @@
 
 ![](img/circles.jpeg)
 
+## Circles Demystified
 
-## Circles?
+Circles are teams of people working on shared tasks, products, services. They are organized around stories, that have the agreement of shareholders. Circles have owners that are not in charge, but support everybody in the circle to reach their goals. The circle owner is also responsible for the set targets, goal or objective. Circles become obsolete when the goals have been reached. Objective is to create small circles with clear stories, responsible capable owners and motivated circle members.
 
-Circles are teams of people working on shared tasks, products, services. They are organized around stories, that have the agreement of shareholders. Circles have owners that are not in charge, but support everybody in the circle to reach their goals. The circle owner is also responsable for the set targets, goal or objective. Circles become obselete when the goals have been reached. Objective is to create small circles with clear stories, responable capable owners and motivated circle members.
+Below picture visualizes the [ThreeFold Foundation Circle](/circles/foundation/foundation.md) and its subcircles, with in each circle the name of the owner:
 
 ```mermaid
 
@@ -35,13 +36,15 @@ graph TB;
 
 ```
 
+And this picture visualizes the [ThreeFold Organization Circle](/circles/tf_organization/tf_organization.md) and its subcircles, again with in each circle the name of the owner:
+
 ```mermaid
 
 graph TB; 
     Foundation{Foundation<br>Organization}
     Foundation --- Web((Web<br>Wiki<br>Roel))
-    Foundation --- Support((Support<br>tbd))
-    Foundation --- IT((Tools/IT<br>tbd))
+    Foundation --- Support((Support<br>TBD))
+    Foundation --- IT((Tools/IT<br>TBD))
     Foundation --- Tech((Technology<br>Kristof))
 
     Tech  --- Evangelization((Evangelization<br>Yves))
@@ -55,18 +58,18 @@ graph TB;
 
 ```
 
-- [**ThreeFold Foundation**](/circles/foundation/foundation.md)  
-  - Help other circles to be effective, and coordinate work between the circles.
-- [**ThreeFold Grid**](/circles/foundation/grid/grid.md)
-  - Promotes the ThreeFold Grid as a new, global, neutral and sustainable network of IT infrastructure.  
-- [**ThreeFold Tokens**](/circles/foundation/tokens/tokens.md)
-  - Promotes the ThreeFold Token to gain global adoption.
+## ThreeFold Circles
+
+Each of the following ThreeFold circles have subcircles:
+
+- [**ThreeFold Foundation Circle**](/circles/foundation/foundation.md)  
+- [**Community App Circle**](/circles/community_app/community_app.md)
   
 ## Circles of ThreeFold Cooperatives
   
-  - [**BetterToken**](/circles/BetterToken.md)
-  - [**Mazraa**](/circles/Mazraa.md)
+  - [**BetterToken Circle**](/circles/bettertoken/bettertoken.md)
+  - [**Mazraa Circle **](/circles/mazraa/mazraa.md)
 
 ## How to work together
 
-- [Collaboration at ThreeFold](/collaboration/readme.md)
+- [Collaboration at ThreeFold](/collaboration/README.md)

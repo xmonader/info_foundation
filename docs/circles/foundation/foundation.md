@@ -11,8 +11,8 @@ Coordinate work between the circles.
 
 ## Subcircles
 
-- [Grid](grid/grid.md): Andreas
-- [Tokens](tokens/tokens.md): Andreas
+- [Grid](/docs/circles/foundation/grid/grid.md): Andreas
+- [Tokens](tokens/tokens.md): Adnan
 - [Ambassadors](ambassadors/ambassadors.md): Owen
 - [Finance & Legal](finance_legal/finance_legal.md): Georges
 - [Innovate](innovate/innovate.md): Kristof
@@ -21,7 +21,7 @@ Coordinate work between the circles.
 
 ## Goals
 
-Improve way how we work together.
+Improve how we work together.
 
 ## Strategy
 

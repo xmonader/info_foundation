@@ -33,7 +33,7 @@
 
 - coordinate and support all prio1 activities of all founders
 - be in a lot of zooms explaining stuff
-- finish the farmer pool in DUbai and Abu Dhabi
 
 ### 2019
 
+TBD
