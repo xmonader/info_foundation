@@ -15,9 +15,9 @@
 // [jsjoint](jsjoint.html ':include width=1000px height=100px')
 --->
 
-<!-- ```mermaid
+<!--- ```mermaid
 gantt
-    title ThreeFold Foundation Roadmap
+    title ThreeFold Foundation Roadmap (live)
     dateFormat  YY-MM
     Grid Active                :17-06, 19-12
     Tokens Active              :18-04, 19-12
@@ -30,7 +30,7 @@ gantt
     ThreeFold Expert Fund (Fund for Incubator) :19-04, 19-12
     ThreeFold Impact Fund For Africa: 19-09, 19-12
 
-``` -->
+``` --->
 
 ![](images/highlevel.png)
 
