@@ -1,6 +1,6 @@
 # Datacenter Myths
 
-![Logo](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/blog/img/myth-big-datacenters-are-efficient.jpg?raw=true "Logo")
+![Logo](blog/img/myth-big-datacenters-are-efficient.jpg?raw=true "Logo")
 
 ## Hyperscale realities
 

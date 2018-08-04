@@ -1,7 +1,7 @@
 
 # Story Pitfalls
 
-![](https://docs.grid.tf/dividi/efika/raw/branch/master/Efika_Agile/EfikaProcess/images/story.png)
+![@https://docs.grid.tf/dividi/efika/raw/branch/master/Efika_Agile/EfikaProcess/images/story.png](story_pitfalls.png)
 
 ## Too Large stories
 

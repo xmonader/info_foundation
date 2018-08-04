@@ -1,6 +1,7 @@
 # ThreeFold Grid Circle
 
-![](https://images.unsplash.com/photo-1514864151880-d1bef4892f29?ixlib=rb-0.3.5&s=f71bc3863a76c9537e030ec380d46dda&auto=format&fit=crop&w=3367&q=80)
+![@https://images.unsplash.com/photo-1514864151880-d1bef4892f29?ixlib=rb-0.3.5&s=f71bc3863a76c9537e030ec380d46dda&auto=format&fit=crop&w=3367&q=80](grid.jpeg)
+
 
 ## Purpose/Mission
 To promote the ThreeFold Grid as a new, global, neutral and sustainable network of IT infrastructure created by ThreeFold Farmers. Support farmers with tools and information (technical and non technical) in decision making and joining the grid.
@@ -87,7 +88,7 @@ Specific goals:
 - Georges coordinator of Legal Affairs (T&Cs, Contracts)
 - Stela coordinator of Events (Local Community Events)
 - Sabrina coordinator of Mattermost ThreeFold Grid News (Chat & News)
-- Full Team Detail @ [contributors](https://github.com/threefoldfoundation/info_foundation/tree/master/docs/contributors)
+- Full Team Detail @ [contributors](https://github.com/threefoldfoundation/info_foundation/tree/mastercontributors)
 
 
 

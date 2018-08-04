@@ -1,6 +1,6 @@
 # What can I do with the New Edge Cloud
 
-![Logo](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/blog/img/what-can-i-do.jpg?raw=true "Logo")
+![Logo](blog/img/what-can-i-do.jpg?raw=true "Logo")
 
 ## Some description of use cases of how the ThreeFold Edge Cloud can be used.
 

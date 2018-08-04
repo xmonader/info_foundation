@@ -12,11 +12,15 @@
 For instructions on how to contribute see below in [How to contribute](#contribute) section.
 
 ## ThreeFold websites, discussed below:
-- [ThreeFold Foundation](#threefold-foundation)
-- [ThreeFold Tokens](#threefold-tokens)
-- [ThreeFold Farmers](#threefold-farmers)
-- [ThreeFold Capacity](#threefold-capacity)
-- [ThreeFold Radar](#threefold-radar)
+- [ThreeFold Web Resources](#threefold-web-resources)
+    - [ThreeFold Wiki pages:](#threefold-wiki-pages)
+    - [ThreeFold websites, discussed below:](#threefold-websites-discussed-below)
+    - [ThreeFold Foundation](#threefold-foundation)
+    - [ThreeFold Tokens](#threefold-tokens)
+    - [ThreeFold Farmers](#threefold-farmers)
+    - [ThreeFold Capacity](#threefold-capacity)
+    - [ThreeFold Radar](#threefold-radar)
+    - [How to contribute?](#how-to-contribute)
 
 
 For instructions on how to contribute see below in [How to contribute](#contribute) section.
@@ -99,9 +103,10 @@ Go to the respective (source) GitHub repositories to edit the Markdown files (*.
 
 For the webpages:
 
-[](/itenv/web_sites_toc.md ':include')
+!!!include("itenv/web_sites_toc.md")
 
 
 For the Wiki pages:
 
-[](/itenv/wiki_pages_toc.md ':include')
+!!!include("itenv/wiki_pages_toc.md")
+

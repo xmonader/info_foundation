@@ -34,7 +34,7 @@ gantt
 
 ![](images/highlevel.png)
 
-See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/highlevel.png) for more detail.
+See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/masterstrategy/images/highlevel.png) for more detail.
 
 
 ## History Technology Creation
@@ -55,7 +55,7 @@ gantt
 
 ![](images/past.png)
 
-See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/past.png) for more detail.
+See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/masterstrategy/images/past.png) for more detail.
 
 ## Planning ThreeFold Tokens
 
@@ -76,7 +76,7 @@ gantt
 
 ![](images/tokens.png)
 
-See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/tokens.png) for more detail.
+See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/masterstrategy/images/tokens.png) for more detail.
 
 ## Planning ThreeFold Grid
 
@@ -100,7 +100,7 @@ gantt
 ``` -->
 
 ![](images/grid.png)
-See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/grid.png) for more detail.
+See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/masterstrategy/images/grid.png) for more detail.
 
 ## Planning ThreeFold Exchange
 
@@ -125,4 +125,4 @@ gantt
 ``` -->
 
 ![](images/exchange.png)
-See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/master/docs/strategy/images/exchange.png) for more detail.
+See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/masterstrategy/images/exchange.png) for more detail.

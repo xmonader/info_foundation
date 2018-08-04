@@ -1,11 +1,12 @@
 
 # ThreeFold Love Circle
 
-![](https://images.unsplash.com/photo-1516646085441-e1719f13aa3e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=93341582c6b79df39b45b93000761ec4&auto=format&fit=crop&w=666&q=80)
+![@https://images.unsplash.com/photo-1516646085441-e1719f13aa3e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=93341582c6b79df39b45b93000761ec4&auto=format&fit=crop&w=666&q=80](love.jpeg)
+
 
 ## Coordinator(s): 
 
-[Olivia](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Olivia_Jurado.md#olivia-jurado)
+[Olivia](Olivia_Jurado.md)
 
 ## Purpose/Mission
 
@@ -31,11 +32,11 @@
 
 ## Contributors: 
 
-- [Nisha](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Nisha_Grimes.md#nisha-grimes)
-- [Michael](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Michael_Gaffney.md#michael-gaffney)
-- [Kyle](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Kyle_Weber.md#kyle-weber)
-- [Stela](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Stela_Suils_Cuesta.md#stela-suils-cuesta)
-- [Adnan](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/Adnan_Fatayerji.md#adnan-fatayerji)
+- [Nisha](Nisha_Grimes.md)
+- [Michael](Michael_Gaffney.md)
+- [Kyle](Kyle_Weber.md)
+- [Stela](Stela_Suils_Cuesta.md)
+- [Adnan](Adnan_Fatayerji.md)
 
 
 ## Trello

@@ -1,6 +1,6 @@
 # Ethical Design Manifesto
 
-![Logo](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/blog/img/10x-times-power.jpg?raw=true "Logo")
+![Logo](10x-times-power.jpg?raw=true)
 
 ## How to create products in an ethical, human friendly way.
 
@@ -28,7 +28,7 @@
 - TRANSPARENT: sales, pricing, processes, …
 
 
-![EthicalDesign](https://docs.grid.tf/dividi/values/raw/branch/master/images/ethical_design_small.png)
+![EthicalDesign@https://docs.grid.tf/dividi/values/raw/branch/master/images/ethical_design_small.png](ethicaldesign.png)
 
 Design your organisations so that your core values are respect for human rights, respect for human effort, and respect for human experience.
 

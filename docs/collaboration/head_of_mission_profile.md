@@ -1,30 +1,31 @@
 # Head Of Mission Profile
 
-![](https://images.unsplash.com/photo-1522756890800-ac12d130a43f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9f5011081880e0e1499592cbe3a2e272&auto=format&fit=crop&w=2100&q=80)
+![@https://images.unsplash.com/photo-1522756890800-ac12d130a43f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9f5011081880e0e1499592cbe3a2e272&auto=format&fit=crop&w=2100&q=80](head_of_mission_profile.jpeg)
 
 The head of the mission = the HOM.
 
 Being a HOM is about:
 
-- [Believe in the mission](#believe)
-- [Super demanding job](#demanding)
-- [Natural leader](#leader)
-- [Respect for human effort](#respect)
-- [Less is more](#less)
-- [Quality driven](#quality)
-- [Demand true transparency (& live it)](#transparency)
-- [Visionary](#visionary)
-- [Being the best sales guy = external head person](#sales)
-- [Able to build right team around yourself](#team)
-- [Dare to be different](#different)
-- [Critical](#critical)
-- [Respect for money](#money)
-- [Be able to represent information well](#info)
-- [Work with peer-reviews](#peer-reviews)
-- [Build a true global mission](#global-mission)
-- [Be a good enough expert on all required domains](#expert)
-- [Rule out of love (faith) not out of fear](#love)
-- [Really believe / be aware](#aware)
+- [Head Of Mission Profile](#head-of-mission-profile)
+    - [Believe in the mission](#believe-in-the-mission)
+    - [To be a HOM is a super demanding job](#to-be-a-hom-is-a-super-demanding-job)
+    - [HOM needs to be a natural leader (not a boss)](#hom-needs-to-be-a-natural-leader-not-a-boss)
+    - [Respect for human effort](#respect-for-human-effort)
+    - [Less is more](#less-is-more)
+    - [Quality driven](#quality-driven)
+    - [Demand true transparency (& live it)](#demand-true-transparency--live-it)
+    - [Visionary](#visionary)
+    - [Being the best sales guy = external head person](#being-the-best-sales-guy--external-head-person)
+    - [Able to build right team around yourself](#able-to-build-right-team-around-yourself)
+    - [Dare to be different](#dare-to-be-different)
+    - [Critical](#critical)
+    - [Respect for money](#respect-for-money)
+    - [Be able to represent information well](#be-able-to-represent-information-well)
+    - [Work with peer-reviews](#work-with-peer-reviews)
+    - [Build a true global mission](#build-a-true-global-mission)
+    - [Be a good enough expert on all required domains](#be-a-good-enough-expert-on-all-required-domains)
+    - [Rule out of love (faith) not out of fear](#rule-out-of-love-faith-not-out-of-fear)
+    - [Really believe / be aware of things like](#really-believe--be-aware-of-things-like)
 
 <a id='believe'></a>
 
@@ -274,7 +275,6 @@ Keep on communicating
 
 ## Really believe / be aware of things like
 
-- [reinventing organizations](https://ipfs.jes.xxx/ipfs/Qme7CKH5QwQCy3RmGfqiSXwiHAxgrScC5yUc3Z8GXuWMB3)
 - [netflix manifest about culture](https://jobs.netflix.com/culture/#introduction)
 - [product design manifest](https://docs.grid.tf/dividi/values/src/branch/master/ethical_design_manifesto.md)
 - values as put in this extranet
