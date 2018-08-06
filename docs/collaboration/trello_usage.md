@@ -70,6 +70,7 @@ use labels for
    - minor: means its ok if it gets postponed to next iteration (do not overuse !)
    - info (blue): is an info card, stays there for ever, only 1 per board !!!
 - use a deadline per week/month to inforce timing, trello will show when it gets dangerous
+- when stories done (means out of verification), just archive them 
 
 ### roadmap board
 
