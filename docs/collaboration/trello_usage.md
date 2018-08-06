@@ -52,7 +52,8 @@ use labels for
    - communicate with board members to help them with communication, ...
 - story owners
    - owns the story and makes sure is executed in time & done following all requirements
-- swimlanes
+- swimlanes (maintain this order)
+  - new : not approved to work on yet
   - this_week
   - question_blocking
   - this_month
