@@ -8,6 +8,8 @@
 REMARK: if you don't agree with anything on this document then please create Issue in this repo so we can discuss.
 We highly appreciate you don't deviate from simple rules below.
 
+DO NOT USE TRELLO FOR ISSUES/STORIES/FEATURE REQUESTS WHICH HAVE TO DO WITH CONTENT THEY BELONG ON GITHUB [see here](content_rules.md)
+
 ## The Info Card
 
 example https://trello.com/c/o8VWFzcH/23-info
@@ -52,7 +54,8 @@ use labels for
    - communicate with board members to help them with communication, ...
 - story owners
    - owns the story and makes sure is executed in time & done following all requirements
-- swimlanes
+- swimlanes (maintain this order)
+  - new : not approved to work on yet
   - this_week
   - question_blocking
   - this_month
@@ -69,6 +72,7 @@ use labels for
    - minor: means its ok if it gets postponed to next iteration (do not overuse !)
    - info (blue): is an info card, stays there for ever, only 1 per board !!!
 - use a deadline per week/month to inforce timing, trello will show when it gets dangerous
+- when stories done (means out of verification), just archive them 
 
 ### roadmap board
 
