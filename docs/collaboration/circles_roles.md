@@ -64,12 +64,11 @@ Main responsibilities:
   * Work with Project/Product Managers & other stakeholders to make sure the repo structure is ok.
 
 * There can be more than 1 owner per repo, but try to only have 1.
-
 * The home repo is important to organize the full account/organization.
-
 
 ### Stakeholder
 
 * Anybody who has something to loose or win by the acceptance/progress on a story card
 * Stakeholder main responsibility is to be part of the required story boards & be vocal about requirements
 * This is a very generic definition & can be quite broad.
+
