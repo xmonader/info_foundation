@@ -4,7 +4,7 @@
 
 ### How does ThreeFold achieve the efficient power usage in the Zero-OS node
 
-Today, global Internet and IT infrastructure requires enormous amounts of energy far north of the entire annual electricity consumption of the United Kingdom and rankes among the more pollutive industries globally (similar to airlines).
+Today, global Internet and IT infrastructure requires enormous amounts of energy far north of the entire annual electricity consumption of the United Kingdom and ranks among the more pollutive industries globally (similar to airlines).
 
 We believe IT can do a lot better. In fact, we believe we can reduce the Internet’s carbon footprint by 10 times compared to other industry standard IT capacity producing solutions.
 
