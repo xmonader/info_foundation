@@ -2,7 +2,7 @@
 
 ![promtion pic](foundation_marketing.jpeg)
 
-Coordinator: Jenne
+Coordinator:[Jenne](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/mazraa/Jenne_Magno.md)
 
 ## Purpose/mission
 - Communicate and disseminate information about the ThreeFold Foundation. 
@@ -18,7 +18,7 @@ Coordinator: Jenne
 
 ## Overall/ ongoing goals
 - Increase Threefold’s brand recognition and following across products, channels and target audiences.
-- Promote Threefold's core .io services via SMM, web- based and extended media, as well as investor, industry and community events.
+- Promote Threefold's core .io services via SMM, web- based and extended media, and events.
 - Transition from ad hoc to proactive integrated media approach.
 
 ## Strategy
@@ -34,16 +34,16 @@ Coordinator: Jenne
 - Engage ambassadors and influencers in promotion and outreach activities.
 - Engage the larger TFF team and community to best reach and inspire our varied target audiences.
 - Engage external consultants and potentially externally marketing services as possible/ needed.
-- Maintain an agile structure to promotion, according to evolving TF priorities.
+- Maintain an agile strategy, according to evolving TF priorities.
 
 ## Contributors
-- Roel:  Web Coordination
-- Stela: Events, Community communications, Influencers
-- Sabrina: Social Media Coordination
+- [Roel](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/tftech/Roel_van_Sabben.md):  Web Coordination
+- [Stela](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/tftech/Stela_Suils_Cuesta.md): Events, Community communications, Influencers
+- [Sabrina](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/tftech/sabrina_sadik.md): Social Media Coordination
   * (individual channels coordinated by various team members)
-- Nikolay: blockchain & crypto content and dissemination coordination
-- Lucien: Value Content & community events
-- Jenne: Coordination & content assistance, partnerships, media
+- [Nikolay](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/mazraa/Nickolay%20Babenko.md): blockchain & crypto content and dissemination coordination
+- [Lucien](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/tftech/Lucien_Lecarme.md): Value Content & community events
+- [Jenne](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/mazraa/Jenne_Magno.md): Coordination & content assistance, partnerships, media
 
 ## Links
 
