@@ -1,6 +1,6 @@
 # ThreeFold Foundation Promotion Circle
 
-![@https://images.unsplash.com/photo-1524440914234-440f66215e1a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1d93b40d92a1327fa2d6f301eb2e62c1&auto=format&fit=crop&w=1650&q=80](foundation_marketing.jpeg)
+![promtion pic](foundation_marketing.jpeg)
 
 Coordinator: Jenne
 
