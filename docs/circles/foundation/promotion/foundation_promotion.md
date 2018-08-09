@@ -11,9 +11,9 @@ Coordinator: Jenne
 
 ## Current Goals/ Launches 
 - Launch Threefold .io 15.9.2018 
-      Promote 4 operational services: Grid, Token, Exchange, App
+  * Promote 4 operational services: Grid, Token, Exchange, App
 - Launch TF exchange
-      According to TFF roadmap (planned 9.2018) 
+  * According to TFF roadmap (planned 9.2018) 
 - Promote grid expansion and token sales
 
 ## Overall/ ongoing goals
@@ -25,13 +25,11 @@ Coordinator: Jenne
 - Improve: 
   * website and web presence via threefold.io
   * brand identity and reach around core products Grid + Token.
-
-      content creation, processing and dissemination for current .io target audience.
-
+  *  content creation, processing and dissemination for current .io target audience.
 - Expand social media presence:
-      -targeted messaging per channel
-      -engage influencers
-      -initiate persona + product driven media approach
+  * targeted messaging per channel
+  * engage influencers
+  * initiate product + personadriven media approach
 - Catalyze and re-engage existing followers by improving community updates and communications.
 - Engage ambassadors and influencers in promotion and outreach activities.
 - Engage the larger TFF team and community to best reach and inspire our varied target audiences.
@@ -39,13 +37,13 @@ Coordinator: Jenne
 - Maintain an agile structure to promotion, according to evolving TF priorities.
 
 ## Contributors
-Roel- Web Coordination
-Stela- Events, Community communications, Influencers
-Sabrina- Social Media Coordination
-	(individual channels coordinated by various team members)
-Nikolay- blockchain & crypto content and dissemination coordination
-Lucien - Value Content & community events
-Jenne- Coordination & content assistance, partnerships, media
+- Roel:  Web Coordination
+- Stela: Events, Community communications, Influencers
+- Sabrina: Social Media Coordination
+  * (individual channels coordinated by various team members)
+- Nikolay: blockchain & crypto content and dissemination coordination
+- Lucien: Value Content & community events
+- Jenne: Coordination & content assistance, partnerships, media
 
 ## Links
 
