@@ -1479,3 +1479,14 @@ False
 
 
 ```
+```
+## ERROR: circles_roles
+
+- in doc: doc:circles_roles:/Users/kristofdespiegeleer/code/github/threefoldfoundation/info_foundation/docs/collaboration/circles_roles.md
+
+**ERROR:** problem with link:[contributor pages location](contributors/)
+filename is empty
+
+
+
+```
