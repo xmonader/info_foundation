@@ -6,7 +6,7 @@
 
 Use the left navigation menu to visit the various sections.
 
-For an overview of all websites and Wiki pages go to [Web Resources](web_resources.md).
+For an overview of all websites and Wiki pages go to [Web Resources](/web_resources/README.md).
 
-You are invited to contribute to this and all other Wiki pages and websites. See the [How to contribute](https://threefoldfoundation.github.io/info_foundation/#/web_resources?id=contribute) section for instructions.
+You are invited to contribute to this and all other Wiki pages and websites. See the [How to contribute](https://threefoldfoundation.github.io/info_foundation/#/web_resources/contribute.md) section for instructions.
 
