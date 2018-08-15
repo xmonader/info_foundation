@@ -11,16 +11,18 @@ I am currently here as a part of the marketing team overseeing our digital asset
 Also UI/UX, Art Direction and more are part of my day in day out tasks. When needed I assist my colleagues and help them smash goals. Teamplayer could be my middle name. (it isn't)
 
 
-## My Priorities (23 Jan)
-- Get BetterToken Website up to date
-- Manage Dashboard Project within budget
-- Release Dashboard 1.0
-- Launch focus
+## My Priorities (July)
+- Prepare .IO launch
+- Lead the Marketing Scrum calls
+- Launch BT webshop
+
 
 ### Next Weeks
-- Community Engagement Story 
-- Create new updated app UI
+- Lead .IO launch
+- Write content for .IO lauch
+- Brainstorm Exchange Launch Ideas
+- 
 
 
 ### Next Months
-- Sell capacity in a digital & user friendly way
+- Launch TF-DEX digitally

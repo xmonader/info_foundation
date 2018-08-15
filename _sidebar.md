@@ -1,0 +1,2 @@
+* [Home](/)
+* [Documents](/docs) 

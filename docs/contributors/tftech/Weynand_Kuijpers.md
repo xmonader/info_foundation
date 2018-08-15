@@ -1,5 +1,5 @@
 # Weynand Kuijpers
-(LINK TO PICTURE TO BE INCLUDED)
+![](images/weynand_kuijpers.jpg)
 
 - [calendar](https://calendar.google.com/calendar?cid=a3VpanBlcnN3QGluY3ViYWlkLmNvbQ)
 - [my personal data on gogs](https://docs.grid.tf/threefold/data_team/src/branch/master/team/varia/weynand_kuijpers)
