@@ -29,7 +29,7 @@ Coordinator:[Jenne](https://github.com/threefoldfoundation/info_foundation/blob/
 - Expand social media presence:
   * targeted messaging per channel
   * engage influencers
-  * initiate product + personadriven media approach
+  * initiate product + persona driven media approach
 - Catalyze and re-engage existing followers by improving community updates and communications.
 - Engage ambassadors and influencers in promotion and outreach activities.
 - Engage the larger TFF team and community to best reach and inspire our varied target audiences.
@@ -56,7 +56,6 @@ https://trello.com/invite/b/xNQ4A7sr/cac7669c37627cb12715b2b0ff182984/tfpromotio
 
 
 ### Chat
-
    
 ### Google Drive
 

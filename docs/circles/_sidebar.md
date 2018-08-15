@@ -11,7 +11,7 @@
         * [Innovate](/circles/foundation/innovate/innovate.md)
         * [Impact](/circles/foundation/impact/impact.md)
         * [Love](/circles/foundation/love/love.md)
-        * [Promotion](/circles/foundation/promotion/promotion.md)
+        * [Promotion](/circles/foundation/promotion/foundation_promotion.md)
     * [Community App](/circles/community_app/community_app.md)
         * [Wallet](/circles/community_app/wallet/wallet.md)
         * [Chat](/circles/community_app/chat/chat.md)
