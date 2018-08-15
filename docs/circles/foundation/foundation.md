@@ -1,6 +1,7 @@
 # ThreeFold Foundation Circle
 
-![](https://images.unsplash.com/photo-1461770354136-8f58567b617a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bfbf7a2299bb40a5b2fee8c05e47bcb7&auto=format&fit=crop&w=2100&q=80)
+![@https://images.unsplash.com/photo-1461770354136-8f58567b617a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bfbf7a2299bb40a5b2fee8c05e47bcb7&auto=format&fit=crop&w=2100&q=80](foundation.jpeg)
+
 
 Coordinators: Kristof/Georges
 
@@ -11,7 +12,7 @@ Coordinate work between the circles.
 
 ## Subcircles
 
-- [Grid](/docs/circles/foundation/grid/grid.md): Andreas
+- [Grid](foundation/grid/grid.md): Andreas
 - [Tokens](tokens/tokens.md): Adnan
 - [Ambassadors](ambassadors/ambassadors.md): Owen
 - [Finance & Legal](finance_legal/finance_legal.md): Georges
@@ -30,7 +31,7 @@ Use the foundation wiki to make sure everyone understands how we will work toget
 ## Contributors
 
 - Every ambassador needs to have such a contributor page in relevant wiki:
-   - [contributors](https://github.com/threefoldfoundation/info_foundation/tree/master/docs/contributors)
+   - [contributors](https://github.com/threefoldfoundation/info_foundation/tree/mastercontributors)
 
 ## Links
 
@@ -57,6 +58,6 @@ Use the foundation wiki to make sure everyone understands how we will work toget
 
 ### Websites and wiki pages
 
-[](../../itenv/wiki_pages_toc.md ':include')
+!!!include("itenv/wiki_pages_toc.md")
 
-[](../../itenv/web_sites_toc.md ':include')
+!!!include("itenv/web_sites_toc.md")

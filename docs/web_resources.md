@@ -11,7 +11,8 @@
 
 For instructions on how to contribute see below in [How to contribute](#contribute) section.
 
-## ThreeFold websites, discussed below:
+## ThreeFold websites, discussed below
+
 - [ThreeFold Foundation](https://threefold.me/)
 - [ThreeFold Tokens](https://threefold.me/tokens/)
 - [ThreeFold Farmers](https://threefold.me/grid/)
@@ -99,9 +100,14 @@ Go to the respective (source) GitHub repositories to edit the Markdown files (*.
 
 For the webpages:
 
-[](/itenv/web_sites_toc.md ':include')
+!!!include("itenv/web_sites_toc.md")
 
 
 For the Wiki pages:
 
+<<<<<<< HEAD
+!!!include("itenv/wiki_pages_toc.md")
+
+=======
 [](/itenv/wiki_pages_toc.md ':include')
+>>>>>>> master

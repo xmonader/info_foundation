@@ -1,6 +1,6 @@
 # Open Source Technology
 
-![Logo](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/blog/img/open-source--technology.jpg?raw=true "Logo")
+![Logo](blog/img/open-source--technology.jpg?raw=true "Logo")
 
 ## Overview of our technology components and links to repositories
 

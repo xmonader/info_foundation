@@ -4,9 +4,9 @@
 
 - Coordinators:
 
-   - [Dan Leighton](/contributors/tftech/Dan_Leighton.md)
-   - [Sabrina Sadik](/contributors/tftech/sabrina_sadik.md)
-   - [Roel van Sabben](/contributors/tftech/Roel_van_Sabben.md)
+   - [Dan Leighton](tftech/Dan_Leighton.md)
+   - [Sabrina Sadik](tftech/sabrina_sadik.md)
+   - [Roel van Sabben](tftech/Roel_van_Sabben.md)
 
 
 ## Mission

@@ -1,8 +1,14 @@
 # Trello Usage
 
-![](https://images.unsplash.com/photo-1494074734099-c4ec0c45687a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f18b2bf25abbaeddbe5ea1f9dae1ff85&auto=format&fit=crop&w=1950&q=80)
+![@https://images.unsplash.com/photo-1494074734099-c4ec0c45687a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f18b2bf25abbaeddbe5ea1f9dae1ff85&auto=format&fit=crop&w=1950&q=80](trello_usage.jpeg)
+
 
 **Make sure every board is defined in** the [circles document](circles.md)
+
+REMARK: if you don't agree with anything on this document then please create Issue in this repo so we can discuss.
+We highly appreciate you don't deviate from simple rules below.
+
+DO NOT USE TRELLO FOR ISSUES/STORIES/FEATURE REQUESTS WHICH HAVE TO DO WITH CONTENT THEY BELONG ON GITHUB [see here](content_rules.md)
 
 ## The Info Card
 
@@ -48,7 +54,8 @@ use labels for
    - communicate with board members to help them with communication, ...
 - story owners
    - owns the story and makes sure is executed in time & done following all requirements
-- swimlanes
+- swimlanes (maintain this order)
+  - new : not approved to work on yet
   - this_week
   - question_blocking
   - this_month
@@ -59,6 +66,13 @@ use labels for
 - stories can have tokens attached to them
    - create checklist call: token_bounty add people on there with token amount & lockup period e.g. 10000_oct_19
 - there needs to be a chat attached to each stories board
+- labels (goal is to not have many labels on the stories)
+   - critical: can only be used in this_week, means need to be looked at TODAY, its critical means, resolve today
+   - major: can only use in this_week or this_month is to give prio to a card
+   - minor: means its ok if it gets postponed to next iteration (do not overuse !)
+   - info (blue): is an info card, stays there for ever, only 1 per board !!!
+- use a deadline per week/month to inforce timing, trello will show when it gets dangerous
+- when stories done (means out of verification), just archive them 
 
 ### roadmap board
 

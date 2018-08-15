@@ -4,7 +4,7 @@
 
 [](readme.md ':/circles/readme.md')
 
-Circles are defined in https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/
+Circles are defined in 
 
 ```mermaid
 

@@ -1,6 +1,6 @@
 # Our Magical Zero-Node
 
-![Logo](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/blog/img/10x-times-power.jpg?raw=true "Logo")
+![Logo](blog/img/10x-times-power.jpg?raw=true "Logo")
 
 ## Our magic box providing internet capacity.
 

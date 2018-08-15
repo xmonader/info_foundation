@@ -1,16 +1,17 @@
 # ThreeFold Tokens Circle
 
-![](https://images.unsplash.com/photo-1505649118510-a5d934d3af17?ixlib=rb-0.3.5&s=3e49b355077bf4d3727db8e954e9c812&auto=format&fit=crop&w=1100&q=80)
+![@https://images.unsplash.com/photo-1505649118510-a5d934d3af17?ixlib=rb-0.3.5&s=3e49b355077bf4d3727db8e954e9c812&auto=format&fit=crop&w=1100&q=80](tokens.jpeg)
+
 
 ## Coordinators:
 
-- [Adnan](/contributors/Adnan_Fatayerji.md) coordinator of Token Sales & Overview Token Team Scrum Coordinator 
-- [Elena](/contributors/Elena_Anfimova.md) coordinator of Token Promotion (Marketing, Communication & Community) 
-- [Roel](/contributors/Roel_van_Sabben.md) coordinator of Token Road Map Web (Token Websie)
-- [Nickolay](/contributors/Roel_van_Sabben.md) coordinator of Token Users (Token & Platform Adoption). 
-- [Georges](/contributors/Georges_Georgiou.md) coordinator of Digital Market Development (Liquidity & Exchanges).
-- [Stela](/contributors/Stela_Suils_Cuesta.md) coordinator of Events (Expos).
-- [Sabrina](/contributors/sabrina_sadik.md) coordinator of Mattermost ThreeFold Token News (Chat & News).
+- [Adnan](Adnan_Fatayerji.md) coordinator of Token Sales & Overview Token Team Scrum Coordinator 
+- [Elena](Elena_Anfimova.md) coordinator of Token Promotion (Marketing, Communication & Community) 
+- [Roel](Roel_van_Sabben.md) coordinator of Token Road Map Web (Token Websie)
+- [Nickolay](Roel_van_Sabben.md) coordinator of Token Users (Token & Platform Adoption). 
+- [Georges](Georges_Georgiou.md) coordinator of Digital Market Development (Liquidity & Exchanges).
+- [Stela](Stela_Suils_Cuesta.md) coordinator of Events (Expos).
+- [Sabrina](sabrina_sadik.md) coordinator of Mattermost ThreeFold Token News (Chat & News).
 
 ## Purpose/Mission
 
@@ -50,7 +51,7 @@ To promote the ThreeFold Token in order to gain a global adoption as a defacto s
 - Georges Georgiou coordinator of Digital Market Development (Liquidity & Exchanges)
 - Stela coordinator of Events (Expo's & TF Events)
 - Sabrina Sadik coordinator of Mattermost ThreeFold Token News (Chat & News)
-- Full Team Detail @ [contributors](https://github.com/threefoldfoundation/info_foundation/tree/master/docs/contributors)
+- Full Team Detail @ [contributors](https://github.com/threefoldfoundation/info_foundation/tree/mastercontributors)
 
 
 ### Chat

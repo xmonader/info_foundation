@@ -1,12 +1,13 @@
 # Circle Roles & Responsibilities
 
-![](https://images.unsplash.com/photo-1464226066583-1bc72dd433a3?ixlib=rb-0.3.5&s=0e530a817608a163047730f955c592fc&auto=format&fit=crop&w=1650&q=80)
+![@https://images.unsplash.com/photo-1464226066583-1bc72dd433a3?ixlib=rb-0.3.5&s=0e530a817608a163047730f955c592fc&auto=format&fit=crop&w=1650&q=80](circles_roles.jpeg)
+
 
 ### Circle Coordinator
 
 * Coordinates (helps) a team of people working on one or more stories
-* make sure the circle home page is properly filled in and put in https://github.com/threefoldfoundation/info_foundation/blob/master/docs/circles/
-* make sure all members have their page on [contributor pages location](/docs/contributors/) can be editted in https://github.com/threefoldfoundation/info_foundation/blob/master/docs/contributors/
+* make sure the circle home page is properly filled in and put in 
+* make sure all members have their page on [contributor pages location](contributors/) can be editted in contributors/
 * A Circle is a team on trello e.g. https://trello.com/tf_foundation/members
 * Circle Coordinator needs to make sure
   * People understand our Agile principles of working together
@@ -63,12 +64,11 @@ Main responsibilities:
   * Work with Project/Product Managers & other stakeholders to make sure the repo structure is ok.
 
 * There can be more than 1 owner per repo, but try to only have 1.
-
 * The home repo is important to organize the full account/organization.
-
 
 ### Stakeholder
 
 * Anybody who has something to loose or win by the acceptance/progress on a story card
 * Stakeholder main responsibility is to be part of the required story boards & be vocal about requirements
 * This is a very generic definition & can be quite broad.
+

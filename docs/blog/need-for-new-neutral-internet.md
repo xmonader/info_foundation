@@ -1,6 +1,6 @@
 # The need for a new, neutral Internet
 
-![Logo](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/blog/img/the_need_for_new.jpg?raw=true "Logo")
+![](img/the_need_for_new.jpg)
 
 ## The internet is growing like crazy. This is a Trillion Dollar problem. Together we can build a new internet.
 

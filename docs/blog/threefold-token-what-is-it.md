@@ -1,6 +1,6 @@
 # ThreeFold Token?  What is it?
 
-![Logo](https://github.com/threefoldfoundation/info_foundation/blob/master/docs/blog/img/threefold_token.jpg?raw=true "Logo")
+![Logo](blog/img/threefold_token.jpg?raw=true "Logo")
 
 ## What is ThreeFold Token, how to buy, what is the utility, how safe is it?
 

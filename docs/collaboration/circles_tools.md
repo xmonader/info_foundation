@@ -14,7 +14,7 @@
 
 ## Trello
 
-- Each circle has an associated Trello team.
+- Each circle has an associated Trello team or is part of another team..
 - The Trello team for each circle is linked from [our circles page](/circles/).
 - To ensure we all have visibility of all projects, you should only create new boards within the Trello team.
 - We should stick with the free version of Trello because we will have thousands of people participating in the future and we don't want to lock people out of functions because they don't have a subscription.
