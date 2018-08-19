@@ -21,6 +21,22 @@ Coordinator:[Jenne](https://github.com/threefoldfoundation/info_foundation/blob/
 - Promote Threefold's core .io services via SMM, web- based and extended media, and events.
 - Transition from ad hoc to proactive integrated media approach.
 
+## Collaboration:
+
+TF core product Promotion platform: 
+
+- [Circles- Collaboration with Promotion](https://docs.google.com/document/d/17wOpD4FU3MBeR_8BJYnrjD9ZzTrYnCsZRRThjnnnjbo/edit?usp=sharing)
+
+- [Content Processing and Verification protocol](https://docs.google.com/document/d/1-8L9xqqpir_1--oZZG819MAwrfpDU-1QNVYxQfp3DAE/edit?usp=sharing)
+
+- [Targeted Promotional Campaigns-Circles proposal template](https://docs.google.com/document/d/1ssLDpj1p_fcSpBGL9vPRBmwnYEgQo70qv-78dEJgEG8/edit?usp=sharing)
+
+References:
+- [TF Promotion- Guidelines](https://docs.google.com/document/d/1o3CUnr_viGP5p6TUMaB8Aynpom6tYna9GiLZndi1l4U/edit?usp=sharing)
+
+- [Ongoing Promotional Campaign_Template](https://docs.google.com/document/d/1G4Vv8FJUEEFe8PqqZHhfMT9D0RgHAzLGg1qgEPKUlLw/edit?usp=sharing)
+
+
 ## Strategy
 - Improve: 
   * website and web presence via threefold.io
