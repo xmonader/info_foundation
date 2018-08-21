@@ -50,10 +50,10 @@ Coordinator:[Jenne](https://github.com/threefoldfoundation/info_foundation/blob/
   * brand identity and reach around core products Grid + Token.
   *  content creation, processing and dissemination for current .io target audience.
 - Expand social media presence:
-  * targeted messaging per channel
+  * general and targeted messaging 
   * engage influencers
   * initiate product + persona driven media approach
-- Catalyze and re-engage existing followers by improving community updates and communications.
+- Re-engage existing followers by improving community updates and communications.
 - Engage ambassadors and influencers in promotion and outreach activities.
 - Engage the larger TFF team and community to best reach and inspire our varied target audiences.
 - Engage external consultants and potentially externally marketing services as possible/ needed.
