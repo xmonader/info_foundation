@@ -37,7 +37,7 @@ Below an overview of the teams listed by:
 - Event organizer
 
 
-### [Jenne](/contributors/mazraa/Jenne_Magno.md)
+### [Jenne Magno](/contributors/mazraa/Jenne_Magno.md)
 - Marketing orchestration
 
 ### [Weynand Kuijpers](/contributors/tftech/Weynand_Kuijpers.md)
