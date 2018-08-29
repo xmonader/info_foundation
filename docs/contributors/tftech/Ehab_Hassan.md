@@ -4,4 +4,3 @@
 - LinkedIn: https://www.linkedin.com/in/ehab-hassan-a00897116/
 - Telegram: [@ehabhassancodescalers](https://t.me/ehabhassancodescalers)
 - GitHub: [@ehab-hassan](https://github.com/ehab-hassan)
-- Mobile: +20 100 938 8367
