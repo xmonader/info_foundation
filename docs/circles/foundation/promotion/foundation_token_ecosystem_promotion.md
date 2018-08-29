@@ -1,4 +1,4 @@
-# ThreeFold Foundation Token Sales & Promotion Circle
+# ThreeFold Foundation Token Ecosystem & Promotion Circle
 
 ![promtion pic](foundation_marketing.jpeg)
 
