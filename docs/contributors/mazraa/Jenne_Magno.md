@@ -1,7 +1,10 @@
 # Jenne Magno
 
+- Telegram: [@Jenne_M](https://t.me/Jenne_M)
+- GitHub: [@Jenne28](https://github.com/Jenne28)
 
-## why do I exist in TF 
+
+## Why do I exist in TF 
 - Because the world needs what TF is bringing.
 - To help share the message- values, products and rationale to both targeted and general audiences.
 
@@ -17,7 +20,7 @@
 
 ### ASAP
 - Confer with team members active in marketing
-- Marketing Circle- tools, team, protocols, timelines
+- Marketing Circle - tools, team, protocols, timelines
 - Co-create marketing strategy with team, based on current TFF priorities
 - Review and updating of Threefold.io website
 - Strategy to engage ambassadors in content generation, review and dissemination

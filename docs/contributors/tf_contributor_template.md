@@ -2,27 +2,34 @@
 
 $picture
 
+- Mail: [](mailto:)
+- LinkedIn:
+- Telegram: [@username](https://t.me/username)
+- GitHub: [@username](https://github.com/username)
+- Mobile: 
+
+
 $(github home page)  : everyone should have a github home page
 
-## why do I like to contribute to TF
+## wWy do I like to contribute to TF
 
 ...
 
-## What are my roles in TF
+## My roles at ThreeFold
 
-- list of circles and in which role you contribute to a circle
-- guardian or ambassador or ...
+- List of circles and in which role you contribute to a circle
+- Guardian, ambassador, or ...
 
 
-## other info about myself
+## Other info about myself
 
-- what do I like
-- where do I live 
+- What do I like
+- Where do I live 
 
 ...
 
 
 ## My Priorities 
 
-- optional list of prio's, so other people can follow what I am working on
+- Optional list of prio's, so other people can follow what I am working on
 

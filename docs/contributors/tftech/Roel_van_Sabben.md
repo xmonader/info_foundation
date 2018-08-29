@@ -1,5 +1,10 @@
 # Roel van Sabben
+
 ![](https://docs.greenitglobe.com/gig/data_team/raw/master/team/gig/sales_marketing/roel_vansabben/unprocessed.jpg)
+
+- LinkedIn: https://www.linkedin.com/in/roelvansabben/
+- Telegram: [@roelvansabben](https://t.me/roelvansabben)
+- GitHub: [@VonSub](https://github.com/VonSub)
 
 - [calendar](https://calendar.google.com/calendar/embed?src=vansabr%40gig.tech&ctz=Europe/Brussels" style="border: 0" width="800" height="600" frameborder="0" scrolling="no")
 - [my personal data on docs](https://docs.grid.tf/threefold/data_team/src/branch/master/team/sales_marketing/roel_van_sabben/roel_van_sabben.toml)

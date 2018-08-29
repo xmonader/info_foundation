@@ -2,7 +2,9 @@
 
 ![](https://github.com/threefoldfoundation/www_foundation/blob/master/avatars/andreas_hartl_processed.jpg)
 
-calendar
+- LinkedIn: https://www.linkedin.com/in/andreas-hartl-4330b8b/
+- Telegram: [@ahartl](https://t.me/ahartl)
+- GitHub: [@andhartl](https://github.com/andhartl)
 
 [my personal data on gogs](https://docs.greenitglobe.com/ThreeFold/home/src/master/team/kristof_de_spiegeleer.md)
 
