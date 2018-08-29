@@ -2,20 +2,20 @@
 
 ![promtion pic](foundation_marketing.jpeg)
 
-Coordinator: Adnan
+Coordinator: [Adnan Fatayerji](/contributors/mazraa/Adnan_Fatayerji)
 
 ## Motto
 "Open eyes and inspire. Share the solutions, share the love.”
 
-## Purpose/mission
+## Mission
 - Catalyze a global movement around ThreeFold's solutions.
-- Promote Grid expansion & use,  adoption of the TF Token, Exchange & App, by engaging target .io audiences.
+- Promote Grid expansion & use, adoption of the TF Token, Exchange & App, by engaging target .io audiences.
 - Inspire, inform, educate about TF's core offerings and technology. 
 
-## Overall/ ongoing goals
-- Increase Threefold’s brand recognition (.io related) and following across products, channels and target audiences.
-- Maintain and upscale a Core Product Promotion Platform in collaboration with TF Circles
-- Promote Threefold's core .io services via SMM, web- based and extended media, and events.
+## Ongoing goals
+- Increase ThreeFold’s brand recognition (.io related) and following across products, channels and target audiences.
+- Maintain and upscale a Core Product Promotion Platform in collaboration with TF Circles.
+- Promote ThreeFold's core .io services via SMM, web- based and extended media, and events.
 - Assist Circles with promoting and launching new services and products.
 - Expand and engage the ThreeFold community in reaching general and targeted audiences
 
@@ -46,13 +46,13 @@ Coordinator: Adnan
 
 ## Strategy
 - Improve: 
-  * website and web presence via threefold.io
-  * brand identity and reach around core products Grid + Token.
-  *  content creation, processing and dissemination for current .io target audience.
+  * Website and web presence via threefold.io
+  * Brand identity and reach around core products Grid + Token.
+  * Content creation, processing and dissemination for current .io target audience.
 - Expand social media presence:
-  * general and targeted messaging 
-  * engage influencers
-  * initiate product + persona driven media approach
+  * General and targeted messaging 
+  * Engage influencers
+  * Initiate product + persona driven media approach
 - Re-engage existing followers by improving community updates and communications.
 - Engage ambassadors and influencers in promotion and outreach activities.
 - Engage the larger TFF team and community to best reach and inspire our varied target audiences.
@@ -60,13 +60,13 @@ Coordinator: Adnan
 - Maintain an agile strategy, according to evolving TF priorities.
 
 ## Contributors
-- [Roel](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/tftech/Roel_van_Sabben.md):  Web Coordination
-- [Stela](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/tftech/Stela_Suils_Cuesta.md): Events, Community communications, Influencers
-- [Sabrina](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/tftech/sabrina_sadik.md): Social Media Coordination
+- [Roel van Sabben](/contributors/tftech/Roel_van_Sabben.md): Web Coordination
+- [Stela Suils Cuesta](/contributors/tftech/Stela_Suils_Cuesta.md): Events, Community communications, Influencers
+- [Sabrina Sadik](/contributors/tftech/sabrina_sadik.md): Social Media Coordination
   * (individual channels coordinated by various team members)
-- [Nikolay](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/mazraa/Nickolay%20Babenko.md): blockchain & crypto content and dissemination coordination
-- [Lucien](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/tftech/Lucien_Lecarme.md): Value Content & community events
-- [Jenne](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/mazraa/Jenne_Magno.md): Coordination & content assistance, partnerships
+- [Nikolay Babenko](/contributors/mazraa/Nickolay%20Babenko.md): Blockchain & crypto content and dissemination coordination
+- [Lucien Lecarme](/contributors/tftech/Lucien_Lecarme.md): Value Content & community events
+- [Jenne Magno](/contributors/mazraa/Jenne_Magno.md): Coordination & content assistance, partnerships
 
 ## Links
 [Google Drive](https://drive.google.com/drive/u/1/folders/1FtuoAe7-wxp42zCmjEBIS6yBxhB9ywoX?ogsrc=32)
