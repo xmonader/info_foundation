@@ -27,7 +27,7 @@ Coordinator: Adnan
 ## Collaboration:
 
 #### Tips- share with us!
-- [links, articles, references- things we need to see!](https://docs.google.com/spreadsheets/d/1Ob0gCVc_vRPJKjBrZLr1kl2s1YRlMag-4iAxZlSNFbU/edit?usp=sharing)
+- [links, articles, references - things we need to see!](https://drive.google.com/open?id=12Cvb7n-JPVTcp0x2H7QxJRDN3ZhcE4Dv3HK2SyOm-tM)
 
 
 #### TF Core Product Promotion platform: Circles
@@ -36,10 +36,10 @@ Coordinator: Adnan
 
 - [Content Processing and Verification protocol](https://docs.google.com/document/d/1-8L9xqqpir_1--oZZG819MAwrfpDU-1QNVYxQfp3DAE/edit?usp=sharing)
 
-- [Targeted Promotional Campaigns- Proposal template](https://docs.google.com/document/d/1ssLDpj1p_fcSpBGL9vPRBmwnYEgQo70qv-78dEJgEG8/edit?usp=sharing)
+- [Targeted Promotional Campaigns - Proposal template](https://docs.google.com/document/d/1ssLDpj1p_fcSpBGL9vPRBmwnYEgQo70qv-78dEJgEG8/edit?usp=sharing)
 
 #### References: 
-- [TF Promotion- Guidelines & Strategic Components](https://docs.google.com/document/d/1o3CUnr_viGP5p6TUMaB8Aynpom6tYna9GiLZndi1l4U/edit?usp=sharing)
+- [TF Promotion - Guidelines & Strategic Components](https://docs.google.com/document/d/1o3CUnr_viGP5p6TUMaB8Aynpom6tYna9GiLZndi1l4U/edit?usp=sharing)
 
 - [Ongoing Promotional Campaign_Template](https://docs.google.com/document/d/1G4Vv8FJUEEFe8PqqZHhfMT9D0RgHAzLGg1qgEPKUlLw/edit?usp=sharing)
 
