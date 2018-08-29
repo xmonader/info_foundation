@@ -1,8 +1,8 @@
-# ThreeFold Foundation Promotion Circle
+# ThreeFold Foundation Token Sales & Promotion Circle
 
 ![promtion pic](foundation_marketing.jpeg)
 
-Coordinator:[Jenne](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/mazraa/Jenne_Magno.md)
+Coordinator: Adnan
 
 ## Motto
 "Open eyes and inspire. Share the solutions, share the love.”
@@ -66,7 +66,7 @@ Coordinator:[Jenne](https://github.com/threefoldfoundation/info_foundation/blob/
   * (individual channels coordinated by various team members)
 - [Nikolay](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/mazraa/Nickolay%20Babenko.md): blockchain & crypto content and dissemination coordination
 - [Lucien](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/tftech/Lucien_Lecarme.md): Value Content & community events
-- [Jenne](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/mazraa/Jenne_Magno.md): Coordination & content assistance, partnerships, media
+- [Jenne](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/mazraa/Jenne_Magno.md): Coordination & content assistance, partnerships
 
 ## Links
 [Google Drive](https://drive.google.com/drive/u/1/folders/1FtuoAe7-wxp42zCmjEBIS6yBxhB9ywoX?ogsrc=32)
