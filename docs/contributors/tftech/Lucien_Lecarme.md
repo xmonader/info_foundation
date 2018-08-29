@@ -1,9 +1,11 @@
 # Lucien Lecarme
 
-Mail: lecarmel@threefoldtoken.com
-Telegram:&lucienlecarme
-Website: www.ibizapowerspot.com
-Phone : +31650415098
+- Mail: [lecarmel@threefoldtoken.com](mailto:lecarmel@threefoldtoken.com)
+- LinkedIn: https://www.linkedin.com/in/lucien-lecarme-68080148/
+- Telegram: [@lucienlecarme](https://t.me/lucienlecarme)
+- GitHub: [@juradoo](https://github.com/Ibizapowerspot)
+- Website: [www.ibizapowerspot.com](http://www.ibizapowerspot.com)
+- Mobile : +31650415098
 
 ## Why do I exist in ThreeFold
 -	To safeguard values and evangelize them in words and energy, express them in inspiration & anything related to TF

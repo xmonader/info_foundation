@@ -1,17 +1,22 @@
-
-![alt text](https://media.licdn.com/dms/image/C4D03AQHS6-Z7Xp2wGA/profile-displayphoto-shrink_200_200/0?e=1537401600&v=beta&t=HqCza43nNaLP8yH7j4ejqXBXQ5d5Mudpbx8u8mR6-Ro)
 # Olivia Jurado
 
- 
+![Olivia Jurado](https://media.licdn.com/dms/image/C4D03AQHS6-Z7Xp2wGA/profile-displayphoto-shrink_200_200/0?e=1537401600&v=beta&t=HqCza43nNaLP8yH7j4ejqXBXQ5d5Mudpbx8u8mR6-Ro)
+
+- Mail: [olivia.jurado@gmail.com](mailto:olivia.jurado@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/oliviajurado/
+- Telegram: [@juradoo](https://t.me/juradoo)
+- GitHub: [@juradoo](https://github.com/juradoo)
+
+
 ## [my calendar](https://calendar.google.com/calendar/b/4/r?tab=mc)
 
 
-## why do I like to contribute to TF
+## Why do I like to contribute to ThreeFold
 
-- it makes me happy to be able to help empower others to collaborate and contribute to this global movement.
+- It makes me happy to be able to help empower others to collaborate and contribute to this global movement.
 
 
-## what are my roles in TF
+## What are my roles at ThreeFold
 
 - role: ambassador
 - circles I contribute in: 
@@ -19,7 +24,7 @@
     - [tokens](tokens/tokens.md)
     - [foundation_love](foundation_love.md)
 
-## other info about myself
+## Other info about myself
 
 - [mazraa](Mazraa.md) founding team 
 - ask me about plants, essential oils, growing your own food, all things regenerative
@@ -30,7 +35,7 @@
 - we are not alone
 
 
-## my priorities 
+## My priorities 
 
 - support/contribute in fundraising and promotion efforts
 - [tf_love](foundation/foundation_love.md) launch 
