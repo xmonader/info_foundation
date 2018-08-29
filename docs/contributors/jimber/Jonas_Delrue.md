@@ -12,3 +12,4 @@ Helping in development of projects from my own company Jimber (subcontract). Dev
 
 ## My calendar
 Available starting from august 8
+

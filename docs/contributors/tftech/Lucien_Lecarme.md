@@ -1,11 +1,11 @@
-### Lucien Lecarme
+# Lucien Lecarme
 
 Mail: lecarmel@threefoldtoken.com
 Telegram:&lucienlecarme
 Website: www.ibizapowerspot.com
 Phone : +31650415098
 
-### Why do I exist in ThreeFold
+## Why do I exist in ThreeFold
 -	To safeguard values and evangelize them in words and energy, express them in inspiration & anything related to TF
 - tolen sales
 Co-organization of events, inspire people to join our movement, token sale via wallet, motivate others to tell our story more confident.
@@ -16,7 +16,7 @@ Solidaridad is a partner that has strong potential to propel and scale TF object
 - strategy & marketing
 Blogging, strategy co-making, website development, communications,  storyteller for the new story of humanity in which fits the ThreeFold story
 
-### My circles
+## My circles
 c0-coordination : Ambassador community circle ( AMB core group, to be housed yet)
 
 contributions
@@ -27,7 +27,7 @@ contributions
 - https://trello.com/b/tMIqBCvd/tfimpactstories
 
 
-### My Priorities (july - aug)
+## My Priorities (july - aug)
 
 ### ASAP
 -	finish ThreeFold for dummies, put it where it belongs
