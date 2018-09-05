@@ -3,22 +3,24 @@
 ![@https://images.unsplash.com/photo-1461770354136-8f58567b617a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bfbf7a2299bb40a5b2fee8c05e47bcb7&auto=format&fit=crop&w=2100&q=80](foundation.jpeg)
 
 
-Coordinators: Kristof/Georges
+Coordinator: [Kristof De Spiegeleer](/contributors/tftech/kristof_de_spiegeleer.md)
 
-## Purpose/mission
+## Mission
 
 Help other circles to be effective.
 Coordinate work between the circles.
 
 ## Subcircles
 
-- [Grid](foundation/grid/grid.md): Andreas
-- [Tokens](tokens/tokens.md): Adnan
-- [Ambassadors](ambassadors/ambassadors.md): Owen
-- [Finance & Legal](finance_legal/finance_legal.md): Georges
-- [Innovate](innovate/innovate.md): Kristof
-- [Impact](impact/impact.md): Chris
-- [Love](love/love.md): Olivia
+- [Grid](grid/grid.md): [Andreas Hartl](/contributors/tftech/Andreas_Hartl.md)
+- [Promotion](promotion/foundation_token_ecosystem_promotion.md): [Adnan Fatayerji](/contributors/mazraa/Adnan_Fatayerji.md)
+- [Tokens](tokens/tokens.md): [Adnan Fatayerji](/contributors/mazraa/Adnan_Fatayerji.md)
+- [Ambassadors](ambassadors/ambassadors.md): [Owen Kemp](/contributors/tftech/owen_kemp.md)
+- [Finance & Legal](finance_legal/finance_legal.md): [Georges Georgiou](/contributors/mazraa/Georges_Georgiou.md)
+- [Innovate](innovate/innovate.md): [Kristof De Spiegeleer](/contributors/tftech/kristof_de_spiegeleer.md)
+- [Impact](impact/impact.md): [Chris Hutton](/contributors/tftech/Chris_Hutton.md)
+- [Love](love/love.md): [Olivia Jurado](/contributors/mazraa/Olivia_Jurado.md)
+
 
 ## Goals
 
@@ -48,16 +50,10 @@ Use the foundation wiki to make sure everyone understands how we will work toget
 
 ### Chat
 
-- [ThreeFold Foundation Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=wpz16r964bdnuqxc5p7kn5upmo) : click on this one first before going to channel below
+- [ThreeFold Foundation Chat group @](https://chat.grid.tf/signup_user_complete/?id=wpz16r964bdnuqxc5p7kn5upmo) : click on this one first before going to channel below
    - [news @](https://chat.grid.tf/threefold/channels/town-square)
    
 ### Google Drive
 
 - [google drive home](https://drive.google.com/drive/folders/1ygSc9mKaJJq-mw30zbfmikUWXO73m0kl)
     - [home page](https://docs.google.com/document/d/1ixKZklZj21tRWBFlaxO8j0Sdm9Liyd1kjYTeAB6fZog/edit)
-
-### Websites and wiki pages
-
-!!!include("itenv/wiki_pages_toc.md")
-
-!!!include("itenv/web_sites_toc.md")

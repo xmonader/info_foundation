@@ -1,3 +1,9 @@
+# Owen Kemp
+
+- LinkedIn: https://www.linkedin.com/in/owen-kemp-b6b5a113/
+- Telegram: [@OwenKemp](https://t.me/OwenKemp)
+- GitHub: [@owenkemp](https://github.com/owenkemp)
+
 my role:
 
 finding and committing funding ("prePTO") by working with PE's and Family Offices and wealthy individuals I know in the countries I cover

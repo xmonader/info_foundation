@@ -4,16 +4,13 @@
 ![@https://images.unsplash.com/photo-1516646085441-e1719f13aa3e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=93341582c6b79df39b45b93000761ec4&auto=format&fit=crop&w=666&q=80](love.jpeg)
 
 
-## Coordinator(s): 
-
-[Olivia](Olivia_Jurado.md)
+## Coordinator: [Olivia Jurado](/contributors/mazraa/Olivia_Jurado.md)
 
 ## Purpose/Mission
 
 - Purpose:  To be a force for good through conscious global action. 
 
-- Mission:  We follow a grass roots, organic, regenerative, rEVOLutionary approach, engaging directly with individuals, entrepreneurs, not-for-profits and community groups (on-the-ground) to bring to light the face and heart of ThreeFold, to the global community, while expanding the TF grid one node at a time.
-
+- Mission:  We follow a grass roots, organic, regenerative, revoLutionary approach, engaging directly with individuals, entrepreneurs, not-for-profits and community groups (on-the-ground) to bring to light the face and heart of ThreeFold, to the global community, while expanding the TF grid one node at a time.
 
 ## Strategy
 
@@ -30,13 +27,13 @@
 
 -Full Launch Spring 2019
 
-## Contributors: 
+## Contributors
 
-- [Nisha](Nisha_Grimes.md)
-- [Michael](Michael_Gaffney.md)
-- [Kyle](Kyle_Weber.md)
-- [Stela](Stela_Suils_Cuesta.md)
-- [Adnan](Adnan_Fatayerji.md)
+- [Nisha Grimes](/contributors/mazraa/Nisha_Grimes.md)
+- [Stela Suils Cuesta](/contributors/tftech/Stela_Suils_Cuesta.md)
+- [Adnan Fatayerji](/contributors/mazraa/Adnan_Fatayerji.md)
+- Michael Gaffney
+- Kyle Weber
 
 
 ## Trello

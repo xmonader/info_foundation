@@ -1,6 +1,10 @@
 # Joris Vermeulen
 ![]()
 
+- LinkedIn: https://www.linkedin.com/in/jorisvermeulen/
+- Telegram: [@joris_1975](https://t.me/joris_1975)
+
+
 - [My TF calendar](https://calendar.google.com/calendar/r?tab=mc&pli=1&t=AKUaPmaHTWBUejzeEvV0o7X0jODvK8WHqPcrsRhJMzHmul3FDBps2kM530ysbz1cUoUjmoKOK6SG2sxudZCK72oT9uqJTOoN2w%3D%3D)
 - [Calendar that shows my weekly available slots] (https://calendar.google.com/calendar/r/settings/calendar/Z3JlZW5pdGdsb2JlLmNvbV8yODVybmdiMG9jdmo3aWczNHY4c2Vua2ZnOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t?tab=mc)
 - [My linkedIn profile]
