@@ -13,6 +13,7 @@
   - Lucien Lecarme
   - Nisha Grimes
   - Olivia Jurado
+  - Gregor Sideris
    
 
 ## Purpose/Mission
@@ -91,7 +92,7 @@
   
   -  Technology 
   
-  - Women's Empowerment
+  -  Women's Empowerment
   
   -  Youth
 
