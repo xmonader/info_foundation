@@ -23,7 +23,7 @@
     - [foundation_ambassadors](foundation_ambassadors.md)
     - [tokens](tokens/tokens.md)
     - [foundation_love](foundation_love.md)
-    - 3Bot 
+    - 3bot 
 
 ## Other info about myself
 
@@ -42,5 +42,5 @@
 - [tf_love](foundation/foundation_love.md) launch 
 - collaboration, co-creation and curation of tf ambassador community site (exclusively accessible by tf ambassadors)
 - contribution to ambassador working groups: emerging markets, community building, youth engagement, women's empowerment
-- 3Bot project kick-off coordination
+- 3bot project kick-off coordination
 
