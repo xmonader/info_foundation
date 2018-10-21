@@ -21,8 +21,12 @@ ThreeFold is focused on democratizing internet compute and storage capacity to e
  
  
 Media Contact:
-Stela Suils Cuesta			
+
+Stela Suils Cuesta	
+
 THREEFOLD 
+
 Phone Number: +34 602 610889
+
 Email: stela@threefoldtoken.com
 
