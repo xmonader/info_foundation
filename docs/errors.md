@@ -3367,3 +3367,2926 @@ ERROR: Cannot find doc with name:the_company (nr docs found:2)
 
 
 ```
+```
+## ERROR: circles_roles
+
+- in doc: doc:circles_roles:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/collaboration/circles_roles.md
+
+**ERROR:** problem with link:[contributor pages location](contributors/)
+filename is empty
+
+
+
+```
+```
+## ERROR: circles_tools
+
+- in doc: doc:circles_tools:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/collaboration/circles_tools.md
+
+**ERROR:** problem with link:[our circles page](/circles/)
+filename is empty
+
+
+
+```
+```
+## ERROR: circles_tools
+
+- in doc: doc:circles_tools:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/collaboration/circles_tools.md
+
+**ERROR:** problem with link:[our circles page](/circles/)
+filename is empty
+
+
+
+```
+```
+## ERROR: contributing_in_agile_org
+
+- in doc: doc:contributing_in_agile_org:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/collaboration/contributing_in_agile_org.md
+
+**ERROR:** problem with link:[story cards]((stories.md) (its an art by itself)
+ERROR: Cannot find doc with name:_stories (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: head_of_mission_profile
+
+- in doc: doc:head_of_mission_profile:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/collaboration/head_of_mission_profile.md
+
+**ERROR:** problem with link:[HOM needs to be a natural leader (not a boss)](#hom-needs-to-be-a-natural-leader-not-a-boss)
+ERROR: Cannot find doc with name:not_a_boss (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: head_of_mission_profile
+
+- in doc: doc:head_of_mission_profile:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/collaboration/head_of_mission_profile.md
+
+**ERROR:** problem with link:[Demand true transparency (& live it)](#demand-true-transparency--live-it)
+ERROR: Cannot find doc with name:_live_it (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: head_of_mission_profile
+
+- in doc: doc:head_of_mission_profile:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/collaboration/head_of_mission_profile.md
+
+**ERROR:** problem with link:[Rule out of love (faith) not out of fear](#rule-out-of-love-faith-not-out-of-fear)
+ERROR: Cannot find doc with name:faith (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Foundation](threefold_foundation.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Grid](threefold_grid.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[IT Capacity](it_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Token](threefold_token.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Chain](threefold_chain.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Operating System](threefold_operating_system.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Node](threefold_node.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold User](threefold_user.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Cloud Units](threefold_cloud_units.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Wallet](threefold_wallet.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Farming Pool](threefold_farming_pool.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Farmer](threefold_farmer.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Cooperative](threefold_cooperative.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Unmanaged Capacity](threefold_unmanaged_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Managed Capacity](threefold_managed_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Company](legal/sub/the_company.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Product](legal/sub/the_product.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Purchaser](legal/sub/the_purchaser.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[GIG.tech](threefold_tech.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/meetings/README.md
+
+**ERROR:** problem with link:[April 9, 2018](/meetings/2018_april_9.md)
+ERROR: Cannot find doc with name:meetings.2018_april_9 (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/videos/README.md
+
+**ERROR:** problem with link:[ThreeFold Wallet Dos and Don'ts](/video/wallet.md)
+ERROR: Cannot find doc with name:video.wallet (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/legal/README.md
+
+**ERROR:** problem with link:[ThreeFold Token (TFT) Purchase Agreement](/legal/buy_tfts_from_farmer_example_contract.md)
+ERROR: Cannot find doc with name:tft (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Foundation](threefold_foundation.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Grid](threefold_grid.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[IT Capacity](it_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Token](threefold_token.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Chain](threefold_chain.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Operating System](threefold_operating_system.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Node](threefold_node.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold User](threefold_user.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Cloud Units](threefold_cloud_units.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Wallet](threefold_wallet.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Farming Pool](threefold_farming_pool.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Farmer](threefold_farmer.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Cooperative](threefold_cooperative.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Unmanaged Capacity](threefold_unmanaged_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Managed Capacity](threefold_managed_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Company](legal/sub/the_company.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Product](legal/sub/the_product.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Purchaser](legal/sub/the_purchaser.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[GIG.tech](threefold_tech.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/meetings/README.md
+
+**ERROR:** problem with link:[April 9, 2018](/meetings/2018_april_9.md)
+ERROR: Cannot find doc with name:meetings.2018_april_9 (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/legal/README.md
+
+**ERROR:** problem with link:[ThreeFold Token (TFT) Purchase Agreement](/legal/buy_tfts_from_farmer_example_contract.md)
+ERROR: Cannot find doc with name:tft (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/videos/README.md
+
+**ERROR:** problem with link:[ThreeFold Wallet Dos and Don'ts](/video/wallet.md)
+ERROR: Cannot find doc with name:video.wallet (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Foundation](threefold_foundation.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Grid](threefold_grid.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[IT Capacity](it_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Token](threefold_token.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Chain](threefold_chain.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Operating System](threefold_operating_system.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Node](threefold_node.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold User](threefold_user.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Cloud Units](threefold_cloud_units.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Wallet](threefold_wallet.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Farming Pool](threefold_farming_pool.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Farmer](threefold_farmer.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Cooperative](threefold_cooperative.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Unmanaged Capacity](threefold_unmanaged_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Managed Capacity](threefold_managed_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Company](legal/sub/the_company.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Product](legal/sub/the_product.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Purchaser](legal/sub/the_purchaser.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[GIG.tech](threefold_tech.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/meetings/README.md
+
+**ERROR:** problem with link:[April 9, 2018](/meetings/2018_april_9.md)
+ERROR: Cannot find doc with name:meetings.2018_april_9 (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/legal/README.md
+
+**ERROR:** problem with link:[ThreeFold Token (TFT) Purchase Agreement](/legal/buy_tfts_from_farmer_example_contract.md)
+ERROR: Cannot find doc with name:tft (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/videos/README.md
+
+**ERROR:** problem with link:[ThreeFold Wallet Dos and Don'ts](/video/wallet.md)
+ERROR: Cannot find doc with name:video.wallet (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: threefold_cloud_units
+
+- in doc: doc:threefold_cloud_units:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/threefold_cloud_units.md
+
+**ERROR:** problem with link:[^1] (*)
+filename is empty
+
+
+
+```
+```
+## ERROR: buy_tfts_from_farmer_example_contract
+
+- in doc: doc:buy_tfts_from_farmer_example_contract:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/legal/buy_tfts_from_farmer_example_contract.md
+
+**ERROR:** problem with link:[Farmer]  (the “Company”)
+ERROR: Cannot find doc with name:the_company (nr docs found:2)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Foundation](threefold_foundation.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Grid](threefold_grid.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[IT Capacity](it_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Token](threefold_token.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Chain](threefold_chain.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Operating System](threefold_operating_system.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Node](threefold_node.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold User](threefold_user.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Cloud Units](threefold_cloud_units.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Wallet](threefold_wallet.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Farming Pool](threefold_farming_pool.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Farmer](threefold_farmer.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Cooperative](threefold_cooperative.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Unmanaged Capacity](threefold_unmanaged_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Managed Capacity](threefold_managed_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Company](legal/sub/the_company.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Product](legal/sub/the_product.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Purchaser](legal/sub/the_purchaser.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[GIG.tech](threefold_tech.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/meetings/README.md
+
+**ERROR:** problem with link:[April 9, 2018](/meetings/2018_april_9.md)
+ERROR: Cannot find doc with name:meetings.2018_april_9 (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/legal/README.md
+
+**ERROR:** problem with link:[ThreeFold Token (TFT) Purchase Agreement](/legal/buy_tfts_from_farmer_example_contract.md)
+ERROR: Cannot find doc with name:tft (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/videos/README.md
+
+**ERROR:** problem with link:[ThreeFold Wallet Dos and Don'ts](/video/wallet.md)
+ERROR: Cannot find doc with name:video.wallet (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Foundation](threefold_foundation.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Grid](threefold_grid.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[IT Capacity](it_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Token](threefold_token.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Chain](threefold_chain.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Operating System](threefold_operating_system.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Node](threefold_node.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold User](threefold_user.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Cloud Units](threefold_cloud_units.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Wallet](threefold_wallet.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Farming Pool](threefold_farming_pool.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Farmer](threefold_farmer.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Cooperative](threefold_cooperative.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Unmanaged Capacity](threefold_unmanaged_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Managed Capacity](threefold_managed_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Company](legal/sub/the_company.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Product](legal/sub/the_product.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Purchaser](legal/sub/the_purchaser.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[GIG.tech](threefold_tech.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/meetings/README.md
+
+**ERROR:** problem with link:[April 9, 2018](/meetings/2018_april_9.md)
+ERROR: Cannot find doc with name:meetings.2018_april_9 (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/legal/README.md
+
+**ERROR:** problem with link:[ThreeFold Token (TFT) Purchase Agreement](/legal/buy_tfts_from_farmer_example_contract.md)
+ERROR: Cannot find doc with name:tft (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/videos/README.md
+
+**ERROR:** problem with link:[ThreeFold Wallet Dos and Don'ts](/video/wallet.md)
+ERROR: Cannot find doc with name:video.wallet (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Foundation](threefold_foundation.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Grid](threefold_grid.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[IT Capacity](it_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Token](threefold_token.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Chain](threefold_chain.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Operating System](threefold_operating_system.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Node](threefold_node.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold User](threefold_user.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Cloud Units](threefold_cloud_units.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Wallet](threefold_wallet.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Farming Pool](threefold_farming_pool.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Farmer](threefold_farmer.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Cooperative](threefold_cooperative.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Unmanaged Capacity](threefold_unmanaged_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Managed Capacity](threefold_managed_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Company](legal/sub/the_company.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Product](legal/sub/the_product.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Purchaser](legal/sub/the_purchaser.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[GIG.tech](threefold_tech.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/presentations/README.md
+
+```python
+ERROR IN MACRO*** TODO: *1 ***
+macro:
+include
+ERROR:
+ERROR: COULD NOT INCLUDE:_presentations_toc.md (not found)
+```
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/meetings/README.md
+
+**ERROR:** problem with link:[April 9, 2018](/meetings/2018_april_9.md)
+ERROR: Cannot find doc with name:meetings.2018_april_9 (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/videos/README.md
+
+**ERROR:** problem with link:[ThreeFold Wallet Dos and Don'ts](/video/wallet.md)
+ERROR: Cannot find doc with name:video.wallet (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/legal/README.md
+
+**ERROR:** problem with link:[ThreeFold Token (TFT) Purchase Agreement](/legal/buy_tfts_from_farmer_example_contract.md)
+ERROR: Cannot find doc with name:tft (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Foundation](threefold_foundation.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Grid](threefold_grid.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[IT Capacity](it_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Token](threefold_token.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Chain](threefold_chain.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Operating System](threefold_operating_system.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Node](threefold_node.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold User](threefold_user.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Cloud Units](threefold_cloud_units.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Wallet](threefold_wallet.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Farming Pool](threefold_farming_pool.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Farmer](threefold_farmer.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Cooperative](threefold_cooperative.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Unmanaged Capacity](threefold_unmanaged_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Managed Capacity](threefold_managed_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Company](legal/sub/the_company.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Product](legal/sub/the_product.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Purchaser](legal/sub/the_purchaser.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[GIG.tech](threefold_tech.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: _sidebar
+
+- in doc: doc:_sidebar:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/_sidebar.md
+
+**ERROR:** problem with link:[ThreeFold Wallet](definitions/threefold_wallet.md)
+ERROR: Cannot find doc with name:definitions.threefold_wallet (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Foundation](threefold_foundation.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Grid](threefold_grid.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[IT Capacity](it_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Token](threefold_token.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Chain](threefold_chain.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Operating System](threefold_operating_system.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Node](threefold_node.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold User](threefold_user.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Cloud Units](threefold_cloud_units.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Wallet](threefold_wallet.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Farming Pool](threefold_farming_pool.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Farmer](threefold_farmer.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Cooperative](threefold_cooperative.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Unmanaged Capacity](threefold_unmanaged_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Managed Capacity](threefold_managed_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Company](legal/sub/the_company.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Product](legal/sub/the_product.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Purchaser](legal/sub/the_purchaser.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[GIG.tech](threefold_tech.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/presentations/README.md
+
+```python
+ERROR IN MACRO*** TODO: *1 ***
+macro:
+include
+ERROR:
+ERROR: COULD NOT INCLUDE:_presentations_toc.md (not found)
+```
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/meetings/README.md
+
+**ERROR:** problem with link:[April 9, 2018](/meetings/2018_april_9.md)
+ERROR: Cannot find doc with name:meetings.2018_april_9 (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/videos/README.md
+
+**ERROR:** problem with link:[ThreeFold Wallet Dos and Don'ts](/video/wallet.md)
+ERROR: Cannot find doc with name:video.wallet (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/legal/README.md
+
+**ERROR:** problem with link:[ThreeFold Token (TFT) Purchase Agreement](/legal/buy_tfts_from_farmer_example_contract.md)
+ERROR: Cannot find doc with name:tft (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Foundation](threefold_foundation.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Grid](threefold_grid.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[IT Capacity](it_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Token](threefold_token.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Chain](threefold_chain.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Operating System](threefold_operating_system.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Node](threefold_node.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold User](threefold_user.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Cloud Units](threefold_cloud_units.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Wallet](threefold_wallet.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Farming Pool](threefold_farming_pool.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Farmer](threefold_farmer.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Cooperative](threefold_cooperative.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Unmanaged Capacity](threefold_unmanaged_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Managed Capacity](threefold_managed_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Company](legal/sub/the_company.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Product](legal/sub/the_product.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Purchaser](legal/sub/the_purchaser.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[GIG.tech](threefold_tech.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/presentations/README.md
+
+```python
+ERROR IN MACRO*** TODO: *1 ***
+macro:
+include
+ERROR:
+ERROR: COULD NOT INCLUDE:_presentations_toc.md (not found)
+```
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/meetings/README.md
+
+**ERROR:** problem with link:[April 9, 2018](/meetings/2018_april_9.md)
+ERROR: Cannot find doc with name:meetings.2018_april_9 (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/videos/README.md
+
+**ERROR:** problem with link:[ThreeFold Wallet Dos and Don'ts](/video/wallet.md)
+ERROR: Cannot find doc with name:video.wallet (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/legal/README.md
+
+**ERROR:** problem with link:[ThreeFold Token (TFT) Purchase Agreement](/legal/buy_tfts_from_farmer_example_contract.md)
+ERROR: Cannot find doc with name:tft (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Foundation](threefold_foundation.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Grid](threefold_grid.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[IT Capacity](it_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Token](threefold_token.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Chain](threefold_chain.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Operating System](threefold_operating_system.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Node](threefold_node.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold User](threefold_user.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Cloud Units](threefold_cloud_units.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Wallet](threefold_wallet.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Farming Pool](threefold_farming_pool.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Farmer](threefold_farmer.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Cooperative](threefold_cooperative.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Unmanaged Capacity](threefold_unmanaged_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Managed Capacity](threefold_managed_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Company](legal/sub/the_company.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Product](legal/sub/the_product.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Purchaser](legal/sub/the_purchaser.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[GIG.tech](threefold_tech.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/presentations/README.md
+
+```python
+ERROR IN MACRO*** TODO: *1 ***
+macro:
+include
+ERROR:
+ERROR: COULD NOT INCLUDE:_presentations_toc.md (not found)
+```
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/meetings/README.md
+
+**ERROR:** problem with link:[April 9, 2018](/meetings/2018_april_9.md)
+ERROR: Cannot find doc with name:meetings.2018_april_9 (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/videos/README.md
+
+**ERROR:** problem with link:[ThreeFold Wallet Dos and Don'ts](/video/wallet.md)
+ERROR: Cannot find doc with name:video.wallet (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/legal/README.md
+
+**ERROR:** problem with link:[ThreeFold Token (TFT) Purchase Agreement](/legal/buy_tfts_from_farmer_example_contract.md)
+ERROR: Cannot find doc with name:tft (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: _sidebar
+
+- in doc: doc:_sidebar:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/_sidebar.md
+
+**ERROR:** problem with link:[ThreeFold Wallet](definitions/threefold_wallet.md)
+ERROR: Cannot find doc with name:definitions.threefold_wallet (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: threefold_cloud_units
+
+- in doc: doc:threefold_cloud_units:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/threefold_cloud_units.md
+
+**ERROR:** problem with link:[^1] (*)
+filename is empty
+
+
+
+```
+```
+## ERROR: threefold_cloud_units
+
+- in doc: doc:threefold_cloud_units:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/threefold_cloud_units.md
+
+**ERROR:** problem with link:[^1] (*)
+filename is empty
+
+
+
+```
+```
+## ERROR: buy_tfts_from_farmer_example_contract
+
+- in doc: doc:buy_tfts_from_farmer_example_contract:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/legal/buy_tfts_from_farmer_example_contract.md
+
+**ERROR:** problem with link:[Farmer]  (the “Company”)
+ERROR: Cannot find doc with name:the_company (nr docs found:2)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Foundation](threefold_foundation.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Grid](threefold_grid.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[IT Capacity](it_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Token](threefold_token.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Chain](threefold_chain.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Operating System](threefold_operating_system.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Node](threefold_node.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold User](threefold_user.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Cloud Units](threefold_cloud_units.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[ThreeFold Wallet](threefold_wallet.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Farming Pool](threefold_farming_pool.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Farmer](threefold_farmer.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Cooperative](threefold_cooperative.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Unmanaged Capacity](threefold_unmanaged_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[Managed Capacity](threefold_managed_capacity.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Company](legal/sub/the_company.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Product](legal/sub/the_product.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[The Purchaser](legal/sub/the_purchaser.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/definitions/README.md
+
+**ERROR:** problem with link:[GIG.tech](threefold_tech.md')
+found unsupported extension
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/presentations/README.md
+
+```python
+ERROR IN MACRO*** TODO: *1 ***
+macro:
+include
+ERROR:
+ERROR: COULD NOT INCLUDE:_presentations_toc.md (not found)
+```
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/meetings/README.md
+
+**ERROR:** problem with link:[April 9, 2018](/meetings/2018_april_9.md)
+ERROR: Cannot find doc with name:meetings.2018_april_9 (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/videos/README.md
+
+**ERROR:** problem with link:[ThreeFold Wallet Dos and Don'ts](/video/wallet.md)
+ERROR: Cannot find doc with name:video.wallet (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/legal/README.md
+
+**ERROR:** problem with link:[ThreeFold Token (TFT) Purchase Agreement](/legal/buy_tfts_from_farmer_example_contract.md)
+ERROR: Cannot find doc with name:tft (nr docs found:0)
+
+
+
+
+```
+```
+## ERROR: readme
+
+- in doc: doc:readme:/Users/despiegk/code/github/threefoldfoundation/info_foundation/docs/presentations/README.md
+
+```python
+ERROR IN MACRO*** TODO: *1 ***
+macro:
+include
+ERROR:
+ERROR: COULD NOT INCLUDE:_presentations_toc.md (not found)
+```
+
+
+
+
+```
