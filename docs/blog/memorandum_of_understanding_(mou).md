@@ -1,8 +1,8 @@
-# THREEFOLD CREATES A MORE RESPONSIBLE, NEUTRAL AND DECENTRALIZED INTERNET WITH HEWLETT PACKARD ENTERPRISE
+## THREEFOLD CREATES A MORE RESPONSIBLE, NEUTRAL AND DECENTRALIZED INTERNET WITH HEWLETT PACKARD ENTERPRISE
 
 ![](img/mou.jpg)
 
-Dubai, UAE: Today at GITEX Technology Week, ThreeFold signed a Memorandum of Understanding (MOU) with Hewlett Packard Enterprise (HPE) to cooperate in the CEEMA region on the implementation of a decentralized grid of computing and storage capacity, which enables a neutral, low cost and low energy internet on a global scale. 
+**Dubai, UAE**: Today at GITEX Technology Week, ThreeFold signed a Memorandum of Understanding (MOU) with Hewlett Packard Enterprise (HPE) to cooperate in the CEEMA region on the implementation of a decentralized grid of computing and storage capacity, which enables a neutral, low cost and low energy internet on a global scale. 
 
 HPE provides their clients in the CEEMA region with the option to connect their computing and storage capacity to ThreeFold’s decentralized grid that supports ThreeFold’s mission to provide a Responsible Internet, accessible to all.
 
@@ -17,10 +17,10 @@ ThreeFold launched a Responsible Internet capacity platform (on March 2018) with
 
 ### About ThreeFold Foundation:  
  
-ThreeFold is focused on democratizing internet compute and storage capacity to enable a responsible internet for all.  Open source software empowers people to create neutral, green and private capacity for people across the globe that’s blockchain driven and 100% decentralized. (threefold.io)
+ThreeFold is focused on democratizing internet compute and storage capacity to enable a responsible internet for all.  Open source software empowers people to create neutral, green and private capacity for people across the globe that’s blockchain driven and 100% decentralized. [(threefold.io)](https://threefold.io/)
  
  
-Media Contact: 
+Media Contact:
 Stela Suils Cuesta			
 THREEFOLD 
 Phone Number: +34 602 610889
