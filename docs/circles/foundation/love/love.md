@@ -4,7 +4,7 @@
 ![@https://images.unsplash.com/photo-1516646085441-e1719f13aa3e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=93341582c6b79df39b45b93000761ec4&auto=format&fit=crop&w=666&q=80](love.jpeg)
 
 
-## Coordinator: [Olivia Jurado](/contributors/mazraa/Olivia_Jurado.md)
+## Coordinator: [Olivia Jurado](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/mazraa/Olivia_Jurado.md)
 
 ## Purpose/Mission
 
@@ -29,9 +29,9 @@
 
 ## Contributors
 
-- [Nisha Grimes](/contributors/mazraa/Nisha_Grimes.md)
-- [Stela Suils Cuesta](/contributors/tftech/Stela_Suils_Cuesta.md)
-- [Adnan Fatayerji](/contributors/mazraa/Adnan_Fatayerji.md)
+- [Nisha Grimes](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/mazraa/Nisha_Grimes.md)
+- [Stela Suils Cuesta](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/tftech/Stela_Suils_Cuesta.md)
+- [Adnan Fatayerji](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/mazraa/Adnan_Fatayerji.md)
 - Michael Gaffney
 - Kyle Weber
 

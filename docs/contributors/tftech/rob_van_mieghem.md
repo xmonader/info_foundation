@@ -2,6 +2,10 @@
 
 ![](images/rob_van_mieghem.jpg)
 
+- LinkedIn: https://www.linkedin.com/in/robvanmieghem/
+- Telegram: [@robvanmieghem](https://t.me/robvanmieghem)
+- GitHub: [@robvanmieghem](https://github.com/robvanmieghem)
+
 
 ## why do I exist in TF 
 

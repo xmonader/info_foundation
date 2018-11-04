@@ -13,6 +13,7 @@
   - Lucien Lecarme
   - Nisha Grimes
   - Olivia Jurado
+  - Gregor Sideris
    
 
 ## Purpose/Mission
@@ -59,27 +60,77 @@
 
 ## Ambassadors
 
-| Ambassador    | Region        | Ambassador | Region     | Ambassador    | Region        | Ambassador | Region     |
-| ------------- |:-------------: | :-----:     |:----:       |:----:          |:----:          |:----:       |:----:       |
-| Ahmed Odeh    | Middle East   | Federico Fumagalli|  Europe|Mahshid Amir-Mokri|         | Rob Tol    |Europe      |
-| Alain Andries |Europe         |Franco Sorgi|   Europe   |Maria Marchenko|    Eurasia    | Roel Castelein|Europe   |     
-| Ali Olabi     | Middle East   |Garry Veale |     Europe       |Marina Achillea|   Europe   | Tony Henderson|  Europe     |   
-| Ali Omari     | Middle East   |Georg Gesek |   Europe          |Michael Erenburg|  Eurasia| Ugur Uker   | Eurasia       |
-| Andy Brauer   |   Africa  |Gert De Spiegeleer| Europe|Michael Gaffney | Americas    | Wolfgang Wittmer|Europe |
-| Bart Weijermars| Europe       |Kristian Järnefelt| Europe|Michael Wellesley-Wesley| Europe|Xander Van Der Heijden|  Europe |
-| Binoy Meghraj |               |James Short |Europe     |Michel Coucke| Europe   |    Simin Gerards   |   Eurasia |
-| Brian Bogaerts| Europe        |Jenne Magno |Europe|Mihos Vasilopoulos  | Europe  |   Erik Reitsma  |  Europe  |
-| Bruce Lites   | Americas      |Jennifer Long|Americas  |Milind Sathe |   Europe    |  Can Oruc     |  Eurasia  |
-| Carlos Mario Sanchez Avila| Americas | Joris|Europe    |Nicola Moresi| Europe      |  Wieger Atsma |Europe    |
-| Chris Hurd    | Europe       |Judi Bechard | Americas  |Nino D'Auria | Europe      |  Phil Horn  | Europe   |
-| Christian Seidl| Europe       |Dr. Kanwal Sibal|       |Nisha Grimes | Americas      |         |    |
-| Claudia Rodriguez Ortiz| Europe|Kevin Obeegadoo|  Africa     |Olivia Jurado |Americas |         |    |
-| Dauren Toleukhanov| Eurasia     |Krish Krishnan|   Asia      |Olivia K. Kemp | Europe      |          |    |
-| David De Vriesere|  Europe          |  Kyle Weber  | Americas|Osama Fitoria  | Middle East|          |    |
-| Ibrahim Ramel| Middle East| Leonora Blekaityte| Europe|Osman Asghar Khan |  Asia     |          |    |
-| Erik De Rijk  | Europe        | Lieve Vereycken| Europe   |Paolo Piccardo  |  Europe     |          |    |
-| Erik Van Der Meulen |Europe   | Lucia Groenfelt|  Europe  |Philippe Guillemot  | Europe     |         |    |
-| Erwin Raets  | Europe         | Maha Baligh   | Middle East   |Richard Sutton  | Europe      |          |    |
+| Ambassador                  | Region        |
+| ---------------------------|:-------------:| 
+| Ahmed Odeh                 | Middle East   | 
+| Federico Fumagalli         | Europe        |
+| Mahshid Amir-Mokri         |               |
+| Rob Tol                    | Europe        |
+| Alain Andries              | Europe        |
+| Franco Sorgi               | Europe        |
+| Maria Marchenko            | Eurasia       |
+| Roel Castelein             | Europe        |     
+| Ali Olabi                  | Middle East   |
+| Garry Veale                | Europe        |
+| Marina Achillea            | Europe        |
+| Tony Henderson             | Europe        |   
+| Ali Omari                  | Middle East   |
+| Georg Gesek                | Europe        |
+| Michael Erenburg           | Eurasia       |
+| Ugur Uker                  | Eurasia       |
+| Andy Brauer                | Africa        |
+| Gert De Spiegeleer         | Europe        |
+| Michael Gaffney            | Americas      |
+| Wolfgang Wittmer           | Europe        |
+| Bart Weijermars            | Europe        |
+| Kristian Järnefelt         | Europe        |
+| Michael Wellesley-Wesley   | Europe        |
+| Xander Van Der Heijden     | Europe        |
+| Binoy Meghraj              |               |
+| James Short                | Europe        |
+| Michel Coucke              | Europe        |
+| Simin Gerards              | Eurasia       |
+| Brian Bogaerts             | Europe        |
+| Jenne Magno                | Europe        |
+| Mihos Vasilopoulos         | Europe        |
+| Erik Reitsma               | Europe        |
+| Bruce Lites                | Americas      |
+| Jennifer Long|Americas     |               |
+| Milind Sathe               | Europe        |  
+| Can Oruc                   | Eurasia       |
+| Carlos Mario Sanchez Avila | Americas      |
+| Joris Vermeulen            | Europe        |
+| Nicola Moresi              | Europe        |
+| Wieger Atsma               | Europe        |
+| Chris Hurd                 | Europe        |
+| Judi Bechard               | Americas      |
+| Nino D'Auria               | Europe        |
+| Phil Horn                  | Europe        |
+| Christian Seidl            | Europe        |
+| Dr. Kanwal Sibal           |               |
+| Nisha Grimes               | Americas      |
+| Claudia Rodriguez Ortiz    | Europe        |
+| Kevin Obeegadoo            | Africa        |
+| Olivia Jurado              | Americas      |
+| Dauren Toleukhanov         | Eurasia       |
+| Krish Krishnan             |  Asia         |
+| Olivia K. Kemp             | Europe        | 
+| David De Vriesere          | Europe        |
+| Kyle Weber                 | Americas      |
+| Osama Fitoria              | Middle East   |
+| Ibrahim Ramel              | Middle East   |
+| Leonora Blekaityte         | Europe        |
+| Osman Asghar Khan          | Asia          |
+| Erik De Rijk               | Europe        | 
+| Lieve Vereycken            | Europe        |
+| Paolo Piccardo             | Europe        |
+| Erik Van Der Meulen        | Europe        |
+| Lucia Groenfelt            | Europe        |
+| Philippe Guillemot         | Europe        |
+| Erwin Raets                | Europe        |
+| Maha Baligh                | Middle East   |
+| Richard Sutton             | Europe        | 
+| Yves Kerwyn                | Europe        |
 
  ## Working Groups
 
@@ -91,7 +142,7 @@
   
   -  Technology 
   
-  - Women's Empowerment
+  -  Women's Empowerment
   
   -  Youth
 

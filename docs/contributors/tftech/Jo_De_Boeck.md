@@ -4,4 +4,3 @@
 - LinkedIn: https://www.linkedin.com/in/deboeckj/
 - Telegram: [@deboeckj](https://t.me/deboeckj)
 - GitHub: [@grimpy](https://github.com/grimpy)
-- Mobile: +20 106 346 6935

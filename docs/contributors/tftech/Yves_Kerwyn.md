@@ -1,6 +1,6 @@
 # Yves Kerwyn
 
-![](images/yves_kerwyn.jpg)
+![](https://avatars.githubusercontent.com/yveskerwyn)
 
 - Mail: [yves@threefoldtoken.com](mailto:yves@threefoldtoken.com)
 - LinkedIn: https://www.linkedin.com/in/yveskerwyn/

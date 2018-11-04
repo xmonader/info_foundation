@@ -1,5 +1,8 @@
-
 # Chris Hutton
+
+- LinkedIn: https://www.linkedin.com/in/chris-hutton-a3034777/
+- Telegram: [@Chutton](https://t.me/Chutton)
+- GitHub: [@christopherhutton](https://github.com/christopherhutton)
 
 - [calendar](https://calendar.google.com/calendar/r/week/2018/7/18?pli=1)
 

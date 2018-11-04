@@ -33,7 +33,7 @@ Use the foundation wiki to make sure everyone understands how we will work toget
 ## Contributors
 
 - Every ambassador needs to have such a contributor page in relevant wiki:
-   - [contributors](https://github.com/threefoldfoundation/info_foundation/tree/mastercontributors)
+   - [contributors](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/contributors/README.md)
 
 ## Links
 
@@ -46,7 +46,7 @@ Use the foundation wiki to make sure everyone understands how we will work toget
     - [stories](https://trello.com/b/XrntkDvy/tfstories)
     - [stories hq ibiza, our new co-working space](https://trello.com/b/7sSeLOOu/tfstorieshqibiza)
     - [business development](https://trello.com/b/ppTVxCcO/tffunnel)
-    - [it support (is from grid circle)](https://trello.com/b/BckFlTJ0/tfsupportit)
+    - [it support \(from grid circle\)](https://trello.com/b/BckFlTJ0/tfsupportit)
 
 ### Chat
 
