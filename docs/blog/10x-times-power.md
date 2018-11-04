@@ -1,6 +1,6 @@
 # 10 times power savings, is this possible?
 
-![Logo](blog/img/10x-times-power.jpg?raw=true "Logo")
+![Logo](img/10x-times-power.jpg?raw=true "Logo")
 
 ### How does ThreeFold achieve the efficient power usage in the Zero-OS node
 
