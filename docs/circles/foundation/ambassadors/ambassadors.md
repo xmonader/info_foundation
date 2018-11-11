@@ -131,6 +131,23 @@
 | Maha Baligh                | Middle East   |
 | Richard Sutton             | Europe        | 
 | Yves Kerwyn                | Europe        |
+| Alexea Grech               |               |
+| Amel Murphy                | Europe        |
+| Baran Ozmen                | Euroasia      |
+| Can Oruc                   | Euroasia      |
+| Canan Uras                 | Euroasia      |
+| Christophe Huygen          | Europe        |
+| Guido Neumann              | Europe        |
+| Hakan Alpay                | Euroasia      |
+| Ishka Michocka             | Europe        |
+| Jurgen Schulze             | Europe        |
+| Liliana Carillo            | Europe        |
+| Lina Takla                 | Europe        |
+| Oscar Landman              | Europe        |
+| Ruud Patocka               | Europe        |
+| Wim Timmer                 | Europe        |
+| Wolfgang Kalny             | Europe        |
+| Owen Ernst                 | Europe        |
 
  ## Working Groups
 
