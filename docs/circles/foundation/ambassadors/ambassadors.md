@@ -131,6 +131,7 @@
 | Maha Baligh                | Middle East   |
 | Richard Sutton             | Europe        | 
 | Yves Kerwyn                | Europe        |
+| Canan Uras                 | Euroasia      |
 
  ## Working Groups
 
