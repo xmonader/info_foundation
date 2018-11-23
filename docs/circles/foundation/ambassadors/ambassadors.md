@@ -3,30 +3,30 @@
 ![@https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixlib=rb-0.3.5&s=0b4422ab6b8072c30fdef9ed6041220f&auto=format&fit=crop&w=1350&q=80](ambassadors.jpeg)
 
 
-## Coordinator: 
+## Coordinator:
    Owen Kemp
-   
+
  ## Contributors
 
-  ### Ambassador Coordination Team : 
+  ### Ambassador Coordination Team :
   - Jenne Magno
   - Lucien Lecarme
   - Nisha Grimes
   - Olivia Jurado
   - Gregor Sideris
-   
+
 
 ## Purpose/Mission
 
 - To bring incremental global knowledge and support to the TF movement from outside.  
-- To bring the TF story to a broader international community. 
-- Create global market pull for TF tokens, TF farming and TF grid utilisation by multiplying TF’s resources 
+- To bring the TF story to a broader international community.
+- Create global market pull for TF tokens, TF farming and TF grid utilisation by multiplying TF’s resources
 - Community building by engaging community members to be a part of the TF movement
 - Help spread the word, open up networks, have an advisory role, organize and host events, support token sales &     farming
 
 ...
 
-## Goals 
+## Goals
 
 - Create an ambassador program that attracts significant personalities with diverse knowledge, experience, network.  
 - Execute ambassador-led TF events in all relevant markets by end 2018.
@@ -39,7 +39,7 @@
 
 - Develop a program which enables scalable knowledge sharing between ambassadors and TF.  
 
-- Search for, recruit, engage and retain ambassadors to the joint benefit of both ambassadors and TF. 
+- Search for, recruit, engage and retain ambassadors to the joint benefit of both ambassadors and TF.
 
 - Launch new ambassador category of “Guardians” and define exact roles and responsibilities and remuneration. Recruit guardians out of  existing pool of ambassadors and if needed from outside - being referred by TF members and ambassadors.
 
@@ -61,8 +61,8 @@
 ## Ambassadors
 
 | Ambassador                  | Region        |
-| ---------------------------|:-------------:| 
-| Ahmed Odeh                 | Middle East   | 
+| ---------------------------|:-------------:|
+| Ahmed Odeh                 | Middle East   |
 | Federico Fumagalli         | Europe        |
 | Mahshid Amir-Mokri         |               |
 | Rob Tol                    | Europe        |
@@ -114,14 +114,14 @@
 | Olivia Jurado              | Americas      |
 | Dauren Toleukhanov         | Eurasia       |
 | Krish Krishnan             |  Asia         |
-| Olivia K. Kemp             | Europe        | 
+| Olivia K. Kemp             | Europe        |
 | David De Vriesere          | Europe        |
 | Kyle Weber                 | Americas      |
 | Osama Fitoria              | Middle East   |
 | Ibrahim Ramel              | Middle East   |
 | Leonora Blekaityte         | Europe        |
 | Osman Asghar Khan          | Asia          |
-| Erik De Rijk               | Europe        | 
+| Erik De Rijk               | Europe        |
 | Lieve Vereycken            | Europe        |
 | Paolo Piccardo             | Europe        |
 | Erik Van Der Meulen        | Europe        |
@@ -129,22 +129,38 @@
 | Philippe Guillemot         | Europe        |
 | Erwin Raets                | Europe        |
 | Maha Baligh                | Middle East   |
-| Richard Sutton             | Europe        | 
+| Richard Sutton             | Europe        |
 | Yves Kerwyn                | Europe        |
+| Alexea Grech               |               |
+| Amel Murphy                | Europe        |
+| Baran Ozmen                | Euroasia      |
+| Can Oruc                   | Euroasia      |
 | Canan Uras                 | Euroasia      |
+| Christophe Huygen          | Europe        |
+| Guido Neumann              | Europe        |
+| Hakan Alpay                | Euroasia      |
+| Ishka Michocka             | Europe        |
+| Jurgen Schulze             | Europe        |
+| Liliana Carillo            | Europe        |
+| Lina Takla                 | Europe        |
+| Oscar Landman              | Europe        |
+| Ruud Patocka               | Europe        |
+| Wim Timmer                 | Europe        |
+| Wolfgang Kalny             | Europe        |
+| Owen Ernst                 | Europe        |
 
  ## Working Groups
 
   -  Community
-  
+
   -  Emerging Markets
-  
+
   -  Governance
-  
-  -  Technology 
-  
+
+  -  Technology
+
   -  Women's Empowerment
-  
+
   -  Youth
 
 ## Links
@@ -158,7 +174,7 @@
 ### Chat
 
 Ambassadors are invited to Telegram chat group by coordinator.
-   
+
 ### Websites/Wikis
 
 - Ambassador Community Site (Exclusive Access for TF Ambassadors)
