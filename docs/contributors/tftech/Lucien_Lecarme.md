@@ -1,6 +1,6 @@
 # Lucien Lecarme
 
-- Mail: [lecarmel@threefoldtoken.com](mailto:lecarmel@threefoldtoken.com)
+- Mail: <a href="lecarmel@threefoldtoken.com">lecarmel@threefoldtoken.com</a>
 - LinkedIn: https://www.linkedin.com/in/lucien-lecarme-68080148/
 - Telegram: [@lucienlecarme](https://t.me/lucienlecarme)
 - GitHub: [@juradoo](https://github.com/Ibizapowerspot)

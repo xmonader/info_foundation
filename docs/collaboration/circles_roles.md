@@ -7,7 +7,7 @@
 
 * Coordinates (helps) a team of people working on one or more stories
 * make sure the circle home page is properly filled in and put in 
-* make sure all members have their page on [contributor pages location](contributors/) can be editted in contributors/
+* make sure all members have their page on [contributor pages location](/contributors/README.md) can be editted in contributors/
 * A Circle is a team on trello e.g. https://trello.com/tf_foundation/members
 * Circle Coordinator needs to make sure
   * People understand our Agile principles of working together

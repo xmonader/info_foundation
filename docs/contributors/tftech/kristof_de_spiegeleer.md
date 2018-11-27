@@ -27,7 +27,7 @@ HELP ! : this is way too much
     - [Foundation Funnel = business development opportunities](https://trello.com/b/ppTVxCcO/tffunnel)
     - [TF Tech Stories](https://trello.com/b/gPzYrjTJ/tftechstories)
     - [TF Tech Master Stories For Our Development Managers](https://trello.com/b/zwgGSC5F/tftechcoordinationengineering)
-    - [TF Innovate Fund Stories (low prio)](https://trello.com/b/6iGfd5Cc/tfinnovatestories)
+    - [TF Innovate Fund Stories -low prio-](https://trello.com/b/6iGfd5Cc/tfinnovatestories)
 - contribution
     - [TF Grid Stories](https://trello.com/b/FOZrIDOL/tfgridstories)
     - [TF Token Stories](https://trello.com/b/IqHW5DeD/tftokenstories)

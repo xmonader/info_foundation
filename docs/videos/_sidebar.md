@@ -10,5 +10,5 @@
     * [ThreeFold Technology Overview](/videos/tf_tech.md)
     * [Building a Newer Digital World for Humanity](/videos/humanity.md)
     * [Solving Blockchain's Dilemma](/videos/dilemma.md)
-    * [ThreeFold Wallet Dos and Don'ts](/video/wallet.md)
+    * [ThreeFold Wallet Dos and Don'ts](/videos/wallet.md)
 
