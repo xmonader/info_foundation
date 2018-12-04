@@ -15,7 +15,7 @@ We are all contributors one way or the other but to make it easy we would like t
 - ThreeFold guardian = they guard the values of our movement (technical or governance)
 - ThreeFold ambassador = anyone who wants to contribute at least a couple of hours per month for our joint cause and is not afraid to adopt our tools and way of working
 - ThreeFold founder = works as part of ThreeFold team at least 50% of time and is 100% in on our way of working and values.
-- ThreeFold coordinator = coordination role (owner of one or more circles). 
+- ThreeFold coordinator = coordination role (owner of one or more circles) 
 
 ## ThreeFold Sponsor
 
@@ -124,7 +124,7 @@ A coordindator is a TF Founder who also has coordination and communication skill
 - A circle is a group of people working together around a set of specific topics.
 - A coordinator in an agile organization does not control, has no decision power.
 
-It's the reverse of a an authoritative, or autocratic power play. A coordinator does not command or take decisions. Decisions happen automatically because an agile process is being followed. A coordinator makes sure others can easily contribute and they can find all the information they require, they discover and clear road-blocks and make it possible for people to be their best, its about getting the process to work smoothly without being in the way.
+It's the reverse of an authoritative, or autocratic power play. A coordinator does not command or take decisions. Decisions happen automatically because an agile process is being followed. A coordinator makes sure others can easily contribute and they can find all the information they require, they discover and clear road-blocks and make it possible for people to be their best, its about getting the process to work smoothly without being in the way.
 
 A coordinator:
 
