@@ -1,6 +1,6 @@
 # Jonas Delrue
 
-* Mail: [](mailto:jonas_delrue@hotmail.com)
+* Mail: <a href="jonas_delrue@hotmail.com">jonas_delrue@hotmail.com</a>
 * LinkedIn: https://www.linkedin.com/in/jonas-delrue/
 * Telegram: [@jdelrue](https://t.me/jdelrue)
 * GitHub: [@JimberSoftware](https://github.com/JimberSoftware)

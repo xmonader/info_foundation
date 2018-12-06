@@ -4,7 +4,7 @@
 - [Calendar](https://calendar.google.com/calendar?cid=ZWFuZmltb3ZAdGhyZWVmb2xkdG9rZW4uY29t)
 - [Personal Data on GOGS](- https://docs.grid.tf/threefold/data_team/src/branch/master/team/varia/elena_anfimova)
 - Telegram: @eanfi
-- Email: eanfimov@threefoldtoken.com
+- Mail: <a href="eanfimov@threefoldtoken.com">eanfimov@threefoldtoken.com</a>
 - US Phone Number: +13472232476
 
 

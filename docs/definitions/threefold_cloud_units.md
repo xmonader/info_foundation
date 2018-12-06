@@ -15,7 +15,7 @@ To measure processing power available in the presented Threefold capacity
 | Passmark Max      | 1,250 | 625   | 2500  | Passmark |       |
 
 
-| SU (Storage Unit)               |                     | Archive[^1] (*) | Nas[^1] | Std Disk[^2] | DB Disk[^2] | Temp Disk | .     |
+| SU (Storage Unit)               |                     | Archive\[^1\] \(*\) | Nas[^1] | Std Disk[^2] | DB Disk[^2] | Temp Disk | .     |
 | ------------------------------- | ------------------: | :-------------: | :-----: | :----------: | :---------: | :-------: | :---: |
 | GB Storage Capacity | 1,000           | 400     | 50           | 5           | 80        | GB    |
 | burst performance (TPS)         | 20                  | 100             | 10,000  | 40,000       | 10,000      |
@@ -29,6 +29,6 @@ To measure processing power available in the presented Threefold capacity
 | GB transfered OUT or IN                   | 1     | GB    |
 | GB transfered in country/region OUT or IN | 5     | GB    |
 
-[^1]:  calculated using policy of 20 backend nodes, 4 of any nodes can be lost at any point in time, blocksize = 1MB
+\[^1\]:  calculated using policy of 20 backend nodes, 4 of any nodes can be lost at any point in time, blocksize = 1MB
 
-[^2]: calculated using replica of 2, so 2 copies of each block/object stored
+\[^2\]: calculated using replica of 2, so 2 copies of each block/object stored

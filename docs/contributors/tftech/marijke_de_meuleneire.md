@@ -1,8 +1,7 @@
 # Marijke De Meuleneire
 
-![](...)
 
-- Mail: [marijke@mobicage.com](mailto:marijke@mobicage.com)
+- Mail: <a href="marijke@mobicage.com">marijke@mobicage.com</a>
 - LinkedIn: https://www.linkedin.com/in/marijkedemeuleneire/
 - GitHub: [@MarijkeDM](https://github.com/MarijkeDM)
 - Telegram: [@MarijkeDM](https://t.me/marijkedm)

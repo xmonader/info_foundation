@@ -10,9 +10,9 @@
 
 <!--- [roadmap](roadmap.html ':include width=1000px height=400px')
 
-// [test](test.html ':include width=1000px height=600px')
+[test](test.html ':include width=1000px height=600px')
 
-// [jsjoint](jsjoint.html ':include width=1000px height=100px')
+[jsjoint](jsjoint.html ':include width=1000px height=100px')
 --->
 
 <!--- ```mermaid
