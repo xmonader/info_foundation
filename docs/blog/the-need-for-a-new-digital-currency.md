@@ -1,6 +1,5 @@
 # The need for a new, green utility digital currency
 
-![Logo](blog/img/the_need_for_new.jpg?raw=true "Logo")
 
 ## The world needs a new stable & green utility digital currency, which is usable globally.
 

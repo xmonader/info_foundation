@@ -13,5 +13,5 @@
     * [Datacenter Myths](blog/myth_big_datacenter_are.md)
     * [The need for a new, neutral Internet](blog/need-for-new-neutral-internet.md)
     * [Open Source Technology](blog/open-source-technology.md)
-    * [Technology for a New Internet](tech-new-internet.md)
+    * [Technology for a New Internet](blog/tech-new-internet.md)
     * [The need for a new, green utility digital currency](blog/the-need-for-a-new-digital-currency.md)

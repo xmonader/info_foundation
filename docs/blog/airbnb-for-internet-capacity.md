@@ -1,6 +1,5 @@
-# AirBnB for Internet Capacity 
+# AirBnB for Internet Capacity
 
-![Logo](blog/img/airbnb-for-internet-capacity.jpg?raw=true "Logo")
 
 ## Everyone should be able to deliver capacity to the new neutral internet.
 

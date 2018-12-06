@@ -28,7 +28,7 @@
 - TRANSPARENT: sales, pricing, processes, …
 
 
-![EthicalDesign@https://docs.grid.tf/dividi/values/raw/branch/master/images/ethical_design_small.png](ethicaldesign.png)
+![EthicalDesign@https://docs.grid.tf/dividi/values/raw/branch/master/images/ethical_design_small.png](img/ethicaldesign.png)
 
 Design your organisations so that your core values are respect for human rights, respect for human effort, and respect for human experience.
 

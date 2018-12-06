@@ -1,6 +1,5 @@
 # Datacenter Myths
 
-![Logo](blog/img/myth-big-datacenters-are-efficient.jpg?raw=true "Logo")
 
 ## Hyperscale realities
 
@@ -34,6 +33,6 @@ The IT industry has gone overboard  with the concept of redundancy, having forgo
 
 Big companies with a certain track record will know better how to optimize, they have more people…'''
 
-At first glance this sounds logical, but if we look at the IT landscape today 90%+ of innovation in IT is done by small startups. The big legacy IT companies have a  heritage they hardly can overcome. They are locked in old infrastructure designs,and over time to building outside of that infrastructure is to put the breaks on their business. 
+At first glance this sounds logical, but if we look at the IT landscape today 90%+ of innovation in IT is done by small startups. The big legacy IT companies have a  heritage they hardly can overcome. They are locked in old infrastructure designs,and over time to building outside of that infrastructure is to put the breaks on their business.
 
 Real innovation dies a slows death and gives way to the fix the symptom rather than the problem pain killer approach.
