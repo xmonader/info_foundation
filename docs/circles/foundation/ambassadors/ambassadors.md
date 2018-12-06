@@ -131,10 +131,9 @@
 | Maha Baligh                | Middle East   |
 | Richard Sutton             | Europe        |
 | Yves Kerwyn                | Europe        |
-| Alexea Grech               |               |
+| Alexea Grech               | Euroasia      |
 | Amel Murphy                | Europe        |
 | Baran Ozmen                | Euroasia      |
-| Can Oruc                   | Euroasia      |
 | Canan Uras                 | Euroasia      |
 | Christophe Huygen          | Europe        |
 | Guido Neumann              | Europe        |
