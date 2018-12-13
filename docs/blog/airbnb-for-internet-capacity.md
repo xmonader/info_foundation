@@ -1,46 +1,40 @@
 # AirBnB for Internet Capacity
 
 
-## Everyone should be able to deliver capacity to the new neutral internet.
+## Anyone is able to deliver capacity to the ThreeFold Grid.
 
-**In this article we discuss the general concept of ‘decentralized grid’ and more practical questions of becoming part of it.**
+**In this article, we discuss the general concept of a ‘decentralized grid’.**
 
-### Decentralization & empowering the edge trend
+### Decentralization
 
-The Internet decentralized information and changed the world as we know it. Now blockchain technology is decentralizing value and could change the world even more.
+In 1989 the internet would change the world as we know it. The internet gave us all the power to share information in a decentralized way. On its turn, the blockchain now allows us to decentalize value, which could change the world even more.
 
-The Internet allowed everyone to generate and exchange content freely. Companies like Facebook, Google, Twitter and Snapchat made big business out of it. And the “sharing economy” is growing during the last 5-10 years due to the simplified information flow and well developed technology, which:
+Companies like Facebook, Google and Amazon made big business out of the internet. The “sharing economy” has been growing over the last 5-10 years. This thanks to the simplified information flow and well-developed technology, which:
 
-1. Allows much easier integration of independent players into the sharing economy
-2. Eliminates the need for extensive management and structure of the marketplace operator
+1. Allows much easier integration of independent players into the sharing economy.
+2. Eliminates the need for extensive management and structure of a marketplace operator.
 
-We are coming to the flat-structure economy, where less managerial levels are needed for the system to function properly.
+We are at the dawn of a flat-structure economy. An economy where we need less managerial levels for the system to function in a good way.
 
-Blockchain technology facilitates this trend. Participants can interact on a peer-to-peer basis and form marketplaces and organizations according to pre-agreed, programmed contracts.
+Blockchain technology facilitates this ongoing trend. Participants can now interact on a peer-to-peer basis and form marketplaces and organizations according to pre-agreed, programmed contracts.
 
-### The very core of IT
+### Surprisingly the internet still centralized
 
-It is surprising that - despite aleady seeing well known examples of decentralized currencies, transportation, lodging and ledgers - we do not yet have decentralized datacenter technology, the very core of the internet as we know it.
+Despite already seeing well-known examples of decentralized currencies, transportation, and ledgers. We do not yet have decentralized datacenter technology, the very core of the internet as we know it.
 
-At the moment, it requires tremendous $ investment and massive scale to compete effectively in the Internet IT capacity market. Large companies like Alibaba, Amazon, EMC, Google and Microsoft are dominant.
+To compete in the internet capacity market which is now dominated by big IT companies, one requires massive investments.
 
-ThreeFold has developed for the last years on distributed datacenter technology. One of the benefits of distributed datacenter technology is that it allows small organizations - even individuals - to participate in the Internet IT capacity market.
+Over the last couple of years, ThreeFold developed decentralized datacenter technology. One of the benefits of this technology is that it allows anyone to take part in the internet capacity market.
+ Anyone that joins the ThreeFold Grid we call a ThreeFold Farmers. to invest. All such participants are called ThreeFold Farmers (TFM).
 
-With the Zero-OS technology, you can jump into the market even if you have a couple of hundred dollars to invest. All such participants are called ThreeFold Farmers (TFM).
+### How to become a ThreeFold Farmer
 
-### How you can join
+The process to become a TF Farmer is very straightforward. Anyone can join the TF Grid by buying or building a Zero Node.
+Now you can operate your micro datacenter and earn money with it, we call this process TF Mining.
 
-The process to become a TF Farmer is very straightforward.  Anyone - whether individual, professional or corporate - can join the TF Grid by buying a Zero Node and downloading the Zero-OS open source software. You can even do it with your existing spare hardware.
+All Zero-Nodes are “plug and play” with full self-driving capability. This means anyone can become a TF farmer, no matter the level of experience. Which means anyone can become an ‘Airbnb’ TF Farmer for the new, neutral internet which belongs to us all.
 
-Now you can operate your micro datacenter and earn money on it, we call this process TF Mining.
 
-Our Zero-Nodes are designed to be “plug and play” with full self driving capability - meaning TF Farmers do not need to have IT experience.
+Internet Capacity produced by a Zero-Node is automatically registered on the TF Directory. The TF Directory is a public directory for global purchasers of Internet Capacity. There is no need to build a marketing department or promote your Zero-Node.
 
-The Internet Capacity produced by the Zero-Node is automatically registered on the TF Directory which is made public to global purchasers of Internet Capacity. There is no need to build a marketing department or promote your micronode. As long as the price is reasonable, there will be demand capacity near your location.
-
-For convenience, pricing is set by the TF Directory algorithm based on numerous factors including real time local supply and demand, competition, network connection, hardware type and the environment. More advanced TF Farmers can set their pricing if desired.
-
-Now you essentially can become an ‘AirBnB’ TF Farmer for the new, neutral internet which belongs to all of us.
-
- - No more big corporations are controlling the grid and wasting resources..
- - Yes to the new decentralized, neutral and green internet.
+Pricing is set by the TF Directory's algorithm based on numerous factors including real-time local supply and demand, competition, network connection, hardware type and the environment. More advanced TF Farmers can set their own pricing.
