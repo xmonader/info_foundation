@@ -7,7 +7,7 @@
 - Sustainable = green (our world needs some help)
 - Available for all: which also means affordable, not owned by a big company with as purpose greed.
 - Decentralised: make sure technology is available everywhere
-- Open & interoperable: allow techno to work together in open way
+- Open & interoperable: allow technology to work together in open way
 - Accessible: easy to access, fast enough, everywhere in the world
 - Secure & private: your privacy is a right
 
@@ -21,8 +21,8 @@
 ## Respect Human Experience
 
 - Products should be ergonomic & easy to use
-- Design should be global: don’t favor certain user groups!
-- Products should look good, it will give us a better feeling
+- Design should be global: don’t favour certain user groups!
+- Products should look good, but form follow function
 - TRANSPARENT: sales, pricing, processes, …
 
 
