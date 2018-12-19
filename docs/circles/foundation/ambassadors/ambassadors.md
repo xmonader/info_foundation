@@ -1,6 +1,6 @@
 # ThreeFold Ambassador Circle
 
-![@https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixlib=rb-0.3.5&s=0b4422ab6b8072c30fdef9ed6041220f&auto=format&fit=crop&w=1350&q=80](ambassadors.jpeg)
+![@https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixlib=rb-0.3.5&s=0b4422ab6b8072c30fdef9ed6041220f&auto=format&fit=crop&w=1350&q=50](ambassadors.jpeg)
 
 
 ## Coordinator:
