@@ -138,9 +138,9 @@ We are specifically looking to:
 | Lina Takla                 | Europe        |
 | Oscar Landman              | Europe        |
 | Ruud Patocka               | Europe        |
-| Wim Timmer                 | Europe        |
 | Wolfgang Kalny             | Europe        |
-| Owen Ernst                 | Europe        |
+| Owen Ernst                 | Europe        |      
+
 
  ## Working Groups
 
