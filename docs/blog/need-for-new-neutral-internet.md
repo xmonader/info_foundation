@@ -1,6 +1,5 @@
 # The need for a new, neutral Internet
 
-![](img/the_need_for_new.jpg)
 
 ## The internet is growing like crazy. This is a Trillion Dollar problem. Together we can build a new internet.
 
@@ -40,7 +39,7 @@ The challenges facing the Internet include the following::
 
 ## The ThreeFold Solution
 
-Our solution to these $trillion problems is to migrate Internet IT capacity to the Edge - ie a “hyper-distributed” network architecture, located close to users (in cities, schools, offices, homes and even vehicles). 
+Our solution to these $trillion problems is to migrate Internet IT capacity to the Edge - ie a “hyper-distributed” network architecture, located close to users (in cities, schools, offices, homes and even vehicles).
 
 Edge networks will not necessarily replace the existing hyperscale capacity powering today’s cloud - rather, Edge networks will scale to meet the increased capacity demands going forward.
 

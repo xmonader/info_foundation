@@ -1,8 +1,6 @@
 # Open Source Technology
 
-![Logo](blog/img/open-source--technology.jpg?raw=true "Logo")
-
-## Overview of our technology components and links to repositories
+## An overview of our technology components
 
 ### Open Source Components Overview
 
@@ -22,18 +20,17 @@ Managed By Our Zero-OS Controller
 
 It is a very different type of OS
 
-- no more local filesystems
-- no more a volume driver
-- no more local packages, software installations..
-- no terminal (like ssh, ...)
+- No more local filesystems
+- No more a volume driver
+- No more local packages, software installations..
+- No terminal (like ssh, ...)
 
 Zero OS Components
 
-- Zero-OS Orchestrator (controls all the nodes running Zero-OS in a resource pool)
 - Zero-OS core (replacement of systemd, kernel boots this first process)
 - Zero-OS filesystem (virtual filesystem for Zero-OS, OS files are not installed on local storage)
 - Zero-OS vDisk (virtual Disks running 0-OS FS)
-- Zero-OS cockpit (AYS - selfhealing, jumpscale portal, restAPI, Telegram interface)
+- Zero-OS cockpit (AYS - self-healing, jumpscale portal, restAPI, Telegram interface)
 - Zero-OS CLI - command line tools
 
 see https://github.com/zero-os
@@ -43,13 +40,13 @@ see https://github.com/zero-os
 
 - Easy to use
 - 1 IT person can manage 100 Petabyte
-- Dense & Green
-- 5PB in 1 rack for archive,
-- using conventional disks for storage
+- Dense & Environmentally friendly
+- 5PB in 1 rack for archive
+- Using conventional disks for storage
 - Super scale out 50+ PB
 - Multi datacenter with single namespace
-- Not based on replication!
-- Can loose datacenters, data remains available
+- Not based on replication
+- Can lose datacenters, data remains available
 - Ultra high performance 100-250.000 IOPS per node (depends on HW)
 - Ultra reliable
 - Replication & backup obsolete
@@ -68,12 +65,21 @@ see https://github.com/zero-os
 - Concentrate on business process automation, not IT
 - Runs on any Zero-OS, eliminating layers of complexity
 - With ready-to-deploy blueprints available off-the-shelf
-- Blueprint marketplaces can develop and deploy
+- Blueprint marketplaces
 - Manage full IT lifecycles leveraging container technology
-- Grow, ad, distribute, destroy capacity as needed.
+- Grow, add, distribute, and destroy capacity when needed
 - No downtime: Change and upgrades are immediate
-- Design Intelligence: Robots and algorithms assist you.
+- Design Intelligence: Robots and algorithms assist you
 
+#### TF Chain (Rivine based blockchain)
+
+- Proof Of Stake Blockchain = Sustainable
+- Smart contracts
+- Low transaction fees
+- Supports atomic swap
+- Used to reserve capacity on the TF Grid
+
+see https://github.com/threefoldfoundation/tfchain
 
 #### ItsYou.Online
 
@@ -85,7 +91,6 @@ features:
 
 - Peer-to-Peer Distributed
 - Blockchain Protected
-- .. to be completed
 
 
 https://github.com/itsyouonline

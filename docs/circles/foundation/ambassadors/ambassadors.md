@@ -6,59 +6,52 @@
 ## Coordinator:
    Owen Kemp
 
- ## Contributors
-
-  ### Ambassador Coordination Team :
+### Ambassador Coordination Team:
   - Jenne Magno
   - Lucien Lecarme
   - Nisha Grimes
   - Olivia Jurado
   - Gregor Sideris
-
-
+  
 ## Purpose/Mission
+ThreeFold founders believe the internet should be neutral, sustainable, and accessible to all. So we're building it. Internet compute and storage capacity democratized - Open source software that creates neutral, green and private capacity by people for people. 100% decentralized!
 
-- To bring incremental global knowledge and support to the TF movement from outside.  
-- To bring the TF story to a broader international community.
-- Create global market pull for TF tokens, TF farming and TF grid utilisation by multiplying TF’s resources
-- Community building by engaging community members to be a part of the TF movement
-- Help spread the word, open up networks, have an advisory role, organize and host events, support token sales &     farming
+Our ambassadors are an integral part of this movement.
 
-...
+Over the coming months, the ThreeFold Grid will be expanding throughout the world and will be be hosting a variety of meetups and conferences throughout the world. ThreeFold is looking to collaborate with various people, groups and companies to accomplish this goal.  From application development to social outreach, each individual Ambassador can lend a unique skill or quality to our growing community.
 
-## Goals
+If you think you can bring value to ThreeFold we would love to hear from you - [apply to become an Ambassador today!](https://docs.google.com/forms/d/e/1FAIpQLSeZ6em1KMZjSfSz7zfPiAuR0Z3ozCnwHEtStg8AO9OSggW8Iw/viewform)
+
+We are specifically looking to:
+
+- Bring incremental global knowledge and support to the Threefold movement from outside.  
+- Create global market interest for ThreeFold Tokens, ThreeFold Farming and ThreeFold Grid utilisation.
+- Community building. Help spread the word, open up networks, have an advisory role, organize and host events.
+- Technology and Blockchain professional and enthusiasts. 
+
+## ThreeFold Ambassador Goals
 
 - Create an ambassador program that attracts significant personalities with diverse knowledge, experience, network.  
-- Execute ambassador-led TF events in all relevant markets by end 2018.
-- Have 20+ active working groups composed of ambassadors and TF staff addressing relevant challenges and opportunities of TF.
-- Scale to 1000 ambassadors by end 2019.
-
-...
+- Execute ambassador led ThreeFold events in all relevant markets.
+- Have 20+ active working groups composed of ambassadors and ThreeFold staff addressing relevant challenges and opportunities of ThreeFold by end of 2019.
+- Scale to 1000 ambassadors by end 2020.
 
 ## Strategy
 
-- Develop a program which enables scalable knowledge sharing between ambassadors and TF.  
-
-- Search for, recruit, engage and retain ambassadors to the joint benefit of both ambassadors and TF.
-
-- Launch new ambassador category of “Guardians” and define exact roles and responsibilities and remuneration. Recruit guardians out of  existing pool of ambassadors and if needed from outside - being referred by TF members and ambassadors.
-
-- Extend ambassador community work to include friends and family and other investors - assuming they want a more active role in designing the future of and the success of TF
-
-- Create a special category of ambassadors that includes market-making influencers and big names of the industry that like our idea and would endorse and support in various areas, speak at events for us and give us advice.
-
-...
+- Develop a program which enables scalable knowledge sharing between ambassadors and ThreeFold.  
+- Search for, recruit, engage and retain ambassadors to the joint benefit of both ambassadors and ThreeFold.
+- Recruit guardians for the ThreeFold Trust from the existing pool of ambassadors and if needed from outside - being referred by ThreeFold members and ambassadors.
+- Extend ambassador community work to include friends and family and others - assuming they want a more active role in designing the future and success of ThreeFold.
+- Create a category of ambassadors that includes market-making influencers and big names within the industry that endorse and support the ThreeFold project in various areas, speak at events for us and give us advice.
 
 ## Timing
 
-- End of August we have 100 Ambassadors
-- End of October 200
-- End of December 300
+- By Dec 2018 to have 100 Ambassadors
+- By March 2019 to have 200 Ambassadors
+- By Jun 2018 to have 400 Ambassadors
 (See https://threefoldfoundation.github.io/info_foundation/#/strategy/roadmap)
 
-...
-
-## Ambassadors
+## Current Ambassadors
 
 | Ambassador                  | Region        |
 | ---------------------------|:-------------:|
@@ -113,7 +106,7 @@
 | Kevin Obeegadoo            | Africa        |
 | Olivia Jurado              | Americas      |
 | Dauren Toleukhanov         | Eurasia       |
-| Krish Krishnan             |  Asia         |
+| Krish Krishnan             | Asia          |
 | Olivia K. Kemp             | Europe        |
 | David De Vriesere          | Europe        |
 | Kyle Weber                 | Americas      |
@@ -132,6 +125,7 @@
 | Richard Sutton             | Europe        |
 | Yves Kerwyn                | Europe        |
 | Alexea Grech               | Euroasia      |
+| Alexea Grech               | Euroasia      |
 | Amel Murphy                | Europe        |
 | Baran Ozmen                | Euroasia      |
 | Canan Uras                 | Euroasia      |
@@ -144,22 +138,17 @@
 | Lina Takla                 | Europe        |
 | Oscar Landman              | Europe        |
 | Ruud Patocka               | Europe        |
-| Wim Timmer                 | Europe        |
 | Wolfgang Kalny             | Europe        |
-| Owen Ernst                 | Europe        |
+| Owen Ernst                 | Europe        |      
+
 
  ## Working Groups
 
   -  Community
-
   -  Emerging Markets
-
   -  Governance
-
   -  Technology
-
   -  Women's Empowerment
-
   -  Youth
 
 ## Links
@@ -176,4 +165,4 @@ Ambassadors are invited to Telegram chat group by coordinator.
 
 ### Websites/Wikis
 
-- Ambassador Community Site (Exclusive Access for TF Ambassadors)
+- Ambassador Community Site (Exclusive Access for ThreeFold Ambassadors)

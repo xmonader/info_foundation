@@ -1,6 +1,6 @@
 # Jacques Staelens
 
-- Mail: [jstaelen@incubaid.com](mailto:jstaelen@incubaid.com)
+- Mail: <a href="jstaelen@incubaid.com">jstaelen@incubaid.com</a>
 - LinkedIn: https://www.linkedin.com/in/jacquesstaelens/
 - Telegram: [@JacqTrade](https://t.me/JacqTrade)
 - GitHub: [@JacqTrade](https://github.com/JacqTrade)

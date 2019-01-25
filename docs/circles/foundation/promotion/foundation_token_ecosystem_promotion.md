@@ -64,7 +64,7 @@ Coordinator: [Adnan Fatayerji](/contributors/mazraa/Adnan_Fatayerji)
 - [Stela Suils Cuesta](/contributors/tftech/Stela_Suils_Cuesta.md): Events, Community communications, Influencers
 - [Sabrina Sadik](/contributors/tftech/sabrina_sadik.md): Social Media Coordination
   * (individual channels coordinated by various team members)
-- [Nikolay Babenko](/contributors/mazraa/Nickolay%20Babenko.md): Blockchain & crypto content and dissemination coordination
+- [Nikolay Babenko](/contributors/mazraa/Nickolay_Babenko.md): Blockchain & crypto content and dissemination coordination
 - [Lucien Lecarme](/contributors/tftech/Lucien_Lecarme.md): Value Content & community events
 - [Jenne Magno](/contributors/mazraa/Jenne_Magno.md): Coordination & content assistance, partnerships
 

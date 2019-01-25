@@ -1,6 +1,5 @@
 # What can I do with the New Edge Cloud
 
-![Logo](blog/img/what-can-i-do.jpg?raw=true "Logo")
 
 ## Some description of use cases of how the ThreeFold Edge Cloud can be used.
 
@@ -31,7 +30,7 @@ Never run into scalability problems again - the TF-node data store can expand ho
 
 ### Smart Contracts
 
-Smart contracts are applications that run on a decentralised platform, exactly as programmed without any possibility of downtime, censorship, fraud or third party interference . These apps run on a blockchain, an enormously powerful shared global infrastructure that can move value around and represent the ownership of property. Smart contracts enable developers to create markets, store registries of debts (or promises), move funds in accordance with instructions given long in the past (like a will or a futures contract) and many other things without a middleman or counterparty risk.  TF-nodes run. 
+Smart contracts are applications that run on a decentralised platform, exactly as programmed without any possibility of downtime, censorship, fraud or third party interference . These apps run on a blockchain, an enormously powerful shared global infrastructure that can move value around and represent the ownership of property. Smart contracts enable developers to create markets, store registries of debts (or promises), move funds in accordance with instructions given long in the past (like a will or a futures contract) and many other things without a middleman or counterparty risk.  TF-nodes run.
 
 
 The TF-node technology natively supports the existing Ethereum network  and will have it's own way of running smart contracts by deploying a new blockchain technology, presenting a whole new approach on how to run  blockchain.

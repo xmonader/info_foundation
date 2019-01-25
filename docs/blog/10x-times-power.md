@@ -1,7 +1,5 @@
 # 10 times power savings, is this possible?
 
-![Logo](img/10x-times-power.jpg?raw=true "Logo")
-
 ### How does ThreeFold achieve the efficient power usage in the Zero-OS node
 
 Today, global Internet and IT infrastructure requires enormous amounts of energy far north of the entire annual electricity consumption of the United Kingdom and ranks among the more pollutive industries globally (similar to airlines).
@@ -10,7 +8,7 @@ We believe IT can do a lot better. In fact, we believe we can reduce the Interne
 
 Power consumption is a function of better compute and storage performance requiring more racks and more cooling.
 
-Our solutions achieve roughly 3 times the performance per rack (so we use fewer racks), and the racks require less energy than typical racks in the industry. For storage, we can achieve up to a 10x power saving. 
+Our solutions achieve roughly 3 times the performance per rack (so we use fewer racks), and the racks require less energy than typical racks in the industry. For storage, we can achieve up to a 10x power saving.
 
 
 ### Less = More
@@ -26,7 +24,7 @@ Keeping things up and running is a business model in modern day IT.  Major vendo
 
 #### “No painkiller” approach
 
-If a specific piece of software or hardware is not delivering the required performance or reliability, we should analyze the core design/algorithm and its usage of soft/hard components to determine root causes of persistent issues and solve for that. Currently, most storage vendors follow the path of least resistance when trying to improve on performance, and their solution for meeting performance targets is to use faster components (CPU, memory, network card, proprietary acceleration) rather than looking at the core algorithms that drive the utilization of those components. Swapping components for faster ones perpetuates a cycle of cutting corners and a reliance on innovation from hardware component providers rather than solving the more fundamental and underlying issues. 
+If a specific piece of software or hardware is not delivering the required performance or reliability, we should analyze the core design/algorithm and its usage of soft/hard components to determine root causes of persistent issues and solve for that. Currently, most storage vendors follow the path of least resistance when trying to improve on performance, and their solution for meeting performance targets is to use faster components (CPU, memory, network card, proprietary acceleration) rather than looking at the core algorithms that drive the utilization of those components. Swapping components for faster ones perpetuates a cycle of cutting corners and a reliance on innovation from hardware component providers rather than solving the more fundamental and underlying issues.
 
 By using these three principles, a Zero-OS node has a minimal power consumption footprint. Some key examples how this is achieved:
 

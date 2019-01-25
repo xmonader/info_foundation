@@ -2,7 +2,7 @@
 
 ![](https://avatars.githubusercontent.com/yveskerwyn)
 
-- Mail: [yves@threefoldtoken.com](mailto:yves@threefoldtoken.com)
+- Mail: <a href="yves@threefoldtoken.com">yves@threefoldtoken.com</a>
 - LinkedIn: https://www.linkedin.com/in/yveskerwyn/
 - Twitter: [@yvesk](https://twitter.com/Yvesk)
 - Telegram: [@yveskerwyn](https://t.me/yveskerwyn)

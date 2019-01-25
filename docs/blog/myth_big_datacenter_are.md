@@ -1,12 +1,11 @@
 # Datacenter Myths
 
-![Logo](blog/img/myth-big-datacenters-are-efficient.jpg?raw=true "Logo")
 
 ## Hyperscale realities
 
 ### Myth 1: big data centers are more efficient than small ones.
 
-There are advantages in building large scale data centers like economies of scale and shear bulk buying power compared to small ones but these are not as big as people think. The average cost per rack in a hyper scale data center is 20-35K USD including all energy, safety systems. The cost of the hardware per rack is around the 200-300k USD mark
+There are advantages in building large scale data centers like economies of scale and shear bulk buying power compared to small ones but these are not as big as people think. The average cost per rack in a hyper scale data center is 20-35K USD including all energy, safety systems. The cost of the hardware per rack is around the 200-300k USD mark;
 
 What is often forgotten is that anything that is of enormous scale and therefore highly concentrated is complex and has a specific set of problems to deal with. Resource requirements for example, such as investment, operational costs, knowledge and people.
 
@@ -18,7 +17,7 @@ The carbon footprint of a big datacenter is enormous. To improve the PUE (Power 
 
 This 20% looks great on paper and in the farmers' corporate social responsibility reports. It is mostly, however, just an improvement on the cooling technology, not the actual energy consumed by the equipment that runs in their data centers (servers, storage chassis', physical disks, etc) and this equipment is what makes up the 100% of the carbon footprint. PUE only refers to overhead power consumption, ie. cooling  the facility, opening and closing doors, maintaining power security systems, etc.
 
-So real improvement lies in deploying technologies that actually consume less power to deliver the actual Internet IT capacity to run workloads, real CPU chassis,physical disks and storage cabinets. Improving on how hardware is being more effectively used can have an impact of 1000% and lead to 10 times more power efficiency.
+So real improvement lies in deploying technologies that actually consume less power to deliver the actual Internet IT capacity to run workloads, real CPU chassis, physical disks and storage cabinets. Improving on how hardware is being more effectively used can have an impact of 1000% and lead to 10 times more power efficiency.
 
 ### Myth 3: redundant systems have a better uptime.
 
@@ -34,6 +33,6 @@ The IT industry has gone overboard  with the concept of redundancy, having forgo
 
 Big companies with a certain track record will know better how to optimize, they have more people…'''
 
-At first glance this sounds logical, but if we look at the IT landscape today 90%+ of innovation in IT is done by small startups. The big legacy IT companies have a  heritage they hardly can overcome. They are locked in old infrastructure designs,and over time to building outside of that infrastructure is to put the breaks on their business. 
+At first glance this sounds logical, but if we look at the IT landscape today 90%+ of innovation in IT is done by small startups. The big legacy IT companies have a  heritage they hardly can overcome. They are locked in old infrastructure designs,and over time to building outside of that infrastructure is to put the breaks on their business.
 
 Real innovation dies a slows death and gives way to the fix the symptom rather than the problem pain killer approach.

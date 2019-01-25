@@ -1,7 +1,5 @@
 # Our Magical Zero-Node
 
-![Logo](blog/img/10x-times-power.jpg?raw=true "Logo")
-
 ## Our magic box providing internet capacity.
 
 The guiding design principle is that simpler solutions increase efficiency and productivity “Less = More”
