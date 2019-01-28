@@ -1,8 +1,4 @@
-
 * [Home](/)
-
-----
-
 * [Legal](/legal/README.md)
     * [Definitions](/legal/definitions.md)
     * [Farmer Contract Example](/legal/farmer_buys_farmingpool_example_contract.md)

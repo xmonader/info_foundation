@@ -1,7 +1,4 @@
 * [Home](/)
-
-----
-
 * [Meetings](/meetings/README.md)
     * Online Meetings
         [July 17, 2018](/meetings/2018_july_17.md)

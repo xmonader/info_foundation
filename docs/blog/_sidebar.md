@@ -1,7 +1,4 @@
 * [Home](/)
-
------
-
 * [Blogs](blog/README.md)
     * [A Memorandum of Understanding (MOU)](blog/memorandum_of_understanding.md)
     * [10x times power savings, is this possible?](blog/10x-times-power.md)

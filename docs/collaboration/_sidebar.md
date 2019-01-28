@@ -1,7 +1,4 @@
 * [Home](/)
-
-------
-
 * [Collaboration](/collaboration/README.md)
     * [Contribute](/collaboration/contributing_in_agile_org.md)
     * [Circles](/collaboration/circles.md)

@@ -1,7 +1,4 @@
 * [Home](/)
-
------
-
 * [Circles](/circles/README.md)
     * [Foundation](/circles/foundation/foundation.md)
         * [Grid](/circles/foundation/grid/grid.md)

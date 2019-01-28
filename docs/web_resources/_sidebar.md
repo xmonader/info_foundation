@@ -1,7 +1,4 @@
 * [Home](/)
-
-----
-
 * [Web Resources](/web_resources/README.md)
     * [Wiki pages](/web_resources/all_wiki_pages.md)
         * [Foundation](/web_resources/wiki_foundation.md)

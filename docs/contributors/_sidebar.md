@@ -1,7 +1,4 @@
 * [Home](/)
-
------
-
 * [Contributors](/contributors/README.md)
     * [Adnan Fatayerji](/contributors/mazraa/Adnan_Fatayerji.md)
     * [Andreas Hartl](/contributors/tftech/Andreas_Hartl.md)
