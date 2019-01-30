@@ -39,7 +39,7 @@
 ## My priorities 
 
 - support/contribute in fundraising and promotion efforts
-- [tf_love](foundation/foundation_love.md) launch 
+- [tf_love](/circles/foundation/love/love.md) launch 
 - collaboration, co-creation and curation of tf ambassador community site (exclusively accessible by tf ambassadors)
 - contribution to ambassador working groups: emerging markets, community building, youth engagement, women's empowerment
 - 3bot project kick-off coordination

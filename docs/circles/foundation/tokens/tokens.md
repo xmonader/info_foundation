@@ -51,7 +51,7 @@ To promote the ThreeFold Token in order to gain a global adoption as a defacto s
 - Georges Georgiou coordinator of Digital Market Development (Liquidity & Exchanges)
 - Stela coordinator of Events (Expo's & TF Events)
 - Sabrina Sadik coordinator of Mattermost ThreeFold Token News (Chat & News)
-- Full Team Detail @ [contributors](https://github.com/threefoldfoundation/info_foundation/tree/mastercontributors)
+- Full Team Detail @ [contributors](https://github.com/threefoldfoundation/info_foundation/tree/master/docs/contributors)
 
 
 ### Chat

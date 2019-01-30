@@ -88,7 +88,7 @@ Specific goals:
 - Georges coordinator of Legal Affairs (T&Cs, Contracts)
 - Stela coordinator of Events (Local Community Events)
 - Sabrina coordinator of Mattermost ThreeFold Grid News (Chat & News)
-- Full Team Detail @ [contributors](https://github.com/threefoldfoundation/info_foundation/tree/mastercontributors)
+- Full Team Detail @ [contributors](https://github.com/threefoldfoundation/info_foundation/tree/master/docs/contributors)
 
 
 

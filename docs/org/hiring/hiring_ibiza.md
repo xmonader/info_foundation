@@ -44,7 +44,11 @@ TODO create 1 md page per profile (see https://github.com/threefoldfoundation/in
 
 ## Ibiza Location
 
-!!!include("info_tech:IbizaIdea.md")
+```
+!!!include
+name = "IbizaIdea.md"
+repo = "https://github.com/threefoldfoundation/info_tech/blob/development/docs/HR"
+```
 
 ## Lets change the world mission
 
