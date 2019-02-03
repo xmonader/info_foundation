@@ -4,7 +4,6 @@
 
 - Coordinators:
 
-   - [Dan Leighton](/contributors/tftech/Dan_Leighton.md)
    - [Sabrina Sadik](/contributors/tftech/sabrina_sadik.md)
    - [Roel van Sabben](/contributors/tftech/Roel_van_Sabben.md)
 

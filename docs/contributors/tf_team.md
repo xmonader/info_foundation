@@ -88,10 +88,3 @@ Hosted inside [BetterToken]((tftech/tftech.md) (Belgium)
 
 - CEO of ThreeFold Tech = technology creation of the ThreeFold Grid.
 
-### [Yves Kerwyn](/contributors/tftech/Yves_Kerwyn.md)
-
-- Chief Evangelist at BetterToken
-
-### [Dan Leighton](/contributors/tftech/Dan_Leighton.md)
-
-- Head of Mission at BetterToken

@@ -5,7 +5,6 @@
     * [Bart Pede](/contributors/tftech/Bart_Pede.md)
     * [Chris Hutton](/contributors/tftech/Chris_Hutton.md)
     * [Christophe de Carvalho](/contributors/tftech/christophe_decarvalho.md)
-    * [Dan Leighton](/contributors/tftech/Dan_Leighton.md)
     * [Didem Gordon](/contributors/tftech/Didem_Gordon.md)
     * [Ehab Hassan](/contributors/tftech/Ehab_Hassan.md)
     * [Elena Anfimova](/contributors/mazraa/Elena_Anfimova.md)
@@ -35,4 +34,3 @@
     * [Virgil Ilian](/contributors/mazraa/Virgil_Ilian.md)
     * [Weynand Kuijpers](/contributors/tftech/Weynand_Kuijpers.md)
     * [Wolfgang Wittmer](/contributors/tftech/Wolfgang_Wittmer.md)
-    * [Yves Kerwyn](/contributors/tftech/Yves_Kerwyn.md)

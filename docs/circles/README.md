@@ -46,8 +46,6 @@ graph TB;
     Foundation --- Support((Support<br>TBD))
     Foundation --- IT((Tools/IT<br>TBD))
     Foundation --- Tech((Technology<br>Kristof))
-
-    Tech  --- Evangelization((Evangelization<br>Yves))
     Tech  --- TFPlatform((TF-Platform<br>Reem/Christophe))
     Tech  --- TFCHain((TF-Chain<br>Rob))
 

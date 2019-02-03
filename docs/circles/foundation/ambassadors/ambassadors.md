@@ -123,7 +123,6 @@ We are specifically looking to:
 | Erwin Raets                | Europe        |
 | Maha Baligh                | Middle East   |
 | Richard Sutton             | Europe        |
-| Yves Kerwyn                | Europe        |
 | Alexea Grech               | Euroasia      |
 | Alexea Grech               | Euroasia      |
 | Amel Murphy                | Europe        |
