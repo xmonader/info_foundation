@@ -18,7 +18,6 @@
     * [Joris Vermeulen](/contributors/tftech/Joris Vermeulen.md)
     * [Kristof De Spiegeleer](/contributors/tftech/kristof_de_spiegeleer.md)
     * [Lucien Lecarme](/contributors/tftech/Lucien_Lecarme.md)
-    * [Marijke De Meuleneire](/contributors/tftech/marijke_de_meuleneire.md)
     * [Nayer Sobhy](/contributors/tftech/Nayer_Sobhy.md)
     * [Nickolay Babenko](/contributors/mazraa/Nickolay_Babenko.md)
     * [Nisha Grimes](/contributors/mazraa/Nisha_Grimes.md)

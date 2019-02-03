@@ -1,7 +1,6 @@
 # Community App Circle
 
 Coordinators:
-- [Marijke De Meuleneire](/contributors/tftech/marijke_de_meuleneire.md)
 
 ## Purpose/mission
 
