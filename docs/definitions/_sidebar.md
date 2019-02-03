@@ -1,7 +1,4 @@
 * [Home](/)
-
------
-
 * [Definitions](/definitions/README.md)
     * [IT Capacity](definitions/it_capacity.md)
     * [BetterToken](definitions/bettertoken.md)

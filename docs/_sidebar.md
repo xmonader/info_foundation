@@ -1,7 +1,4 @@
 * [Home](/)
-
-----
-
 * [Definitions](/definitions/README.md)
 * [Web Resources](/web_resources/README.md)
 * [Presentations](/presentations/README.md)
