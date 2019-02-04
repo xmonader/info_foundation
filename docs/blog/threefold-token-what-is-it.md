@@ -1,6 +1,6 @@
 # ThreeFold Token?  What is it?
 
-
+![Logo](img/threefold_token.jpg?raw=true "Logo")
 ## What is ThreeFold Token, how to buy, what is the utility, how safe is it?
 
 A ThreeFold Token is a smart contract digital token that is the exclusive payment instrument or currency for which farmers can sell Internet IT capacity via TF Directory service.   

@@ -1,6 +1,6 @@
 # The need for a new, neutral Internet
 
-
+![Logo](img/the_need_for_new.jpg)
 ## The internet is growing like crazy. This is a Trillion Dollar problem. Together we can build a new internet.
 
 
