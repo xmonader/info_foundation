@@ -1,5 +1,6 @@
 # Internet is growing wild
- 
+
+![Logo](img/internet-is-growing.jpg?raw=true "Logo")
 ## Internet is growing in a way which is not sustainable, there needs to be an alternative
 
 ### internet capacity needs to become local

@@ -1,6 +1,7 @@
 # AirBnB for Internet Capacity
 
 
+![Logo](img/airbnb-for-internet-capacity.jpg?raw=true "Logo")
 ## Anyone is able to deliver capacity to the ThreeFold Grid.
 
 **In this article, we discuss the general concept of a ‘decentralized grid’.**
