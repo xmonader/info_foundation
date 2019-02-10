@@ -1225,23 +1225,7 @@ False
 
 
 ```
-```
-## ERROR: hiring_ibiza
 
-- in doc: doc:hiring_ibiza:/Users/kristofdespiegeleer/code/github/threefoldfoundation/info_foundation/docs/org/hiring/hiring_ibiza.md
-
-```python
-ERROR IN MACRO*** TODO: *1 ***
-cmd:
-j.tools.markdowndocs.macros.include(self,"info_tech:IbizaIdea.md",content=block)
-ERROR:
-ERROR: Cannot find docsite with name:info_tech ((type:input.error)
-```
-
-
-
-
-```
 ```
 ## ERROR: readme
 

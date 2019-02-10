@@ -20,7 +20,6 @@
 
 ## Expand our engineering team
 
-TODO create 1 md page per profile (see https://github.com/threefoldfoundation/info_tech/tree/masterHR/profiles)
 
 - Engineering team lead web and UI
 - Engineering team lead systems development (platforms, linux, ...)
@@ -47,7 +46,6 @@ TODO create 1 md page per profile (see https://github.com/threefoldfoundation/in
 ```
 !!!include
 name = "IbizaIdea.md"
-repo = "https://github.com/threefoldfoundation/info_tech/blob/development/docs/HR"
 ```
 
 ## Lets change the world mission
