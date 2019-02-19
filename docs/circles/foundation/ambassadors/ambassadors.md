@@ -14,7 +14,7 @@
   - Gregor Sideris
   
 ## Purpose/Mission
-ThreeFold founders believe the internet should be neutral, sustainable, and accessible to all. So we're building it. Internet compute and storage capacity democratized - Open source software that creates neutral, green and private capacity by people for people. 100% decentralized!
+ThreeFold founders believe the internet should be neutral, sustainable, and accessible to all. So we are building it. Internet compute and storage capacity democratized - Open source software that creates neutral, green and private capacity by people for people. 100% decentralized!
 
 Our ambassadors are an integral part of this movement.
 
@@ -24,25 +24,25 @@ If you think you can bring value to ThreeFold we would love to hear from you - [
 
 We are specifically looking to:
 
-- Bring incremental global knowledge and support to the Threefold movement from outside.  
+- Bring incremental global knowledge and support to the Threefold movement.  
 - Create global market interest for ThreeFold Tokens, ThreeFold Farming and ThreeFold Grid utilisation.
 - Community building. Help spread the word, open up networks, have an advisory role, organize and host events.
-- Technology and Blockchain professional and enthusiasts. 
+- Technology and Blockchain professionals and enthusiasts. 
 
 ## ThreeFold Ambassador Goals
 
-- Create an ambassador program that attracts significant personalities with diverse knowledge, experience, network.  
-- Execute ambassador led ThreeFold events in all relevant markets.
-- Have 20+ active working groups composed of ambassadors and ThreeFold staff addressing relevant challenges and opportunities of ThreeFold by end of 2019.
+- Create an Ambassador program that attracts significant personalities with diverse knowledge, experience and networks.  
+- Execute Ambassador led ThreeFold events in all relevant markets.
+- Have a number of active working groups composed of Ambassadors and ThreeFold team members addressing relevant challenges and opportunities for ThreeFold by end of 2019.
 - Scale to 1000 ambassadors by end 2020.
 
 ## Strategy
 
-- Develop a program which enables scalable knowledge sharing between ambassadors and ThreeFold.  
-- Search for, recruit, engage and retain ambassadors to the joint benefit of both ambassadors and ThreeFold.
-- Recruit guardians for the ThreeFold Trust from the existing pool of ambassadors and if needed from outside - being referred by ThreeFold members and ambassadors.
-- Extend ambassador community work to include friends and family and others - assuming they want a more active role in designing the future and success of ThreeFold.
-- Create a category of ambassadors that includes market-making influencers and big names within the industry that endorse and support the ThreeFold project in various areas, speak at events for us and give us advice.
+- Develop a program which enables scalable knowledge sharing between Ambassadors and ThreeFold.  
+- Search for, recruit, engage and retain Ambassadors to the joint benefit of both Ambassadors and ThreeFold.
+- Recruit Guardians for the ThreeFold Trust from the existing pool of Ambassadors and if needed from outside - being referred by ThreeFold team members and Ambassadors.
+- Extend Ambassador community work to include friends, family and others - assuming they want a more active role in designing the future and success of ThreeFold.
+- Create a category of Ambassadors that includes market-making influencers and big names within the industry that endorse and support the ThreeFold project in various areas, speak at events for us and give us advice.
 
 ## Timing
 
