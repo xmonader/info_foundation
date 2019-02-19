@@ -1,4 +1,4 @@
-# AirBnB for Internet Capacity
+# AirBnB of Internet Capacity
 
 
 ![Logo](img/airbnb-for-internet-capacity.jpg?raw=true "Logo")
@@ -8,12 +8,12 @@
 
 ### Decentralization
 
-In 1989 the internet would change the world as we know it. The internet gave us all the power to share information in a decentralized way. On its turn, the blockchain now allows us to decentalize value, which could change the world even more.
+In 1989 the internet changed the world as we know it. The internet gave us the power to share information in a decentralized way. In turn, the blockchain now allows us to decentalize value, which could change the world further.
 
-Companies like Facebook, Google and Amazon made big business out of the internet. The “sharing economy” has been growing over the last 5-10 years. This thanks to the simplified information flow and well-developed technology, which:
+Companies like Facebook, Google and Amazon made big business out of the internet. The “sharing economy” has been growing over the last 5-10 years. This is thanks to a more simplified information flow and well-developed technology, which:
 
-1. Allows much easier integration of independent players into the sharing economy.
-2. Eliminates the need for extensive management and structure of a marketplace operator.
+1. Enables a much easier integration of independent players into the sharing economy.
+2. Eliminates the need for extensive management and structure of a marketplace operators.
 
 We are at the dawn of a flat-structure economy. An economy where we need less managerial levels for the system to function in a good way.
 
