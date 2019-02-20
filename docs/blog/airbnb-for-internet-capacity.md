@@ -8,7 +8,7 @@
 
 ### Decentralization
 
-In 1989 the internet changed the world as we know it. The internet gave us the power to share information in a decentralized way. In turn, the blockchain now allows us to decentalize value, which could change the world further.
+In 1989 the internet changed the world as we know it. The internet gave us more power to share information in a decentralized way. In turn, the blockchain now allows us to decentalize value, which could change the world further.
 
 Companies like Facebook, Google and Amazon made big business out of the internet. The “sharing economy” has been growing over the last 5-10 years. This is thanks to a more simplified information flow and well-developed technology, which:
 
@@ -25,12 +25,12 @@ Despite already seeing many examples of decentralized currencies, transportation
 
 To compete in the internet capacity market which is currently dominated by big IT companies, requires massive investment and IT development.
 
-Over the last several years, ThreeFold has been developin decentralized datacenter technology that allows anyone to take part in the internet capacity market. Adding capacity to the ThreeFold Grid (TF Grid) makes you a ThreeFold Farmer (TF Farmer). 
+Over the last several years, ThreeFold has been developing decentralized datacenter technology that allows anyone to take part in the internet capacity market. Adding capacity to the ThreeFold Grid (TF Grid) makes you a ThreeFold Farmer (TF Farmer). 
 
 ### How to become a ThreeFold Farmer
 
-The process of becoming a TF Farmer is very straightforward. Anyone can join the TF Grid by downloading the ThreeFold Zero-OS operating system onto nodes and connecting them the ThreeFold network. By doing so you will be an operator of a "micro datacenter" and earn TF Tokens. Anyone can become a TF Farmer, no matter the level of experience. Which means you can become an ‘Airbnb’ TF Farmer for the new, neutral internet which belongs to us all of us.
+The process of becoming a TF Farmer is very straightforward. Anyone can join the TF Grid by downloading the ThreeFold Zero-OS operating system onto nodes and connecting them to the ThreeFold network. By doing so you will be an operator of a "micro datacenter" and earn TF Tokens. Anyone can become a TF Farmer, no matter the level of experience. Which means you can become an ‘Airbnb’ TF Farmer of the new, neutral internet which belongs to us all of us.
 
 Internet Capacity produced by a Zero-Node is automatically registered on the TF Directory. The TF Directory is a public directory of global purchasers of Internet Capacity. There is no need to build a marketing plan/department or to promote your available capacity.
 
-Pricing is set by the TF Directory's algorithm based on numerous factors including real-time local supply and demand, competition, network connection, hardware type and the environment. More advanced TF Farmers can also set their own pricing.
+Pricing is set by the TF Directory's algorithm based on numerous factors including real-time local supply and demand, competition, network connection, hardware type and the environment. TF Farmer are also allowed to set their own pricing.
