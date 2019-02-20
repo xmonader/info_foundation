@@ -4,7 +4,7 @@
 ## Use cases of how the ThreeFold Edge Cloud can be used.
 
 ## Any Docker Service
-TF-nodes run containers natively - therefore it can run any Docker service.  But it does so in a more efficient way than the current Docker engine, the most used and known container technology platform.
+TF-nodes run containers natively - therefore it can run any Docker service.  But it does so in a more efficient way than the current Docker engine - the most used and known container technology platform.
 
 ### IAAS
 
