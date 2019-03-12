@@ -1,14 +1,14 @@
 # What can I do with the New Edge Cloud
 
 ![Logo](img/what-can-i-do.jpg?raw=true "Logo")
-## Some description of use cases of how the ThreeFold Edge Cloud can be used.
+## Use cases of how the ThreeFold Edge Cloud can be used.
 
 ## Any Docker Service
-The TF-node runs containers natively - therefore it can run any Docker service.  But it does so a lot more efficient than the Docker engine, the most used and known container technology platforms.
+TF-nodes run containers natively - therefore it can run any Docker service.  But it does so in a more efficient way than the current Docker engine - the most used and known container technology platform.
 
 ### IAAS
 
-The TF-node technology enables hardware capabilities to be used for IAAS services in a very efficient way.  Overhead is reduced to a minimum by stripping out unnecessary layers of software that have been invented and implemented over the last decade to patch scaling and performance problems.  The engineers have always looked at the root cause of issues and by innovating at the core algorithm level solved issues. Examples are:
+The TF-node technology enables hardware capabilities to be used for IAAS services in a very efficient way.  Overhead is reduced to a minimum by stripping out unnecessary layers of software that have been implemented over the last decade to patch scaling and performance problems. Our engineers have always looked at the root cause of issues and by innovating at the core algorithm level solved issues. Examples are:
 
 - **Less is more**: Scale down the operating system for a virtualisation architecture to a minimum and boot it over the network - no local operating system files installed on local storage.
 - **Look at root causes, do not invent painkillers**: Step away from existing storage solutions that have a need for proprietary acceleration hardware and use standard off the shelf, affordable and efficient components with a 100% software based storage solution that is able to withstand hardware failures without requiring human intervention - creating a very efficient, reliable and performing storage solution that can operate standalone.
