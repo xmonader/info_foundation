@@ -153,5 +153,5 @@ Of course, this is only the starting point, growing into your own path is a life
 
 ## test
 
-- (test)[https://docs.google.com/spreadsheets/d/1ToPlNUr_R2GeN_PTyVSdb0ITXm6jjRzD6FAw6N1FpVE/edit#gid=999956966]
+- [test](https://docs.google.com/spreadsheets/d/1ToPlNUr_R2GeN_PTyVSdb0ITXm6jjRzD6FAw6N1FpVE/edit#gid=999956966)
 
