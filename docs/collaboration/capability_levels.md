@@ -29,6 +29,8 @@ We are an ambitious startup and we can't build our dreams with only pups. We'll 
 
 We also consider the personal growth to be very important, it's not just about business and technology.
 
+We have created [a test which can potentially help you to define your level](https://docs.google.com/spreadsheets/d/1ToPlNUr_R2GeN_PTyVSdb0ITXm6jjRzD6FAw6N1FpVE/edit#gid=999956966)
+
 ### Pup
 
 - Requirements
@@ -151,4 +153,7 @@ We believe it's super important that people work on their own development, quite
 
 Of course, this is only the starting point, growing into your own path is a life mission.
 
+## test
+
+- [test](https://docs.google.com/spreadsheets/d/1ToPlNUr_R2GeN_PTyVSdb0ITXm6jjRzD6FAw6N1FpVE/edit#gid=999956966)
 
