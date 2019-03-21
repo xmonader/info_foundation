@@ -1,7 +1,7 @@
 # ThreeFold Tokens Wiki
 
 Visit:
-[tokens_wiki.threefold.me](http://tokens_wiki.threefold.me)
+[token_wiki.threefold.io](http://token_wiki.threefold.io)
 
 For feedback, please create issues in the following GitHub repository:
 https://github.com/threefoldfoundation/info_tokens/issues

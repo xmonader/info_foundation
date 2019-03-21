@@ -1,14 +1,18 @@
 # ThreeFold Radar Website
 
 Visit:
-[radar.threefold.me](https://radar.threefold.me/)
+[radar.threefold.io](https://radar.threefold.io/)
 
-Content:
-- Info about the tokens & the capacity as a sort of dashboard
+The ThreeFold Radar is a dashboard containing information on:
+- Recently farmed blocks on the TF Chain
+- Total supply of ThreeFold Tokens
+- Circulating Threefold Tokens
+- Registered ThreeFold Nodes on the grid
+- Current ThreeFold Token price
 
 
 For feedback, please create issues in the following GitHub repository:
-https://github.com/threefoldfoundation/www_radar/issues
+[ThreeFold Radar Issues](https://github.com/threefoldfoundation/www_radar_dashboard/issues)
 
 Or contribute directly in the develop branch:
-https://github.com/threefoldfoundation/www_radar
+[ThreeFold Radar Repo](https://github.com/threefoldfoundation/www_radar_dashboard)

@@ -1,6 +1,6 @@
 # ThreeFold Capacity Directory
 
 Visit:
-[directory.threefold.me](http://directory.threefold.me)
+[directory.threefold.io](http://directory.threefold.io)
 
-This website is a directory showing how much capacity is available and where.
+This directory website is where you can find detailed information about the capacity on the ThreeFold Grid. It gives you the possibility to search per farmer, country, or specifications.

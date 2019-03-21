@@ -1,7 +1,7 @@
 # ThreeFold Foundation Wiki
 
 You are actually on the ThreeFold Foundation Wiki pages:
-[wiki.threefold.me](http://wiki.threefold.me)
+[wiki.threefold.io](http://wiki.threefold.io)
 
 For feedback, please create issues in the following GitHub repository:
 https://github.com/threefoldfoundation/info_foundation/issues
