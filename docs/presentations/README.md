@@ -5,7 +5,7 @@
 We use Google slides for our presentations.
 All **working** presentations are based on the **master** presentations, which are the only source of the slides:
 
-- [Working presentations](https://drive.google.com/drive/folders/1hE1KAPw3ekrnS_x7Ir56FWmK4s5OKahD)
+- [Master slides - http://slides.threefold.tech](http://slides.threefold.tech)
 - [Master presentations](https://drive.google.com/drive/u/2/folders/1qg8kSAAhc_kHbb1GYwZb_9Tbgm06zgSv)
 
 !include("/_presentations_toc.md")
