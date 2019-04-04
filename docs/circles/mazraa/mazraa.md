@@ -6,42 +6,35 @@
 ## Coordinators:
 
    - [Adnan Fatayerji](Adnan_Fatayerji.md)
-   - [Weynard Kuijpers](Weynand_Kuijpers.md)
    - [Georges Georgiou](Georges_Georgiou.md)
+   - [Weynard Kuijpers](Weynand_Kuijpers.md)
 
 
 ## Mission
 
-- Promote the ThreeFold Tokens as the defacto medium of exchange of value; one that is decentralized, value-backed, and secure.
+- Promote the ThreeFold Tokens as the most scalable and reliable digital currency; one that is decentralized, value-backed, and secure.
 - Promote the ThreeFold's Grid to create and spread the adoption of a new neutral, sustainable and decentralized internet capacity designed to empower humanity.
 
 ## Goals
 
-- Promote the sales of 5 million USD worth of TFTs in 2018.
-- Support the ThreeFold Grid network by assisting new TF Farmers to acquire "unmanaged certified" hardware.
-- Become a genesis farmer for the ThreeFold Grid. (Accomplished)
+- Become a founding genesis farmer on the ThreeFold Grid. (Accomplished)
+- Promote the sales of 5 million USD worth of TFT's (IT capapcity units) in 2018 (Accomplished)
+- Promote the sales of 10 million USD worth of TFT's (IT capapcity units) in 2019 (In progress)
+- Support the ThreeFold Grid network by assisting new TF Farmers to acquire "certified" hardware In Progress).
 
 ## Strategy
 
-- Participation in Middle East based digital currency events in order to develop the adoption of TFTs through out the globe. 
+- Provide raw internet capacity to developers in Middle East in order to develop the adoption of ThreeFold's Grid through out the region.
+   - Developing new use cases (applicaitons)
+   - Providing internet capacity to ThreeFold Tech development team.
+   - Sale of IT capacity in the form of TFTs.
 
-## Timing
-
-- Sales Target (3 Months)
-   - June 2018 500 K USD
-   - July 2018 500 K USD
-   - Aug  2018 500 K USD
-- ThreeFold Grid (3 Months)
-   - Sri Lanka Capacity
-   - United Arab Emirates Capacity
-   - Bangladesh Capacity
-   - US Capacity 
   
 ## Contributors
 
    - [Adnan Fatayerji](Adnan_Fatayerji.md)
-   - [Weynard Kuijpers](Weynand_Kuijpers.md)
    - [Georges Georgiou](Georges_Georgiou.md)
+   - [Weynard Kuijpers](Weynand_Kuijpers.md)
 
 ## Websites
 
