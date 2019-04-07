@@ -2,6 +2,8 @@
 
 ![](img/mou.jpg)
 
+18 October 2018
+
 **Dubai, UAE**: Today at GITEX Technology Week, ThreeFold signed a Memorandum of Understanding (MOU) with Hewlett Packard Enterprise (HPE) to cooperate in the CEEMA region on the implementation of a decentralized grid of computing and storage capacity, which enables a neutral, low cost and low energy internet on a global scale. 
 
 HPE provides their clients in the CEEMA region with the option to connect their computing and storage capacity to ThreeFold’s decentralized grid that supports ThreeFold’s mission to provide a Responsible Internet, accessible to all.
