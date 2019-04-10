@@ -29,4 +29,4 @@
 
 # Varia
 
-[GIG.tech](../definitions/threefold_tech.md)
+[threefold.tech](../definitions/threefold_tech.md)
