@@ -7,4 +7,5 @@ All **working** presentations are based on the **master** presentations, which a
 
 - [Working presentations](https://drive.google.com/drive/folders/1hE1KAPw3ekrnS_x7Ir56FWmK4s5OKahD)
 - [Master presentations](https://drive.google.com/drive/folders/11iuXr2UcfCqO5nl8KNwhEcdU1zdy_4tY)
-- [presentations_toc.md](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/presentations/presentations_toc.md)
+
+!!!include("presentations_toc.md")
