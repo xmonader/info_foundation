@@ -15,7 +15,7 @@
     * [Jenne Magno](/contributors/mazraa/Jenne_Magno.md)
     * [Jo De Boeck](/contributors/tftech/Jo_De_Boeck.md)
     * [Jonas Delrue](/contributors/jimber/Jonas_Delrue.md)
-    * [Joris Vermeulen](/contributors/tftech/Joris Vermeulen.md)
+    * [Joris Vermeulen](/contributors/tftech/Joris_Vermeulen.md)
     * [Kristof De Spiegeleer](/contributors/tftech/kristof_de_spiegeleer.md)
     * [Lucien Lecarme](/contributors/tftech/Lucien_Lecarme.md)
     * [Nayer Sobhy](/contributors/tftech/Nayer_Sobhy.md)
