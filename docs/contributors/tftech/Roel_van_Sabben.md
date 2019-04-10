@@ -1,6 +1,6 @@
 # Roel van Sabben
 
-![](https://docs.greenitglobe.com/gig/data_team/raw/master/team/gig/sales_marketing/roel_vansabben/unprocessed.jpg)
+![](https://threefold.io/avatars/roel_van_sabben_processed.jpg)
 
 - LinkedIn: https://www.linkedin.com/in/roelvansabben/
 - Telegram: [@roelvansabben](https://t.me/roelvansabben)

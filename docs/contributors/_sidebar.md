@@ -10,7 +10,6 @@
     * [Elena Anfimova](/contributors/mazraa/Elena_Anfimova.md)
     * [Georges Georgiou](/contributors/mazraa/Georges_Georgiou.md)
     * [Isabelle Peeters](/contributors/tftech/Isabelle_Peeters.md)
-    * [Jacques Staelens](/contributors/tftech/Jacques_Staelens.md)
     * [Jan De Landtsheer](/contributors/tftech/Jan_De_Landtsheer.md)
     * [Jenne Magno](/contributors/mazraa/Jenne_Magno.md)
     * [Jo De Boeck](/contributors/tftech/Jo_De_Boeck.md)

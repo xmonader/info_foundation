@@ -6,7 +6,7 @@
 - Telegram: [@ahartl](https://t.me/ahartl)
 - GitHub: [@andhartl](https://github.com/andhartl)
 
-[my personal data on gogs](https://docs.greenitglobe.com/ThreeFold/home/src/master/team/kristof_de_spiegeleer.md)
+[my personal data on docs.grid.tf](https://docs.grid.tf/threefold/data_team/src/branch/master/team/bizdev/andreas_hartl)
 
 ## Why do I exist in TF (-: =
 

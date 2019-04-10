@@ -1,5 +1,5 @@
 Name | Link | GitHub Repository (source)
 ---------|----------|---------
- ThreeFold Foundation| [http://wiki.threefold.me](http://wiki.threefold.me) | https://github.com/threefoldfoundation/info_foundation
- ThreeFold Tokens | [http://tokens_wiki.threefold.me](http://tokens_wiki.threefold.me) | https://github.com/threefoldfoundation/info_tokens
- ThreeFold Grid | [http://grid_wiki.threefold.me](http://grid_wiki.threefold.me) | https://github.com/threefoldfoundation/info_grid
+ ThreeFold Foundation| [http://wiki.threefold.io](http://wiki.threefold.io) | https://github.com/threefoldfoundation/info_foundation
+ ThreeFold Tokens | [http://tokens_wiki.threefold.io](http://tokens_wiki.threefold.io) | https://github.com/threefoldfoundation/info_tokens
+ ThreeFold Grid | [http://grid_wiki.threefold.io](http://grid_wiki.threefold.io) | https://github.com/threefoldfoundation/info_grid

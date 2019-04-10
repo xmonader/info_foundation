@@ -40,14 +40,6 @@
 
 - Soon
 
-
-## Ibiza Location
-
-```
-!!!include
-name = "IbizaIdea.md"
-```
-
 ## Lets change the world mission
 
 - Link to our HR sections e.g. collaboration, ...
