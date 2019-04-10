@@ -1,6 +1,6 @@
 * [Home](/)
 * [Collaboration](/collaboration/README.md)
     * [Contribute](/collaboration/contributing_in_agile_org.md)
-    * [capability_levels.md](capability_levels.m)
+    * [capability_levels.md](capability_levels.md)
     * [Stories](/collaboration/stories.md)
     * [Tools](/collaboration/tools.md)
