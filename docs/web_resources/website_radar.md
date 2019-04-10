@@ -1,7 +1,7 @@
 # ThreeFold Radar Website
 
 Visit:
-[radar.threefold.me](https://radar.threefold.me/)
+[radar.threefold.io](https://radar.threefold.io/)
 
 Content:
 - Info about the tokens & the capacity as a sort of dashboard

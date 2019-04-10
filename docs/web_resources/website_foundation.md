@@ -1,7 +1,7 @@
 # ThreeFold Foundation Website
 
 Visit:
-[www.threefold.me](http://www.threefold.me)
+[www.threefold.io](http://www.threefold.io)
 
 Content:
 - Everything related to the ThreeFold Foundation

@@ -1,7 +1,7 @@
 # ThreeFold Grid Website
 
 Visit:
-[grid.threefold.me](https://threefold.me/grid/)
+[threefold.io/grid](https://threefold.io/grid)
 
 Content:
 - Promotion of the ThreeFold grid

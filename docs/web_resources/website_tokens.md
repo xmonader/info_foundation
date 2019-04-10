@@ -1,7 +1,7 @@
 # ThreeFold Tokens Website
 
 Visit:
-[tokens.threefold.me](https://threefold.me/tokens/)
+[threefold.io/tokens](https://threefold.io/tokens)
 
 Content:
 - Promotion of our tokens
