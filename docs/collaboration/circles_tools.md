@@ -38,7 +38,16 @@
    - Any cooperative or other organization that wants to be part of our domain, please contact us. This will make it easier to organize our commnunity.
 - You can get email aliases on any of the organizations e.g. threefoldtoken, etc.
 
-## Mattermost: chat
+## Telegram: chat
 
 - Try to organize your conversations into well-ordered and understandable topics.
+
+## ThreeFold App
+- Any circle can ask for it's own page in the ThreeFold App.
+The app is available on both Google Play as the Appstore.
+- The App also holds wallet functionality and node status tracking
+
+## FreeFlow Pages
+
+## Gitea
 
