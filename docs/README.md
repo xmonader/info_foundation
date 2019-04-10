@@ -4,9 +4,8 @@
 
 **Welcome to the ThreeFold Wiki!**
 
-Use the left navigation menu to visit the various sections.
+You find here most of the information that the ThreeFold Foundation has created. Use the navigation section at the left to read the content.
 
-For an overview of all websites and Wiki pages go to [Web Resources](/web_resources/README.md).
+You are invited and welcome to be part of the Threefold Foundation and contribute to make our mission a reality. Please visit the [How to contribute](https://threefoldfoundation.github.io/info_foundation/#/collaboration/contributing_in_agile_org) section for instructions.
 
-You are invited to contribute to this and all other Wiki pages and websites. See the [How to contribute](https://threefoldfoundation.github.io/info_foundation/#/web_resources/contribute.md) section for instructions.
-
+For an overview of all websites and Wiki pages go to [Web Resources](https://threefoldfoundation.github.io/info_foundation/#/web_resources/README).
