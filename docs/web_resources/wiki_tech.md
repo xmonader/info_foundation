@@ -1,7 +1,7 @@
 # ThreeFold Tech Wiki
 
 Visit:
-[tech_wiki.threefold.me](http://tech_wiki.threefold.me)
+[Technology](https://wiki.grid.tf/wiki/tech#/)
 
 
 
