@@ -1,14 +1,13 @@
-# new web presence
+# web presence
 
 ![](https://images.unsplash.com/photo-1510386662802-0213f10cd59f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=83aa5f299283e8c65a8776e244dcd5c7&auto=format&fit=crop&w=1267&q=80)
 
 Dear all ...
 
-- new website & wiki for [threefold foundation](http://www2.threefold.me)
-- new website & wiki for [threefold grid](http://grid.threefold.me)
-- new website & wiki for [threefold tokens](http://tokens.threefold.me)
+- new website & wiki for [threefold foundation](http://www.threefold.io) 
+- new website & wiki for [threefold grid](http://www.threefold.io/grid)
+- new website & wiki for [threefold tokens](http://www.threefold.io/token)
 - new [chat system](https://chat.grid.tf/signup_user_complete/?id=wpz16r964bdnuqxc5p7kn5upmo)
-- new dns names
 - lots of updated content on wiki
 - webshop for nodes for our grid on bettertoken (coming soon)
 

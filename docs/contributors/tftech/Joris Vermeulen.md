@@ -1,5 +1,5 @@
 # Joris Vermeulen
-![]()
+![](https://threefold.io/avatars/joris_vermeulen_processed.jpg)
 
 - LinkedIn: https://www.linkedin.com/in/jorisvermeulen/
 - Telegram: [@joris_1975](https://t.me/joris_1975)

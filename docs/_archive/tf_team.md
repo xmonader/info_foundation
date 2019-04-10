@@ -11,7 +11,7 @@ Below an overview of the teams listed by:
 
 <a id='foundation'></a>
 
-## [ThreeFold Foundation](/contributors/tf_companies.md)
+## [ThreeFold Foundation]
 
 ### [Kristof De Spiegeleer](/contributors/tftech/kristof_de_spiegeleer.md)
 
