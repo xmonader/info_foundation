@@ -8,5 +8,5 @@ All **working** presentations are based on the **master** presentations, which a
 - [Master slides - http://slides.threefold.tech](http://slides.threefold.tech)
 - [Master presentations](https://drive.google.com/drive/u/2/folders/1qg8kSAAhc_kHbb1GYwZb_9Tbgm06zgSv)
 
-!!!include("/presentations_toc.md")
+!!!include("presentations_toc.md")
 
