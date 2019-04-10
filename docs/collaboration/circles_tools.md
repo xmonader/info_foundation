@@ -31,7 +31,7 @@
    - Ask for an account on an appropriate domain name.
 - Practice good file hygiene. Use ```_archive/_beta``` folders in each drive to organize docs, only ACTIVE content should be in the standard folders. 
    
-## Mail
+## Google Mail
 
 - Everyone contributing more than couple of hours per month should have a gmail account in our organization on Google within our incubaid.com Gsuite domain.
    - Ask for an account on an appropriate domain name.
@@ -41,6 +41,8 @@
 ## Telegram: chat
 
 - Try to organize your conversations into well-ordered and understandable topics.
+- ThreeFold Foundation has a public disscussion group here [ThreeFold Token English](https://t.me/threefoldtoken_chat)
+- Telegram is available for Phones, Tablets and PC/Laptops making it easy to keep track.
 
 ## ThreeFold App
 - Any circle can ask for it's own page in the ThreeFold App.
@@ -48,6 +50,10 @@ The app is available on both Google Play as the Appstore.
 - The App also holds wallet functionality and node status tracking
 
 ## FreeFlow Pages
+- Any circle can create it's own page on (freeflowpages.com)[https://www.freeflowpages.com] to communicate with the TF community, TF enthusiasts, etc..
 
 ## Gitea
+- The Threefold movement has it's own GIT platform, this can be used for more internal documents and repos.
 
+## Github
+- Besides Gitea we share all public and forward facing documents on github, and recommend circles to do the same
