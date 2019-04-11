@@ -2,10 +2,13 @@
 
 ![](https://images.unsplash.com/photo-1495364037436-fed1ba81ad3e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=655ce70e725522ae583a940359ce8260&auto=format&fit=crop&w=1655&q=80)
 
-**Welcome to the ThreeFold Wiki!**
+**Welcome to the ThreeFold Foundation Wiki!**
 
-You find here most of the information that the ThreeFold Foundation has created. Use the navigation section at the left to read the content.
+This Wiki is a gathering of most of our created content in regards to the ThreeFold Foundation.
+It features the way we work together, our definitions, our tools, presentations and much more for you to read and learn about.
+Collaboration is one of our core values and we would love for you to contribute to make our mission a reality. Please visit the [How to contribute](https://threefoldfoundation.github.io/info_foundation/#/collaboration/contributing_in_agile_org) section for instructions.
 
-You are invited and welcome to be part of the Threefold Foundation and contribute to make our mission a reality. Please visit the [How to contribute](https://threefoldfoundation.github.io/info_foundation/#/collaboration/contributing_in_agile_org) section for instructions.
+On the left you will find the menu and index to quickly navigate through our documents.
 
 For an overview of all websites and Wiki pages go to [Web Resources](https://threefoldfoundation.github.io/info_foundation/#/web_resources/README).
+If you have any further questions feel free to ask them in our [Telegram Group](https://t.me/threefoldtoken_chat)

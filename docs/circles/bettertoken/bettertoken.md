@@ -12,6 +12,7 @@
 
 Expand the ThreeFold Grid as quickly and as big as possible.
 
+
 ## Goals
 
 Put 1000 nodes into the Grid by the end of 2018.
