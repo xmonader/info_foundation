@@ -10,3 +10,5 @@ For an overview of all websites and Wiki pages go to [Web Resources](/web_resour
 
 You are invited to contribute to this and all other Wiki pages and websites. See the [How to contribute](https://threefoldfoundation.github.io/info_foundation/#/web_resources/contribute.md) section for instructions.
 
+Autodeployment test.
+
