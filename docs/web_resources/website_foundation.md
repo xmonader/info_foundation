@@ -1,6 +1,4 @@
-# ThreeFold Foundation Wiki and Website
-
-# Wiki
+# ThreeFold Foundation Wiki
 
 Right now you are on the ThreeFold Foundation Wiki pages: [wiki.threefold.io](http://wiki.threefold.io)
 
@@ -8,7 +6,7 @@ For feedback on this wiki, please create issues in the following GitHub reposito
 
 Or contribute directly to this wiki in the develop branch: https://github.com/threefoldfoundation/info_foundation
 
-# Website
+# ThreeFold Foundation Website
 
 You can also visit the website: [www.threefold.io](http://www.threefold.io)
 
