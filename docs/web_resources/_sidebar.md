@@ -1,8 +1,11 @@
 * [Home](/)
 * [Web Resources](/web_resources/README.md)
+    * [Foundation](/web_resources/foundation.md)
+    * [Token](/web_resources/tokens.md)
+
+
     * [Wiki pages](/web_resources/all_wiki_pages.md)
-        * [Foundation](/web_resources/wiki_foundation.md)
-        * [Tokens](/web_resources/wiki_tokens.md)
+
         * [Grid](/web_resources/wiki_grid.md)
         * [Technology](/web_resources/wiki_tech.md)
     * [Websites](/web_resources/all_websites.md)
