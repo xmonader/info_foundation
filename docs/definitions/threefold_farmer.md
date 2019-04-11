@@ -1,16 +1,17 @@
-## ThreeFold Farmer (TF)
+## ThreeFold Farmer
 
-A ThreeFold Farmer is any organization or person who invests in a ThreeFold Farming Pool and connects this capacity to the ThreeFold Grid.
+TF Farmers are entrepreneurs who farm ThreeFold Tokens (TFT) by connecting hardware to the ThreeFold Grid.
 
-As a result of Farming, i.e. creating additional capacity, ThreeFold Tokens are automatically created by the ThreeFold Chain.
+As a result of Farming, internet capacity capacity is generated and available on the ThreeFold Grid Directory.
 
-Farmers can cultivate both managed and/or unmanaged capacity.
+A Farmer earns tokens in 2 ways:
+- Farming: as a result of connecting server hardware (IC generators) to the ThreeFold Grid
 
-Farmers receive TFTs
+- Cultivation: as a result of their Farming Pool capacity being utilised (sold) by ThreeFold Grid Capacity users
 
- - as part of owning the TF Farming Pool (farming)
- - as part of selling capacity from the TF Farming Pool (cultivating)
+There are three types of capacity farmers:
+- Cooperative Farmers: purchase a range of services from a ThreeFold cooperative up to and including, ThreeFold certified hardware, installation and -if available- location, power and connectivity
 
- Most TF Farmers use a ThreeFold Cooperative to become active because it hugely simplifies the process and gives them often better pricing to purchase the Farming Pool as well as connecting the Farming Pool to the internet.
+- Individual Farmers: use ThreeFold certified hardware but complete their own installation, provide their own location, power and connectivity
 
-The ThreeFold Farmer is the only party who owns the TF Farming Pool.
+- DIY Farmers: use their own choice of hardware (uncertified hardware)Farmers can cultivate both managed and/or unmanaged capacity.
