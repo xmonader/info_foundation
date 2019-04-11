@@ -11,4 +11,9 @@ Collaboration is one of our core values and we would love for you to contribute 
 On the left you will find the menu and index to quickly navigate through our documents.
 
 For an overview of all websites and Wiki pages go to [Web Resources](https://threefoldfoundation.github.io/info_foundation/#/web_resources/README).
+<<<<<<< HEAD
 If you have any further questions feel free to ask them in our [Telegram Group](https://t.me/threefoldtoken_chat)
+=======
+
+Autodeployment test.
+>>>>>>> a9a6e1e2d43a617c4cf923e1a6a8bc9fca9bfd82

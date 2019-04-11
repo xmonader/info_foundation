@@ -1,7 +1,16 @@
-# ThreeFold Tokens Website
+# ThreeFold Tokens Wiki
 
-Visit:
-[threefold.io/tokens](https://threefold.io/tokens/)
+Visit:[token_wiki.threefold.io](https://threefoldfoundation.github.io/info_tokens)
+
+For feedback, please create issues in the following GitHub repository:
+https://github.com/threefoldfoundation/info_tokens/issues
+
+Or contribute directly in the develop branch:
+https://github.com/threefoldfoundation/info_tokens
+
+# ThreeFold Token Website
+
+Visit: [threefold.io/tokens](https://threefold.io/tokens/)
 
 Content:
 - Promotion of our tokens
