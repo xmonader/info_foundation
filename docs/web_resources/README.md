@@ -8,17 +8,7 @@
 - [Tokens](/web_resources/tokens.md)
 - [Grid](/web_resources/grid.md)
 - [Technology](/web_resources/tech.md)
+- [Capacity](/web_resources/capacity.md)
 
 TODO
-
-## ThreeFold websites
-
-- [Capacity](/web_resources/website_capacity.md)
 - [Radar](/web_resources/website_radar.md)
-
-
-
-
-
-
-
