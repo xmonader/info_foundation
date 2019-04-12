@@ -5,7 +5,7 @@
 - Coordinators:
 
    - [Sabrina Sadik](/contributors/tftech/sabrina_sadik.md)
-   - [Roel van Sabben](/contributors/tftech/Roel_van_Sabben.md)
+   - [Roel van Sabben](/contributors/tftech/roel_van_Sabben.md)
 
 
 ## Mission
