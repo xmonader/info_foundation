@@ -7,7 +7,7 @@ Internet Capacity is resource availability for running any IT workload
   - Compute 
   - Networking
 
-Examples of IT workloads which can run on the ThreeFold Grid: are
+Examples of IT workloads which can run on the ThreeFold Grid are
    - web applications
    - archiving of data
    - generic storage (e.g. using the S3 storage interface)
