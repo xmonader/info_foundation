@@ -7,10 +7,9 @@
 - [Foundation](/web_resources/foundation.md)
 - [Tokens](/web_resources/tokens.md)
 - [Grid](/web_resources/grid.md)
+- [Technology](/web_resources/tech.md)
 
 TODO
-
-- [Technology](/web_resources/wiki_tech.md)
 
 ## ThreeFold websites
 
