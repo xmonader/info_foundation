@@ -1,4 +1,4 @@
-## ThreeFold User
+## ThreeFold Grid User
 
- - is the person/organization/company who buys capacity from the TF Grid
- - capacity can only be bought by means of TFTs
+ Is the person/organization/company who uses TFT to book capacity from the TF Grid
+
