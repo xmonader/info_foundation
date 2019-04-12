@@ -5,10 +5,10 @@
 ## ThreeFold Wiki pages and websites
 
 - [Foundation](/web_resources/foundation.md)
-- [Tokens](/web_resources/tokens.md)
+- [Tokens](/web_resources/token.md)
 - [Grid](/web_resources/grid.md)
 - [Technology](/web_resources/tech.md)
 - [Capacity](/web_resources/capacity.md)
 
 TODO
-- [Radar](/web_resources/website_radar.md)
+- [Radar](/web_resources/radar.md)

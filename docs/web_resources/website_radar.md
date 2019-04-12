@@ -16,3 +16,14 @@ For feedback, please create issues in the following GitHub repository:
 
 Or contribute directly in the develop branch:
 [ThreeFold Radar Repo](https://github.com/threefoldfoundation/www_radar_dashboard)
+
+TODO -- CHECK ALL PAGE
+
+Visit: radar.threefold.io
+
+Content:
+
+Info about the tokens & the capacity as a sort of dashboard
+For feedback, please create issues in the following GitHub repository: https://github.com/threefoldfoundation/www_radar/issues
+
+Or contribute directly in the develop branch: https://github.com/threefoldfoundation/www_radar
