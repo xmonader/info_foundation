@@ -15,12 +15,17 @@ Visit: [threefold.io/grid](https://threefold.io/grid/)
 
 Content:
 - Promotion of the ThreeFold grid
-- Capacity Utilization
+- How to use the capacity on the grid
 - How to become a farmer
 - Info on how to become ThreeFold Farmer
     - Profitability
     - Documentation
+- Usage of the Grid (TODO)
+    - Instructions how to use the grid
+    - Where is the grid.
+    - Development information if I want to develop apps on top of the grid (TODO)
 - Difference between farming and cultivating tokens
+- Cooperatives, who can help me to become a farmer
 - Grid use cases
 
 At anytime feel free to post issues on our github repository if you think something is unclear or missing.
