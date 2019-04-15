@@ -8,5 +8,5 @@
 - [Tokens](/web_resources/token.md)
 - [Grid](/web_resources/grid.md)
 - [Technology](/web_resources/tech.md)
-- [Capacity](/web_resources/capacity.md)
-- [Radar](/web_resources/radar.md)
+TO CHECK
+- [Partners](/web_resources/website_partners.md)
