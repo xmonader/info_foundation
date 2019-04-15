@@ -9,6 +9,4 @@
 - [Grid](/web_resources/grid.md)
 - [Technology](/web_resources/tech.md)
 - [Capacity](/web_resources/capacity.md)
-
-TODO
 - [Radar](/web_resources/radar.md)
