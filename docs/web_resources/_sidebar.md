@@ -4,10 +4,4 @@
     * [Token](/web_resources/token.md)
     * [Grid](/web_resources/grid.md)
     * [Technology](/web_resources/tech.md)
-    * [Capacity](/web_resources/capacity.md)
-
-    TODO
-
-
-    * [Radar](/web_resources/website_radar.md)
-    * [Partners](/web_resources/website_partners.md)
+    * [Partners](/web_resources/website_partners.md) TO CHECK
