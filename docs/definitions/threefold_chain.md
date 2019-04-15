@@ -2,7 +2,7 @@
 
 The blockchain technology as used by the ThreeFold Grid. This blockchain technology is used to
 
- - let you store & trade your TFTs
+ - store & trade your TFTs
  - buy/sell capacity on the TF Grid
  - register capacity of the TF Grid
  - provision IT workloads on the TF Grid
