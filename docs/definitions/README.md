@@ -12,36 +12,36 @@
 
 ## General
 
-[ThreeFold Foundation](/definitions/threefold_foundation.md)
-[ThreeFold Grid](/definitions/threefold_grid.md)
-[IT Capacity](/definitions/it_capacity.md)
-[ThreeFold Token](/definitions/threefold_token.md)
-[ThreeFold Chain](/definitions/threefold_chain.md)
-[ThreeFold Operating System](/definitions/threefold_operating_system.md)
-[ThreeFold Node](/definitions/threefold_node.md)
-[ThreeFold User](/definitions/threefold_user.md)
-[ThreeFold Cloud Units](/definitions/threefold_cloud_units.md)
-[ThreeFold Wallet](/definitions/threefold_wallet.md)
+- [ThreeFold Foundation](/definitions/threefold_foundation.md)
+- [ThreeFold Grid](/definitions/threefold_grid.md)
+- [IC - Internet Capacity](definitions/ic_Internet_capacity.md)
+- [ThreeFold Token](/definitions/threefold_token.md)
+- [ThreeFold Chain](/definitions/threefold_chain.md)
+- [ThreeFold Operating System](/definitions/threefold_operating_system.md)
+- [ThreeFold Node](/definitions/threefold_node.md)
+- [ThreeFold User](/definitions/threefold_user.md)
+- [ThreeFold Cloud Units](/definitions/threefold_cloud_units.md)
+- [ThreeFold Wallet](/definitions/threefold_wallet.md)
 
 
 <a id='farming'></a>
 
 ## Farming
 
-[Farming Pool](/definitions/threefold_farming_pool.md)
-[Farmer](/definitions/threefold_farmer.md)
-[Cooperative](/definitions/threefold_cooperative.md)
-[Unmanaged Capacity](/definitions/threefold_unmanaged_capacity.md)
-[Managed Capacity](/definitions/threefold_managed_capacity.md)
+- [Farming Pool](/definitions/threefold_farming_pool.md)
+- [Farmer](/definitions/threefold_farmer.md)
+- [Cooperative](/definitions/threefold_cooperative.md)
+- [Unmanaged Capacity](/definitions/threefold_unmanaged_capacity.md)
+- [Managed Capacity](/definitions/threefold_managed_capacity.md)
 
 
 <a id='legal'></a>
 
 ## Legal
 
-[The Company](/../legal/sub/the_company.md)
-[The Product](/../legal/sub/the_product.md)
-[The Purchaser](/../legal/sub/the_purchaser.md)
+- [The Company](/../legal/sub/the_company.md)
+- [The Product](/../legal/sub/the_product.md)
+- [The Purchaser](/../legal/sub/the_purchaser.md)
 
 
 <a id='varia'></a>
