@@ -1,6 +1,6 @@
 * [Home](/)
 * [Definitions](/definitions/README.md)
-    * [IT Capacity](definitions/it_capacity.md)
+    * [IC - Internet Capacity](definitions/ic_Internet_capacity.md)
     * [BetterToken](definitions/bettertoken.md)
     * [Mazraa](definitions/mazraa.md)
     * [ThreeFold](definitions/threefold.md)
