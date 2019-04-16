@@ -1,4 +1,4 @@
-# FreeFlow Tokens
+# FreeFlow Token
 
 Free money for everyone, powered by everyone.
 
