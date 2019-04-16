@@ -7,4 +7,5 @@ NBH Digital will also be launching a Euro backed stable token on the TF platform
 Users will be able to see their gold tokens euro stable tokens and TFTs in their digital wallets and be able to transfer between them in an instant. 
 
 Websites: http://nbh-digital.com, Password: TFT007
+
 FreeFlow Pages: https://freeflowpages.com/s/nbh-digital/
