@@ -9,9 +9,9 @@ About:
 In the tropical rainforest of southern Costa Rica, Cultivo is an organization that carries out and promotes reforestation and organic food forest farming, using regenerative methods and practices in close harmony with the natural environment while providing sustainable livelihoods and access to responsible digital technologies for farmers and rural communities.
 
 Cultivo’s Objectives are ThreeFold:
-    1: Alleviate the destruction of our rainforests and natural environment.
-    2: Lessen the technological divide to allow farmers to become part of the digital economy.
-    3: Provide sustainable economic opportunities for farmers and their families.
+1. Alleviate the destruction of our rainforests and natural environment.
+2. Lessen the technological divide to allow farmers to become part of the digital economy.
+3. Provide sustainable economic opportunities for farmers and their families.
 
 Cultivo provides sustainable economic opportunities for farmers and their families by empowering them to become part of a digital economy that drives fair and organic cultivation, alleviating the destruction of our rainforests and natural environment. 
 
