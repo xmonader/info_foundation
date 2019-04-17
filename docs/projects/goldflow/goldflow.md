@@ -21,4 +21,5 @@ Status:
 - Secure vaulting already in place.
 
 Website: http://goldflow.io
+
 FreeFlowPages: https://freeflowpages.com/s/goldflowio/
