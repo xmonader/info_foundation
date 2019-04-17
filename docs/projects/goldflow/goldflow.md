@@ -20,6 +20,6 @@ Status:
 - Legal, KYC and AML are already in place, but if possible modify to be able to run through smart phone if possible legally and within regulations.
 - Secure vaulting already in place.
 
-Website: http://goldflow.io
+Website: http://www.goldflow.io
 
 FreeFlowPages: https://freeflowpages.com/s/goldflowio/
