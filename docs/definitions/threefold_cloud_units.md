@@ -1,1 +1,1 @@
-!!!include("https://github.com/threefoldfoundation/info_grid/blob/development/docs/concepts/cloud_units.md!LINK")
+!!!include("wiki.grid.tf/wiki/grid#/concepts/cloud_units.md!LINK")
