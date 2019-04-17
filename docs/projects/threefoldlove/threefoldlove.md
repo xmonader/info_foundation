@@ -10,7 +10,7 @@ ThreeFold Love is a people-centered movement behind the technology, working on t
 - Empowering women and marginalized communities by guiding them into the digital economy
 - Alternative fundraising methods for grassroots projects
 - Digital Platform (coming soon)
-- Connect with us and share your love stories with us on FFP, Instagram (@threefold.love), Twitter (@love_threefold) & FB
+- Connect with us and share your love stories with us on FFP, Instagram [@threefold.love](https://www.instagram.com/threefold.love/)), Twitter [@love_threefold](https://twitter.com/love_threefold) & FB
 
 Purchase TF Love branded fair trade merchandise and TF Love swag (stickers, pins, t-shirts, caps etc.) that directly support the causes we partner with. [ TFTs Accepted :) ]
 
