@@ -12,6 +12,7 @@
 [FreeFlow Token](/ecosystem/freeflowtoken.md)
 [GoldFlow](/ecosystem/goldflow.md)
 [Harvested.io](//ecosystem/harvested.md)
+[Hewlett Packard Enterprise](//ecosystem/HPE.md)
 [Incubaid](/ecosystem/incubaid.md)
 [Jimber](/ecosystem/jimber.md)
 [Mazraa](/ecosystem/mazraa.md)

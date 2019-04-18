@@ -1,7 +1,7 @@
 * [Home](/)
 * [Definitions](/definitions/README.md)
 * [Web Resources](/web_resources/README.md)
-* [Projects](/projects/README.md)
+* [Projects and Partnerships](/projects/README.md)
 * [Presentations](/presentations/README.md)
 * [Collaboration](/collaboration/README.md)
 * [Contributors](/contributors/README.md)
