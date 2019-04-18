@@ -19,6 +19,7 @@
 [Mazraa](/ecosystem/mazraa.md)
 [NBH-Digital](/ecosystem/nbhdigital.md)
 [Open Chat](/ecosystem/openchat.md)
+[Open Meeting](/ecosystem/openmeeting.md)
 [OurCityApp](/ecosystem/ourcityapp.md)
 [Safe City](/ecosystem/safecity.md)
 [ThreeFold Grid](/ecosystem/threefoldgrid.md)
