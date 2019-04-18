@@ -9,7 +9,7 @@ Openly is a democratized communication platform for instant communication with l
 
 OpenMeeting is an all in one chat, messaging and video conferencing tool secured by the blockchain.
 
-Website: https://OpenMeeting/ (still called https://Openly.Live today, rebranding still needs to happen)
+Website: OpenMeeting (still called https://Openly.Live today, rebranding still needs to happen)
 
 Github: https://github.com/OpenMeeting
 
