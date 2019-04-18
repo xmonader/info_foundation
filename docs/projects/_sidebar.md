@@ -15,6 +15,7 @@
 [Hewlett Packard Enterprise](//ecosystem/HPE.md)
 [Incubaid](/ecosystem/incubaid.md)
 [Jimber](/ecosystem/jimber.md)
+[Kleos](/ecosystem/kleos.md)
 [Mazraa](/ecosystem/mazraa.md)
 [NBH-Digital](/ecosystem/nbhdigital.md)
 [Open Chat](/ecosystem/openchat.md)
