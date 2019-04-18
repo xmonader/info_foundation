@@ -20,6 +20,7 @@
 [NBH-Digital](/ecosystem/nbhdigital.md)
 [Open Chat](/ecosystem/openchat.md)
 [OurCityApp](/ecosystem/ourcityapp.md)
+[Safe City](/ecosystem/safecity.md)
 [ThreeFold Grid](/ecosystem/threefoldgrid.md)
 [Threefold Impact](/ecosystem/threefoldimpact.md)
 [ThreeFold Love](/ecosystem/threefoldlove.md)
