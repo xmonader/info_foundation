@@ -12,6 +12,7 @@
 [FreeFlow Pages](/ecosystem/freeflowpages.md)
 [FreeFlow Token](/ecosystem/freeflowtoken.md)
 [GoldFlow](/ecosystem/goldflow.md)
+[Green Edge Cloud](/ecosystem/greenedgecloud.md)
 [Harvested.io](//ecosystem/harvested.md)
 [Hewlett Packard Enterprise](//ecosystem/HPE.md)
 [Incubaid](/ecosystem/incubaid.md)
