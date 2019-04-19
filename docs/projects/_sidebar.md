@@ -22,6 +22,7 @@
 [Open Meeting](/ecosystem/openmeeting.md)
 [OurCityApp](/ecosystem/ourcityapp.md)
 [Safe City](/ecosystem/safecity.md)
+[Solidaridad](/ecosystem/solidaridad.md)
 [ThreeFold Grid](/ecosystem/threefoldgrid.md)
 [Threefold Impact](/ecosystem/threefoldimpact.md)
 [ThreeFold Love](/ecosystem/threefoldlove.md)
