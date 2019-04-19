@@ -4,6 +4,7 @@
 [Bettertoken](/ecosystem/bettertoken.md)
 [Codescalers](/ecosystem/codescalers.md)
 [Cultivo](/ecosystem/cultivo.md)
+[Digital Energy](/ecosystem/digitalenergy.md)
 [Enertia](/ecosystem/enertia.md)
 [EuroFlow](/ecosystem/euroflow.md)
 [FairCoffee](/ecosystem/faircoffee.md)
