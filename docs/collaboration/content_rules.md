@@ -1,44 +1,46 @@
 
-# Content Rules
+# Content Rules - Github
 
 ![](https://images.unsplash.com/photo-1533529318682-0c3e2fc1e225?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=66bef43351b3fe01a5b3b41f9d7d3a64&auto=format&fit=crop&w=1950&q=80)
 
-Github has proven to work to let millions of people collaborate.
+__Github__ has proven to work to let millions of people collaborate.
 
-## single source of truth
+## Single source of truth
 
-we do whatever we can to store everything in github this gives us following advantages
+We do whatever we can to store everything in Github. This gives us following advantages:
 
 - version control
 - merging capabilities
 - issues can be created where content is
 - milestones can be used to organize work (is like roadmap)
-- kanban overview (waffle.io) gives a nice overview of work which needs to be done
+- [Github Project Boards](https://help.github.com/en/articles/about-project-boards#templates-for-project-boards) gives a nice overview of work which needs to be done
 
-### some repo types
+### Some repo types
 
 - info_... all content in markdown documents, to be re-used in website's
 - www_... website(s) content
 - data_... for data (if not part of info_ ... or not hosted somewhere as webservice)
 
-## github first
+## Github first
 
-- all issues/feature requests/stories/questions to do with content (product, info, website, ...) goes onto a github repo.
+- All issues/feature requests/stories/questions to do with __content__ (product, info, website, ...) goes onto a github repo.
 
-## only labels we use
+## The (only) labels we use
 
 ![](github_labels.png)
 
-Labels are used for 
+__Labels__ are used for 
 
 - type
 - priority
-- state (swimlanes in kanban = waffle.io)
+- state 
 
 ![](github_milestones.png)
 
-Milestones are used to put issues into certain milestone.
-The Milestones are the same over all repo's
+__Milestones__ are used to put issues into certain milestone.
+The Milestones are the same over all repo's.
+
+__Projects__ since waffle is closing doors, Github projects are a good way to have a [kanban view](https://help.github.com/en/articles/about-project-boards#templates-for-project-boards)
 
 ## DO NOT
 
