@@ -12,20 +12,20 @@
 
 ## Mission
 
-- Promote the ThreeFold Tokens as the most scalable and reliable digital currency; one that is decentralized, value-backed, and secure.
-- Promote the ThreeFold's Grid to create and spread the adoption of a new neutral, sustainable and decentralized internet capacity designed to empower humanity.
+- Promote the ThreeFold Token as the most scalable and reliable digital currency; one that is decentralized, value-backed, and secure.
+- Promote the ThreeFold Grid to create and spread the adoption of a new neutral, sustainable and decentralized internet capacity designed to empower humanity.
 
 ## Goals
 
 - Become a founding genesis farmer on the ThreeFold Grid. (Accomplished)
-- Promote the sales of 5 million USD worth of TFT's (IT capapcity units) in 2018 (Accomplished)
-- Promote the sales of 10 million USD worth of TFT's (IT capapcity units) in 2019 (In progress)
-- Support the ThreeFold Grid network by assisting new TF Farmers to acquire "certified" hardware In Progress).
+- Promote the sales of 5 million USD worth of TFT (IT capapcity units) in 2018 (Accomplished)
+- Promote the sales of 10 million USD worth of TFT (IT capapcity units) in 2019 (In progress)
+- Support the ThreeFold Grid network by assisting new TF Farmers to acquire "certified" hardware (In Progress).
 
 ## Strategy
 
-- Provide raw internet capacity to developers in Middle East in order to develop the adoption of ThreeFold's Grid through out the region.
-   - Developing new use cases (applicaitons)
+- Provide raw internet capacity to developers in the Middle East to promote the adoption of the ThreeFold Grid throughout the region.
+   - Developing new use cases (applications)
    - Providing internet capacity to ThreeFold Tech development team.
    - Sale of IT capacity in the form of TFTs.
 
@@ -38,8 +38,9 @@
 
 ## Websites
 
-- www.mazraa.io
+- [www.mazraa.io](https://www.mazraa.io/)
 
-## Wiki pages
+## FreeFlowPages
 
-- [Mazraa Wiki](https://threefoldfoundation.github.io/info_mazraa/#/)
+- [FreeFlowPages Space](https://freeflowpages.com/s/mazraa/)
+
