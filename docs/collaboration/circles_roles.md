@@ -73,7 +73,7 @@ Responsibilities
 
 ### Stakeholder
 
-* Anybody who has something to loose or win by the acceptance/progress on a story card
+* Anybody who has something to lose or win by the acceptance/progress on a story card
 * Stakeholder main responsibility is to be part of the required story boards & be vocal about requirements
 * This is a very generic definition & can be quite broad.
 
