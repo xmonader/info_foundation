@@ -3,7 +3,7 @@
 ![@https://images.unsplash.com/photo-1470472304068-4398a9daab00?ixlib=rb-0.3.5&s=55b8e313e798f6a8e12fbc9d9fc0078d&auto=format&fit=crop&w=2100&q=80](contributing_in_agile_org.jpeg)
 
 
-We believe in "self healing organizations" where circles (teams organized around topics) collaborate with each other. It's similar to how our own human body works. For instance: lungs provide oxygen to the body but they need red-blood cells to move the oxygen to the rest of the body; the brain can tell us where to drive, but it needs hands and feet to operate the car.
+We believe in "self-healing organizations" where circles (teams organized around topics) collaborate with each other. It's similar to how our own human body works. For instance: lungs provide oxygen to the body but they need red-blood cells to move the oxygen to the rest of the body; the brain can tell us where to drive, but it needs hands and feet to operate the car.
 
 Organizations like this give a lot of independence to their contributors. However, the organizations can only succeed if contributors know what is expected of them and are willing to follow a set of mutually agreed principles to ensure harmonious and effective working together. Of course not every contributor is the same.
 
@@ -24,11 +24,11 @@ Please work together with any of our Ambassadors who will be very happy to assis
 
 Some examples of what we are looking for:
 
-- LEADS: names of people who might be interested in farming capacity or buying tokens or investing in the TF Fund.
+- LEADS: names of people who might be interested in farming capacity or buying tokens or investing in TF Tech.
 - EVENT CO-ORDINATION: help us organize an event for Token or Grid promotion.
 - FEEDBACK: technical feedback on the technology we have created or on any of the things we do.
 
-Do not hesitate to contact us through our foundation website, we will try to help you and find an Ambassador or Founder who you can work with. The Ambassadors know where to find information, know who is doing what and know how to get things done basically in the ThreeFold ecosystem.
+If you want to collaborate please get in touch through our [Foundation website](https://threefold.io/more_info/) or [email](info@threefoldtoken.com).
 
 ## ThreeFold Ambassador
 
@@ -46,18 +46,17 @@ In case this is too much please work with any of our Ambassadors who will glady 
 
 You are willing to:
 
-- Learn our adapted agile methodology (circles, stories...), it's a lot easier than you think, we will be creating some video's about this soon.
+- Learn our adapted agile methodology (circles, stories...) and get fluent with it, it's a lot easier than you think! We will be creating some video's about this soon.
     - [trello usage](trello_usage.md) & [circle tools](circles_tools.md)
     - [story cards](stories.md)
     - [circles roles](circles_roles.md)
-- Use our agile tools and get fluent with them
-- Learn how to create/use [story cards]((stories.md) (its an art by itself)
+- Learn how to create/use [story cards](stories.md) (its an art by itself)
     - report on the work done in the stories and always help to keep the stories up to date
-- Not be afraid to be 100% open to everyone about anything
+- Feel comfortable being 100% open to everyone about anything
 - Not try to be perfect, 20% effort gets any goal to 80% of requirements. It does not pay off to try to be perfect.
 - Keep all your work open, when you start working on something make sure everyone else can follow the process, don't first create and then contribute, it's much better to have your work accessible while you improve (e.g. a google document, or multiple iterations of markdown documents).
 - Deliver work which is good enough
-    - not perfect (see above) but good enough to achieve the requirements as mentioned in story card.
+    - not perfect (see above) but good enough to achieve the requirements as mentioned in a story card.
 - Give feedback to others and escalate when required (in a loving way)
 - Respect the contribution of others, improve where possible, if the contribution is not good enough please go back to the author, discuss and try to help.
 
@@ -68,18 +67,18 @@ You are willing to:
 ## ThreeFold Founder
 
 We really believe that the world is changing. Many people choose to no longer follow the brainwashed way of living where fear dominates all. Please read our article about the [art of being loyal to our values](https://medium.com/@despiegk/the-art-of-being-loyal-to-your-values-e0e6e3f310f7) and [build a better world together manifesto](https://docs.grid.tf/dividi/values/src/branch/master/kristof_build_a_better_world_manifesto.md
-). Being a TF Founder means these documents resonate with you, this is important because other TF Founders really do.
+). Being a TF Founder means these documents resonate with you, this is essential because other TF Founders really do.
 
-If we want ThreeFold to have an impact on the world then I believe that our Founders need to set an example. Being a ThreeFold Founder is difficult, few have the courrage and the will to work on their self improvement to be such an example.
+If we want ThreeFold to have an impact on the world, our Founders need to set an example. Being a ThreeFold Founder is difficult, few have the courrage and the will to work on their self improvement to be such an example.
 
 Its not about technical skill or being a strong leader, it's all about using love and respect to get things done.
 
-A ThreeFold Founder is willing to work on self improvement:
+A ThreeFold Founder is willing to work on self-improvement:
 
 - to understand their own shortcomings
 - to love and have respect for themselves and can love and respect others
 - to be able to show appreciation and respect for others effort, for people and for our community
-- is not afraid to trust people, wants other to be successful and is willing to take action to help them succeed
+- is not afraid to trust people, wants others to be successful and is willing to take action to help them succeed
 - is not afraid of being different and will keep on pushing for the values the group believes in
 - knows that intuition is real and that it is not just knowledge or experience that counts
 - is not afraid to be 100% transparent
@@ -89,7 +88,9 @@ A ThreeFold Founder is willing to work on self improvement:
 
 A ThreeFold Founder understands and endorses:
 
-- [Build a better world together manifesto](https://docs.grid.tf/dividi/values/src/branch/master/kristof_build_a_better_world_manifesto.md
+-[Thre FreeFlow Manifesto](https://docs.google.com/document/d/1q4R8LCF6oasrrJMe8hsu2yLjtAKYVseuLjpOyyMYEHg/edit) 
+
+[Build a better world together manifesto](https://docs.grid.tf/dividi/values/src/branch/master/kristof_build_a_better_world_manifesto.md
 )
 - [Art of being loyal to our values](https://medium.com/@despiegk/the-art-of-being-loyal-to-your-values-e0e6e3f310f7)
 - Values
@@ -129,11 +130,11 @@ It's the reverse of an authoritative, or autocratic power play. A coordinator do
 A coordinator:
 
 - is at service of the circle or the larger community they work for
-- they make sure that
-  - every contributor of the circle will follow the agile principles and is a good contributor
+- makes sure that:
+  - every contributor of the circle understands and follows the agile principles and becomes a good contributor
   - the mission or strategy of the circle is known & understood - documentation e.g. a wiki is ideal
   - the goals are translated into achieveable work and this happens by means of [stories](stories.md)
-  - good [stories](stories.md) are created (good quality, done is done, requirements known, a story is not a task)
+  - quality [stories](stories.md) are created (well explained, done is done, requirements known, a story is not a task)
   - stakeholders have input on the stories and they can follow progress
   - story owner's (people who own a specific story) can do their duty (keep to time, have the resources they need, know the specific goal of the story, know who and how to escalate to, make use of comments to clearly track progress)
 - is a teacher or coach
@@ -160,11 +161,11 @@ How to become a TF Coordinator.
 
 There are only 60 TF Governance Guardians.
 
-requirements
+Requirements
 
 - average +- 1 hour per month (zoom call & following required ThreeFold progress)
 
-responsibilities
+Responsibilities
 
 - follow changes in our Foundation Rules & Regulations
 - vote on difficulty level (of course study impact)
@@ -173,17 +174,17 @@ responsibilities
 - vote when changes in management structure of the Foundation are required
 - vote on future to be defined items 
 
-we don't expect these Guardians to do anything more than this. Its a super important role but does not require much time.
+We don't expect these Guardians to do anything more than this. Its a super important role but does not require much time.
 
-remarks
+Remarks
 
-- Governance Guardians, do receive TF Tokens for their work.
+- Governance Guardians do receive TF Tokens for their work.
 
 ### TF Technical Guardian
 
 There are only 30 TF Technical Guardians.
 
-requirements
+Requirements
 
 - minimum 20 hours per month 
 - many of our tech guardians will work full time
@@ -200,18 +201,18 @@ requirements
 
 we have 10 Guardians per type.
 
-responsibilities
+Responsibilities
 
 - investigate all changes made to code before a release
 - when a release do all the builds (compilation) and publish the builds
 - sign the builds so everyone in the field knows that the guardian has verified the quality of the code and has compiled to code (avoid backdoors)
 
-why
+Why
 
 Anyone in the community can download builds (binaries) from any of the tech guardians and as such have more security that the code was properly created and compiled.
 
-remarks
+Remarks
 
-- Tech guardians, will receive TF Tokens for their work.
+- Tech guardians will receive TF Tokens for their work.
 
 
