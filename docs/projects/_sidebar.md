@@ -1,5 +1,6 @@
 [3bot](/ecosystem/3bot.md)
 [ATW Green](/ecosystem/atwgreen.md)
+[Bancadati](/ecosystem/bancadati.md)
 [Bettertoken](/ecosystem/bettertoken.md)
 [Codescalers](/ecosystem/codescalers.md)
 [Cultivo](/ecosystem/cultivo.md)
