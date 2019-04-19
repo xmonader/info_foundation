@@ -8,4 +8,5 @@
     * [Building a Newer Digital World for Humanity](/videos/humanity.md)
     * [Solving Blockchain's Dilemma](/videos/dilemma.md)
     * [ThreeFold Wallet Dos and Don'ts](/videos/wallet.md)
+    * [ThreeFold October 2018 Aftermovie](/videos/aftermovie.md)
 
