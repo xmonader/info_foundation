@@ -89,6 +89,7 @@ A ThreeFold Founder is willing to work on self-improvement:
 A ThreeFold Founder understands and endorses:
 
 -[Thre FreeFlow Manifesto](https://docs.google.com/document/d/1q4R8LCF6oasrrJMe8hsu2yLjtAKYVseuLjpOyyMYEHg/edit) 
+
 [Build a better world together manifesto](https://docs.grid.tf/dividi/values/src/branch/master/kristof_build_a_better_world_manifesto.md
 )
 - [Art of being loyal to our values](https://medium.com/@despiegk/the-art-of-being-loyal-to-your-values-e0e6e3f310f7)
