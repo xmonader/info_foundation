@@ -18,7 +18,7 @@ Stories are the cards as used in story_boards in trello: see [trello_usage](trel
 - Well chosen name/title
 - A clear description of what we want to achieve
 - A minimal description of deliverables and requirements (don't write specs here, they are markdown docs see below)
-- It's preferably to only have 1 owner per story. You can link people that is part of the story but story owner needs to be on the title [see example below](!Example)
+- It's preferably to only have 1 owner per story. You can link people that is part of the story but story owner needs to be on the title (see example below)
 - Estimation of the effort in days or hours (optional)
     - this needs to be redone on max 2 daily basis by story card owner
     - best to put this in title e.g. [2d] or [8h]
@@ -85,4 +85,4 @@ Describe what story is about.
  
 ```
 
-![Example of a "good story"](example.png)
+![Example of a "good story"](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/collaboration/Example.png)
