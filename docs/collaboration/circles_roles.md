@@ -5,66 +5,71 @@
 
 ### Circle Coordinator
 
-* Coordinates (helps) a team of people working on one or more stories
-* make sure the circle home page is properly filled in and put in 
-* make sure all members have their page on [contributor pages location](/contributors/README.md) can be editted in contributors/
-* A Circle is a team on trello e.g. https://trello.com/tf_foundation/members
-* Circle Coordinator needs to make sure
-  * People understand our Agile principles of working together
-  * People are helped to find their way into our community & our tools & information
-  * People are happy to contribute and are motivated/passionate
-  * Eliminate all blockers which people might experience
-* Circle Coordinator are often also story owners \(of X nr of stories\)
-* A Circle Coordinator is not a controller ! its a person at service of his team. A Scrum Master = a coach/coordinator.
+Coordinates (helps) a team of people working on one or more stories and ensures that:
+* There is a circle home page with updated information
+* All members have their page on [contributor pages location](/contributors/README.md)
+* All members understand our Agile principles of working together
+* All members find their way into our community & our tools & information
+* All members are happy to contribute and are motivated/passionate
+* Is able to eliminate the blockages that circle members might experience
 
+Circle Coordinators are often also story owners \(of X nr of stories\)
+
+A Circle Coordinator is not a controller! It's a person at service of his or her team. A Scrum Master = a coach/coordinator.
+
+A circle is a team on trello e.g. https://trello.com/tf_foundation/members
 
 ### Board Owner
 
-* Owner for a specific (Trello) board e.g. https://trello.com/b/LRPeXGUl/tffundroadmapweb
+Owner for a specific (Trello) board e.g. https://trello.com/b/LRPeXGUl/tffundroadmapweb
 
-* there are multiple types of boards see [trello_usage](trello_usage.md)
+A board owner does not own people, its a person who coordinates around a board.
 
-* Responsibility
+There are multiple types of boards see [trello_usage](trello_usage.md)
+
+There is only one board owner per repo
+
+Responsibilities:
 
   * Make sure trello card follows the right structure
   * Make sure all information in relation to the board is properly structured, easy to understand
-  * Verify / Check all stories \(guarantees quality, priorities, communication around it, ...\)
+  * Verify / check all stories \(guarantees quality, priorities, communication around it, ...\)
   * Work with stakeholders to make sure you get the features as required.
-  * Organize stakeholder meetings when required (to get feedback)
-  * A board owner does not own people, its a person who coordinates around a biard. 
+  * Organize stakeholder meetings when necessary (to get feedback)
   
-* There is only one board owner per repo
+
 
 ### Story owner
 
 Main responsibilities:
 
 * Story card is done in time
-* Story card is clear and understood by all required
+* Story card has clear deliverables and it's easy to  be understood 
 * Requirements for the card are met
 * Done means done!
 * Communicate to stakeholders about the card
-* Define tasks that need to be delivered to deliver the story card = checklist in story
+* Define tasks that need to be delivered to close the story card = checklist in story
 
 ### Product Owner
 
-* Responsible for a product e.g. jumpscale
+Responsible for a product e.g. jumpscale
 
-  * They use the home repo to define the structure in the account
+Uses the home repo to define the structure in the account
 
-* Important to structure the accounts on github well so they represent a product
+* Important to structure the accounts on Github well so they represent a product
+* There can be more than 1 owner per repo, but try to only have 1.
+* The home repo is important to organize the full account/organization.
 
-* Responsibility
+Responsibilities
 
-  * Define milestones=versions on the repo's, make sure they are consistent
+  * Define milestones = versions on the repo's, make sure they are consistent
   * Make sure the repos in the account/organization are clean
   * Make sure everyone using the repo's behave well
     * proper defined bugs/fr
     * proper branching
   * Work with Project/Product Managers & other stakeholders to make sure the repo structure is ok.
 
-* There can be more than 1 owner per repo, but try to only have 1.
-* The home repo is important to organize the full account/organization.
+
 
 ### Stakeholder
 
