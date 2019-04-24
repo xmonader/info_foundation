@@ -36,7 +36,7 @@ ThreeFold has hundreds of Ambassadors today, we are super grateful that so many 
 
 Because of our decentralized nature it's super important that Ambassadors are willing to learn the basics of our tools which will make it easier to collaborate.
 
-The main tool are our circles, please look at our [circles](circles.md) and see where you would like to contribute. Each circle has an owner, please contact the owner (coordinator) and ask how you can help and what you need to be effective.
+The main tool are our circles, please look at our [circles](/collaboration/circles.md) and see where you would like to contribute. Each circle has an owner, please contact the owner (coordinator) and ask how you can help and what you need to be effective.
 
 ### Practical Requirements
 
@@ -47,10 +47,10 @@ In case this is too much please work with any of our Ambassadors who will glady 
 You are willing to:
 
 - Learn our adapted agile methodology (circles, stories...) and get fluent with it, it's a lot easier than you think! We will be creating some video's about this soon.
-    - [trello usage](trello_usage.md) & [circle tools](circles_tools.md)
-    - [story cards](stories.md)
-    - [circles roles](circles_roles.md)
-- Learn how to create/use [story cards](stories.md) (its an art by itself)
+    - [trello usage](/collaboration/trello_usage.md) & [circle tools](/collaboration/circles_tools.md)
+    - [story cards](/collaboration/stories.md)
+    - [circles roles](/collaboration/circles_roles.md)
+- Learn how to create/use [story cards](/collaboration/stories.md) (its an art by itself)
     - report on the work done in the stories and always help to keep the stories up to date
 - Feel comfortable being 100% open to everyone about anything
 - Not try to be perfect, 20% effort gets any goal to 80% of requirements. It does not pay off to try to be perfect.
@@ -66,8 +66,8 @@ You are willing to:
 
 ## ThreeFold Founder
 
-We really believe that the world is changing. Many people choose to no longer follow the brainwashed way of living where fear dominates all. Please read our article about the [art of being loyal to our values](https://medium.com/@despiegk/the-art-of-being-loyal-to-your-values-e0e6e3f310f7) and [build a better world together manifesto](https://docs.grid.tf/dividi/values/src/branch/master/kristof_build_a_better_world_manifesto.md
-). Being a TF Founder means these documents resonate with you, this is essential because other TF Founders really do.
+We really believe that the world is changing. Many people choose to no longer follow the brainwashed way of living where fear dominates all. Please read our article about the [art of being loyal to our values](https://medium.com/@despiegk/the-art-of-being-loyal-to-your-values-e0e6e3f310f7) and [build a better world together manifesto](https://docs.grid.tf/dividi/values/src/branch/master/kristof_build_a_better_world_manifesto.md)
+To become a TF Founder it's essential that this documents resonate with you.
 
 If we want ThreeFold to have an impact on the world, our Founders need to set an example. Being a ThreeFold Founder is difficult, few have the courrage and the will to work on their self improvement to be such an example.
 
@@ -88,10 +88,8 @@ A ThreeFold Founder is willing to work on self-improvement:
 
 A ThreeFold Founder understands and endorses:
 
--[Thre FreeFlow Manifesto](https://docs.google.com/document/d/1q4R8LCF6oasrrJMe8hsu2yLjtAKYVseuLjpOyyMYEHg/edit) 
-
-[Build a better world together manifesto](https://docs.grid.tf/dividi/values/src/branch/master/kristof_build_a_better_world_manifesto.md
-)
+* [Thre FreeFlow Manifesto](https://docs.google.com/document/d/1q4R8LCF6oasrrJMe8hsu2yLjtAKYVseuLjpOyyMYEHg/edit) 
+* [Build a better world together manifesto](https://docs.grid.tf/dividi/values/src/branch/master/kristof_build_a_better_world_manifesto.md)
 - [Art of being loyal to our values](https://medium.com/@despiegk/the-art-of-being-loyal-to-your-values-e0e6e3f310f7)
 - Values
     - [The Veda 4 Core Values](https://docs.grid.tf/dividi/values/src/branch/master/veda_values.md)
@@ -102,7 +100,7 @@ A ThreeFold Founder understands and endorses:
     - [Ethical_design_manifesto](https://docs.grid.tf/dividi/values/src/branch/master/ethical_design_manifesto.md)
 - [Difference between IQ, EQ and SQ](https://docs.grid.tf/dividi/values/src/branch/master/XQ.md)
 
-How to become a TF Founder?
+### How to become a TF Founder?
 
 - Make sure you have enough time available to be a TF Founder and you are not afraid to do things differently.
 - You need to be willing to go the extra mile and always put the ThreeFold mission & values first.
@@ -133,8 +131,8 @@ A coordinator:
 - makes sure that:
   - every contributor of the circle understands and follows the agile principles and becomes a good contributor
   - the mission or strategy of the circle is known & understood - documentation e.g. a wiki is ideal
-  - the goals are translated into achieveable work and this happens by means of [stories](stories.md)
-  - quality [stories](stories.md) are created (well explained, done is done, requirements known, a story is not a task)
+  - the goals are translated into achieveable work and this happens by means of [stories](/collaboration/stories.md)
+  - quality [stories](/collaboration/stories.md) are created (well explained, done is done, requirements known, a story is not a task)
   - stakeholders have input on the stories and they can follow progress
   - story owner's (people who own a specific story) can do their duty (keep to time, have the resources they need, know the specific goal of the story, know who and how to escalate to, make use of comments to clearly track progress)
 - is a teacher or coach
@@ -163,16 +161,16 @@ There are only 60 TF Governance Guardians.
 
 Requirements
 
-- average +- 1 hour per month (zoom call & following required ThreeFold progress)
+- Average +- 1 hour per month (zoom call & following required ThreeFold progress)
 
 Responsibilities
 
-- follow changes in our Foundation Rules & Regulations
-- vote on difficulty level (of course study impact)
-- vote on Foundation budgets.
-- vote on people becoming a Guardian or leaving.
-- vote when changes in management structure of the Foundation are required
-- vote on future to be defined items 
+- Follow changes in our Foundation Rules & Regulations
+- Vote on difficulty level (of course study impact)
+- Vote on Foundation budgets.
+- Vote on people becoming a Guardian or leaving.
+- Vote when changes in management structure of the Foundation are required
+- Vote on future to be defined items 
 
 We don't expect these Guardians to do anything more than this. Its a super important role but does not require much time.
 
@@ -186,9 +184,9 @@ There are only 30 TF Technical Guardians.
 
 Requirements
 
-- minimum 20 hours per month 
-- many of our tech guardians will work full time
-- skills
+- Minimum 20 hours per month 
+- Many of our tech guardians will work full time
+- Skills
     - be extremely strong on values to do with neutrality and opensource
     - not willing to sacrifice anything
     - be technically strong in the chosen domain (read the code, be an expert)
@@ -203,9 +201,9 @@ we have 10 Guardians per type.
 
 Responsibilities
 
-- investigate all changes made to code before a release
-- when a release do all the builds (compilation) and publish the builds
-- sign the builds so everyone in the field knows that the guardian has verified the quality of the code and has compiled to code (avoid backdoors)
+- Investigate all changes made to code before a release
+- When a release do all the builds (compilation) and publish the builds
+- Sign the builds so everyone in the field knows that the guardian has verified the quality of the code and has compiled to code (avoid backdoors)
 
 Why
 
