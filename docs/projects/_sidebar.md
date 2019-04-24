@@ -1,4 +1,4 @@
-[3bot](/projects/3bot.md)
+[3bot](/3bot.md)
 [ATW Green](/projects/atwgreen.md)
 [Bancadati](/projects/bancadati.md)
 [Bettertoken](/projects/bettertoken.md)
