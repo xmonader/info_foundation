@@ -51,7 +51,7 @@ The app is available on both Google Play and the Appstore.
 - The App also holds wallet functionality and node status tracking.
 
 ## FreeFlow Pages
-- Any circle can create its own page on (freeflowpages.com)[https://www.freeflowpages.com] to communicate with the TF community, TF enthusiasts, etc..
+- Any circle can create its own page on [freeflowpages.com](https://www.freeflowpages.com) to communicate with the TF community, TF enthusiasts, etc..
 
 ## Gitea
 - The Threefold movement has its own GIT platform, this can be used for more internal documents and repos.
