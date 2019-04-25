@@ -22,11 +22,11 @@ graph TB;
     Foundation --- TFImpact((TFImpact<br>Chris<br>Africa Fund))
 
     Community --- TFAmbassadors((Ambassadors<br>Owen))
-    Europe --- CommunityIbiza((Community<br>Ibiza<br>Lucien<br>Jenne<br>Owen<br>))
+    Europe --- CommunityIbiza((Community<br>Ibiza<br>???<br>???))
     Europe --- CommunityGreen((Community<br>???<br>???))
     Global --- CommunityVeda((Community<br>Students<br>Celebrities<br>Isabelle<br>Adnan))
     Global --- Veda((Awareness<br>Veda<br>Isabelle))
-    Global --- Crypto((Crypto<br>Digital<br>TBD))
+ 
 
     classDef circle text-align:center,stroke:#33,stroke-width:3px;  
 
