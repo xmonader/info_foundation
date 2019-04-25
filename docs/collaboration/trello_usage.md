@@ -8,7 +8,7 @@
 REMARK: if you don't agree with anything on this document then please create Issue in this repo so we can discuss.
 We highly appreciate you don't deviate from simple rules below.
 
-DO NOT USE TRELLO FOR ISSUES/STORIES/FEATURE REQUESTS WHICH HAVE TO DO WITH CONTENT THEY BELONG ON GITHUB [see here](/collaboration/content_rules.md)
+DO NOT USE TRELLO FOR ISSUES/STORIES/FEATURE REQUESTS WHICH HAVE TO DO WITH CONTENT THEY BELONG ON GITHUB [see here](/collaboration/Github_content_rules.md)
 
 ## The Info Card
 
