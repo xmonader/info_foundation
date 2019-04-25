@@ -3,12 +3,12 @@
 ![@https://images.unsplash.com/photo-1494074734099-c4ec0c45687a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f18b2bf25abbaeddbe5ea1f9dae1ff85&auto=format&fit=crop&w=1950&q=80](trello_usage.jpeg)
 
 
-**Make sure every board is defined in** the [circles document](circles.md)
+**Make sure every board is defined in** the [circles document](/collaboration/circles.md)
 
 REMARK: if you don't agree with anything on this document then please create Issue in this repo so we can discuss.
 We highly appreciate you don't deviate from simple rules below.
 
-DO NOT USE TRELLO FOR ISSUES/STORIES/FEATURE REQUESTS WHICH HAVE TO DO WITH CONTENT THEY BELONG ON GITHUB [see here](content_rules.md)
+DO NOT USE TRELLO FOR ISSUES/STORIES/FEATURE REQUESTS WHICH HAVE TO DO WITH CONTENT THEY BELONG ON GITHUB [see here](/collaboration/content_rules.md)
 
 ## The Info Card
 
@@ -48,7 +48,7 @@ Use labels for:
    - do not copy info from funnel or roadmap board
 - Storyboard name: $teamname_stories_$name e.g. tftoken_stories_promotion
    - teamname is without _
-- [How to write a story](stories.md)
+- [How to write a story](/collaboration/stories.md)
 - Board owner
    - calls meetings when required
    - communicate with board members to help them with communication, ...
