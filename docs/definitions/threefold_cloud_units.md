@@ -1,4 +1,4 @@
-!!!include("https://raw.githubusercontent.com/threefoldfoundation/info_grid/development/docs/concepts/cloud_units.md!LINK")
+!!!include("https://raw.githubusercontent.com/threefoldfoundation/info_grid/development/docs/concepts/cloud_units.md")
 
 
-DEPLOYMENT TEST MESSAGE
+DEPLOYMENT TEST MESSAGE 2
