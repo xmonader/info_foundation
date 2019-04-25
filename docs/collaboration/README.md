@@ -16,4 +16,4 @@ All collaboration at ThreeFold is organized in circles, therefore, make sure you
 Also see:
 - [Story Pitfalls](/collaboration/story_pitfalls.md)
 - [Head Of Mission Profile](/collaboration/head_of_mission_profile.md)
-- [All other ThreeFold Web resources](/web_resources.md)
+- [All other ThreeFold Web resources](/web_resources/foundation.md)
