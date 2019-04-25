@@ -13,22 +13,18 @@
 Expand the ThreeFold Grid as quickly and as big as possible.
 
 
-## Goals
+## Goal
 
-Put 1000 nodes into the Grid by the end of 2018.
+To provide an opportunity to everyone to be part of the ThreeFold Grid and farm ThreeFold Tokens with certified and easy plug and farm Nodes. 
 
-## Trello Boards
 
-- [BetterToken Stories](https://trello.com/b/PQmtNMbX/bettertokenstories)
-- [Web Roadmap](https://trello.com/b/0HELF1TD/bettertokenroadmapweb)
+### Website
+https://bettertoken.com
 
-Also see: https://trello.com/bettertoken
 
-## Google Drive
+### FreeFlowPages
 
-https://drive.google.com/drive/folders/1UOmjwXS2c9UOjS-7X4Bxp5xnqIZ3AaTE
+https://freeflowpages.com/s/bettertoken/
 
-### Chat
 
-TBC
-   
+\!!!include("projects/bettertoken.md!LINK") 
