@@ -8,11 +8,10 @@ To promote the ThreeFold Grid as a new, global, neutral and sustainable network 
 
 ## Links
 
-### Chat
+### Communication Channels
 
-- [ThreeFold Foundation Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=wpz16r964bdnuqxc5p7kn5upmo) : click on this one first before going to channel below
-   - [news @](https://chat.grid.tf/tfgrid/channels/town-square)
-   - [chat @](https://chat.grid.tf/tfgrid/channels/chat) : public chat about anything
+- [FreeFlowPages](https://freeflowpages.com/s/tf-grid-farming/)
+- [Telegram Chat for Farmers](https://t.me/joinchat/BwOvO0NpZjNMHFx8wD_5nw)
    
 ### Trello
 
