@@ -7,7 +7,7 @@
 
 All collaboration at ThreeFold is organized in circles, therefore, make sure you get acquainted with the [ThreeFold Circles](/circles/README.md)
 
-- [How to contribute](/collaboration/contributing_in_agile_org.md)
+- [How to contribute](/collaboration/how_to_contribute.md)
 - [Circles Roles](/collaboration/circles_roles.md)
 - [Circles Tools](/collaboration/circles_tools.md)
 - [Stories](/collaboration/stories.md) the unit of work we reason with
