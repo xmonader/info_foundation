@@ -1,5 +1,5 @@
 # ThreeFold Tokens Wiki
-Visit:[token_wiki.threefold.io](https://threefoldfoundation.github.io/info_tokens)
+Visit: [token_wiki.threefold.io](https://threefoldfoundation.github.io/info_tokens)
 
 For feedback, please create issues in the following GitHub repository:
 https://github.com/threefoldfoundation/info_tokens/issues
