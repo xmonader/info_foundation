@@ -13,7 +13,7 @@ Test message! TEST
 ```mermaid
 
 graph TB; 
-    Foundation((Foundation<BR>Kristof)) --- TFLove((TFLove<br>Olivia))
+    Foundation((Foundation<BR>Kristof)) --- TFLove(([TFLove](/circles/foundation/love/love.md)<br>Olivia))
     Foundation --- TFGRID((TFGRID<br>Andreas))
     Foundation --- TFTOKENS((TFTOKENS<br>Adnan))
     Foundation --- Community{Community}
