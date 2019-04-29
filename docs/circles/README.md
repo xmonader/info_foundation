@@ -8,7 +8,7 @@ Circles are teams of people working on shared tasks, products, services. They ar
 
 Below picture visualizes the [ThreeFold Foundation Circle](/circles/foundation/foundation.md) and its subcircles, with in each circle the name of the owner:
 
-Test message! TEST
+Test message! TEST 2
 
 ```mermaid
 
