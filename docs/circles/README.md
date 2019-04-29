@@ -11,7 +11,7 @@ Below picture visualizes the [ThreeFold Foundation Circle](/circles/foundation/f
 ```mermaid
 
 graph TB; 
-    Foundation((Foundation<BR>Kristof)) --- TFLove((TFLove))
+    Foundation((Foundation<BR>Kristof)) --- TFLove(([TFLove](foundation/love/love.md))
     Foundation --- TFGRID((TFGRID<br>Andreas))
     Foundation --- TFTOKENS((TFTOKENS<br>Adnan))
     Foundation --- Community{Community}
