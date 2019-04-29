@@ -4,46 +4,30 @@
 
 
 ## Purpose/Mission
-To promote the ThreeFold Grid as a new, global, neutral and sustainable network of IT infrastructure created by ThreeFold Farmers. Support farmers with tools and information (technical and non technical) in decision making and joining the grid.
-
-## Links
+- To promote the ThreeFold Grid as a new, global, neutral and sustainable network of IT infrastructure created by ThreeFold Farmers.  
+- To support farmers with tools and information (technical and non technical) in decision making and joining the grid.
 
 ### Communication Channels
 
-- [FreeFlowPages](https://freeflowpages.com/s/tf-grid-farming/)
+- [FreeFlowPages Space for Farming](https://freeflowpages.com/s/tf-grid-farming/)
+- [FreeFlowPages Space for Users](https://freeflowpages.com/s/tf-grid-users/)
 - [Telegram Chat for Farmers](https://t.me/joinchat/BwOvO0NpZjNMHFx8wD_5nw)
    
-### Trello
-
-- [Trello: https://trello.com/tf_grid](https://trello.com/tf_grid)
-    - [website high level roadmap @](https://trello.com/invite/b/qEqnHMKb/20936c8aedf20d0aafdf3015bdcadbc6/tfgridroadmapweb)
-    - business development:
-    - [africa](https://trello.com/b/xbQlLuLh/tfgridfunnelafrica)
-    - [europe](https://trello.com/b/RnqC5MIN/tfgridfunneleurope)
-    - [middle east](https://trello.com/b/HgqE6fi1/tfgridfunnelmiddleeast)
-    - [us-canada](https://trello.com/b/VRabD60x/tfgridfunneluscanada)
-    - [master scrum](https://trello.com/b/FOZrIDOL/tfgridstories)
-
-### Google Drive
-
-- [google drive home](https://drive.google.com/drive/folders/18pxbdERI3OGLgAjgkWhdK1bR5S3A9YtM)
-    - [home page](https://docs.google.com/document/d/1B8Q_elx-J0ERj327e_u2qHoCiF1p2o-5KIQ_ERQZzJ4/edit)
 
 ### Websites/Wiki
 
-- [wiki](https://threefoldfoundation.github.io/info_grid/#/)
-- [grid directory](https://capacity.threefoldtoken.com/)
+- [Wiki](https://threefoldfoundation.github.io/info_grid/#/)
+- [Grid directory](https://capacity.threefoldtoken.com/)
 
 
 ## Coordinators
 
-- Andreas coordinator of TFGrid BizDev & Overview Grid Team Scrum Coordinator
+- Andreas: coordinator of TFGrid BizDev & Overview Grid Team Scrum Coordinator
 - Weynand coordinator of Grid related Farmer and Technical Content (TF Grid WIKI)
-- Elena coordinator of Token Road Map Web (TF Grid Website)
 - Jan coordinator of Mattermost ThreeFold technical Community (Hardware Compatibility)
 - Georges coordinator of Legal Affairs (T&Cs, Contracts)
 - Stela coordinator of Events (Local Community Events)
-- Sabrina coordinator of Mattermost ThreeFold Grid News (Chat & News)
+- Sabrina coordinator of Community Communication & Support
 
 ## Goals
 
