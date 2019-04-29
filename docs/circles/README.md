@@ -8,12 +8,12 @@ Circles are teams of people working on shared tasks, products, services. They ar
 
 Below picture visualizes the [ThreeFold Foundation Circle](/circles/foundation/foundation.md) and its subcircles, with in each circle the name of the owner:
 
-Test message! TEST 2
+Test message! TEST 3
 
 ```mermaid
 
 graph TB; 
-    Foundation((Foundation<BR>Kristof)) --- TFLove(([TFLove](/circles/foundation/love/love.md)<br>Olivia))
+    Foundation((Foundation<BR>Kristof)) --- TFLove((TFLove<br>Olivia))
     Foundation --- TFGRID((TFGRID<br>Andreas))
     Foundation --- TFTOKENS((TFTOKENS<br>Adnan))
     Foundation --- Community{Community}
