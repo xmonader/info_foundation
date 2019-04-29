@@ -16,30 +16,23 @@
 
 To promote the ThreeFold Token in order to gain a global adoption as a defacto standard for transferring value for goods and services; a medium that is value-backed, secure and good for the planet
 
-## Goals
-We are driving liquidity through ThreeFold Token utilization, which is the early adoption of TFT as a means of transaction and also includes securitization / tokenization.
+## Goals for 2019
+Our focus is driving liquidity through ThreeFold Token utilization, which is the early adoption of TFT as a means of transaction and also includes securitization / tokenization.
 
-- 3Bots interfaced with token economy and activated (acquired only with TFTs).
-
- 2019
+- 3Bots interfaced with token economy and activated (acquired only with TFT)
 - New decentralized banking app activated (TFT + Stable Coins)
-
+- TF Grid commercially active and using TFT to buy and sell capacity.
  2019
-- TF Grid commercially active and using TFTs to buy and sell capacity.
- 2019
-Solidaridad a fair trade coffee token supporting +150,000 farmers.
- 2019  
-- Cultivo: a decentralized organic agricultural market in Costa Rica selling products transacted in TFTs.
-  2019
+Solidaridad a fair trade coffee token supporting +150,000 farmers. 
+- Cultivo: a decentralized organic agricultural market in Costa Rica selling products transacted in TFT.
 - City App; fully integrated and utilized by  +8000 merchants.
- 2019
 
 ## Strategy & Roadmap
 We are working on a [Token Ecosystem Projects for Utilization & Promotion](https://docs.google.com/document/d/1TiuVr9xhoAiAqZD0GTMvxphS8oY2CkjM3V2iWIS-p1M/edit#) where you can find more infor about the __Key Liquidity Actions__ which are:
 - Token Utilization Status
   - 3Bot, a secure virtual online assistant utilises TFT as exclusive means activation. (Positioned to the largest capacity use case of TF Grid)
-  - City App +8000 merchants in Europe; utilise TFT as core settlement and transactions on merchant platform.
-  - Cultivo - Costa Rica a 1:1 Token backed by decentralized organic farm production using TFT.
+  - City App to utilise TFT as core settlement and transactions on merchant platform.
+  - Cultivo in Costa Rica a 1:1 Token backed by decentralized organic farm production using TFT.
 
 - ​Partnerships
   - Live NBH Digital Decentralized Banking Platform. - 2019
