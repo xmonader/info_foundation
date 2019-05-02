@@ -4,15 +4,17 @@
 
 - Coordinators:
 
+```
 !!!team
 link = "https://github.com/threefoldfoundation/data_team/tree/master/team"
 order = "random"
 projects = [4]
 contribution_types = [0]
+```
 
 ## Mission
 
-Expand the ThreeFold Grid as quickly and as big as possible.
+Expand the ThreeFold Grid as quickly and as big as possible in 2019
 
 
 ## Goal
