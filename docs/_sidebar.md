@@ -4,6 +4,7 @@
 * [Projects and Partnerships](/projects/README.md)
 * [Presentations](/presentations/README.md)
 * [Collaboration](/collaboration/README.md)
+* [Contributors](/contributors/README.md)
 * [Circles](/circles/README.md)
 * [Strategy](/strategy/README.md)
 * [Meetings](/meetings/README.md)
