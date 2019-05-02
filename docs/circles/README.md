@@ -11,7 +11,7 @@ Below picture visualizes the [ThreeFold Foundation Circle](/circles/foundation/f
 ```mermaid
 
 graph TB; 
-    Foundation((Foundation<BR>Kristof)) --- TFLove((TFLove))
+    Foundation((Foundation<BR>Kristof)) --- TFLove((TFLove<br>Olivia))
     Foundation --- TFGRID((TFGRID<br>Andreas))
     Foundation --- TFTOKENS((TFTOKENS<br>Adnan))
     Foundation --- Community{Community}
@@ -43,8 +43,8 @@ And this picture visualizes the [ThreeFold Organization Circle](/circles/tf_orga
 graph TB; 
     Foundation{Foundation<br>Organization}
     Foundation --- Web((Web<br>Wiki<br>Roel))
-    Foundation --- Support((Support<br>TBD))
-    Foundation --- IT((Tools/IT<br>TBD))
+    Foundation --- Support((Support<br>Sabrina))
+    Foundation --- IT((Tools/IT<br>Ramez))
     Foundation --- Tech((Technology<br>Kristof))
     Tech  --- TFPlatform((TF-Platform<br>Reem/Christophe))
     Tech  --- TFCHain((TF-Chain<br>Rob))
@@ -56,18 +56,14 @@ graph TB;
 
 ```
 
-## ThreeFold Circles
+## [**ThreeFold Foundation Circle**](/circles/foundation/foundation.md)  
 
-Each of the following ThreeFold circles have subcircles:
-
-- [**ThreeFold Foundation Circle**](/circles/foundation/foundation.md)  
-- [**Community App Circle**](/circles/community_app/community_app.md)
   
-## Circles of ThreeFold Cooperatives
+### ThreeFold Cooperative Circles
   
   - [**BetterToken Circle**](/circles/bettertoken/bettertoken.md)
-  - [**Mazraa Circle **](/circles/mazraa/mazraa.md)
+  - [**Mazraa Circle**](/circles/mazraa/mazraa.md)
 
-## How to work together
+### How to work together
 
 - [Collaboration at ThreeFold](/collaboration/README.md)

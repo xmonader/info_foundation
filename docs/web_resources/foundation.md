@@ -23,5 +23,5 @@ Content of the website:
 
 At anytime feel free to post issues on our github repository about the Foundation website if you think something is unclear or missing: https://github.com/threefoldfoundation/www_threefold.io/issues
 
-Or contribute directly to improve the Foundation website in the develop branch:
+Or contribute directly to improve the Foundation website in the development branch:
 https://github.com/threefoldfoundation/www_threefold.io
