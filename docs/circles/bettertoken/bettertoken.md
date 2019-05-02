@@ -4,9 +4,11 @@
 
 - Coordinators:
 
-   - [Sabrina Sadik](/contributors/tftech/sabrina_sadik.md)
-   - [Roel van Sabben](/contributors/tftech/roel_van_Sabben.md)
-
+!!!team
+link = "https://github.com/threefoldfoundation/data_team/tree/master/team"
+order = "random"
+projects = [4]
+contribution_types = [0]
 
 ## Mission
 
