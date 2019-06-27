@@ -3,10 +3,12 @@
 
 ![@https://docs.grid.tf/dividi/efika/raw/branch/master/Efika_Agile/EfikaProcess/images/story.png](story_pitfalls.png)
 
-## Too Large stories
+## Stories that are too big
 
 Stories should never be last longer than 1 month.
-It should be easy to see what needs to be accomplished and this requires short times.
+It should be easy to see what needs to be accomplished and this requires short times. 
+
+When stories are too big, we will struggle to complete them within our sprint (in Trello, they will sit in the “in progress” column for a long time).
 
 Stories that are changed throughout the iteration are more than welcome, this is agile all about (We embrace changes in requirements to satisfy the exact needs of the customer). However, there is a way to handle these requirements by splitting the original story into two (or more) stories that will allow the team to focus on their original commitments and then handling the new stories. 
 
@@ -23,7 +25,7 @@ As a result, the team members add technical tasks as user stories, which may lea
 
 ## The community value is not taking into consideration
 
-We should always remember that the importance of the user story is mainly based on the value that it adds to the community if the user story is written without the product owner really understand the business value that this story will add to the client, how can he make a real and effective prioritization process? To be able to make an effective prioritization process, the stakeholder must understand the community value of each story and why it was originally requested.
+We should always remember that the importance of the user story is mainly based on the value that it adds to the community. If the user story is written without the product owner really understanding the business value that this story will add to the client/user, how can he make a real and effective prioritization process? To be able to make an effective prioritization process, the stakeholder must understand the community value of each story and why it was originally requested.
 
 ## Stories that were written without collaboration
 

@@ -65,17 +65,6 @@ Coordinator: [Adnan Fatayerji](/contributors/mazraa/Adnan_Fatayerji)
 - [Sabrina Sadik](/contributors/tftech/sabrina_sadik.md): Social Media Coordination
   * (individual channels coordinated by various team members)
 - [Nikolay Babenko](/contributors/mazraa/Nickolay_Babenko.md): Blockchain & crypto content and dissemination coordination
-- [Lucien Lecarme](/contributors/tftech/Lucien_Lecarme.md): Value Content & community events
-- [Jenne Magno](/contributors/mazraa/Jenne_Magno.md): Coordination & content assistance, partnerships
-
-## Links
-[Google Drive](https://drive.google.com/drive/u/1/folders/1FtuoAe7-wxp42zCmjEBIS6yBxhB9ywoX?ogsrc=32)
-
-### Trello
-
-[tf_promotion_stories](https://trello.com/b/N35xNHHz)
-
-[tf_content_processing](https://trello.com/b/xNQ4A7sr)
 
    
 

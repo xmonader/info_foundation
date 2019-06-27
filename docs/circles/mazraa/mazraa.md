@@ -12,20 +12,22 @@
 
 ## Mission
 
-- Promote the ThreeFold Tokens as the defacto medium of exchange of value; one that is decentralized, value-backed, and secure.
-- Promote the ThreeFold's Grid to create and spread the adoption of a new neutral, sustainable and decentralized internet capacity designed to empower humanity.
+- Promote the ThreeFold Token as the most scalable and reliable digital currency; one that is decentralized, value-backed, and secure.
+- Promote the ThreeFold Grid to create and spread the adoption of a new neutral, sustainable and decentralized internet capacity designed to empower humanity.
 
 ## Goals
 
-- Promote the sales of 5 million USD worth of TFTs in 2018.
-- Support the ThreeFold Grid network by assisting new TF Farmers to acquire "unmanaged certified" hardware.
-- Become a genesis farmer for the ThreeFold Grid. (Accomplished)
+- Become a founding genesis farmer on the ThreeFold Grid. (Accomplished)
+- Promote the sales of 5 million USD worth of TFT (IT capapcity units) in 2018 (Accomplished)
+- Promote the sales of 10 million USD worth of TFT (IT capapcity units) in 2019 (In progress)
+- Support the ThreeFold Grid network by assisting new TF Farmers to acquire "certified" hardware (In Progress).
 
 ## Strategy
 
-- Participation in Middle East based digital currency events in order to develop the adoption of TFTs through out the globe. 
-
-## Timing
+- Provide raw internet capacity to developers in the Middle East to promote the adoption of the ThreeFold Grid throughout the region.
+   - Developing new use cases (applications)
+   - Providing internet capacity to ThreeFold Tech development team.
+   - Sale of IT capacity in the form of TFTs.
 
 - Sales Target (3 Months)
    - June 2018 500 K USD
@@ -45,8 +47,9 @@
 
 ## Websites
 
-- www.mazraa.io
+- [www.mazraa.io](https://www.mazraa.io/)
 
-## Wiki pages
+## FreeFlowPages
 
-- [Mazraa Wiki](https://threefoldfoundation.github.io/info_mazraa/#/)
+- [FreeFlowPages Space](https://freeflowpages.com/s/mazraa/)
+

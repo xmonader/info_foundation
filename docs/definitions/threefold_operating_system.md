@@ -6,3 +6,4 @@ Based on
 
  - Zero-OS = ultra efficient stateless operating system
  - Jumpscale = automation framework (self healing, ...)
+ - More info here https://github.com/zero-os

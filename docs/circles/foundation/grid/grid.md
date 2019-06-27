@@ -4,91 +4,77 @@
 
 
 ## Purpose/Mission
-To promote the ThreeFold Grid as a new, global, neutral and sustainable network of IT infrastructure created by ThreeFold Farmers. Support farmers with tools and information (technical and non technical) in decision making and joining the grid.
-
-## Links
-
-### Chat
-
-- [ThreeFold Foundation Chatgroup @](https://chat.grid.tf/signup_user_complete/?id=wpz16r964bdnuqxc5p7kn5upmo) : click on this one first before going to channel below
-   - [news @](https://chat.grid.tf/tfgrid/channels/town-square)
-   - [chat @](https://chat.grid.tf/tfgrid/channels/chat) : public chat about anything
-   
-### Trello
-
-- [Trello: https://trello.com/tf_grid](https://trello.com/tf_grid)
-    - [website high level roadmap @](https://trello.com/invite/b/qEqnHMKb/20936c8aedf20d0aafdf3015bdcadbc6/tfgridroadmapweb)
-    - business development:
-    - [africa](https://trello.com/b/xbQlLuLh/tfgridfunnelafrica)
-    - [europe](https://trello.com/b/RnqC5MIN/tfgridfunneleurope)
-    - [middle east](https://trello.com/b/HgqE6fi1/tfgridfunnelmiddleeast)
-    - [us-canada](https://trello.com/b/VRabD60x/tfgridfunneluscanada)
-    - [master scrum](https://trello.com/b/FOZrIDOL/tfgridstories)
-
-### Google Drive
-
-- [google drive home](https://drive.google.com/drive/folders/18pxbdERI3OGLgAjgkWhdK1bR5S3A9YtM)
-    - [home page](https://docs.google.com/document/d/1B8Q_elx-J0ERj327e_u2qHoCiF1p2o-5KIQ_ERQZzJ4/edit)
-
-### Websites/Wiki
-
-- [wiki](https://threefoldfoundation.github.io/info_grid/#/)
-- [grid directory](https://capacity.threefoldtoken.com/)
+- To promote the ThreeFold Grid as a new, global, neutral and sustainable network of IT infrastructure created by ThreeFold Farmers.  
+- To support farmers with tools and information (technical and non technical) in decision making and joining the grid.
 
 
-## Coordinators
+## Coordinator & contributors
 
-- Andreas coordinator of TFGrid BizDev & Overview Grid Team Scrum Coordinator
-- Weynand coordinator of Grid related Farmer and Technical Content (TF Grid WIKI)
-- Elena coordinator of Token Road Map Web (TF Grid Website)
-- Jan coordinator of Mattermost ThreeFold technical Community (Hardware Compatibility)
-- Georges coordinator of Legal Affairs (T&Cs, Contracts)
-- Stela coordinator of Events (Local Community Events)
-- Sabrina coordinator of Mattermost ThreeFold Grid News (Chat & News)
+- Andreas: coordinator of TFGrid BizDev & Overview Grid Team Scrum Coordinator
+- Weynand: Grid related Farmer and Technical Content (TF Grid WIKI)
+- Jan: ThreeFold technical Community (Hardware Compatibility)
+- Georges: Legal Affairs (T&Cs, Contracts)
+- Stela: Communications, Community & Events
+- Sabrina: Community Communication & Support
 
 ## Goals
 
-Until end of the year 2018 the focus is 100% around coverage - creating a global grid in as many locations as possible in as many as possible countries.
-Specific goals:
-- Bettertoken: 1000 small boxes until end of 2018
-- Mazraa: 300 small boxes until the end of 2018
-- Hujambo: Goal is investment volume of TF Fund 1
-- TFF: find cooperatives in North & South America, Russia/CIS and Japan
+Until end of the year 2019 the focus is 100% around coverage - creating a global grid in as many locations as possible in as many as possible countries.
+- All nodes on right software to make the token minting process seamless experience,
+- Regulations (T&C)
+- Different types of farming need to be activated (managed capacity)
+- Work with HPE on the launch of a big campaign around the growth of grid
+
 
 ## Strategy
 
 - Support cooperatives and individual farmers by providing information and support through web, wiki and chat/forum.
 - Create scalabilty through cooperatives
 - Establish new cooperatives in North & South America, Russia/CIS and Japan (as a first Asian hub)
-- Colaborate with ambassadors to establish farmer beach-heads in new territories
-- Grow farmer community through local community events (Tech?non Tech)
+- Collaborate with ambassadors to establish farmer beach-heads in new territories
+- Grow farmer community through local community events (Tech/non Tech)
 
 
-## Timing
+## Roadmap
 
-- June
-   - have all the basics implemented of circles and contributors
-   - link all contributors to right circles
-   - make sure contributors understand what their role is
-- Week of June 4th
-   - WIKI version 1.0 live
-- Week of June 10th
-   - TFGrid webiste 1.1 live
-- September to November 2018
-   - Community roadshow in 10 European cities
+April
+- TF Minting Process & TFT catch up (history in clean state) - Achieved
+- TF Grid 1.0.0 in Beta  (usable JSX, docu, … maybe even services from 1.0.1) - Achieved
+
+May
+
+- TF Grid 1.0.1 in beta with following services: 
+  - OpenBrowser (browser in browser)
+  - OpenPublish
+  - OpenMeeting
+  - OpenPages
+  - OpenChain
+  - TFApp2
+ 
+October
+- TF Grid 1.0.x in beta with following services:
+  - OpenTasks  (alternative to trelo)
+  - OpenWeb  (alternative to wikipedia)
+  - OpenDocs (alternative to gdocs)
+  - OpenNotes (decentralized editor for notes, markdown)
+  - OpenGit
+  - OpenMessage
+  - OpenSync
+  - OpenApp
+  - OpenDB
 
 
+### Communication Channels
 
-## Contributors
+- [FreeFlowPages Space for Farming](https://freeflowpages.com/s/tf-grid-farming/)
+- [FreeFlowPages Space for Users](https://freeflowpages.com/s/tf-grid-users/)
+- [Telegram Chat for Farmers](https://t.me/joinchat/BwOvO0NpZjNMHFx8wD_5nw)
+   
 
-- Andreas coordinator of TFGrid BizDev & Overview Grid Team Scrum Coordinator
-- Weynand coordinator of Grid related Farmer and Technical Content (TF Grid WIKI)
-- Elena coordinator of Token Road Map Web (TF Grid Website)
-- Jan coordinator of Mattermost ThreeFold technical Community (Hardware Compatibility)
-- Georges coordinator of Legal Affairs (T&Cs, Contracts)
-- Stela coordinator of Events (Local Community Events)
-- Sabrina coordinator of Mattermost ThreeFold Grid News (Chat & News)
-- Full Team Detail @ [contributors](https://github.com/threefoldfoundation/info_foundation/tree/master/docs/contributors)
+### Websites/Wiki
+
+- [Wiki](https://threefoldfoundation.github.io/info_grid/#/)
+- [Grid directory](https://capacity.threefoldtoken.com/)
 
 
 

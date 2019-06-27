@@ -6,8 +6,7 @@ The head of the mission = the HOM.
 
 Being a HOM is about:
 
-- [Head Of Mission Profile](#head-of-mission-profile)
-    - [Believe in the mission](#believe-in-the-mission)
+ - [Believing in the mission](#believe-in-the-mission)
     - [To be a HOM is a super demanding job](#to-be-a-hom-is-a-super-demanding-job)
     - [HOM needs to be a natural leader -not a boss-](#hom-needs-to-be-a-natural-leader-not-a-boss)
     - [Respect for human effort](#respect-for-human-effort)
@@ -31,7 +30,6 @@ Being a HOM is about:
 
 ## Believe in the mission
 
-do it for the belief in the cause of the mission
 
 - Be 200% convinced about the goal of the mission
     - be the biggest fan
@@ -51,7 +49,7 @@ do it for the belief in the cause of the mission
 - You are solely responsible for the mission
     - nothing or no-one to hide behind
 - **Anything going wrong is the HOM's fault**
-    - unless if properly seen in time & escalated to your stakeholders
+    - unless it's noticed & escalated to your stakeholders on time
     - stakeholders = investors / boards / foundation members, ...
 - It's very stressful, you need to be able to cope with this in good ways
 - A lot of people will not understand you
@@ -61,23 +59,23 @@ do it for the belief in the cause of the mission
 
 ## HOM needs to be a natural leader (not a boss)
 
-- You strive to HIGHEST POSSIBLE VIBRATION
+- You strive to the HIGHEST POSSIBLE VIBRATION
     - because you know you are imperfect but you actively work on yourself (healing sessions, meditation, ...)
 - They follow you because
-    - for the values you live & promote as well as for the mission
+    - you live & promote the values as well as the mission
     - they know you are 100% transparent
     - you are always 100% truthful to the cause
     - you have the knowledge and can guide the ship when in storm
-    - you can re-adjust when required in time & are critical enough to see it HOMing (avoid storm)
+    - you can re-adjust when required in time & are critical enough to see the storm coming and avoid it
     - for your energy level (vibration)
 - They SHOULD NOT follow you for
     - better salary
     - promise of wealth
-    - promise of being part of big mission
+    - promise of being part of the big mission
     - promise of having a serious career
     - being part of the gang (wolf mentality)
     - career move (go up to the career path)
-- You need to be in first place very modest & earn respect from board/employees/... by being the example at all times.
+- You need to be in first place very modest & earn respect from board/employees/... by being a role model at all times.
 
 <a id='respect'></a>
 
@@ -87,22 +85,22 @@ do it for the belief in the cause of the mission
 - Only do 20% to get to 80% of work
 - Realize that exceptional people are 10x more productive than average
 - Do everything possible to find & grow those exceptional people
-- DRY: do not repeat yourself
+- DRY: don't repeat yourself
 - Be a big advocate and determined that the team needs to be utmost organized
 - DON'T prematurely optimize (good enough is good enough but needs to be really good enough)
 - Respect expertise from your colleagues
 
-This requires:
+Requirements:
 
-- Discipline for usage of tools
-- Everything needs to be written down (limit the amount of meetings) on right location
-    - communicate about content changes & e.g. milestones, do not orally do this, it's not enough
-- Demand good enough work for everything
-- Old info needs to be moved to an archive e.g. \_archive, active effort needs to be done to only have active content in the tools.
+- Discipline to use the required tools
+- Document. Everything needs to be written down and stored on the right location (limit the number and duration of meetings) 
+- Communicate appropriately about content changes e.g. milestones, do not do this orally or via Telegram message, it's not enough
+- Demand "good enough" work for everything
+- Old info needs to be archived e.g. \_archive. Do an active effort to only have active content in the tools (GDrive, Trello).
 - FEW SOURCES OF INFO
-    - formatting needs to HOMe out of the content, not the other way around this requires better tooling and probably more expertise from customers or employees. But if this means we can have less complexity and less sources of info then this is a path we need to push
+    - formatting needs to HOMe out of the content, not the other way around. This requires better tooling and probably more expertise from customers or employees. But if this means we can have less complexity and less sources of info then this is a path we need to push
 - Everyone needs to be forced to respect human effort
-    - e.g. if other presentation or visuals or ... feel required, anyone can make a feature request and everyone can vote for it and be vocal if this needs to happen. DON'T go off and just change it for maybe not a good enough reason yet (maybe it's premature optimization).
+    - e.g. if you think a presentation or visuals from a colleague needs to change, make a feature request so everyone can vote for it. Be vocal if this needs to happen. DON'T just change it for maybe not a good enough reason yet (maybe it's premature optimization).
 
 <a id='less'></a>
 

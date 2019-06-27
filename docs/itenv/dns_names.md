@@ -4,9 +4,9 @@
 
 | DNS                     | .io                 | .me                 |.wiki              |   
 |-------------------------|---------------------|---------------------|-------------------|
-| Main Foundation Website | threefold.io        | threefold.me        |                   |
-| Grid                    | grid.threefold.io   | grid.threefold.me   |                   |  
-| Token                   | token.threefold.io  | token.threefold.me  |                   |   
+| Main Foundation Website | threefold.io        | threefold.me        |http://wiki.threefold.io/ |
+| Grid                    | grid.threefold.io   | grid.threefold.me   | https://wiki.grid.tf/wiki/grid#/ |  
+| Token                   | token.threefold.io  | token.threefold.me  |https://wiki.grid.tf/wiki/tokens#/ | 
 | Impact                  | impact.threefold.io | impact.threefold.me |                   |   
 | Tech                    | tech.threefold.io   | tech.threefold.me   | tech.threefold.wiki |   
 | Radar                   | radar.threefold.io  | radar.threefold.me  |                   |   
@@ -16,10 +16,6 @@
 
 
 TODO: Change all current DNS'es.
-
-## ThreeFold Whitepapers
-
-- http://whitepaper.threefold.me
 
 ## ThreeFold Presentations
 
@@ -32,7 +28,6 @@ TODO: Change all current DNS'es.
 
 **All slide decks should be reachable with and without www. in front of it.**
 
-TODO:*1 need to also put on .io
 
 ## Tech domain names
 
@@ -40,7 +35,4 @@ all under ```*.grid.tf```
 
 TODO:*1 need to specify
 
-## Legacy names
-
-- redirect to new names as shown above, DO NOT HOST DIRECTLY on these names, just put redirects on DNS server level
 
