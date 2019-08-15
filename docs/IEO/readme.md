@@ -1,13 +1,6 @@
-# IEO
+# IEO Home
 
-- [project management](https://github.com/orgs/threefoldfoundation/projects/3) per week
-- components
-    - [wiki grid] ... 
-
-
-IEO Home
-
-General info
+## General info
 
 ThreeFold will be hosting an IEO driven by supporting founding farms who have pooled TFT resources lead by Mazraa to help fund the marketing and development of ThreeFold Network
 
@@ -15,26 +8,26 @@ IEOs (Initial Exchange Offerings) are regulated ways how to sell digital currenc
 
 We are looking to sell $15-30m in the IEO as organized by Mazraa
 
-IEO Plan 
+## IEO Plan 
 
 ThreeFold will be hosting 3 rounds of IEO in 2019 in order to try and achieve a min of 15m USD.
 The IEO platforms selected for our  
 
-Mindmap
+## Mindmap
 https://atlas.mindmup.com/incubaid.com/tf_ieo/index.html
 
-IEO Applications
+## IEO Applications
 https://docs.google.com/spreadsheets/d/1oFEqOGkmKpsLoQS37qYklrtCmXcw9_ca8HnfOVw1
 zk8/edit?hl=en#gid=0
 
-Github Project Management 
+## Github Project Management 
 https://github.com/orgs/threefoldfoundation/projects/3
 
-Google Drive
+## Google Drive
 https://drive.google.com/open?id=1mMnsrq4qdKYxnzyy4s9ji087WYO3gnGc
 
 
-Team
+## Team
 Adnan
 Nikolay 
 Michael (External)
@@ -48,7 +41,7 @@ Michael (External)
 
 [IEO Contracts Link](https://docs.google.com/spreadsheets/d/1oFEqOGkmKpsLoQS37qYklrtCmXcw9_ca8HnfOVw1zk8/edit?hl=en#gid=0)
 
-IEO Final Exchange List
+## IEO Final Exchange List
 Round 1
 Timeline 25th September 2019
 COINSBIT
@@ -71,13 +64,18 @@ ThreeFold IEO Exchange Writeup Link
 [IEO Financial Budget Link](https://docs.google.com/spreadsheets/d/1Tz-oEb1Y1Ve1Mcu6mUrhbt5QDU7GuJTq5aJFewpCPPI/edit#gid=0)
 
 
-TF Token Tokennomics
+## TF Token Tokennomics
 Migration link - List of initial TFT Investors
 Minted tokens by farmers
 Tokens sold by Mazraa
 TFToken Formula
 Total Number of Liquid Tokens 
 Total Max Limit 100Billion Tokens
+
+## Project Links
+- [project management](https://github.com/orgs/threefoldfoundation/projects/3) per week
+- components
+    - [wiki grid] ... 
 
 
 
