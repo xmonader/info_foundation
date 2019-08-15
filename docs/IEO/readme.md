@@ -2,16 +2,17 @@
 
 ## General info
 
-ThreeFold will be hosting an IEO driven by supporting founding farms who have pooled TFT resources lead by Mazraa to help fund the marketing and development of ThreeFold Network
 
-IEOs (Initial Exchange Offerings) are regulated ways how to sell digital currencies (tokens). We will be clear in our messaging with each IEO platform that this is not an initial coin offering but a sale of our existing IT capacity tokens that exist due to active internet capacity in the field.
+ThreeFold will be hosting an IEO driven by supporting ThreeFold cooperative farms who have pooled TFT resources lead by Mazraa Cooperative to help fund the marketing and development of ThreeFold Network
+
+IEOs (Initial Exchange Offerings) are exchange managed crowdfunding platfroms to sell digital currencies (tokens). We will be clear in our messaging with each IEO platform that this is not an initial coin offering but a sale of our existing IT capacity tokens that exist due to active internet capacity in the field.
 
 We are looking to sell $15-30m in the IEO as organized by Mazraa
 
 ## IEO Plan 
 
 ThreeFold will be hosting 3 rounds of IEO in 2019 in order to try and achieve a min of 15m USD.
-The IEO platforms selected for our  
+The IEO platforms selected will be disclosed upon signing agreements, this includes dated of IEO round release. 
 
 ## Mindmap
 https://atlas.mindmup.com/incubaid.com/tf_ieo/index.html
@@ -44,7 +45,7 @@ Michael (External)
 ## IEO Final Exchange List
 - Round 1
 - Timeline 25th September 2019
-- COINSBIT
+- 
 - LATOKEN
 - Round 2
 - Timeline
@@ -52,12 +53,11 @@ Michael (External)
 - Timeline
 
 [IEO Ecosystem Participation List  Link](https://docs.google.com/spreadsheets/u/2/d/1fpIQeI_UZ5y09I0JW89zNc_PT6-Lgpnd8b8_7tpNbGA/edit?usp=drive_web&ouid=106795720847968279147)
-- Whitelist 1 Link
-- Whitelist 2 Link
+- Whitelist (Community) 
 
 - IEO Use of Funds Link (Where will the money be spent?) Link 
 
-[ThreeFold General Presentation Link](https://docs.google.com/presentation/d/1MfcZv2UAyLZs0xYeK1tznQfbJeZfm1ebXIdC9bYSqZo/edit#slide=id.g5f5c6b6b6a_0_5)
+[ThreeFold General Presentation Link] (https://docs.google.com/presentation/d/1MfcZv2UAyLZs0xYeK1tznQfbJeZfm1ebXIdC9bYSqZo/edit#slide=id.g5f5c6b6b6a_0_5) (draft)
 
 ThreeFold IEO Exchange Writeup Link
 
