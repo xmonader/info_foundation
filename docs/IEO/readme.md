@@ -45,8 +45,6 @@ Michael (External)
 ## IEO Final Exchange List
 - Round 1
 - Timeline 25th September 2019
-- 
-- LATOKEN
 - Round 2
 - Timeline
 - Round 3
@@ -61,7 +59,7 @@ Michael (External)
 
 ThreeFold IEO Exchange Writeup Link
 
-[IEO Financial Budget Link](https://docs.google.com/spreadsheets/d/1Tz-oEb1Y1Ve1Mcu6mUrhbt5QDU7GuJTq5aJFewpCPPI/edit#gid=0)
+[IEO Summary Budget Link](https://docs.google.com/spreadsheets/d/1Tz-oEb1Y1Ve1Mcu6mUrhbt5QDU7GuJTq5aJFewpCPPI/edit#gid=0)
 
 
 ## TF Token Tokennomics
@@ -71,13 +69,12 @@ Tokens sold by Mazraa:
 TFToken Formula:
 Total Number of Liquid Tokens:
 Total Max Limit 100Billion Tokens:
-
-https://wiki.tokens.grid.tf/#/
+TFT Info https://wiki.tokens.grid.tf/#/
 
 ## Project Links
-- [project management](https://github.com/orgs/threefoldfoundation/projects/3) per week
+- [project management](https://github.com/orgs/threefoldfoundation/projects/3) per week.
 - components
-    - [wiki grid] ... 
+    - [wiki grid]
 
 
 
