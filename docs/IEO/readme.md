@@ -16,12 +16,9 @@ IEOs (Initial Exchange Offerings) are regulated ways how to sell digital currenc
 We are looking to sell $15-30m in the IEO as organized by Mazraa
 
 IEO Plan 
-. 
+
 ThreeFold will be hosting 3 rounds of IEO in 2019 in order to try and achieve a min of 15m USD.
 The IEO platforms selected for our  
-Coinsbit  Round		   September 25th
-LaToken Round		   October 25th
-BigExchange Round		   November 25th
 
 Mindmap
 https://atlas.mindmup.com/incubaid.com/tf_ieo/index.html
