@@ -42,20 +42,20 @@ Michael (External)
 [IEO Contracts Link](https://docs.google.com/spreadsheets/d/1oFEqOGkmKpsLoQS37qYklrtCmXcw9_ca8HnfOVw1zk8/edit?hl=en#gid=0)
 
 ## IEO Final Exchange List
-Round 1
-Timeline 25th September 2019
-COINSBIT
-LATOKEN
-Round 2
-Timeline
-Round 3
-Timeline
+- Round 1
+- Timeline 25th September 2019
+- COINSBIT
+- LATOKEN
+- Round 2
+- Timeline
+- Round 3
+- Timeline
 
 [IEO Ecosystem Participation List  Link](https://docs.google.com/spreadsheets/u/2/d/1fpIQeI_UZ5y09I0JW89zNc_PT6-Lgpnd8b8_7tpNbGA/edit?usp=drive_web&ouid=106795720847968279147)
-Whitelist 1 Link
-Whitelist 2 Link
+- Whitelist 1 Link
+- Whitelist 2 Link
 
-IEO Use of Funds Link (Where will the money be spent?) Link 
+- IEO Use of Funds Link (Where will the money be spent?) Link 
 
 [ThreeFold General Presentation Link](https://docs.google.com/presentation/d/1MfcZv2UAyLZs0xYeK1tznQfbJeZfm1ebXIdC9bYSqZo/edit#slide=id.g5f5c6b6b6a_0_5)
 
