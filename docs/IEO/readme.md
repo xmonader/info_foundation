@@ -66,11 +66,13 @@ ThreeFold IEO Exchange Writeup Link
 
 ## TF Token Tokennomics
 Migration link - List of initial TFT Investors
-Minted tokens by farmers
-Tokens sold by Mazraa
-TFToken Formula
-Total Number of Liquid Tokens 
-Total Max Limit 100Billion Tokens
+Minted tokens by farmers:
+Tokens sold by Mazraa:
+TFToken Formula:
+Total Number of Liquid Tokens:
+Total Max Limit 100Billion Tokens:
+
+https://wiki.tokens.grid.tf/#/
 
 ## Project Links
 - [project management](https://github.com/orgs/threefoldfoundation/projects/3) per week
