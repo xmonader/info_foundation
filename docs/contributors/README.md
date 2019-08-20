@@ -4,10 +4,6 @@
 
 Legally spoken ThreeFold Foundation is a trust in Mauritius, and has no people on payroll.
 
-Today ThreeFold Foundation has no direct funding, funding comes indirectly via:
-- **ThreeFold Tech**, a company in Lochristi (Belgium)
-- **Mazraa**, a company in Dubai (UAE)
+An independent community of companies and people help the ThreeFold case
 
-Both ThreeFold Tech and Mazraa have their funding from early farming on the ThreeFold Grid, and from earlier succesful exits.
-
-All people working for the foundation are paid and legally supported by one of the two organizations.
+**[Please read our ecosystem document to find more information](https://docs.google.com/document/d/1TiuVr9xhoAiAqZD0GTMvxphS8oY2CkjM3V2iWIS-p1M/edit)**
