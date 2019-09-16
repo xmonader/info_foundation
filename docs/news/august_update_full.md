@@ -59,20 +59,16 @@ With the risk of being perceived defensive (which is not the case), I believe it
     *   Do not expect a centralized system to arrange it all.
     *   The TF Foundation eventually will have 60 guardians protecting our interest, not 1 single person will be able to do this. Today it's a group of only 5 people who do this.
 
-
 ### Roadmap 
 
 <<insert-roadmap-image>>
-![alt_text](images/MD-source0.png "image_tooltip")
-
+![roadmap](news/images/roadmap.png "image_roadmap")
 
 This is the roadmap on our website. The TFT and early version of the TF Grid got launched March 2018. 
 
 Please note that we are delivering much more than what we originally promised in March 2018. 
 
 New compared to March 2018
-
-
 
 *   2 new technology layers (see info below, tech whitepaper)
     *   Autonomous Layer
@@ -87,17 +83,12 @@ New compared to March 2018
 
 We try to manage expectations, please read our previous updates as they have a lot of very useful information and show we are executing what we have been promising
 
-
-
 *   [http://update_june2019_intro.threefold.me](http://update_june2019_intro.threefold.me)
 *   [http://april_update.threefold.me](http://april_update.threefold.me)
-
 
 #### In a nutshell, what has been delivered in less than 15 months 
 
 Counting since the launch of the TFT/TF Grid in March 2018:
-
-
 
 *   The most rock solid decentralized technology in the world  \
 (no hype, all functioning components, see info below)
@@ -112,8 +103,6 @@ Counting since the launch of the TFT/TF Grid in March 2018:
 
 In other words what are we working on and delivering which was not part of the original roadmap.
 
-
-
 *   GoldToken which will use our TF Grid and underlying technology (3bot)
 *   TF Grid Cockpit a new way how to deal with the grid
 *   Many more projects in our ecosystem will eventually drive up the utilization of our TF Grid.
@@ -124,7 +113,6 @@ In other words what are we working on and delivering which was not part of the o
 **Any timing risks?**
 
 We said Q4 for v2.1 live net deployment, this is now planned Jan 1 2020. We want to gather a lot of feedback on the deployment we do in Sept of our 2.0 release and make sure we are ready from operational and security perspective.
-
 
 ### We are not a rebellious organization and we like to collaborate 
 
@@ -173,21 +161,15 @@ Next to these comparables, the tokens get generated in a way that it's undervalu
 
 I hope above shows why we believe the TFT value has the potential to increase substantially in value not based on hype but based on a real business model for a needed market demand with real proven technology.
 
-
 ### Our technology is unique and real 
 
 ThreeFold has created the only technology available which can deliver on the vision of a true decentralized autonomous internet where everyone can host all their applications and their data at prices which are way lower compared to any technology available today.
 
-
-<<insert-decentralisation-is-happening>>
-
-![alt_text](images/MD-source1.png "image_tooltip")
-
+![decentralisation_is_happening](/news/images/decentralization_is_h.png "image_decentralisation_is_happening")
 
 **ThreeFold technology delivers Autonomous IT usable for any IT application anywhere in the world.**
 
-<<insert-tf-in-the-middle>>
-![alt_text](images/MD-source2.png "image_tooltip")
+![TF in the middle](images/TF-in-the-middle.png "image_TF-in-the-middle")
 
 ### Announcements
 
