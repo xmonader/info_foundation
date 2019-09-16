@@ -61,7 +61,6 @@ With the risk of being perceived defensive (which is not the case), I believe it
 
 ### Roadmap 
 
-<<insert-roadmap-image>>
 ![roadmap](images/roadmap.png "image_roadmap")
 
 This is the roadmap on our website. The TFT and early version of the TF Grid got launched March 2018. 
