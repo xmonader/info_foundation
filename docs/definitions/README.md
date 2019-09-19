@@ -35,15 +35,6 @@
 - [Managed Capacity](/definitions/threefold_managed_capacity.md)
 
 
-<a id='legal'></a>
-
-## Legal
-
-- [The Company](/../legal/sub/the_company.md)
-- [The Product](/../legal/sub/the_product.md)
-- [The Purchaser](/../legal/sub/the_purchaser.md)
-
-
 <a id='varia'></a>
 
 ## Varia
