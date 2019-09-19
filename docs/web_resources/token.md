@@ -23,9 +23,8 @@ https://github.com/threefoldfoundation/www_threefold.io/issues
 Or contribute directly in the develop branch:
 https://github.com/threefoldfoundation/www_threefold.io
 
-# ThreeFold Token Tools
 
-## ThreeFold Capacity Directory
+# ThreeFold Capacity Directory
 Visit:
 [capacity.threefold.io](http://capacity.threefold.io)
 
@@ -53,19 +52,3 @@ Visit:
 [explorer.threefoldtoken.com](https://explorer.threefoldtoken.com)
 
 Home of the ThreeFold Blockchain Explorer which allows user to track transactions on the ThreeFold blockchain.
-
-## ThreeFold Mobile Application
-Android: https://play.google.com/store/apps/details?id=com.mobicage.rogerthat.em.be.threefold.token
-Iphone: https://itunes.apple.com/us/app/threefold/id1276543091?mt=8
-
-ThreeFold Mobile Application is a digital  wallet & keeps you up to date and in touch with the ThreeFold Community.
-
-## Exchanges
-
-### BTC-Alpha Exchange
-First exchange listed ThreeFold Token. Available to trade in pair with BTC and USD.
-https://btc-alpha.com/en/exchange/TFT_BTC/
-
-### Bitmeex.pro Exchange
-ThreeFold Token available to buy with wire transfer in UAE
-https://bitmeex.pro/
