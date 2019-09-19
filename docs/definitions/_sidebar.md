@@ -2,7 +2,7 @@
 * [Definitions](/definitions/README.md)
     * [BetterToken](definitions/bettertoken.md)
     * [Farmer ID](definitions/farmer_id.md)
-    * [IC - Internet Capacity](definitions/ic_Internet_capacity.md)
+    * [IC - Internet Capacity](definitions/ic-internet-capacity.md)
     * [Mazraa](definitions/mazraa.md)
     * [ThreeFold Capacity](definitions/threefold_capacity.md)
     * [ThreeFold Chain](definitions/threefold_chain.md)
