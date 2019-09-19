@@ -1,6 +1,5 @@
 * [Home](/)
 * [Projects](/projects/README.md)
-    * Partnerships and projects
            * [3bot](/projects/3bot.md)
            * [ATW Green](/projects/atwgreen.md)
            * [Bancadati](/projects/bancadati.md)
