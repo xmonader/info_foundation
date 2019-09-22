@@ -1,80 +1,55 @@
-# IEO Home
+# TDE Home
 
 ## General info
 
 
-ThreeFold will be hosting an IEO driven by supporting ThreeFold cooperative farms who have pooled TFT resources lead by Mazraa Cooperative to help fund the marketing and development of ThreeFold Network
+Mazraa,  the first ThreeFold cooperative based in Dubai will organize a TDE (Token Distribution Event).  A  TDE is the mechanism to promote and distribute existing tokens by means of one or more public digital currency trading platforms with the goal to kickstart TFT liquidity.
 
-IEOs (Initial Exchange Offerings) are exchange managed crowdfunding platfroms to sell digital currencies (tokens). We will be clear in our messaging with each IEO platform that this is not an initial coin offering but a sale of our existing IT capacity tokens that exist due to active internet capacity in the field.
 
-We are looking to sell $15-30m in the IEO as organized by Mazraa
+## TDE Plan 
 
-## IEO Plan 
+Everyone can participate in this TDE. To successfully execute a TDE, between USD 400K and up USD 1M is required. The participants of the TDE will have the opportunity to join the initial benefits of the TDE.  The more funds collected, the more extensive the TDE outreach will be. Already USD300.000 has been achieved (Aug 15th 2019).
 
-ThreeFold will be hosting 3 rounds of IEO in 2019 in order to try and achieve a min of 15m USD.
-The IEO platforms selected will be disclosed upon signing agreements, this includes dated of IEO round release. 
+Everyone can participate in this TDE. To successfully execute a TDE, between USD 400K and up USD 1M is required. The investors of the TDE will have the opportunity to join the initial benefits of the TDE.  The more funds collected, the more extensive the TDE  outreach will be. Already USD300.000 investment has been found (Aug 15th 2019).
 
-## Mindmap
-https://atlas.mindmup.com/incubaid.com/tf_ieo/index.html
+Any existing TF Token holder can sell their tokens during the TDE, of course. After the TDE period of 2 months, the tokens will be liquid on at least 3 chosen public exchanges.
 
-## IEO Applications
-https://docs.google.com/spreadsheets/d/1oFEqOGkmKpsLoQS37qYklrtCmXcw9_ca8HnfOVw1
-zk8/edit?hl=en#gid=0
+Amongst others, Mazraa as the first ThreeFold cooperative will be selling TFTs from the genesis pool. A genesis pool is the first created farming pool for the ThreeFold Grid and has been used to develop and demonstrate the technology. 
 
-## Github Project Management 
-https://github.com/orgs/threefoldfoundation/projects/3
+Further mentioned terms are under review and can change.
 
-## Google Drive
-https://drive.google.com/open?id=1mMnsrq4qdKYxnzyy4s9ji087WYO3gnGc
+The basic terms of the TDE are the following:
+The maximum amount of tokens that can be resold during this TDE is no more than 200M TFT.
+Tokens will be sold at predefined prices for a 2 month period.
+The launching price will be USD 0.12
+
+Our aim is to start the TDE end of October 2019 and it will last for 2 months.
+
+
+## TDE Guide
+
+Stay up to date with the latest developments of the TDE by viewing the following document:
+https://docs.google.com/document/d/1lqG2WDUfo1bOHa58lSrSuBvU47QvddLEhUhoB6Xy4mA/edit#
+
+## TDE Community Space
+
+Stay up to date with the latest developments of the TDE by viewing the following document:
+https://freeflowpages.com/s/tf-tde/
 
 
 ## Team
-Adnan
-Nikolay 
-Michael (External)
 
+Adnan		Mazraa TDE Coordinator & Tokens
+Sam		    Marketing Coordination Exchange Platforms
+Nikolay 	TDE Applications, Exchange Support 
+Gloria 		TDE Community Support
+Andreas 	Grid = Farmer Community, TFT Pool
+Michael 	TDE Applications, Exchange Support
+Weynand     Technical Content.
+Zia	 	    TDE Design and Artwork
 
-[IEO Mindmap Link](https://app.mindmup.com/map/_v2/401114d0b45211e9b3482ba0b2e6711c)
+## Community Participation
 
-[IEO Community Presentation Link](https://docs.google.com/presentation/d/1iLNIci6zzoczZ4EidLqFjuGHhzCO9C-z8sGx0wcS9QI/edit#slide=id.p)
-
-[IEO Applications Link](https://docs.google.com/spreadsheets/d/1oFEqOGkmKpsLoQS37qYklrtCmXcw9_ca8HnfOVw1zk8/edit?hl=en#gid=0)
-
-[IEO Contracts Link](https://docs.google.com/spreadsheets/d/1oFEqOGkmKpsLoQS37qYklrtCmXcw9_ca8HnfOVw1zk8/edit?hl=en#gid=0)
-
-## IEO Final Exchange List
-- Round 1
-- Timeline 25th September 2019
-- Round 2
-- Timeline
-- Round 3
-- Timeline
-
-[IEO Ecosystem Participation List  Link](https://docs.google.com/spreadsheets/u/2/d/1fpIQeI_UZ5y09I0JW89zNc_PT6-Lgpnd8b8_7tpNbGA/edit?usp=drive_web&ouid=106795720847968279147)
-- Whitelist (Community) 
-
-- IEO Use of Funds Link (Where will the money be spent?) Link 
-
-[ThreeFold General Presentation Link] (https://docs.google.com/presentation/d/1MfcZv2UAyLZs0xYeK1tznQfbJeZfm1ebXIdC9bYSqZo/edit#slide=id.g5f5c6b6b6a_0_5) (draft)
-
-ThreeFold IEO Exchange Writeup Link
-
-[IEO Summary Budget Link](https://docs.google.com/spreadsheets/d/1Tz-oEb1Y1Ve1Mcu6mUrhbt5QDU7GuJTq5aJFewpCPPI/edit#gid=0)
-
-
-## TF Token Tokennomics
-Migration link - List of initial TFT Investors
-Minted tokens by farmers:
-Tokens sold by Mazraa:
-TFToken Formula:
-Total Number of Liquid Tokens:
-Total Max Limit 100Billion Tokens:
-TFT Info https://wiki.tokens.grid.tf/#/
-
-## Project Links
-- [project management](https://github.com/orgs/threefoldfoundation/projects/3) per week.
-- components
-    - [wiki grid]
-
+If you are interested in participating in the upcoming TDE please send an email to: info@mazraa.io
 
 
