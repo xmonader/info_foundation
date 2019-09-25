@@ -12,3 +12,4 @@
     * [ThreeFold Organization](/circles/tf_organization/tf_organization.md)
     * [BetterToken](/circles/bettertoken/bettertoken.md)
     * [Mazraa](/circles/mazraa/mazraa.md)
+    * [ThreeFold Tech](/circles/threefold-tech/threefold-tech.md)

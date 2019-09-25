@@ -12,7 +12,6 @@
     * [ThreeFold Grid](definitions/threefold_grid.md)
     * [ThreeFold Node](definitions/threefold_node.md)
     * [ThreeFold Operating System](definitions/threefold_operating_system.md)
-    * [ThreeFold Tech](definitions/threefold_tech.md)
     * [ThreeFold Token](definitions/threefold_token.md)
     * [ThreeFold User](definitions/threefold_user.md)
     * [ThreeFold Wallet](definitions/threefold_wallet.md)
