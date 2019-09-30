@@ -12,7 +12,6 @@ Information flow and discipline is very important in such an organization.
 We are all contributors one way or the other but to make it easy we would like to make distinction between 5 different types of contributors:
 
 - ThreeFold sponsor = anyone who likes to help ThreeFold in adhoc manner 
-- ThreeFold guardian = they guard the values of our movement (technical or governance)
 - ThreeFold ambassador = anyone who wants to contribute at least a couple of hours per month for our joint cause and is not afraid to adopt our tools and way of working
 - ThreeFold founder = works as part of ThreeFold team at least 50% of time and is 100% in on our way of working and values.
 - ThreeFold coordinator = coordination role (owner of one or more circles) 
@@ -28,15 +27,13 @@ Some examples of what we are looking for:
 - EVENT CO-ORDINATION: help us organize an event for Token or Grid promotion.
 - FEEDBACK: technical feedback on the technology we have created or on any of the things we do.
 
-If you want to collaborate please get in touch through our [Foundation website](https://threefold.io/more_info/) or [email](info@threefoldtoken.com).
-
 ## ThreeFold Ambassador
 
 ThreeFold has hundreds of Ambassadors today, we are super grateful that so many people want to help our movement.
 
 Because of our decentralized nature it's super important that Ambassadors are willing to learn the basics of our tools which will make it easier to collaborate.
 
-The main tool are our circles, please look at our [circles](/collaboration/circles.md) and see where you would like to contribute. Each circle has an owner, please contact the owner (coordinator) and ask how you can help and what you need to be effective.
+Each circle has an owner, please contact the owner (coordinator) and ask how you can help and what you need to be effective.
 
 ### Practical Requirements
 
