@@ -16,7 +16,6 @@
   * [FreeFlow Token](/projects/freeflowtoken.md)
   * [GoldFlow](/projects/goldflow.md)
   * [Green Edge Cloud](/projects/greenedgecloud.md)
-  * [Harvested](/projects/harvestedio.md)
   * [Hewlett Packard Enterprise](/projects/HPE.md)
   * [Incubaid](/projects/incubaid.md)
   * [Jimber](/projects/jimber.md)
