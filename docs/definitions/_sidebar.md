@@ -1,5 +1,6 @@
 * [Home](/)
 * [Definitions](/definitions/README.md)
+    * [3Bot](definitions/3Bot.md)
     * [Farmer ID](definitions/farmer_id.md)
     * [IC - Internet Capacity](definitions/ic-internet-capacity.md)
     * [ThreeFold Capacity](definitions/threefold_capacity.md)

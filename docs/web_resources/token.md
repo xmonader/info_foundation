@@ -8,7 +8,7 @@ Or contribute directly in the develop branch:
 https://github.com/threefoldfoundation/info_tokens
 
 # ThreeFold Token Website
-Visit: [threefold.io/tokens](https://threefold.io/tokens/)
+Visit: [threefold.io/token.html](https://threefold.io/token.html/)
 
 Content:
 - Promotion of our tokens

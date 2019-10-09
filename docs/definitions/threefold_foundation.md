@@ -9,6 +9,6 @@ To support the ecosystem, a digital currency is used to trade compute and storag
 
 
 All the ideas and content created for this concept are opensource and stored in this repository.
-A group of volunteers and the ThreeFold Foundation maintain these repositories. Meet the team at https://threefold.io/team/
+A group of volunteers and the ThreeFold Foundation maintain these repositories. Meet the team [here]( https://threefold.io/team/).
 
 Also look at the ThreeFold [website](https://threefold.io/). We would love to hear your feedback!

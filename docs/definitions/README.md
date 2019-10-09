@@ -12,6 +12,7 @@
 
 ## General
 
+- [3Bot](/definitions/3Bot.md)
 - [ThreeFold Foundation](/definitions/threefold_foundation.md)
 - [ThreeFold Grid](/definitions/threefold_grid.md)
 - [IC - Internet Capacity](definitions/ic_Internet_capacity.md)
