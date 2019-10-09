@@ -22,7 +22,6 @@
   * [Kleos](/projects/kleos.md)
   * [Mazraa](/projects/mazraa.md)
   * [NBH-Digital](/projects/nbhdigital.md)
-  * [Open Chat](/projects/openchat.md)
   * [Open Meeting](/projects/openmeeting.md)
   * [OurCityApp](/projects/ourcityapp.md)
   * [Safe City](/projects/safecity.md)
