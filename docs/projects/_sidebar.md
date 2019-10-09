@@ -3,7 +3,7 @@
   * [3Bot](/projects/3bot.md)
   * [ATW Green](/projects/atwgreen.md)
   * [Bancadati](/projects/bancadati.md)
-  * [Bettertoken](/projects/bettertoken.md)
+  * [BetterToken](/projects/bettertoken.md)
   * [Codescalers](/projects/codescalers.md)
   * [Cultivo](/projects/cultivo.md)
   * [Digital Energy](/projects/digitalenergy.md)
