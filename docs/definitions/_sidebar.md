@@ -10,6 +10,7 @@
     * [ThreeFold Farming Pool](definitions/threefold_farming_pool.md)
     * [ThreeFold Foundation](definitions/threefold_foundation.md)
     * [ThreeFold Grid](definitions/threefold_grid.md)
+    * [ThreeFold Network](definitions/threefold_network.md)
     * [ThreeFold Node](definitions/threefold_node.md)
     * [ThreeFold Operating System](definitions/threefold_operating_system.md)
     * [ThreeFold Token](definitions/threefold_token.md)
