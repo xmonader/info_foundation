@@ -18,6 +18,7 @@
 - [ThreeFold Token](/definitions/threefold_token.md)
 - [ThreeFold Chain](/definitions/threefold_chain.md)
 - [ThreeFold Operating System](/definitions/threefold_operating_system.md)
+- [ThreeFold Network](definitions/threefold_network.md)
 - [ThreeFold Node](/definitions/threefold_node.md)
 - [ThreeFold User](/definitions/threefold_user.md)
 - [ThreeFold Cloud Units](/definitions/threefold_cloud_units.md)
