@@ -5,9 +5,9 @@
 
 ## Coordinators:
 
-   - [Adnan Fatayerji](Adnan_Fatayerji.md)
-   - [Georges Georgiou](Georges_Georgiou.md)
-   - [Weynard Kuijpers](Weynand_Kuijpers.md)
+   - Adnan Fatayerji
+   - Georges Georgiou
+   - Weynard Kuijpers
 
 
 ## Mission
@@ -32,9 +32,9 @@
   
 ## Contributors
 
-   - [Adnan Fatayerji](Adnan_Fatayerji.md)
-   - [Georges Georgiou](Georges_Georgiou.md)
-   - [Weynard Kuijpers](Weynand_Kuijpers.md)
+   - Adnan Fatayerji
+   - Georges Georgiou
+   - Weynard Kuijpers
 
 ## Websites
 
