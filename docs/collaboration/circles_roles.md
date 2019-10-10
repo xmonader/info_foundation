@@ -7,7 +7,6 @@
 
 Coordinates (helps) a team of people working on one or more stories and ensures that:
 * There is a circle home page with updated information
-* All members have their page on [contributor pages location](/contributors/README.md)
 * All members understand our Agile principles of working together
 * All members find their way into our community & our tools & information
 * All members are happy to contribute and are motivated/passionate

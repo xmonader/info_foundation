@@ -142,7 +142,6 @@ My personal estimate is that less than 1% of existing professionals have the ski
 The following information should feel interesting & valuable:
 
 - [Responsible Efika Owner](https://docs.grid.tf/dividi/efika/src/branch/master/efika_owner.md)
-- [Head of mission](head_of_mission_profile.md)
 
 How to become a TF Coordinator.
 
