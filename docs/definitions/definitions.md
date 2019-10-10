@@ -10,7 +10,7 @@
 # General
 [ThreeFold Foundation](../definitions/threefold_foundation.md)
 [ThreeFold Grid](../definitions/threefold_grid.md)
-[IT Capacity](../definitions/it_capacity.md)
+[IC Internet Capacity](../definitions/ic_internet_capacity.md)
 [ThreeFold Token](../definitions/threefold_token.md)
 [ThreeFold Chain](../definitions/threefold_chain.md)
 [ThreeFold Operating System](../definitions/threefold_operating_system.md)
@@ -47,4 +47,4 @@
 
 # Varia
 
-[GIG.tech](../definitions/threefold_tech.md)
+[ThreeFold Tech](../definitions/threefold_tech.md)
