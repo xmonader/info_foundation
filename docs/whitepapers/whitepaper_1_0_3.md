@@ -261,7 +261,7 @@ When selling capacity, Farmers will earn the following amount of Tokens in a giv
 
 **_T = Token price at time of capacity reservation_**
 
-![image alt text](img/valuechart.png.png)
+![image alt text](img/valuechart.png)
 
 This mechanism guarantees that Tokens are always backed by Internet capacity. 
 
