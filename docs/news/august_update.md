@@ -61,7 +61,7 @@ With the risk of being perceived defensive (which is not the case), I believe it
 
 ### Roadmap 
 
-![roadmap](images/roadmap.png "image_roadmap")
+![roadmap](images/roadmap.png)
 
 This is the roadmap on our website. The TFT and early version of the TF Grid got launched March 2018. 
 
@@ -164,11 +164,11 @@ I hope above shows why we believe the TFT value has the potential to increase su
 
 ThreeFold has created the only technology available which can deliver on the vision of a true decentralized autonomous internet where everyone can host all their applications and their data at prices which are way lower compared to any technology available today.
 
-![decentralisation_is_happening](images/decentralization_is_h.png "image_decentralisation_is_happening")
+![decentralisation_is_happening](images/decentralization_is_h.png)
 
 **ThreeFold technology delivers Autonomous IT usable for any IT application anywhere in the world.**
 
-![TF in the middle](images/TF-in-the-middle.png "image_TF-in-the-middle")
+![TF in the middle](images/TF-in-the-middle.png)
 
 ### Announcements
 

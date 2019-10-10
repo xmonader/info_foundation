@@ -35,7 +35,7 @@ A lot of content has been created but I believe especially the following documen
 We believe we are one of the winners, our valuation is low, our technology is real, our addressable market exists and is huge (>$1 trillion).  We decided to avoid the hype but rather keep our force for the next growth cycles.
 We are well positioned for the future.
 
-![alt_text](images/hype_cycle.png "image_tooltip")
+![alt_text](images/hype_cycle.png)
 
 ### IT as Energy
 
@@ -45,7 +45,7 @@ We are the ideal candidate for investment today. Our valuation is still low and 
 - Green IT (use less power)
 - The Internet is growing too fast, new novel solutions are needed and they need to be at the edge.
 
-![alt_text](images/tf_centre.png "image_tooltip")
+![alt_text](images/tf_centre.png)
 
 ## What did we achieve in Q1 2019
 
@@ -98,7 +98,7 @@ This investment opportunity is limited to 100 investors and we believe that our 
 More information in our round, see:  ** [http://investment_info.threefold.tech](http://investment_info.threefold.tech)**
 
 <<insert picture>>
-![alt_text](images/CLA_update.png "image_tooltip")
+![alt_text](images/CLA_update.png)
 
 
 It's important that we finish our investment round before the end of May (means CLA documents signed). We cannot go and do the next phase in our growth unless this has been completed. We are now halfway, if you know people who might be interested in this investment round, please contact Chris and he will happily assist (email: chris@threefold.tech or telegram: @Chutton).
@@ -162,7 +162,7 @@ Worth reading how certain exchanges are not ok at all: [https://decryptmedia.com
 Digital currencies are very important for the future and this is a trend which will only become much bigger but we want to do it the right way. No overhype, we want to act first, then talk. Of course keep on waiting will not help as well, but doing it the right time will be good for all of us.
 
 <<insert picture>>
-![alt_text](images/tf_centre.png "image_tooltip")
+![alt_text](images/tf_centre.png)
 
 See our [ecosystem document ](https://docs.google.com/document/d/1TiuVr9xhoAiAqZD0GTMvxphS8oY2CkjM3V2iWIS-p1M)where you can read about the many projects who will help in achieving our liquidity goals.
 
