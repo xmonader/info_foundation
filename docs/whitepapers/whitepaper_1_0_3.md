@@ -661,8 +661,7 @@ All these technologies are open-source and can be found on [github](https://gith
 
 # Who we are
 
-
-See [Our Teampage](../team/README.md) 
+See [Our Teampage](/team/README.md) 
 
 # Thank You
 
