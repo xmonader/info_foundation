@@ -1,3 +1,5 @@
+![freeflowpages logo](/img/freeflowpages-logo.jpg)
+
 # FreeFlowPages
 
 FreeFlowPages is a social network that runs on ThreeFolds decentralized capacity network. 

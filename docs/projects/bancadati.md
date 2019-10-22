@@ -1,3 +1,5 @@
+![bancadati logo](/img/bancadati-logo.jpg)
+
 # Bancadati
 
 Bancadati is a datacenter hosting a TF Farm in the Swiss Alps. 

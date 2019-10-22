@@ -1,3 +1,6 @@
+![nbhdigital logo](/img/nbhdigital-logo.jpg)
+
+
 # NBH Digital
 
 NBH is one of the largest gold traders and Forex exchange brokers based in Cyprus.

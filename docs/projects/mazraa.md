@@ -1,3 +1,6 @@
+![mazraa logo](/img/mazraa-logo.jpg)
+
+
 # Mazraa Cooperative
 
 An independent Farming Cooperative based in Dubai UAE.

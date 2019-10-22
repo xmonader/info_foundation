@@ -1,3 +1,6 @@
+![hpe logo](/img/hpe-logo.jpg)
+
+
 # Hewlett Packard Enterprise
 
 HPE and TF cooperate in a non-exclusive partnership, that supports common business goals and it’s based on promoting responsible technology that creates a meaningful IMPACT on humanity and our planet.

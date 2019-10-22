@@ -1,3 +1,6 @@
+![incubaid logo](/img/incubaid-logo.jpg)
+
+
 # Incubaid
 
 Incubator and IT Innovator

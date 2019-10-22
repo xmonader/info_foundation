@@ -1,3 +1,5 @@
+![3bot logo](/img/3bot-logo.jpg)
+
 # 3Bot
 
 3Bot, a virtual service assistant, is an intelligent digital avatar which assists you or an organization to run in a ThreeFold Container. 3Bot is your secure personal virtual systems administrator and data, communications, & transactions manager. Your online guardian and our virtual hero!
