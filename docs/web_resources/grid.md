@@ -13,7 +13,7 @@ https://github.com/threefoldfoundation/info_grid
 # ThreeFold Grid Website
 
 Visit: 
-[threefold.io/grid](https://threefold.io/grid/)
+[threefold.io/grid.html](https://threefold.io/grid.html/)
 
 Content:
 - Promotion of the ThreeFold grid

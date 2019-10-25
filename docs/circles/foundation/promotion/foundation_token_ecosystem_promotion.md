@@ -2,7 +2,7 @@
 
 ![promtion pic](foundation_marketing.jpeg)
 
-Coordinator: [Adnan Fatayerji](/contributors/mazraa/Adnan_Fatayerji)
+Coordinator: Adnan Fatayerji
 
 ## Motto
 "Open eyes and inspire. Share the solutions, share the love.”
@@ -60,11 +60,11 @@ Coordinator: [Adnan Fatayerji](/contributors/mazraa/Adnan_Fatayerji)
 - Maintain an agile strategy, according to evolving TF priorities.
 
 ## Contributors
-- [Roel van Sabben](/contributors/tftech/Roel_van_Sabben.md): Web Coordination
-- [Stela Suils Cuesta](/contributors/tftech/Stela_Suils_Cuesta.md): Events, Community communications, Influencers
-- [Sabrina Sadik](/contributors/tftech/sabrina_sadik.md): Social Media Coordination
+- Roel van Sabben: Web Coordination
+- Stela Suils Cuesta: Events, Community communications, Influencers
+- Sabrina Sadik: Social Media Coordination
   * (individual channels coordinated by various team members)
-- [Nikolay Babenko](/contributors/mazraa/Nickolay_Babenko.md): Blockchain & crypto content and dissemination coordination
+- Nikolay Babenko: Blockchain & crypto content and dissemination coordination
 
    
 

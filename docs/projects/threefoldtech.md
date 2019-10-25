@@ -1,3 +1,6 @@
+![threefoldtech logo](/img/threefoldtech-logo.jpg)
+
+
 # ThreeFold Tech
 
 A technology software company in Belgium.

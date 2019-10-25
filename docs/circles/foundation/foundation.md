@@ -3,7 +3,7 @@
 ![@https://images.unsplash.com/photo-1461770354136-8f58567b617a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bfbf7a2299bb40a5b2fee8c05e47bcb7&auto=format&fit=crop&w=2100&q=80](foundation.jpeg)
 
 
-Coordinator: [Kristof De Spiegeleer](/contributors/tftech/kristof_de_spiegeleer.md)
+Coordinator: Kristof De Spiegeleer
 
 ## Mission
 
@@ -12,14 +12,14 @@ Coordinate work between the circles.
 
 ## Subcircles
 
-- [Grid](grid/grid.md): [Andreas Hartl](/contributors/tftech/Andreas_Hartl.md)
-- [Promotion](promotion/foundation_token_ecosystem_promotion.md): [Adnan Fatayerji](/contributors/mazraa/Adnan_Fatayerji.md)
-- [Tokens](tokens/tokens.md): [Adnan Fatayerji](/contributors/mazraa/Adnan_Fatayerji.md)
-- [Ambassadors](ambassadors/ambassadors.md): [Owen Kemp](/contributors/tftech/owen_kemp.md)
-- [Finance & Legal](finance_legal/finance_legal.md): [Georges Georgiou](/contributors/mazraa/Georges_Georgiou.md)
-- [Innovate](innovate/innovate.md): [Kristof De Spiegeleer](/contributors/tftech/kristof_de_spiegeleer.md)
-- [Impact](impact/impact.md): [Chris Hutton](/contributors/tftech/Chris_Hutton.md)
-- [Love](love/love.md): [Olivia Jurado](/contributors/mazraa/Olivia_Jurado.md)
+- [Grid](grid/grid.md): Andreas Hartl
+- [Promotion](promotion/foundation_token_ecosystem_promotion.md): Adnan Fatayerji
+- [Tokens](tokens/tokens.md): Adnan Fatayerji
+- [Ambassadors](ambassadors/ambassadors.md): Owen Kemp
+- [Finance & Legal](finance_legal/finance_legal.md): Georges Georgiou
+- [Innovate](innovate/innovate.md): Kristof De Spiegeleer
+- [Impact](impact/impact.md): Chris Hutton
+- [Love](love/love.md): Olivia Jurado
 
 
 ## Goals

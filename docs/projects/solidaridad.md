@@ -1,3 +1,6 @@
+![solidaridad logo](/img/solidaridad-logo.jpg)
+
+
 # Solidaridad
 
 Solidaridad

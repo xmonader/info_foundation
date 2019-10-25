@@ -1,3 +1,5 @@
+![enertia logo](/img/enertia-logo.jpg)
+
 # Enertia
 
 Enertia is focused on developing an open source charging platform built on top of the ThreeFold platform. Enertia is part of the ATW.Green incubator.

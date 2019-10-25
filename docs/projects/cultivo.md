@@ -1,3 +1,5 @@
+![cultivo logo](/img/cultivo-logo.jpg)
+
 # Cultivo
 
 A digital alliance to protect our tropical rainforest and empower its inhabitants.

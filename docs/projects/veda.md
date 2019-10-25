@@ -1,3 +1,6 @@
+![veda logo](/img/veda-logo.jpg)
+
+
 # Veda Retreats
 
 Veda’s mission is to offer support and guidance to those who feel the calling to increase awareness. To help you find that place of inner peace and softness. Our world can be rigid, limiting, controlling, fearful and most of us are trying to find places to escape. But, what if you can find that harmonious and joyful place completely inside you? Veda organizes events on the Nile and in Ibiza open to all who want to participate.

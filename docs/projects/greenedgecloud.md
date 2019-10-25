@@ -1,3 +1,5 @@
+![greenedgecloud logo](/img/greenedgecloud-logo.jpg)
+
 # Green Edge Cloud
 
 A global ThreeFold Farm

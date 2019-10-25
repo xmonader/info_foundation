@@ -5,9 +5,8 @@
 
 ## Coordinators:
 
-   - [Adnan Fatayerji](Adnan_Fatayerji.md)
-   - [Weynard Kuijpers](Weynand_Kuijpers.md)
-   - [Georges Georgiou](Georges_Georgiou.md)
+   - Adnan Fatayerji
+   - Weynard Kuijpers
 
 
 ## Mission
@@ -37,13 +36,12 @@
    - Sri Lanka Capacity
    - United Arab Emirates Capacity
    - Bangladesh Capacity
-   - US Capacity 
-  
+   - US Capacity
+
 ## Contributors
 
-   - [Adnan Fatayerji](Adnan_Fatayerji.md)
-   - [Weynard Kuijpers](Weynand_Kuijpers.md)
-   - [Georges Georgiou](Georges_Georgiou.md)
+   - Adnan Fatayerji
+   - Weynard Kuijpers
 
 ## Websites
 
@@ -52,4 +50,3 @@
 ## FreeFlowPages
 
 - [FreeFlowPages Space](https://freeflowpages.com/s/mazraa/)
-

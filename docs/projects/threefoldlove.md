@@ -1,3 +1,6 @@
+![threefoldlove logo](/img/threefoldlove-logo.jpg)
+
+
 # ThreeFold Love
 
 A tokenized initiative promoting the TF Token Economy while supporting the growth of worthy causes and projects.

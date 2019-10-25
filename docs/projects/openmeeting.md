@@ -1,3 +1,6 @@
+![openlylive logo](/img/openlylive-logo.jpg)
+
+
 # OpenMeeting
 
 A hyper-secure and fast communication platform powered by ThreeFold's decentralized network. 

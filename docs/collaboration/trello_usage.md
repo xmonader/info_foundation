@@ -3,7 +3,7 @@
 ![@https://images.unsplash.com/photo-1494074734099-c4ec0c45687a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f18b2bf25abbaeddbe5ea1f9dae1ff85&auto=format&fit=crop&w=1950&q=80](trello_usage.jpeg)
 
 
-**Make sure every board is defined in** the [circles document](/collaboration/circles.md)
+**Make sure every board is defined in** the [circles document](/circles/readme.md)
 
 REMARK: if you don't agree with anything on this document then please create Issue in this repo so we can discuss.
 We highly appreciate you don't deviate from simple rules below.

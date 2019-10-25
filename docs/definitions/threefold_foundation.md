@@ -8,6 +8,6 @@ controlled by you.
 
 
 All the ideas and content created for this concept are opensource and stored in this repository.
-A group of volunteers and the ThreeFold Foundation maintain these repositories.
+A group of volunteers and the ThreeFold Foundation maintain these repositories. Meet the team [here]( https://threefold.io/team/).
 
 Also look at the ThreeFold [website](https://threefoldtoken.com/).

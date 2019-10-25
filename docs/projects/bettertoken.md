@@ -1,3 +1,5 @@
+![bettertoken logo](/img/bettertoken-logo.jpg)
+
 # BetterToken BVBA
 
 - Independent Farming Cooperative for the foundation.
