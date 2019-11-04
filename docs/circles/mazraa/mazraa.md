@@ -6,7 +6,6 @@
 ## Coordinators:
 
    - Adnan Fatayerji
-   - Georges Georgiou
    - Weynard Kuijpers
 
 
@@ -29,11 +28,19 @@
    - Providing internet capacity to ThreeFold Tech development team.
    - Sale of IT capacity in the form of TFTs.
 
-  
+- Sales Target (3 Months)
+   - June 2018 500 K USD
+   - July 2018 500 K USD
+   - Aug  2018 500 K USD
+- ThreeFold Grid (3 Months)
+   - Sri Lanka Capacity
+   - United Arab Emirates Capacity
+   - Bangladesh Capacity
+   - US Capacity
+
 ## Contributors
 
    - Adnan Fatayerji
-   - Georges Georgiou
    - Weynard Kuijpers
 
 ## Websites
@@ -43,4 +50,3 @@
 ## FreeFlowPages
 
 - [FreeFlowPages Space](https://freeflowpages.com/s/mazraa/)
-

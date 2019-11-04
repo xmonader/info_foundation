@@ -7,11 +7,10 @@
    Owen Kemp
 
 ### Ambassador Coordination Team:
-  
-  - Simin Gerards
+  - Jenne Magno
+  - Lucien Lecarme
   - Nisha Grimes
   - Olivia Jurado
-  - Lucien Lecarme
   - Gregor Sideris
   
 ## Purpose/Mission
@@ -124,6 +123,7 @@ We are specifically looking to:
 | Erwin Raets                | Europe        |
 | Maha Baligh                | Middle East   |
 | Richard Sutton             | Europe        |
+| Alexea Grech               | Euroasia      |
 | Alexea Grech               | Euroasia      |
 | Amel Murphy                | Europe        |
 | Baran Ozmen                | Euroasia      |
