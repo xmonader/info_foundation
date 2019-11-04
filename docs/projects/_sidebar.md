@@ -10,6 +10,7 @@
   * [Enertia](/projects/enertia.md)
   * [EuroFlow](/projects/euroflow.md)
   * [FairCoffee](/projects/faircoffee.md)
+  * [FlowGen](/projects/flowgen.md)
   * [Foundation](/projects/threefoldfoundation.md)
   * [FreeFlow Nation](/projects/freeflownation.md)
   * [FreeFlow Pages](/projects/freeflowpages.md)
