@@ -1,5 +1,9 @@
 # An escape from the Great Hack
 
+![escape](https://images.unsplash.com/18/run.JPG?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80 "escape")
+
+
+
 Have you seen ‘The Great Hack’ on Netflix? It’s a documentary about the Cambridge Analytica hacking scandal, where personal data of millions of peoples’ Facebook profiles were harvested without their consent and used for political advertising purposes. 
 
 While watching it, I couldn’t help but think how unfair it is that in today’s digital society, people are being treated like products, because there is no such thing as a ‘free’ platform without YOU being the product. What did reassure me, is that people are sick of having their data used this way. But what they might not know, is that the internet problem is bigger than ‘just’ data protection.
