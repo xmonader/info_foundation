@@ -13,3 +13,4 @@
     * [Technology for a New Internet](blog/tech-new-internet.md)
     * [The need for a new, green utility digital currency](blog/the-need-for-a-new-digital-currency.md)
     * [An escape from the Great Hack](blog/escape-the-great-hack.md)
+    * [You are unique](blog/you-are-unique.md)
