@@ -39,7 +39,7 @@ We are working on a [Token Ecosystem Projects for Utilization & Promotion](https
   - Harvested.io. A capacity aggregator that will provide bulk raw decentralized capacity - 2019
   - Kleos joint fund collaboration. Decentralized ThreeFold farming in masts is the last mile connectivity in emerging countries - 2019.  
   - HPE - Active
-  - Bancadati - Active
+  
 
 - Token Applications. One of the key factors of driving liquidity is application tools and use cases that drive adoption and further use cases. Here are some of the exciting application being launched on our Grid:
   - Launch of DEX Wallet “Be your own Bank”

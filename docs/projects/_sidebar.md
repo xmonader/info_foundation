@@ -2,7 +2,6 @@
 * [Projects](/projects/README.md)
   * [3Bot](/projects/3bot.md)
   * [ATW Green](/projects/atwgreen.md)
-  * [Bancadati](/projects/bancadati.md)
   * [BetterToken](/projects/bettertoken.md)
   * [Codescalers](/projects/codescalers.md)
   * [Cultivo](/projects/cultivo.md)

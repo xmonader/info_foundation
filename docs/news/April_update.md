@@ -50,8 +50,6 @@ We are the ideal candidate for investment today. Our valuation is still low and 
 ## What did we achieve in Q1 2019
 
 ### In January we mentioned the following priorities & goals:
-*   Bancadati Archive
-    *   Done
 *   Global TF Token Launch
     *   in preparation, lots progress made see later this document
 *   Capacity tracking of TF Grid & visualization
