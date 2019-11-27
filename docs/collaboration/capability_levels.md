@@ -1,4 +1,4 @@
-# Teal Organization Capability Levels
+# Circle Collaborator Awareness Levels
 
 ![](images/levels.png)
 
