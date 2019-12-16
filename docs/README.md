@@ -21,8 +21,10 @@ Whitepaper (PDF): https://docs.google.com/document/d/16C3EKKBaK4_DyWFUcvdLnvDyN5
 
 YouTube channel: https://youtube.com/c/ThreeFoldFoundation
 
-Facebook: https://facebook.com/ThreeFoldCommunity
+Facebook: https://facebook.com/ThreeFoldNetwork
 
 LinkedIn: https://linkedin.com/company/threefold-foundation/
 
-If you have any further questions feel free to ask them in our [Telegram Group](https://t.me/threefoldtoken_chat)
+Twitter: https://twitter.com/threefoldntwrk
+
+If you have any further questions feel free to ask them in our [Telegram Group](https://t.me/threefoldnetwork)
