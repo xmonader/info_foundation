@@ -1,4 +1,9 @@
-# An escape from the Great Hack
+# An escape from the Great Hack 
+
+![](img/escape.jpg)
+
+
+
 
 Have you seen ‘The Great Hack’ on Netflix? It’s a documentary about the Cambridge Analytica hacking scandal, where personal data of millions of peoples’ Facebook profiles were harvested without their consent and used for political advertising purposes. 
 

@@ -29,8 +29,8 @@ Over the last several years, ThreeFold has been developing decentralized datacen
 
 ### How to become a ThreeFold Farmer
 
-The process of becoming a TF Farmer is very straightforward. Anyone can join the TF Grid by downloading the ThreeFold Zero-OS operating system onto nodes and connecting them to the ThreeFold network. By doing so you will be an operator of a "micro datacenter" and earn TF Tokens. Anyone can become a TF Farmer, no matter the level of experience. Which means you can become an ‘Airbnb’ TF Farmer of the new, neutral internet which belongs to us all of us.
+The process of becoming a TF Farmer is very straightforward. Anyone can join the TF Grid by downloading the ThreeFold Zero-OS operating system onto nodes and connecting them to the ThreeFold network. By doing so you will be an operator of a "micro datacenter" and earn TF Tokens. Anyone can become a TF Farmer, no matter the level of experience. Which means you can become an ‘AirBnB’ TF Farmer of the new, neutral internet which belongs to us all of us.
 
-Internet Capacity produced by a Zero-Node is automatically registered on the TF Directory. The TF Directory is a public directory of global purchasers of Internet Capacity. There is no need to build a marketing plan/department or to promote your available capacity.
+Internet Capacity produced by a node is registered on the TF Directory. The TF Directory is a public directory of global purchasers of Internet Capacity. There is no need to build a marketing plan/department or to promote your available capacity.
 
-Pricing is set by the TF Directory's algorithm based on numerous factors including real-time local supply and demand, competition, network connection, hardware type and the environment. TF Farmer are also allowed to set their own pricing.
+Pricing is set by the TF Directory's algorithm based on numerous factors including real-time local supply and demand, competition, network connection, hardware type and the environment. TF Farmers are also allowed to set their own pricing.

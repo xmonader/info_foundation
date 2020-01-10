@@ -11,7 +11,7 @@ Writing user stories may seem to be simple, but it requires attention. Common mi
 
 Stories are pieces of work (not simple tasks) which are aggregated in a story = its like a card you would stick on a whiteboard.
 
-Stories are the cards as used in story_boards in trello: see [trello_usage](/collaboration/trello_usage.md)
+Stories are the cards as used in our circles tool (circles.threefold.me)
 
 ## Properties of a "good story"
 
@@ -28,13 +28,13 @@ Stories are the cards as used in story_boards in trello: see [trello_usage](/col
 - Optional: define a priority = a label
     - Critical (Red)
     - Urgent (Orange)
-    - Normal (is no label)
+    - Normal
     - Minor (Green)
 
-- It has a milestone: the swimlane in the story board (is the vertical column) 
+- When on github: the issue has a milestone: the swimlane in the story board (is the vertical column) 
         - e.g. this_week, future, this_month
 
-- tasks from a story are a checklist in the story
+- stories dont have tasks but they can have a checklist (what do we expect to be achieved)
 
 - Format:
 	- Title: ```Story title``` [```time left e.g.4d```] e.g. Onboard the first 100 guardians [10d]
@@ -45,8 +45,7 @@ Stories are the cards as used in story_boards in trello: see [trello_usage](/col
 
 - Links For Non Product Related Story (URLs) to
     - Specifications (link to wiki, source = markdown document)
-    - Questions/Bugs/FR (links to issue on EE)
-    - Tickets (links to issue on EE or to trello cards in other non story board)
+    - Tickets (isses on funnel of a circle)
 - Links For Product Related Story (URLs)  to
     - Specifications (requirements, code examples, ...) (in code github repo as markdown document)
     - Features or bugs which are related to the story (in code github repo as markdown document)
@@ -84,5 +83,3 @@ Describe what story is about.
 - List all remarks
  
 ```
-
-![Example of a "good story"](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/collaboration/Example.png)
