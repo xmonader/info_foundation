@@ -1,6 +1,6 @@
 # Where best to concentrate initial efforts to promote the ThreeFold Grid?
 
-## Question
+## Question2
 
 With respect to emerging markets / developing countries, how does it makes sense for ThreeFold to be in the business of lobbying governments or private companies to install the infrastructure needed to make the ThreeFold Grid viable? This is an admirable aspiration but in terms of getting traction it seems best to focus initially on locations where the infrastructure works well.
 

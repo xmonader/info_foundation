@@ -6,7 +6,8 @@
 ### Circle Coordinator
 
 Coordinates (helps) a team of people working on one or more stories and ensures that:
-* There is a circle home page with updated information
+
+* There is a circle home page with updated information (wiki part of circles tool)
 * All members understand our Agile principles of working together
 * All members find their way into our community & our tools & information
 * All members are happy to contribute and are motivated/passionate
@@ -16,7 +17,7 @@ Circle Coordinators are often also story owners \(of X nr of stories\)
 
 A Circle Coordinator is not a controller! It's a person at service of his or her team. A Scrum Master = a coach/coordinator.
 
-A circle is a team on trello e.g. https://trello.com/tf_foundation/members
+Example of a circle: 
 
 ### Board Owner
 
