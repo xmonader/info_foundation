@@ -17,26 +17,7 @@ Circle Coordinators are often also story owners \(of X nr of stories\)
 
 A Circle Coordinator is not a controller! It's a person at service of his or her team. A Scrum Master = a coach/coordinator.
 
-Example of a circle: 
-
-### Board Owner
-
-Owner for a specific (Trello) board e.g. https://trello.com/b/LRPeXGUl/tffundroadmapweb
-
-A board owner does not own people, its a person who coordinates around a board.
-
-There are multiple types of boards see [trello_usage](trello_usage.md)
-
-There is only one board owner per repo
-
-Responsibilities:
-
-  * Make sure trello card follows the right structure
-  * Make sure all information in relation to the board is properly structured, easy to understand
-  * Verify / check all stories \(guarantees quality, priorities, communication around it, ...\)
-  * Work with stakeholders to make sure you get the features as required.
-  * Organize stakeholder meetings when necessary (to get feedback)
-  
+Example of a circle: [https://circles.threefold.me/project/sacha96-threefold-marketing/kanban](https://circles.threefold.me/project/sacha96-threefold-marketing/kanban)
 
 
 ### Story owner
@@ -49,27 +30,7 @@ Main responsibilities:
 * Done means done!
 * Communicate to stakeholders about the card
 * Define tasks that need to be delivered to close the story card = checklist in story
-
-### Product Owner
-
-Responsible for a product e.g. jumpscale
-
-Uses the home repo to define the structure in the account
-
-* Important to structure the accounts on Github well so they represent a product
-* There can be more than 1 owner per repo, but try to only have 1.
-* The home repo is important to organize the full account/organization.
-
-Responsibilities
-
-  * Define milestones = versions on the repo's, make sure they are consistent
-  * Make sure the repos in the account/organization are clean
-  * Make sure everyone using the repo's behave well
-    * proper defined bugs/fr
-    * proper branching
-  * Work with Project/Product Managers & other stakeholders to make sure the repo structure is ok.
-
-
+* Story card respects the timelines on the kanban
 
 ### Stakeholder
 

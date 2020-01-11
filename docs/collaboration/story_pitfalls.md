@@ -5,7 +5,7 @@
 
 ## Stories that are too big
 
-Stories should never be last longer than 1 month.
+Stories should never be last longer than 1-2 manweeks.
 It should be easy to see what needs to be accomplished and this requires short times. 
 
 When stories are too big, we will struggle to complete them within our sprint (in Trello, they will sit in the “in progress” column for a long time).
