@@ -9,14 +9,8 @@ All collaboration at ThreeFold is organized in circles
 
 - [Circles Roles](/collaboration/circles_roles.md)
 - [Stories](/collaboration/stories.md) the unit of work we reason with
-- [Trello Usage](/collaboration/trello_usage.md)
 
-### OUTDATED
-
-- [How to contribute](/collaboration/how_to_contribute.md): OUTDATED
-- [Circles Tools](/collaboration/circles_tools.md): OUTDATED
+see the links at menu left.
 
 
-Also see:
-- [Story Pitfalls](/collaboration/story_pitfalls.md)
-- [All other ThreeFold Web resources](/web_resources/foundation.md)
+

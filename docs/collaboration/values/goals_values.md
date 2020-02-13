@@ -1,8 +1,9 @@
 
-# Some Company Goals & Values
+# Some FreeFlow Goals & Values
 
 ![](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-0.3.5&s=74c19962d5b4d6c38ada87c81c069b50&auto=format&fit=crop&w=1350&q=80)
 
+see also https://www.freeflownation.org/manifesto.html
 
 ## fear versus love
 
@@ -17,7 +18,7 @@ This needs to be a well defined mission and needs to be easy understood by all.
 
 ### 100% transparency
 
-#### company
+#### company/organization
 
 100% transparant
 

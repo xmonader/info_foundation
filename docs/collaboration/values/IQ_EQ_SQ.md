@@ -73,14 +73,6 @@ Like other aspects of associative intelligence, emotions are not immediately ver
 Associative intelligence is able to deal with ambiguous situations, but it is also 'approximate'. It is more flexible but less accurate that serial thinking. The disadvantages of this type of thinking are that it is slowly learned, inaccurate and tends to be habit-bound or tradition bound. We can relearn a skill or an emotional response, but it takes time and much effort. And because associative thinking is tacit, we often have difficulty sharing it with others. We can't just write out a formula and tell someone else to get on with the job. All of us must learn a skill in our own way, for ourselves. No two brains have the same set of neural connections.
 
 
-### AQ (Adversity Quotient) as result of EQ.
-
-Adversity Quotient (AQ) is the understanding and measurement of human resilience and capacity to live, work and deal with unavoidable and undesirable circumstances.
-
-**This predicts who gives up and who fights back and wins.**
-
-Like stress, adversity, trauma or tragedy. It entails remaining stable and maintaining our cool, equanimous, stable, harmonious yet human composure. It means maintaining healthy level of physical and psychological functions even in the face of chaos.
-
 
 ## SQ (Spiritual Intelligence)
 

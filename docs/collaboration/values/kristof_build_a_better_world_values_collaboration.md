@@ -1,5 +1,7 @@
-# Build A Better World
+# Build A Better World Through Aware Collaboration (2017)
+
 ![](https://images.unsplash.com/photo-1473082538761-d4c7cd3f5e91?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2d087a804b7c1766a8afffd2b49b5118&auto=format&fit=crop&w=1512&q=80)
+
 # Intro
 
 I am sure many people will think "who is this guy" what gives him the right to write about values, allow me to explain my motivations.
@@ -281,14 +283,14 @@ You expect transparency from others, how can you want this if you don't do this 
 - if they become better in whatever they do you will be more successful/happy too.
 
 
-# how are we doing?
+# Personal Note. How are we doing? 2019
 
-The first version of this document has been written in Q2 2017.
-Since then quite some friends have read this document and the response was quite positive. Apart from my bad English of course (-:
+This document has been written early 2017. Since then quite some friends have read this document and the response was quite positive. 
+Update now in 2019:
 
 To like and agree with these values is the easy part, to live up to these values is super hard.
 
-Every day it's my own fight not to be scared and keep on pushing what I believe to be the right set of values. Every day again people push back, often it's my own fault because I was/am unable to properly explain why we are being so stubborn (-:
+Every day it's my own fight not to be scared and keep on pushing what I believe to be the right set of values. 
 
 The most heard argument is that other companies/people do it differently.
 
