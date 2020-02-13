@@ -1,5 +1,6 @@
-# Notes:
-## From the Book Reinventing Organizations by Frederic Laloux  
+# Notes: From the Book Reinventing Organizations by Frederic Laloux  
+
+![](https://images-na.ssl-images-amazon.com/images/I/81M5Nq7qplL.jpg)
 
 ## Different types of organizations:
 
