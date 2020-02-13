@@ -1,4 +1,4 @@
-# Circle Collaborator Awareness Levels
+# Circular Collaboration Level
 
 ![](images/levels.png)
 
