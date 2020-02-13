@@ -17,7 +17,7 @@
     * [Notes on Reinventing Organizations by Lalouc](/collaboration/organization_40_material/Notes on Reinventing Organizations by Lalouc.md)
     * [Capability On Leadership](/collaboration/organization_40_material/On Leadership.md)
     * [Open Cultures by Daniel Tenner](/collaboration/organization_40_material/Open Cultures by Daniel Tenner.md)
-    * [head of mission profile](/collaboration/organization_40_material/head_of_mission_profile.md)  : there are no bosses in org 4.0
+    * [head of mission profile](/collaboration/organization_40_material/head_of_mission_profile.md)
 * [Teal](/collaboration/values/Teal/readme.md)
     * [teal_organization_intro](/collaboration/organization_40_material/Teal/teal_organization_intro.md)
     * [teal_definitions](/collaboration/organization_40_material/Teal/teal_definitions.md)
