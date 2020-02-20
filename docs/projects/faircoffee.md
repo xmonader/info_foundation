@@ -1,3 +1,5 @@
+![faircoffee logo](/img/faircoffee-logo.jpg)
+
 # FairCoffee Token
 
 Project in a cooperation between ThreeFold and [Solidaridad](https://solidaridad.nl). 

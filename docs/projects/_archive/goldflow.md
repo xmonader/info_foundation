@@ -1,3 +1,5 @@
+![goldflow logo](/img/goldflow-logo.jpg)
+
 # GoldFlow Token
 
 GoldFlow Token (GTF) is a technology collaboration between ThreeFold Tech and NBH Digital EU. Together they will enable a liquid digital gold token; which will enable users to instantly buy and sell gold as well as purchase goods and services.

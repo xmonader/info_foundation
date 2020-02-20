@@ -1,3 +1,5 @@
+![threefold foundation logo](/img/threefoldfoundation-logo.jpg)
+
 # ThreeFold Foundation
 
 The purpose of the ThreeFold Foundation is to fund projects that benefit the growth of the ThreeFold Grid and to financially support “doing good” projects around the world.
