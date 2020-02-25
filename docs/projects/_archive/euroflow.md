@@ -1,3 +1,5 @@
+![euroflow logo](/img/euroflow-logo.jpg)
+
 # EuroFlow Token
 
 EuroFlow Token (EFT) is a project in collaboration with ThreeFold and NBH Digital EU.
