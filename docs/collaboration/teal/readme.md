@@ -5,7 +5,7 @@
 We believe Teal organizations are the future form of organizations.
 The embrace values and let people work together in much more efficient ways.
 
-- [intro for teal](teal_organization.md)
+- [intro for teal](teal_organization_intro.md)
 - [difference between current company structures & teal](teal_differences_with_companies.md)
 
 ### not teal but linked to it

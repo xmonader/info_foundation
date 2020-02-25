@@ -1,5 +1,5 @@
 
-# Story Pitfalls
+# Story Pitfalls WWWW
 
 ![@https://docs.grid.tf/dividi/efika/raw/branch/master/Efika_Agile/EfikaProcess/images/story.png](story_pitfalls.png)
 

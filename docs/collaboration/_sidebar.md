@@ -18,11 +18,11 @@
     * [Capability On Leadership](/collaboration/organization_40_material/On Leadership.md)
     * [Open Cultures by Daniel Tenner](/collaboration/organization_40_material/Open Cultures by Daniel Tenner.md)
     * [head of mission profile](/collaboration/organization_40_material/head_of_mission_profile.md)
-* [Teal](/collaboration/values/Teal/readme.md)
-    * [teal_organization_intro](/collaboration/organization_40_material/Teal/teal_organization_intro.md)
-    * [teal_definitions](/collaboration/organization_40_material/Teal/teal_definitions.md)
-    * [teal_differences_with_companies](/collaboration/organization_40_material/Teal/teal_differences_with_companies.md)
-    * [teal_org_culture_manifest](/collaboration/organization_40_material/Teal/teal_org_culture_manifest.md)
+* [Teal](/collaboration/teal/readme.md)
+    * [teal_organization_intro](/collaboration/teal/teal_organization_intro.md)
+    * [teal_definitions](/collaboration/teal/teal_definitions.md)
+    * [teal_differences_with_companies](/collaboration/teal/teal_differences_with_companies.md)
+    * [teal_org_culture_manifest](/collaboration/teal/teal_org_culture_manifest.md)
 
 
 
