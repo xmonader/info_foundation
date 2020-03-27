@@ -1,4 +1,4 @@
-# peer2peer awereness level
+# peer2peer awareness level
 
 ![](images/levels.png)
 
@@ -144,12 +144,7 @@ We have created [a test which can potentially help you to define your level](htt
 
 ## Personal Development
 
-We believe it's super important that people work on their own development, quite some information has been written about this already, we hope below gives you inspiration:
-
-- https://docs.grid.tf/dividi/values/src/branch/master/veda_values.md
-- https://docs.grid.tf/dividi/values/src/branch/master/goals_values.md
-- https://docs.grid.tf/dividi/values/src/branch/master/kristof_build_a_better_world_manifesto.md
-- https://docs.grid.tf/dividi/values/src/branch/master/the_art_of_being_loyal_to_your_values.md
+We believe it's super important that people work on their own development, quite some information has been written about this already, we hope this and other information in this wiki will give you the required inspiration.
 
 Of course, this is only the starting point, growing into your own path is a life mission.
 
