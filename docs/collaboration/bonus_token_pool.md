@@ -145,7 +145,7 @@ Is different per organization. Please ask the company you work for.
 * 4: exceptional, from experience & contribution level. Super strategic for the company.
 * 5: absolutely exceptional, almost no-one can be here.
 
-### Peer2Peer Collaboration Level = P2P Efficiency
+### Peer2Peer AwarenessLevel = P2P Efficiency
 
 It has to do with capabilities we achieve in line of working with a circle based organization.
 
