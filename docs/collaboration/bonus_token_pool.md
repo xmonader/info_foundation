@@ -1,6 +1,6 @@
 
 
-# ThreeFold Bonus Token System
+# Bonus Token Pool System
 
 ![](images/bonus.png)
 
@@ -12,7 +12,7 @@ This document describes an alternative way
 * Each contributor earns points per month based on
 
     * % of time working for the project 
-    * P2P collaboration efficiency ([see this doc for example](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/collaboration/p2p_awareness_level.md)): nr between 1-5
+    * [P2P collaboration efficiency](p2p_awareness_level.md): nr between 1-5
     * Experience level nr: nr between 1-5
     * Countryindex: where person lives (europe =1, egypt=0.3, ...)
 
@@ -84,7 +84,7 @@ means I start with ```100% * 4 * 4 * 3 *12 * 1 = 576 points```
 
 * Bonus is collected by a point system,
     * Points are given on a quarterly basis
-* We call each point a BonusToken = ThreeFold Bonus Token
+* We call each point a BonusToken
 * Goal is to keep it very simple yet as fair as possible
 
 ## Why
@@ -151,7 +151,7 @@ It has to do with capabilities we achieve in line of working with a circle based
 
 Levels can be found in:
 
-[Peer2Peer Awareness Level](https://github.com/threefoldfoundation/info_foundation/blob/development/docs/collaboration/p2p_awareness_level.md)
+[Peer2Peer Awareness Level](p2p_awareness_level.md)
 
 * Pup = 1
 * Wolf = 2
