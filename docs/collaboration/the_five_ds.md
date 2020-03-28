@@ -8,12 +8,11 @@ We believe that for every larger strategic or tactical topic in an organization 
 
 Lets use the following example:
 
-- a company defines which tools they will use to collaborate together.
+A company defines which tools they will use to collaborate together.
 
 ### Debate
 
 In the debate phase everyone can give their input, eventually consensus has been achieved and the document has been created.
-
 
 ### Document
 
@@ -22,7 +21,7 @@ Its important to have the document(s) version controlled.
 
 ### Discipline
 
-In the discipline statge,  everyone needs to follow the document(s) an do everything they can to make it work. If there are good suggestons to make changes this can be registered in a "change management" funnel but as long as there is no new agreed version of the document everything as described in the document is reality.
+In the discipline stage,  everyone needs to follow the document(s) an do everything they can to make it work. If there are good suggestons to make changes this can be registered in a "change management" funnel but as long as there is no new agreed version of the document everything as described in the document is reality.
 
 
 ### Drill
