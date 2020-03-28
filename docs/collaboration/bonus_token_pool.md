@@ -16,7 +16,7 @@ This document describes an alternative way
     * Experience level nr: nr between 1-5
     * Countryindex: where person lives (europe =1, egypt=0.3, ...)
 
-* Whenever this pgram starts founders start with a benefit
+* Whenever this program starts founders start with a benefit
     * Founders start with X nr of years/months benefit when starting
 
 * Each month a contributor get’s points as follows
